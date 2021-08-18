@@ -1,0 +1,1902 @@
+{
+  "product_name": "EdgeRover",
+  "company_name": "Western Digital",
+  "_category": {
+    "all": "Все совпадения",
+    "media": "Фотографии и видео",
+    "image,video": "Фотографии и видео",
+    "video": "Видеозаписи",
+    "image": "Фотографии",
+    "pdf": "Файлы PDF",
+    "writing": "Документы",
+    "presentation": "Презентации",
+    "book": "Книги",
+    "spreadsheet": "Электронные таблицы",
+    "audio": "Звук"
+  },
+  "_fileTypes": {
+    "folder": "Папка",
+    "generalFile": "Файл",
+    "font": "Шрифт",
+    "image": "Изображение",
+    "video": "Видео",
+    "audio": "Звук",
+    "archive": "Архив",
+    "web_picture": "Web Picture",
+    "advanced_systems_format_file": "Файл Advanced Systems Format",
+    "flash_video": "Видео Flash",
+    "mkv_video": "Видео Matroska",
+    "opus_audio": "Аудио Opus",
+    "ogv_video": "Видео Ogg",
+    "device_independent_bitmap": "Device Independent Bitmap",
+    "http_archive_file": "Файл HTTP Archive",
+    "hasselblad_3fr_raw_image": "Raw-изображение Hasselblad 3FR",
+    "gpp_movie": "Фильм 3GPP",
+    "sony_digital_camera_image": "Изображение цифровой камеры Sony",
+    "avi_movie": "Фильм AVI",
+    "casio_raw_image": "RAW-изображение Casio",
+    "canon_cr2_raw_image": "Raw-изображение Canon CR2 ",
+    "canon_cr3_raw_image": "Raw-изображение Canon CR3 ",
+    "canon_raw_ciff_image_file": "Файл Canon Raw CIFF",
+    "kodak_raw_image": "Raw-изображение Kodak",
+    "adobe_raw_image": "Raw-изображение Adobe",
+    "epson_raw_image": "Raw-изображение Epson ",
+    "hasselblad_raw_image": "Raw-изображение Hasselblad",
+    "heif_image": "Изображение HEIF",
+    "phase_one_raw_image": "Raw-изображение Phase One",
+    "jpeg_image": "Изображение JPEG",
+    "itunes_movie": "Фильм iTunes",
+    "leaf_raw_image": "Raw-изображение Leaf ",
+    "quicktime_movie": "Фильм QuickTime",
+    "mpeg_4_movie": "Фильм MPEG-4",
+    "mpeg_4_video": "Видео MPEG-4",
+    "mpeg_movie": "Фильм MPEG",
+    "mpeg_1_movie": "Фильм MPEG-1",
+    "mpeg_2_movie": "Фильм MPEG-2",
+    "webm_video": "Видео WebM",
+    "minolta_raw_image": "Raw-изображение Minolta",
+    "nikon_raw_image": "Raw-изображение Nikon",
+    "olympus_raw_image": "Raw-изображение Olympus",
+    "pentax_raw_image": "Raw-изображение Pentax",
+    "fuji_raw_image": "Raw-изображение Fuji",
+    "panasonic_raw_image": "Raw-изображение Panasonic",
+    "leica_raw_image": "Raw-изображение Leica",
+    "sony_raw_image": "Raw-изображение Sony",
+    "samsung_raw_image": "Raw-изображение Samsung",
+    "windows_media": "Windows Media",
+    "aac_audio": "Аудио AAC",
+    "aiff_c_audio": "Аудио AIFF-C",
+    "au_audio": "Аудио AU",
+    "flac_audio": "Аудио FLAC",
+    "f4v_video": "Видео FV4",
+    "midi_audio": "Аудио MIDI",
+    "mp2_audio": "Аудио MP2",
+    "mp3_audio": "Аудио MP3",
+    "mpeg_4_audio": "Аудио MPEG-4",
+    "ogg_audio": "Аудио Ogg",
+    "waveform_audio": "Аудио Waveform",
+    "windows_media_audio": "Аудио Windows Media",
+    "amazon_kindle_ebook": "Электронная книга Amazon Kindle",
+    "broad_band_ebook": "Электронная книга Broad Band",
+    "djvu_image": "Изображение DjVu",
+    "epub_ebook": "Электронная книга EPUB",
+    "apple_books": "Apple Books",
+    "microsoft_reader_file": "Файл Microsoft Reader",
+    "sony_portable_reader_file": "Файл Sony Portable Reader",
+    "librie_reader_file": "Файл Librie Reader",
+    "mobipocket_ebook": "Электронная книга Mobipocket",
+    "box_note": "Запись Box Notes",
+    "word_document": "Документ Word",
+    "word_document_template": "Шаблон документа Word",
+    "google_document": "Документ Google",
+    "google_form": "Форма Google",
+    "lotus_word_document": "Документ Lotus Word",
+    "pages_document": "Документ Pages",
+    "google_slides": "Google Slides",
+    "keynote_presentation": "Презентация Keynote",
+    "opendocument_document": "Текстовый документ OpenDocument",
+    "opendocument_presentation": "Презентация OpenDocument",
+    "opendocument_presentation_template": "Шаблон презентации OpenDocument",
+    "prezi_presentation": "Презентация Prezi",
+    "powerpoint_presentation_template": "Шаблон презентации PowerPoint",
+    "powerpoint_presentation": "Презентация PowerPoint",
+    "csv_file": "Файл CSV",
+    "google_sheets": "Google Sheets",
+    "numbers_document": "Документ Numbers",
+    "opendocument_spreadsheet": "Электронная таблица OpenDocument",
+    "lotus_123_spreadsheet": "Электронная таблица Lotus 123",
+    "excel_document": "Документ Excel",
+    "pdf_document": "Документ PDF",
+    "after_effects_project": "Проект After Effects",
+    "illustrator_file": "Файл Illustrator",
+    "blender_3d_file": "3D-файл Blender",
+    "cinema_4d_file": "Файл Cinema 4D",
+    "autocad_image": "Изображение AutoCAD",
+    "vector_image_file_eps": "Файл векторного изображения (EPS)",
+    "figma_drawing": "Рисунок Figma",
+    "framemaker_file": "Файл FrameMaker",
+    "google_drawings": "Google Drawings",
+    "indesign_file": "Файл InDesign",
+    "pagemaker_file": "Файл PageMaker",
+    "photoshop_file": "Файл Photoshop",
+    "publisher_file": "Файл Publisher",
+    "sketch_drawing": "Рисунок Sketch",
+    "deb": "DEB",
+    "dmg": "DMG",
+    "exe": "EXE",
+    "bin_archive": "Архив BIN",
+    "gzip_archive": "Архив GZip",
+    "amiga_lzx_archive": "Архив Amiga LZX",
+    "rar_archive": "Архив RAR",
+    "tar_archive": "Архив TAR",
+    "zip_archive": "Архив ZIP",
+    "cascading_style_sheet": "Cascading Style Sheet",
+    "html_text": "Текст HTML",
+    "javascript": "JavaScript",
+    "php_script": "Сценарий PHP",
+    "python_source": "Исходный код Python",
+    "ruby_source": "Исходный код Ruby",
+    "xml_document": "Документ XML",
+    "bitmap": "Bitmap",
+    "gif_image": "Изображение GIF",
+    "icon_image": "Изображение значка",
+    "png_image": "Изображение PNG",
+    "svg_image": "Изображение SVG",
+    "tiff_image": "Изображение TIFF",
+    "markdown_file": "Файл Markdown",
+    "rtf_file": "Файл RTF",
+    "plain_text_document": "Документ обычного текста",
+    "imovie_project": "Проект iMovie",
+    "logic_pro_project": "Проект Logic Pro"
+  },
+  "_mimeTypes": {
+    "image/jpeg": "JPEG",
+    "image/png": "PNG",
+    "image/ico": "ICO",
+    "image/xls": "XLS",
+    "image/tiff": "TIFF",
+    "application/pdf": "PDF"
+  },
+  "_fileCategories": {
+    "book": "Книги",
+    "photos": "Фотографии",
+    "photosAndVideos": "Фотографии и видео",
+    "videos": "Видеозаписи",
+    "audio": "Звук",
+    "movies": "Фильмы",
+    "writing": "Документы",
+    "similarImages": "Похожие фотографии",
+    "pdf": "Файлы PDF",
+    "presentation": "Презентации",
+    "spreadsheet": "Электронные таблицы",
+    "filesAndFolders": "Файлы и папки",
+    "duplicates": "Копии"
+  },
+  "_errors": {
+    "emptySourceList": "Сначала выберите источник.",
+    "noVolumeSelected": "Нет доступных устройств для сканирования.",
+    "noDeviceSelected": "Сначала выберите устройство.",
+    "connectionError": "Что-то пошло не так. Проверьте соединение с Интернетом и повторите попытку.",
+    "unexpected": "Что-то пошло не так. Повторите попытку.",
+    "timeout": "Операция не выполнена, так как время ожидания истекло.",
+    "incorrectEmail": "Введите действительный адрес электронной почты.",
+    "incorrectPass": "Неверный пароль.",
+    "verifyPass": "Проверьте пароль",
+    "repeatPass": "Введите новый пароль еще раз",
+    "incorrectEmailPass": "Неправильный адрес электронной почты или пароль.",
+    "invalid_user_password": "Неправильный адрес электронной почты или пароль.",
+    "userExists": "Учетная запись уже существует. Возможно, вы уже создавали учетную запись при настройке ibi, My Cloud OS 5 или My Cloud Home. {{link}}",
+    "userExistsLink": "Войдите, чтобы продолжить",
+    "passwordMismatch": "Пароли не совпадают",
+    "PasswordHistoryError": "Новый пароль не должен совпадать с паролем, который вы использовали ранее.",
+    "PasswordDictionaryError": "Недопустимый пароль. Возможно, он слишком простой.",
+    "PasswordStrengthError": "Недопустимый пароль. Возможно, он слишком ненадежный.",
+    "anotherUserAttached": "Текущая среда уже закреплена за другим пользователем.",
+    "searchLength": "Для поиска введите как минимум три символа.",
+    "albumCreationError": "Ошибка создания.",
+    "openExtensionError": "Не удалось открыть расширение.",
+    "sourceIsNotConnected": "Источник не подключен. Чтобы открыть этот элемент, подключите {{name}} к компьютеру и повторите попытку.",
+    "indexDeletedError": "Этот файл больше не доступен. Возможно, исходный каталог был недавно удален.",
+    "FILE_GROUP_NOT_FOUND_ERROR": "Коллекция не найдена",
+    "FILE_DELETED_ERROR": "Этот файл больше не доступен. Возможно, файл был недавно удален или находится на отключенном источнике.",
+    "DEVICE_MIGRATING_ERROR": "Мы реализовали ряд важных усовершенствований. Поэтому в вашем приложении будут изменены и усовершенствованы принципы хранения содержимого. Это может занять некоторое время.",
+    "signup_invalid_request": "Неправильный электронный адрес или пароль",
+    "disconnectCloudFS": "Не удалось удалить каталог {{label}}. Убедитесь, что устройство подключено к Интернету, и повторите попытку."
+  },
+  "_errorTitles": {
+    "unexpected": "",
+    "DEVICE_MIGRATING_ERROR": "Выполняется обновление"
+  },
+  "_common": {
+    "photosLibrary": "Библиотека фотографий",
+    "volumeLabelWin": "{{label}} ({{mountPoint}})",
+    "untitledVolumeName": "Без имени",
+    "ok": "ОК",
+    "selectSomethingForPreview": "Выберите элемент для предварительного просмотра",
+    "open": "Открыть",
+    "fileTypeNotSupported": "Воспроизведение не поддерживается. Откройте файл для воспроизведения.",
+    "resendLink": "Повторно отправить ссылку",
+    "done": "Готово",
+    "cancel": "Отмена",
+    "continue": "Продолжить",
+    "skipForNow": "Пропустить пока",
+    "retry": "Повторить",
+    "close": "Закрыть",
+    "back": "Задняя панель",
+    "skip": "Пропустить",
+    "addSource": "Добавить источники",
+    "remove": "Удалить",
+    "rename": "Переименовать",
+    "later": "Позже",
+    "letsDoIt": "Приступим!",
+    "newCollectionTitle": "Новая коллекция",
+    "emptyPhotos": "Еще нет фотографий и видео",
+    "timeline": "Временная шкала",
+    "more": "Еще",
+    "show_less": "Свернуть",
+    "show_more": "Показать больше",
+    "edit": "Редактировать",
+    "save": "Сохранить",
+    "next": "Далее",
+    "add_to_collection": "Добавить в коллекцию",
+    "remove_from_collection": "Удалить из коллекции",
+    "create_collection": "Создать коллекцию",
+    "set_cover": "Выбрать обложку",
+    "sign_in": "Войти",
+    "create_account": "Создать учетную запись",
+    "settings": "Настройки",
+    "tryAgain": "Повторите попытку",
+    "createdForYou": "Создано для вас",
+    "or": "или",
+    "add": "Добавить",
+    "title": "Заголовок",
+    "items": "{{count}} элемент",
+    "items_plural": "Элементов: {{count}}",
+    "widgets": "Виджеты",
+    "quit": "Выйти",
+    "browse": "Обзор",
+    "collections": "Коллекции",
+    "description": "Описание",
+    "name": "Наименование",
+    "viewSources": "Просмотреть источники",
+    "viewTitles": "Просмотреть заголовки",
+    "selectMode": "Выбрать режим",
+    "suggested_collections": "Рекомендуемые коллекции",
+    "my_collections": "Мои коллекции",
+    "sorting": "Сортировка",
+    "viewModes": "Режимы просмотра",
+    "comingSoon": "Ожидается в скором будущем",
+    "signIn": "Войти",
+    "createAccount": "Создать учетную запись",
+    "on": "Вкл.",
+    "off": "Выкл.",
+    "learnMore": "Подробнее",
+    "viewAll": "Просмотреть все",
+    "gotIt": "Ясно",
+    "firstName": "Имя",
+    "lastName": "Фамилия",
+    "reset": "Сбросить",
+    "resetting": "Сброс…"
+  },
+  "_customGroupNames": {
+    "largeFiles": "Большие файлы",
+    "recentlyOpenFiles": "Недавно открытые",
+    "thisMonth": "Этот месяц в истории",
+    "thisWeek": "Эта неделя в истории",
+    "celebrate": "Празднование",
+    "duplicateFiles": "Копии"
+  },
+  "Datepicker": {
+    "placeholder": "мм/дд/гггг"
+  },
+  "PasswordValidation": {
+    "upperLower": "Добавьте 1 прописную и 1 строчную букву",
+    "number": "Добавьте 1 цифру",
+    "length": "Не меньше 8 символов."
+  },
+  "SignInForm": {
+    "email": "Адрес электронной почты",
+    "password": "Пароль",
+    "forgotPassword": "Забыли пароль?",
+    "button_text": "«Вход»"
+  },
+  "PasswordInput": {
+    "show_password": "Показать пароль",
+    "hide_password": "Скрыть пароль"
+  },
+  "SignUpForm": {
+    "title": "Регистрация",
+    "firstName": "Имя",
+    "lastName": "Фамилия",
+    "email": "Адрес электронной почты",
+    "password": "Пароль",
+    "submit": "Создать учетную запись",
+    "button_text": "«Создать учетную запись»",
+    "enterFirstNameError": "Ввести имя",
+    "enterLastNameError": "Ввести фамилию",
+    "enterEmailError": "Ввести адрес электронной почты",
+    "enterValidEmailError": "Введите действительный адрес электронной почты.",
+    "createAccount": "Создать учетную запись"
+  },
+  "Policy": {
+    "agreement": "Нажимая кнопку {{button_text}}, вы принимаете условия {{product_name}} {{licence_agreement_link}} и {{privacy_link}}. Вы понимаете и соглашаетесь с тем, что {{company_name}} будет передавать, обрабатывать и хранить ваши данные в других странах, включая Соединенные Штаты Америки. Эти данные могут включать предоставленную {{company_name}} информацию об учетной записи и содержимое, которое вы синхронизируете с облаком {{product_name}}.",
+    "licence_agreement": "Условия использования EdgeRover",
+    "privacy_state": "Положение о конфиденциальности"
+  },
+  "ResetPassword": {
+    "title": "Забыли пароль?",
+    "resetLinkSendTitle": "Проверьте папку входящих сообщений",
+    "resetLinkSendText": "Если учетная запись {{product_name}} существует для {{email}}, вам будет отправлено <span>письмо</span> с дальнейшими инструкциями.",
+    "resendLink": "Повторите попытку"
+  },
+  "ResetPasswordForm": {
+    "title": "Изменить пароль",
+    "text": "Хотите сменить пароль? Мы отправим вам письмо с инструкциями.",
+    "submit": "Отправить инструкции",
+    "email": "Адрес электронной почты"
+  },
+  "SetNewPassword": {
+    "formTitle": "Создать пароль",
+    "invalidLinkTitle": "Ссылка сброса пароля уже недействительна",
+    "invalidLinkText": "Эта ссылка сброса пароля уже недействительна. Вернитесь на страницу сброса пароля и повторите попытку.",
+    "resendLink": "Повторно отправить ссылку",
+    "passwordUpdatedTitle": "Пароль изменен",
+    "passwordUpdatedText": "Вы можете войти, используя новый пароль.",
+    "signIn": "Войти",
+    "linkExpiredTitle": "Ссылка сброса пароля недействительна",
+    "linkExpiredText": "Ссылка сброса пароля недействительна. Вернитесь на страницу сброса пароля и повторите попытку.",
+    "validatingLink": "Проверка ссылки…"
+  },
+  "SetNewPasswordForm": {
+    "newPassword": "Новый пароль",
+    "confirmNewPassword": "Подтверждение нового пароля",
+    "submit": "Установить новый пароль"
+  },
+  "Welcome": {
+    "title": "Вас приветствует",
+    "text1": "Установите и настройте устройства WD и SanDisk, активируйте гарантию и установите дополнительное программное обеспечение.",
+    "text2": "Управляйте содержимым на компьютере, внешних накопителях и облачных платформах с одного устройства.",
+    "text3": "Просматривайте ваши цифровые активы, внесенные в каталог и доступные для поиска, в одном приложении — независимо от того, подключены ли устройства, на которых они хранятся.",
+    "copyright": "© Western Digital Corporation или ее аффилированные лица, {{current_year}}. Все права сохранены. Конфиденциально."
+  },
+  "NotFound": {
+    "mainText": "Страница не найдена"
+  },
+  "Root": {
+    "browser": "Обзор",
+    "report": "Отправить отзыв"
+  },
+  "Browse": {
+    "unknown": "[НЕИЗВЕСТНО]"
+  },
+  "SettingsRoot": {
+    "account": "Параметры учетной записи",
+    "manageSources": "Источники",
+    "language": "Язык",
+    "appSettings": "Настройки приложения",
+    "theme": "Тема",
+    "helpAndSupport": "Справка и поддержка",
+    "legal": "Юридическая информация",
+    "privacy": "Конфиденциальность",
+    "darkMode": "Режим «Темные цвета»",
+    "checking": "проверка…",
+    "logs": "Скачать журналы",
+    "info": "Настройки сведений и заголовка вкладки",
+    "surveys": "Опросы",
+    "uniq_identifier_line": "Уникальный идентификатор",
+    "link_text": "Что это значит?",
+    "copy": "Копировать идентификатор",
+    "copy_success": "Идентификатор скопирован",
+    "copy_failed": "Ошибка копирования идентификатора",
+    "manageCatalog": "Управление каталогом",
+    "turboMode": "Режим повышенной скорости"
+  },
+  "SettingsManageCatalog": {
+    "title": "Управление каталогом",
+    "size": {
+      "title": "Текущий размер",
+      "text": "{{size}} из {{maxSize}} (приблизительно {{percent}} % от размера каталога)",
+      "description": "Этот каталог содержит метаданные файлов, такие как имя, дата, размер, эскизы изображений и другие. Мы используем не более 10 % свободного пространства (рассчитано во время установки) на накопителе для хранения каталога. {{link}}",
+      "link": "Подробнее о вашем каталоге."
+    },
+    "driveSpace": {
+      "title": "Пространство на диске",
+      "chartTitle": "Свободно пространства: {{free}} из {{total}}",
+      "usedSpaceLabel": "Используемое пространство",
+      "usedSpaceTooltip": "Использовано пространства: {{size}}",
+      "indexSizeLabel": "Текущий каталог",
+      "indexSizeTooltip": "Размер текущего каталога: {{size}}",
+      "maxSizeLabel": "Максимальный размер каталога",
+      "maxSizeTooltip": "Максимальный размер каталога: {{size}}",
+      "freeSizeLabel": "Свободное пространство",
+      "freeSizeTooltip": "Свободное пространство: {{size}}"
+    },
+    "updateCatalogSize": {
+      "title": "Изменение размера каталога",
+      "text": "Обычно мы выделяем 10 % свободного пространства для каталога. Если вам необходимо больше места для хранения каталога содержимого источников, вы можете изменить максимальный размер каталога, воспользовавшись ползунком.",
+      "size_note": "Примечание. Для эффективной работы других приложений требуется пространство на диске, потому {{product_name}} не позволяет выделить для каталога все свободное место.",
+      "button": "Изменение размера каталога",
+      "successUpdated": "Максимальный размер каталога изменен на {{size}}.",
+      "sizeRestrictionWarning": "Размер не может быть меньше размера текущего каталога."
+    }
+  },
+  "SettingsTheme": {
+    "orange": "Оранжевый"
+  },
+  "SettingsAccount": {
+    "title": "Параметры учетной записи",
+    "youAreNotSigned": "Вы не авторизованы.",
+    "youAreSignedIn": "Вы авторизованы.",
+    "createAccount": "Создать учетную запись",
+    "createAccountOrSignIn": "{{createAccount}} или {{signIn}}",
+    "logout": "Выход",
+    "deleteAccount": "Удалить учетную запись",
+    "profile": "Профиль",
+    "name": "Наименование",
+    "email": "Электронная почта",
+    "password": "Пароль",
+    "emails": "Адреса электронной почты",
+    "analytics": "Аналитика",
+    "keplerPrime": "Доступ к {{product_name}}",
+    "editPhoto": "Редактировать",
+    "addPhoto": "Добавить фотографию",
+    "imageLoadError": "Ошибка загрузки фотографии.",
+    "imageTypeError": "Разрешены только форматы PNG и JPG.",
+    "imageSizeError": "Размер изображения должен быть меньше 30 КБ.",
+    "cognitoImageSizeError": "Размер изображения должен быть меньше 1 МБ.",
+    "generalImageTooltip": "Разрешены только форматы PNG и JPG. Размер должен быть меньше 30 КБ.",
+    "cognitoGeneralImageTooltip": "Разрешены только форматы PNG и JPG. Размер должен быть меньше 1 МБ.",
+    "resetPasswordModal": {
+      "title": "Проверьте свою электронную почту",
+      "text1": "Просмотрите сообщение электронной почты с инструкциями.",
+      "text2": "ПРИМЕЧАНИЕ. Если вы используете этот адрес электронной почты для учетных записей EdgeRover™, ibi™, My Cloud™ OS 5 и My Cloud™ Home, пароли в них также будут изменены.",
+      "button": "Отправить сообщение электронной почты повторно"
+    }
+  },
+  "SettingsPrivacy": {
+    "title": "Конфиденциальность",
+    "shareAnalyticsTitle": "Предоставить доступ к аналитике программы для {{company_name}}",
+    "shareAnalyticsText": "Автоматически отправляя данные об использовании программы, вы помогаете команде {{company_name}} улучшать наши устройства, службы и программы, а также предоставлять вам персонифицированную информацию, в том числе с помощью сообщений в программе и push-уведомлений.{{link}}",
+    "marketingTitle": "Разрешить {{company_name}} отправлять мне маркетинговые сообщения электронной почтой",
+    "marketingText": "Получайте сведения о последних обновлениях и акциях, информационные бюллетени, в том числе адресные рекламные сообщения, в программе, push-уведомлениях и по электронной почте.{{link}}",
+    "learnMore": "Подробнее"
+  },
+  "SettingsAccountCreateAccount": {
+    "title": "Создать учетную запись",
+    "subtitle": "Создайте учетную запись, чтобы зарегистрировать устройства и активировать гарантию. Данные кредитной карты не требуется вводить."
+  },
+  "Language": {
+    "title": "Язык"
+  },
+  "AppSettings": {
+    "info": "Настройки сведений и заголовка вкладки",
+    "resetSettings": "Сбросить настройки сведений и заголовка вкладки",
+    "resetBtn": "Сбросить",
+    "title": "Настройки приложения",
+    "appVersion": "Версия приложения",
+    "privacy": "Конфиденциальность",
+    "version": "Версия {{version}}",
+    "latestVersion": "У вас установлена последняя версия {{product_name}}!",
+    "updateAvailable": "Доступна новая версия. {{update}}",
+    "updateFailed": "Обновление отменено. {{retry}}",
+    "retry": "Повторить",
+    "downloadingUpdate": "Загрузка обновления…",
+    "updateLoaded": "Обновление загружено. {{relaunch}}",
+    "relaunch": "Перезапустить {{product_name}}",
+    "updateNow": "Обновить",
+    "appLaunch": "Запуск приложения",
+    "openAutomatically": "Автоматически открывать приложение {{product_name}} после входа в систему.",
+    "language": "Язык",
+    "offline": "Подключиться к Интернету и проверить наличие обновлений."
+  },
+  "HelpFeedback": {
+    "title": "Справка и отзывы",
+    "haveQuestion": "Я хочу задать вопрос или написать отзыв…",
+    "helpCenter": "Центр справки",
+    "reportProblem": "Сообщить о проблеме",
+    "generalQuestion": "Вопрос общего характера или отзыв",
+    "haveIdea": "У меня есть идея…",
+    "requestFeature": "Запрос о добавлении функции"
+  },
+  "HelpAndSupport": {
+    "title": "Справка и поддержка",
+    "HowToAddASource": "Как добавить источник",
+    "StartAddingASource": "Добавьте источник",
+    "KeyboardShortcuts": "Сочетания клавиш ",
+    "OpenKeyboardShortcuts": "Просмотреть сочетания клавиш",
+    "tipsTricks": "Подсказки и рекомендации",
+    "helpSite": "Сайт справки"
+  },
+  "Legal": {
+    "title": "Юридическая информация",
+    "terms": "Условия использования EdgeRover",
+    "policy": "Положение о конфиденциальности",
+    "privacyFAQ": "Ответы на часто задаваемые вопросы о конфиденциальности",
+    "acceptableUsePolicy": "Политика допустимого использования",
+    "copyrightUsePolicy": "Политика защиты авторских прав",
+    "trademarks": "Товарные знаки",
+    "openSourceNotices": "Примечания об открытом источнике"
+  },
+  "SettingsAccountSidePanelChangeName": {
+    "title": "Изменить имя",
+    "text": "Изменить и сохранить имя."
+  },
+  "ChangeNameForm": {
+    "enterFirstNameError": "Ввести имя",
+    "enterLastNameError": "Ввести фамилию"
+  },
+  "SettingsAccountSidePanelChangePassword": {
+    "title": "Изменить пароль",
+    "text": "Введите текущий пароль в расположенном ниже поле, затем выберите новый пароль."
+  },
+  "ChangePasswordForm": {
+    "currentPassword": "Текущий пароль",
+    "newPassword": "Новый пароль",
+    "repeatNewPassword": "Подтверждение нового пароля"
+  },
+  "DeleteAccountModal": {
+    "title": "Навсегда удалить вашу учетную запись {{product_name}}?",
+    "text": "<p>Очень жаль, что вы уходите.</p><p>При удалении учетной записи {{product_name}} будет также удален каталог содержимого на всех подключенных источниках. </p><p>Прежде чем вы удалите учетную запись, возможно, мы можем вам помочь. {{getInTouch}}</p><p>Чтобы продолжить, нажмите кнопку «Продолжить».</p>",
+    "getInTouch": "Свяжитесь с нами"
+  },
+  "DeleteAccountForm": {
+    "text": "Введите пароль, чтобы удалить вашу учетную запись {{product_name}} без возможности восстановления."
+  },
+  "Main": {
+    "manageSource": "Добавление источников и управление ими"
+  },
+  "MainActions": {
+    "title": "Просмотр содержимого",
+    "sources": "По источникам"
+  },
+  "Search": {
+    "title": "Показаны результаты для «{{query}}»",
+    "emptyTitle": "Результаты поиска",
+    "empty": "Похоже, для запроса «{{query}}» не найдены результаты.",
+    "text1": "Не нашли, что искали?",
+    "text2": "Снова настройте фильтры и повторите поиск; или перезапустите приложение {{product_name}}, чтобы обновить каталог."
+  },
+  "SearchMain": {
+    "title": "Поиск",
+    "searchHistory": "Поиск в истории",
+    "empty": "Похоже, в истории поиска ничего не найдено.",
+    "count": "({{count}})"
+  },
+  "SearchInput": {
+    "placeholder": "Поиск в содержимом",
+    "search": "Поиск"
+  },
+  "SearchInputSuggestions": {
+    "submitHelpText": "«{{query}}» Для поиска нажмите клавишу enter.",
+    "submitHelpTextTruncated": "«{{query}}...» Для поиска нажмите клавишу enter."
+  },
+  "SearchInputSuggestionsList": {
+    "tags": "Для вас",
+    "tagsEmpty": "Объекты, совпадающие с ключевым словом, не найдены.",
+    "locations": "Места",
+    "locationsEmpty": "Места, совпадающие с ключевым словом, не найдены.",
+    "history": "Поиск в истории",
+    "historyEmpty": "Совпадения с ключевым словом в истории не найдены.",
+    "titleButton": "Очистить историю"
+  },
+  "SearchHeader": {
+    "selectSource": "Выбрать источник",
+    "categories": "Категории",
+    "kind": "Тип файла",
+    "moreFilters": "Больше фильтров",
+    "resetAll": "Сбросить все",
+    "locationGroupLabel": "{{country}} {{city}}",
+    "fromLabel": "с {{from}}",
+    "toLabel": "по {{to}}",
+    "rangeLabel": "{{from}} - {{to}}",
+    "allSources": "Все источники",
+    "allCategories": "Все категории",
+    "allKinds": "Все типы файлов"
+  },
+  "DropdownFilter": {
+    "all": "Все"
+  },
+  "SearchContentGroups": {
+    "query": "Результаты поиска по запросу «{{- query}}»"
+  },
+  "SearchContentGroup": {
+    "all": "Все: Все совпадения",
+    "media": "Мультимедиа. Фотографии и видео",
+    "pdf": "Файлы PDF",
+    "writing": "Записи",
+    "presentation": "Презентации",
+    "book": "Книги",
+    "spreadsheet": "Электронные таблицы",
+    "audio": "Звук",
+    "more": "Еще"
+  },
+  "SearchFiltersSidePanel": {
+    "title": "Дополнительные фильтры",
+    "description": "Добавьте фильтры, чтобы уменьшить количество совпадений и находить то, что вам нужно.",
+    "locationDescription": "Фильтруйте результаты поиска по месту, чтобы найти фотографии и видео, для которых было автоматически указано место, где они были сняты.",
+    "tagsDescription": "Сократите количество совпадений, используя автоматически созданные {{product_name}} и добавленные вами вручную тэги.",
+    "places": "Места",
+    "tags": "Тэги",
+    "range": "Диапазон дат",
+    "create": "Дата создания",
+    "modify": "Дата изменения",
+    "from": "от",
+    "to": "до",
+    "apply": "Применить"
+  },
+  "SearchFiltersSidePanelGroupInfo": {
+    "selected": "Выбрано: {{count}}"
+  },
+  "SearchFiltersSidePanelGroupSelector": {
+    "search": "Поиск",
+    "selected": "Выбрано: {{count}}",
+    "confirm": "Подтвердить"
+  },
+  "FilesList": {
+    "empty": "Пусто",
+    "empty_folder_title": "Эта папка пустая!",
+    "empty_folder_text_mac": "Переместите подготовленные к переносу файлы в Finder.",
+    "empty_folder_text_win": "Переместите подготовленные к переносу файлы в Explorer.",
+    "empty_drive_title": "На устройстве нет файлов!",
+    "empty_drive_text_mac": "Переместите подготовленные к переносу файлы на это устройство в Finder.",
+    "empty_drive_text_win": "Переместите подготовленные к переносу файлы на это устройство в File Explorer и перезапустите приложение {{product_name}}.",
+    "empty_external_drive_text": "Переместите подготовленные к переносу файлы на это устройство.",
+    "empty_external_folder_text": "Переместите подготовленные к переносу файлы в эту папку.",
+    "empty_cloud_source_folder_text": "Когда вы добавляете файлы в облачную службу, {{product_name}} автоматически обновляет содержимое этой папки.",
+    "empty_social_source_folder_text": "Когда вы добавляете файлы в социальную сеть, {{product_name}} автоматически обновляет содержимое этой папки.",
+    "open_folder_mac": "Открыть в Finder",
+    "open_folder_win": "Открыть в File Explorer",
+    "manage_sources": "Источники",
+    "empty_facet_title": "Еще ничего не добавлено!",
+    "empty_facet_text": "Подключите устройства и добавьте содержимое на них в каталог. Добавив несколько источников, вы наполните {{product_name}} содержимым.",
+    "list_view": "Представление списка",
+    "media_view": "Представление медиафайлов",
+    "thumbnail_view": "Представление эскизов",
+    "preview": "Область просмотра"
+  },
+  "ListView": {
+    "name": "Наименование",
+    "kind": "Тип",
+    "mTime": "Дата изменения",
+    "cTime": "Дата создания",
+    "source": "Источник",
+    "size": "Размер",
+    "artist": "Исполнитель",
+    "author": "Автор",
+    "totalSize": "Общий размер",
+    "item": "Элемент",
+    "duplicates": "Всего"
+  },
+  "ThumbnailsView": {
+    "folders": "Папки",
+    "folder": "Папка",
+    "files": "Файлы",
+    "similar_group": "Похожая группа"
+  },
+  "Media": {
+    "select": "Выбрать и упорядочить"
+  },
+  "MediaGroupList": {
+    "empty_photos": "Еще нет фотографий",
+    "empty_videos": "Еще нет видео"
+  },
+  "SingleItemView": {
+    "lockedFile": "Откройте файл, чтобы его разблокировать.",
+    "noPreviewAvailable": "Этот тип файлов не поддерживает предварительный просмотр.",
+    "noPreviewDocumentCloud": "Предварительный просмотр документов пока недоступен для некоторых социальных сетей и облачных служб.",
+    "showInParentFolder": "Показать в родительской папке",
+    "previewOnly": "– Только просмотр",
+    "prev": "Назад",
+    "next": "Далее",
+    "location": "Показать расположение",
+    "info": "Подробнее",
+    "descriptionTitle": "Описание",
+    "descriptionHide": "Скрыть",
+    "more": " …больше",
+    "more_actions": "Еще",
+    "more_info": "Панель дополнительных сведений",
+    "rename": "Переименовать",
+    "copy": "Копировать",
+    "remove": "Удалить",
+    "fullscreen": "Полный экран",
+    "close_fullscreen": "Выйти из полноэкранного режима",
+    "no_source": "Источник {{- sourceName}} недоступен.",
+    "defaultSource": "Источник файла",
+    "DASDisconnectedPopup": {
+      "title": "Как получить доступ к содержимому на не подключенных устройствах",
+      "description": "{{product_name}} позволяет просматривать доступные эскизы файлов, даже если источники, на которых находятся файлы, не подключены. Чтобы открыть файл на вашем персональном устройстве или папку, в которой он находится, источник должен быть подключен."
+    },
+    "CloudUnavailablePopup": {
+      "title": "Как получить доступ к источникам в социальных сетях и облачных службах",
+      "description": "{{product_name}} позволяет просматривать доступные эскизы файлов, даже если источники, на которых находятся файлы, не подключены. Чтобы открыть файл из социальных сетей или облачного хранилища, требуется войти в {{product_name}}. Также убедитесь, что устройство подключено к Интернету."
+    },
+    "no_file": "Выберите элемент для просмотра.",
+    "file_info": "Просмотреть сведения о файле",
+    "open_in_finder": "Приведенные ниже действия выполняются в Finder.",
+    "open_in_photos_library": "Приведенные ниже действия выполняются в приложении «Фото».",
+    "open_in_explorer": "Приведенные ниже действия выполняются в Explorer."
+  },
+  "SingleItemViewZoomControls": {
+    "scale": "{{value}}%",
+    "zoom_in": "Увеличить",
+    "zoom_out": "Уменьшить",
+    "fit": "Масштабировать по размеру экрана"
+  },
+  "VolumeListCommon": {
+    "mountPoint": "{{label}} ({{mountPoint}})",
+    "homeDir": "{{main}}/{{home}}"
+  },
+  "ConnectedVolumeList": {
+    "connectedSource": "Подключенные источники",
+    "ejected": "(извлечено)",
+    "remove": "Удалить источник",
+    "noConnectedSources": "Нет подключенных источников.",
+    "addText": "Нажмите кнопку «Добавить источники», чтобы подключить источники."
+  },
+  "VolumesWizardWaiting": {
+    "doNotWait": "Я не хочу ждать",
+    "paused": "Добавление в каталог приостановлено для экономии заряда батареи. Чтобы продолжить, подключите ноутбук к источнику питания.",
+    "itemError": "Возникла проблема. Что-то пошло не так. Устройство {{label}} не сканируется.",
+    "unpluggedError": "Устройство {{label}} было отключено во время сканирования.",
+    "allUnpluggedError": "Все подключенные устройства были отключены во время сканирования.",
+    "info": [
+      {
+        "title": "Сканирование…",
+        "description": "Это может занять до 5 минут. Не отключайте внешние устройства хранения и не закрывайте приложение {{product_name}}."
+      },
+      {
+        "title": "Сканирование устройств…",
+        "description": "Снимки накопителей хранятся на локальном устройстве при наличии места; вы можете найти и просмотреть содержимое в любой момент."
+      },
+      {
+        "title": "Создание снимков…",
+        "description": "Снимки накопителей хранятся на локальном устройстве при наличии места; вы можете найти и просмотреть содержимое в любой момент."
+      },
+      {
+        "title": "Создание каталога содержимого…",
+        "description": "{{product_name}} создает фильтры для автоматической сортировки фотографий, видео и файлов."
+      },
+      {
+        "title": "Завершение…",
+        "description": "Вы можете подключить другие накопители к {{product_name}} в любой момент в разделе <strong>Источники</strong>."
+      }
+    ]
+  },
+  "ManageSources": {
+    "title": "Источники",
+    "addSource": "Добавить источник",
+    "failureErrorAddCloudSourceMessage": "Что-то пошло не так. Ошибка подключения к вашей учетной записи. Повторите попытку.",
+    "existsErrorAddCloudSourceMessage": "Учетная запись уже синхронизирована. Невозможно синхронизировать учетную запись несколько раз."
+  },
+  "SourceContextMenu": {
+    "removeIndex": "Удалить каталог",
+    "indexDrive": "Добавить содержимое устройства в каталог",
+    "manageIndex": "Управление каталогом",
+    "unlock": "Разблокировать",
+    "setPassword": "Установить блокировку",
+    "editPassword": "Изменить пароль",
+    "driveSettings": "Настройки устройства",
+    "eraseDrive": "Очистить устройство",
+    "eject": "Извлечь",
+    "raidsettings": "Параметры RAID",
+    "noActions": "Нет доступных действий",
+    "reconnectCloudSource": "Повторно подключить источник."
+  },
+  "PhotosLibraryAction": {
+    "title": "Примечание",
+    "titleDetached": "Отключение библиотеки фотографий",
+    "openPhotosApp": "Открыть приложение «Фото»",
+    "text": "Чтобы выполнить какие-либо действия с этим элементом, откройте его в приложении «Фото».",
+    "textDetached": "Выполняется отключение библиотеки фотографий. После завершения этого процесса некоторые элементы могут быть недоступны."
+  },
+  "ReportBugModal": {
+    "title": "Отправить отзыв",
+    "listTitle": "Ваш отзыв очень важен для нас. Если у вас возникли предложения по улучшению приложения или проблемы во время работы с ним, сообщите нам.",
+    "copy": "Копировать идентификатор",
+    "idea": "Отправить предложение.",
+    "portal": "Перейдите на сайт {{link}}, чтобы отправить предложения и просмотреть отзывы других пользователей.",
+    "issue": "Сообщить об ошибке.",
+    "upload": "1. Передайте журналы, чтобы у нас было как можно больше информации о ситуации.",
+    "email": "2. Отправьте {{email}} с описанием проблемы.",
+    "emailLink": "электронная почта",
+    "download": "Скачать журналы",
+    "uploadLogs": "Передать журналы",
+    "uploading": "Отправка… ",
+    "connection_error": "Чтобы передать журналы, ваше устройство должно быть подключено к Интернету. Подключите устройство и повторите попытку.",
+    "error": "Произошла ошибка при отправке журналов. Повторите попытку.",
+    "subject": "Отзыв о {{product_name}}",
+    "success": "Журналы переданы.",
+    "uid": "Уникальный идентификатор",
+    "what": "Что это значит?"
+  },
+  "DisconnectModal": {
+    "title": "Удалить этот источник?",
+    "message": "Каталог содержимого на этом источнике будет удален навсегда. Вы больше не сможете просматривать или искать содержимое на нем.",
+    "disconnect": "Удалить источник",
+    "close": "Отмена"
+  },
+  "Scanner": {
+    "progress": "Сканирование…"
+  },
+  "ConnectErrorModal": {
+    "title": "Что-то пошло не так.",
+    "permissionTitle": "Доступ запрещен.",
+    "driveMessage": "Устройство {{diskName}} не подключено из-за ошибки.",
+    "drivesMessage": "Устройства {{diskNameList}} не подключены из-за ошибки.",
+    "permissionMessage": "{{product_name}} запрещен доступ к файлам. Выполните операцию повторно и разрешите доступ или измените настройки системы, чтобы предоставить доступ.",
+    "AllDrivesMessage": "Устройства не подключены из-за ошибки."
+  },
+  "DisconnectErrorModal": {
+    "title": "Что-то пошло не так.",
+    "driveMessage": "Устройство {{diskName}} не отключено из-за ошибки.",
+    "drivesMessage": "Устройства {{diskNameList}} не отключены из-за ошибки.",
+    "AllDrivesMessage": "Устройства не отключены из-за ошибки."
+  },
+  "ModalUpdateError": {
+    "permissionTitle": "Доступ запрещен.",
+    "title": "Что-то пошло не так.",
+    "driveMessage": "Устройство {{diskName}} не обновлено из-за ошибки.",
+    "drivesMessage": "Устройства {{diskNameList}} не обновлены из-за ошибки.",
+    "permissionMessage": "{{product_name}} запрещен доступ к файлам. Выполните операцию повторно и разрешите доступ или измените настройки системы, чтобы предоставить доступ.",
+    "AllDrivesMessage": "Устройства не обновлены из-за ошибки."
+  },
+  "UnplugModal": {
+    "driveTitle": "Устройство {{label}} отключено",
+    "drivesTitle": "Устройства отключены",
+    "driveText": "Устройство {{label}} было отключено во время сканирования, и содержимое в {{product_name}} не обновлено. Сканирование других устройств продолжится.",
+    "drivesText": "Устройства {{labels}} были отключены во время сканирования, и содержимое в {{product_name}} не обновлено. Сканирование других устройств продолжится."
+  },
+  "ChangePasswordSignOutModal": {
+    "title": "Вы вышли.",
+    "text": "Вы вышли, так как пароль быль обновлен. Войдите повторно, чтобы продолжить."
+  },
+  "PasswordChanged": {
+    "title": "Проверьте свою электронную почту",
+    "text": "Если учетная запись {{product_name}} существует для {{email}}, вам будет отправлено письмо с дальнейшими инструкциями.",
+    "button": "Повторно отправить ссылку",
+    "success": "Сообщение электронной почты отправлено"
+  },
+  "AlbumToasts": {
+    "updateSuccess": "Коллекция обновлена",
+    "removeSuccess": "Коллекция удалена",
+    "coverChangeSuccess": "Обложка коллекции изменена",
+    "creationCoverChangeSuccess": "Обложка установлена",
+    "filesAdded": "Добавлен {{count}} файл",
+    "filesAdded_plural": "Добавлено файлов: {{count}}",
+    "filesNotAdded": "В коллекции уже есть {{count}} файл.",
+    "filesNotAdded_plural": "Файлов в коллекции: {{count}}.",
+    "filesRemoved": {
+      "items": "Элемент удален",
+      "items_plural": "Удалено элементов: {{count}}"
+    }
+  },
+  "AlbumsTooltips": {
+    "addPhotos": "Добавить фотографии",
+    "description": "Описание"
+  },
+  "Albums": {
+    "title": "Коллекции",
+    "search": "Поиск",
+    "forYou": "Для вас",
+    "locations": "Места",
+    "creationDescription": "Назовите коллекцию и добавьте описание (необязательно), чтобы вы могли ее идентифицировать.",
+    "groupTitle": "Название коллекции",
+    "button1": "Обзор",
+    "button2": "Поиск",
+    "description": "Добавьте описание (необязательно).",
+    "name": "Добавить название",
+    "remove": "Удалить коллекцию",
+    "edit": "Изменить название/описание"
+  },
+  "AddPhotosToAlbum": {
+    "title": "Добавить фотографии"
+  },
+  "AlbumList": {
+    "noAlbumsYet": "Коллекции еще не добавлены",
+    "noAlbumsYetSubtitle1": "Создайте коллекции с содержимым источников.",
+    "counter": "{{count}} элемент",
+    "counter_plural": "Элементов: {{count}}",
+    "create_collection": "Создать коллекцию"
+  },
+  "AlbumRenameModal": {
+    "title": "Назвать коллекцию",
+    "placeholder": "Название коллекции",
+    "invalidName": "Имя не может содержать символы \\/<|>\"?*:",
+    "enterName": "Сначала введите название коллекции."
+  },
+  "AlbumDescription": {
+    "title": "Описание",
+    "save": "Сохранить",
+    "readMore": "подробнее",
+    "addDescription": "Нет описания"
+  },
+  "AlbumCommon": {
+    "selectCoverPhoto": "Выбрать обложку",
+    "items": " {{count}} элемент из {{date}}",
+    "items_plural": " Элементы ({{count}}) из {{date}}",
+    "emptyText": "Здесь ничего нет!",
+    "emptySubtext": "Похоже, фотографии еще не добавлены…. {{product_name}Вы не сможете пользоваться возможностями }, если коллекция пуста.",
+    "addPhotos": "Добавить фотографии",
+    "created": "Дата создания {{date}}",
+    "coverTitle": "Как добавлять элементы?",
+    "coverDescription": "Чтобы пополнить коллекцию, найдите нужные элементы, выберите все, что хотите добавить, и выберите «Добавить в коллекцию».",
+    "emptyCoverDescription": "Чтобы пополнить коллекцию, найдите нужные элементы, выберите все, что хотите добавить, и выберите «Добавить в коллекцию». Нажмите расположенную ниже кнопку, чтобы выбрать элементы и перейти непосредственно в раздел в «Обзоре»."
+  },
+  "RemoveAlbum": {
+    "title": "Удалить",
+    "removeAlbum": "Удалить коллекцию «{{collection}}»?",
+    "delete": "Да, удалить"
+  },
+  "RemoveAlbumPhotos": {
+    "title": {
+      "items": "Удалить элемент из коллекции?",
+      "items_plural": "Удалить элементы из коллекции?"
+    },
+    "text": {
+      "items": "Удалить выбранный элемент из коллекции? Выбранный элемент будет удален из коллекции, но не с устройства.",
+      "items_plural": "Удалить выбранные элементы ({{count}}) из коллекции? Выбранные элементы будут удалены из коллекции, но не с устройства."
+    }
+  },
+  "AlbumItemContextMenu": {
+    "addPhotos": "Добавить фотографии",
+    "download": "Загрузка"
+  },
+  "AlbumContextMenu": {
+    "setAsCover": "Установить как обложку"
+  },
+  "Objects": {
+    "title": "Поиск",
+    "location": "Места",
+    "tag": "Для вас",
+    "emptyLocations": "Похоже, расположения еще не добавлены.",
+    "emptyTagGroups": "Похоже, группы тэгов еще не добавлены."
+  },
+  "ObjectsGroup": {
+    "empty": "Похоже, группы тэгов еще не добавлены."
+  },
+  "LocationGroups": {
+    "title": "Места",
+    "empty": "Похоже, расположения еще не добавлены."
+  },
+  "TagGroups": {
+    "title": "Для вас",
+    "empty": "Похоже, группы тэгов еще не добавлены."
+  },
+  "ObjectGroup": {
+    "albumsCounted": "Коллекции ({{count}})",
+    "albums": "Коллекции"
+  },
+  "TagGroup": {
+    "forYou": "Для вас",
+    "search": "Поиск"
+  },
+  "LocationGroup": {
+    "locations": "Места",
+    "search": "Поиск"
+  },
+  "ObjectSuggestions": {
+    "tagGroups": "Для вас",
+    "locationGroups": "Расположение",
+    "empty": "Нет коллекций, отвечающих условиям поиска <span>«{{query}}»</span>.<br>Чтобы продолжить поиск в файлах и папках, нажмите Enter."
+  },
+  "OfflineAlertModal": {
+    "title": "Вы не в сети",
+    "text": "KAS недоступен из-за ошибки подключения, но вы можете переключиться на локальное устройство."
+  },
+  "SidebarDevices": {
+    "mac": "Mac",
+    "pc": "ПК",
+    "cloud": "Доступ"
+  },
+  "IndexingStatusSidebarContent": {
+    "preparing": "Подготовка…",
+    "paused": "Приостановлено",
+    "pausedCommon": "Подождите, пока обновятся данные о состоянии каталога.",
+    "lowBattery": "Низкий заряд батареи. Создание каталога приостановлено, пока компьютер не будет подключен к источнику питания.",
+    "ejectedDrive": "Создание каталога приостановлено, потому что источник был извлечен. Чтобы продолжить, подключите источник.",
+    "indexUpToDate": "Каталог обновлен",
+    "indexingConnectionError": "Создание каталога приостановлено. Установите подключение к Интернету, чтобы продолжить.",
+    "nothingIndexed": "Каталог еще не создан"
+  },
+  "Sidebar": {
+    "search": "Поиск",
+    "browse": "Обзор",
+    "collections": "Коллекции",
+    "discover": "Находите",
+    "manageSources": "Источники",
+    "pinLabel": "Закрепить боковую панель",
+    "unpinLabel": "Открепить боковую панель",
+    "turboMode": "Режим повышенной скорости",
+    "collapseMenu": "Свернуть меню",
+    "expandMenu": "Развернуть меню",
+    "survey": "Опрос",
+    "catalog": "Состояние каталога",
+    "drives": "дисков"
+  },
+  "CustomGroup": {
+    "rootPathName": "Поиск",
+    "endPathName": "Пользовательские группы"
+  },
+  "CustomGroups": {
+    "title": "Виджеты",
+    "empty": "Похоже, пользовательские группы еще не добавлены.",
+    "noSourcesYet": "Мы работаем над этим",
+    "noSourcesYetSubtitle1": "Когда мы создадим каталог материалов на ваших источниках, мы постараемся показать вам то, что вы еще не знали о своем цифровом мире.",
+    "noSourcesYetSubtitle2": "Чем больше источников вы добавите, тем лучше будет {{product_name}}.",
+    "addSource": "Добавление источников и управление ими"
+  },
+  "NoSourceAdded": {
+    "title": "Источники еще не добавлены",
+    "line": "Вы не сможете воспользоваться возможностями {{product_name}}, пока не добавлен ни один источник.",
+    "button": "Добавить источник"
+  },
+  "OrderContextMenu": {
+    "facets": {
+      "name": "Наименование",
+      "mTime": "Дата изменения",
+      "cTime": "Дата создания",
+      "size": "Размер файла"
+    },
+    "files": {
+      "name": "Наименование",
+      "mTime": "Дата",
+      "size": "Размер файла"
+    },
+    "albums": {
+      "cTime": "Дата создания",
+      "mTime": "Дата изменения"
+    },
+    "album": {
+      "addedTime": "Дата добавления",
+      "cTime": "Дата создания"
+    }
+  },
+  "WhatsNew": {
+    "header": "Что нового?",
+    "title": "Новые возможности {{product_name}}",
+    "version": "Версия: {{version}}",
+    "date": "Дата",
+    "updatedTo": "Обновлено до версии {{version}}"
+  },
+  "AddSourceContextMenu": {
+    "addDrive": "Добавить устройство",
+    "addSocial": "Добавить социальную сеть",
+    "addCloud": "Добавить облачную службу"
+  },
+  "AddSocialProviders": {
+    "title": "Учетная запись в социальной сети",
+    "description": "Чтобы внести содержимое в каталог, добавьте учетные записи в социальных сетях."
+  },
+  "AddCloudProviders": {
+    "title": "Учетная запись в облачной службе",
+    "description": "Чтобы внести содержимое в каталог, добавьте учетные записи в облачных службах."
+  },
+  "DeleteIndex": {
+    "title": "Удалить каталог",
+    "descriptionCommon": "Эта служебная программа удалит каталог из {{product_name}}. Содержимое останется на устройстве, но \nвы не сможете выполнять поиск на устройстве и пользоваться возможностями {{product_name}}, пока вы не добавите содержимое устройства в каталог повторно. ",
+    "descriptionCloud": "Эта служебная программа удалит каталог из {{product_name}}. Вы не сможете искать содержимое и пользоваться функциями {{product_name}}, пока не добавите содержимое из этого источника повторно в каталог.",
+    "info": "Удалить каталог содержимого на этом устройстве из {{product_name}}?",
+    "ok": "Удалить каталог"
+  },
+  "AddDrives": {
+    "title": "Добавить устройство",
+    "description": "Просматривайте все ваши материалы на разных устройствах в одной программе, используя превосходные возможности поиска {{product_name}}.",
+    "addSelectedDrives": "Добавить выбранные устройства",
+    "addInfo": {
+      "noDriveTitle": "Нет устройств, содержимое которых отсутствует в каталоге",
+      "noDriveInfo": "Подключите устройства, содержимое которых еще не добавлено в каталог, и они автоматически отобразятся выше.",
+      "externalTitle": "Есть внешний накопитель?",
+      "externalInfo": "Подключите устройства, содержимое которых еще не добавлено в каталог, и они автоматически отобразятся выше."
+    }
+  },
+  "ListViewSourceItem": {
+    "indexed": "Подключенные и внесенные в каталог",
+    "indexing": "Добавление в каталог ({{percent}} %)"
+  },
+  "SourcesList": {
+    "yourDevices": "Внутренний накопитель",
+    "yourDrives": "Внешний накопитель",
+    "socialMedia": "Социальные сети",
+    "cloudStorage": "Облачная система хранения",
+    "addSocial": "Добавьте учетные записи социальных сетей, чтобы просматривать фотографии и видео, напоминающие о бесценных моментах жизни.",
+    "addSocialButton": "Добавьте учетные записи в социальных сетях",
+    "addCloud": "Выполняйте поиск в разных облачных системах хранения, привязав здесь учетные записи.",
+    "addCloudButton": "Добавьте учетные записи в облачных системах хранения",
+    "addDrive": "Достаньте из шкафа внешние накопители, стряхните с них пыль и добавьте в {{product_name}}.",
+    "addDriveButton": "Добавьте внешние накопители"
+  },
+  "IndexingStatus": {
+    "indexed": "Добавлено в каталог",
+    "indexedCompleted": "Создание каталога завершено",
+    "indexingPercent": "Добавление в каталог ({{percent}} %)",
+    "indexing": "Добавление в каталог",
+    "erasing": "Удаление содержимого",
+    "removing": "Удаление…",
+    "connecting": "Подключение…",
+    "unlockToIndex": "Разблокировать для добавления в каталог",
+    "lastIndexedYesterday": "Добавлено в каталог вчера",
+    "lastIndexedDaysAgo": "Добавлено в каталог {{count}} дн. назад",
+    "indexingPaused": "Создание каталога приостановлено",
+    "notIndexed": "Не добавлено в каталог",
+    "preparing": "Подготовка…",
+    "clickHere": "нажмите здесь,",
+    "cloudConnectionError": "Не удалось добавить в каталог {{label}}. Не удалось установить соединение с платформой.",
+    "indexErrorExplain": "<strong>Ошибка создания каталога</strong>. Что-то пошло не так при создании каталога. Для устранения ошибки часто нужно просто отключить и повторно подключить устройство.",
+    "cloudIndexErrorExplain": "<strong>Ошибка при создании каталога</strong>. Произошла ошибка при создании каталога содержимого облачного источника. Мы продолжим попытки возобновить создание каталога. Если ошибка повторится, сообщите об этом, воспользовавшись функцией <strong>Отправить отзыв</strong>.",
+    "cloudWarningNotificationIndexErrorExplain": "Произошла ошибка при создании каталога содержимого облачного источника. Мы продолжим попытки возобновить создание каталога. Если ошибка повторится, {{clickHere}}, чтобы сообщить о проблеме.",
+    "pausedDueToConnectionError": "<strong>Нет подключения к Интернету</strong>. {{product_type}} не удается подключиться к службе. Подключите устройство к Интернету, чтобы возобновить создание каталога.",
+    "pausedDueToDisconnected": "<strong>Создание каталога приостановлено</strong>. Устройство не подключено. Подключите устройство, чтобы автоматически возобновить создание каталога.",
+    "pausedDueToLowBattery": "<strong>Создание каталога приостановлено</strong>. Создание каталога приостановлено для экономии заряда батареи. Чтобы продолжить, подключите ноутбук к источнику питания.",
+    "errReadContent": "<strong>Ошибка индексирования файла</strong>. {{product_name}} не удалось добавить в каталог отдельные файлы на «{{label}}». Возможно, эти файлы не будут отображаться в {{product_name}}.",
+    "errCloudProviderAuth": "<strong>Не удается получить доступ к учетной записи</strong>. Похоже, у {{product_name}} больше нет разрешения на доступ к этой учетной записи социальной сети или облачной службы. Чтобы предоставить {{product_name}} доступ, откройте <strong>меню с тремя точками</strong> и выберите <strong>«Повторно подключить источник»</strong>.",
+    "errMaxDataSizeReached": "<strong>Создание каталога приостановлено</strong>. Размер каталога достиг максимального значения, мы не можем добавлять в него новые элементы.",
+    "errInsufficientStorage": "<strong>Создание каталога приостановлено</strong>. Недостаточно места для добавления нового содержимого в каталог. Чтобы освободить место для каталога, вы можете удалить ненужные файлы на компьютере."
+  },
+  "ConnectedSourcesList": {
+    "noConnectedSources": "Нет подключенных источников.",
+    "addText": "Нажмите кнопку «Добавить источники», чтобы подключить источники."
+  },
+  "FileInfo": {
+    "info": "Информация",
+    "name": "Имя файла",
+    "type": "Тип файла",
+    "source": "Источник файла",
+    "size": "Размер файла",
+    "modified": "Дата последнего изменения",
+    "created": "Создано",
+    "fileLocation": "Расположение файла",
+    "location": "Место",
+    "tagTitle": "Тэги",
+    "tagLengthError": "Введите больше 2 символов, чтобы сохранить",
+    "tags": "Ввести собственные тэги…",
+    "descriptionTitle": "Описание",
+    "description": "Добавить описание…",
+    "title": "Пользователи с доступом",
+    "text": "Ожидается в скором будущем…",
+    "tagsLimit": "Максимальное количество тэгов — 100.",
+    "aperture": "F-число",
+    "camera": "Камера",
+    "exposureTime": "Выдержка",
+    "focalLength": "Фокусное расстояние",
+    "isoSpeed": "Чувствительность ISO",
+    "latitude": "Широта",
+    "longitude": "Долгота",
+    "flash": "Вспышка"
+  },
+  "ManageDriveIndex": {
+    "title": "Управлять устройством",
+    "description": "Просматривайте все ваши материалы на разных устройствах в одной программе, используя превосходные возможности поиска {{product_name}}.",
+    "listTitle": "Выберите папки на этом устройстве, которые необходимо добавить в каталог.",
+    "updateIndex": "Обновить каталог"
+  },
+  "GetPrime": {
+    "title": "Получить подписку Access",
+    "description": "Добавьте приложения и устройства для хранения и просматривайте их содержимое в одной программе независимо от того, подключено ли ваше устройство к Интернету.",
+    "signUp": "Зарегистрироваться для Access",
+    "enablePrime": "Активировать Access",
+    "noThanks": "Нет, спасибо"
+  },
+  "IndexDrive": {
+    "title": "Добавить содержимое устройства в каталог",
+    "subTitle": "Мы заметили, что содержимое на этом устройстве не внесено в каталог.",
+    "text": "Если содержимое на ваших устройствах добавлено в каталог, вы можете просматривать его и выполнять поиск на нескольких устройствах, даже когда они не подключены.",
+    "index": "Добавить содержимое устройства в каталог"
+  },
+  "DriveDisconnected": {
+    "title": "Устройство отключено",
+    "subTitle": "Это устройство сейчас отключено. Чтобы просмотреть содержимое текущего каталога, нажмите «Просмотреть содержимое устройства». ",
+    "text": "Чтобы обновить каталог, подключите устройство, а мы сделаем все остальное.",
+    "browse": "Просмотр содержимого устройства"
+  },
+  "LaunchWizard": {
+    "locationSelectTitle": "Расположение каталога",
+    "permissionsInfoTitle": "Разрешение на доступ",
+    "deviceSelectionWaitingTitle": "Поиск устройства",
+    "deviceSelectionWaitingDescription": "Убедитесь, что устройство поддерживается приложением {{product_name}} и надежно подключено к порту USB компьютера.",
+    "deviceSelectionChooseTitle": "Подключены следующие устройства.",
+    "deviceSelectionChooseDescription": "Выберите одно, чтобы начать настройку. После завершения настройки мы выполним все необходимые действия и для других устройств.",
+    "launchWizardPipTitle": "Помогите нам улучшить {{product_name}}.",
+    "launchWizardMarketingTitle": "Настройки рассылки",
+    "deviceSelectionEmptyTitle": "Устройства не найдены",
+    "deviceSelectionEmptyDescription": "Убедитесь, что устройство поддерживается приложением {{product_name}} и надежно подключено к порту USB компьютера, затем повторите попытку.",
+    "deviceSelectionConnectedTitle": "{{deviceName}} подключено",
+    "deviceSelectionConnectedDescription": "Устройство {{deviceName}} не готово к настройке.",
+    "deviceNameTitle": "Назовите устройство",
+    "deviceNameDescription": "Присвойте устройству уникальное имя, чтобы вы могли отличить его от других устройств.",
+    "devicePasswordTitle": "Защитите устройство паролем.",
+    "devicePasswordDescription": "Защитите устройство паролем, чтобы ваши файлы были в безопасности.",
+    "deviceSetupCompleteTitle": "Устройство {{- deviceName}} готово к использованию.",
+    "deviceSetupCompleteDescription": "Теперь, когда устройство {{deviceName}} настроено, можно приступать к настройке {{product_name}}.",
+    "defaultDeviceName": "My Passport",
+    "addSourcesTitle": "Выбрать папки для добавления в каталог {{product_name}}",
+    "addSourcesDescription": "Не беспокойтесь, {{product_name}} никогда не переместит и не удалит файлы и папки без вашего разрешения.",
+    "accountSignInTitle": "Войти",
+    "accountSignUpTitle": "Пора настроить вашу бесплатную учетную запись.",
+    "accountSignUpDescription": "Создайте аккаунт, чтобы каталогизировать все ваши видео и фотографии в социальных сетях и файлы в облачных системах хранения.",
+    "accountPasswordTitle": "Изменить пароль",
+    "accountPasswordDescription": "Хотите сменить пароль? Мы отправим вам письмо с инструкциями. <br/><br/> ПРИМЕЧАНИЕ. Если вы использовали этот адрес электронной почты при создании учетной записи для ibi, My Cloud OS 5 или My Cloud Home, пароль в ней также будет изменен.",
+    "accountAuthTitle": "Пора настроить вашу бесплатную учетную запись.",
+    "accountAuthDescription": "Создайте учетную запись, чтобы вы могли без труда регистрировать и добавлять мультимедийные материалы и файлы в один каталог."
+  },
+  "AgreementMarketing": {
+    "title": "Настройки получения сообщений",
+    "first": {
+      "title": "Оставайтесь на связи",
+      "description": "Вы можете согласиться получать маркетинговые сообщения, в том числе адресные рекламные сообщения, в программе, push-уведомлениях и по электронной почте."
+    },
+    "second": {
+      "title": "Получение подобранных для вас уведомлений об обновлениях",
+      "description": "Когда вы регистрируетесь в нашей маркетинговой программе, мы можем использовать персональные идентифицирующие данные об использовании вами служб {{company_name}}, чтобы отправлять подобранные для вас рекламные сообщения. Такие данные могут включать информацию об использовании приложения {{product_name}}, например имя, адрес электронной почты, IP-адрес, параметры учетной записи (например, язык и часовой пояс) и сведения о подписке; данные об использовании, если вы дали свое согласие на {{product_name}} {{analytics_link}}; сведения об использовании служб сторонних компаний (например, облачных служб и социальных сетей, таких как Facebook, Instagram, Dropbox, Google Drive и OneDrive), которые были подключены к приложению {{product_name}}; информацию об использовании служб {{company_name}}, таких как {{store_link}}, которая может включать историю покупок, сведению о расположении и параметрах учетной записи (например, предпочитаемые языки); информацию об использовании сайтов {{company_name}} и файлов cookie, как описано в {{cookie_link}}. Вы можете изменить настройки в любой момент.",
+      "analytics_program": "программа аналитики",
+      "store": "Магазин {{company_name}}",
+      "cookie": "Положение об использовании файлов cookie"
+    },
+    "agreement": "Нажимая «{{agree}}», вы принимаете условия {{company_name}} {{privacy_link}} и соглашаетесь получать маркетинговые сообщения от компании {{company_name}}, в том числе рассылки, новости и сведения об акциях, связанных с продуктами {{company_name}} и сторонних компаний, в программе, push-уведомлениях и по электронной почте. Вы также соглашаетесь на использование ваших персональных идентифицирующих данных для целей, описанных выше. Вы можете отказаться в любое время.",
+    "privacy_statement": "Положение о конфиденциальности",
+    "agree": "Принимаю",
+    "skip": "Пропустить пока",
+    "notShare": "Не принимаю"
+  },
+  "LaunchWizardHeader": {
+    "account": "Создать учетную запись",
+    "deviceName": "Название устройства",
+    "devicePassword": "Пароль к устройству",
+    "deviceSetupComplete": "Настройка устройства завершена"
+  },
+  "LaunchWizardPermissionsInfo": {
+    "title": "Разрешения «{{product_name}}»",
+    "text1": "Когда отобразится системное приглашение «Уведомления {{product_name}}», нажмите «Разрешить». Теперь все готово!",
+    "text2": "Это разрешает {{product_name}} отображать уведомления об обновлениях, подключении устройств и других важных событиях, чтобы вы могли эффективно управлять вашим цифровым миром. "
+  },
+  "LaunchWizardDeviceSelectionChoose": {
+    "select": "Выбрать",
+    "retry": "Мое устройство не отображается",
+    "modalContent": "Убедитесь, что устройство поддерживается приложением и надежно подключено к порту USB компьютера, затем повторите попытку."
+  },
+  "LaunchWizardDeviceSelectionEmpty": {
+    "retry": "Повторите попытку",
+    "skip": "Я не настраиваю устройство",
+    "help": "Нужна помощь?",
+    "site": "Перейдите на наш сайт справки"
+  },
+  "LaunchWizardAccountSignUp": {
+    "signIn": "Войти"
+  },
+  "LaunchWizardAccountSignIn": {
+    "signUp": "Регистрация",
+    "forgotPassword": "Забыли пароль?",
+    "offline": "Нет подключения к Интернету. Проверьте соединение с Интернетом и повторите попытку."
+  },
+  "LaunchWizardAccountModal": {
+    "title": "Вы уверены?",
+    "text": "Создав учетную запись, вы можете без труда регистрировать устройства и активировать гарантию, а также добавлять ваши материалы в социальных сетях и файлы в облачных системах хранения в один каталог.<br/><br/>Продолжить, не создавая учетную запись?",
+    "textSkipSocial": "Создайте учетную запись, чтобы вы могли без труда регистрировать и добавлять мультимедийные материалы и файлы в один каталог.<br/><br/>Продолжить, не создавая учетную запись?",
+    "confirm": "Да",
+    "close": "Отмена"
+  },
+  "LaunchWizardAccountExistEmail": {
+    "title": "Адрес электронной почты уже зарегистрирован",
+    "text": "Этот адрес электронной почты уже связан с учетной записью Вместо этого войти?",
+    "confirm": "Войти",
+    "close": "Закрыть"
+  },
+  "LaunchWizardDeviceName": {
+    "skip": "Я сделаю это позже",
+    "error": "Возникла ошибка при присвоении имени устройства Повторите попытку."
+  },
+  "AgreementAnalytics": {
+    "title": "Помогите нам становиться лучше {{product_name}}",
+    "hint": "Нажав <b>«Принимаю»</b>, вы соглашаетесь передавать нам данные об использовании для указанных выше целей. Вы можете изменить настройки в любой момент.",
+    "AgreementAnalyticsDescription1": "Отправляя данные об использовании приложения, вы помогаете нам улучшать наши устройства, службы и программы, а также предоставлять вам персонифицированную информацию. Мы заботимся о наших клиентах и хотим быть открытыми с пользователями относительно нашей политики конфиденциальности. Перейдите на сайт {{privacy_link}}, чтобы получить дополнительные сведения.",
+    "AgreementAnalytics2": "Какие данные мы собираем?",
+    "AgreementAnalyticsDescription2": "Данные об использовании включают сведения о том, как вы пользуетесь приложением. В том числе это могут быть сведения об устройстве, его конфигурации, статистика использования ЦП/устройства и другая статистика использования приложений, данные о вызовах API, информация о сбоях службы, состоянии сети, использовании накопителя, поисковых запросах, расположении, атрибутах файлов (например, такие метаданные, как размер, тип, источник, даты и время создания/изменения/доступа, производитель/модель камеры, расположение, тэги/описание), корреляции файлов, а также сведения о добавляемых в приложение учетных записях в решениях сторонних компаний.",
+    "AgreementAnalytics3": "Как мы используем эти данные?",
+    "AgreementAnalyticsDescription3": "Мы автоматически собираем данные об использовании, если вы согласитесь на участие в нашей программе аналитики. Это помогает нам повышать качество и производительность наших устройств, служб и приложений, а также предоставлять вам персонифицированную информацию, в том числе с помощью сообщений в приложении и push-уведомлений. Мы не продаем ваши персональные данные.",
+    "notShare": "Не принимаю",
+    "skip": "Пропустить пока",
+    "agree": "Принимаю",
+    "offline": "Нет подключения к Интернету. Проверьте соединение с Интернетом и повторите попытку.",
+    "privacy_center": "Центр обеспечения конфиденциальности"
+  },
+  "LaunchWizardDevicePassword": {
+    "skip": "Я не хочу устанавливать пароль",
+    "password": "Пароль",
+    "confirmation": "Подтверждение пароля",
+    "hint": "Подсказка пароля",
+    "checkboxTitle": "Включить автоматическую разблокировку для меня на этом компьютере.",
+    "checkboxDescription": "Установите этот флажок, если вы хотите, чтобы пароль для Pat’s My Passport был запомнен на этом компьютере.",
+    "error": "Возникла ошибка установки пароля. Повторите попытку."
+  },
+  "LaunchWizardResetPassword": {
+    "button": "Отправить инструкции",
+    "email": "Адрес электронной почты"
+  },
+  "LaunchWizardLocationSelect": {
+    "hint": "Каталог — это список элементов, который содержит информацию о ваших файлах, например имя, тип, размер, источник, дату создания и дату изменения. По умолчанию каталог сохраняется на внутреннем диска компьютера. Для хранения каталога используется не более 10 % свободного пространства на устройстве.",
+    "info": "Если на компьютере установлено несколько дисков, выберите диск на котором больше свободного места.",
+    "capacity": "<b>{{free}}</b> свободно из {{full}}",
+    "drive": "Накопитель",
+    "popoverTitle": "Неподдерживаемая файловая система",
+    "popoverContent": "{{product_name}} не поддерживает формат файловой системы этого накопителя (FAT). Храните каталог на другом диске.",
+    "popoverNotEnoughSpaceTitle": "Нет доступного пространства",
+    "popoverNotEnoughSpaceText": "На этом диске нет свободного пространства. Храните каталог на другом диске. {{link}}",
+    "link": "Подробнее"
+  },
+  "HeaderFtuePopover": {
+    "title": "Давайте добавим первый источник!",
+    "text": "В {{product_name}} необходимо добавить хотя бы один источник, чтобы использовать огромные возможности приложения. Мы покажем, как это сделать. {{take_the_tour_link}}",
+    "take_the_tour_link": "Обзор программы"
+  },
+  "ManageSourcesFtueManager": {
+    "StartAlert": {
+      "title": "Узнайте о возможностях {{product_name}}!",
+      "text": "Мастер настройки поможет добавить любой внешний накопитель в источники и внутренний накопитель компьютера, а также ознакомит с основами использования приложения.",
+      "textSocialCloud": "Мастер настройки поможет добавить любой внешний накопитель в список источников, добавить внутренний накопитель компьютера, а также ознакомит с основами использования приложения.",
+      "button": "Далее"
+    },
+    "DrivePresent": {
+      "title": "Сначала давайте добавим ваше новое устройство.",
+      "text": "Наведите указатель на устройство, щелкните <b>меню дополнительных действий «…» </b> и выберите <b>«Добавить содержимое устройства в каталог»</b>, чтобы создать каталог."
+    },
+    "DriveNotPresent": {
+      "title": "Сначала давайте добавим ваше новое устройство.",
+      "text": "Нажмите <b>«Добавить устройство»</b>, чтобы выбрать источник, содержимое на котором вы хотите добавить в каталог."
+    },
+    "NotFromTinyInstaller": {
+      "title": "Сначала давайте добавим устройство.",
+      "text1": "Чтобы начать создавать каталог, щелкните карту устройства.",
+      "text2": "Чтобы начать создавать каталог содержимого на выбранном устройстве, щелкните карту."
+    },
+    "AddingAComputer": {
+      "title": "Добавление компьютера",
+      "text1": "Добавив внутренний накопитель компьютера как источник, вы можете выбирать папки первого уровня на устройстве для внесения их содержимого в каталог. Мы выбрали несколько стандартных расположений, в которых пользователи обычно хранят важные файлы.",
+      "text2": "Вы можете выбрать другие папки с важными файлами, затем прокрутите вниз и нажмите «Добавить выбранные устройства»."
+    },
+    "PlugInDrive": {
+      "title": "Подключите внешнее устройство.",
+      "text": "Подключите устройство к компьютеру, выберите его из списка и нажмите <b>«Добавить выбранное устройство»</b>."
+    },
+    "IndexingProgress": {
+      "title": "Создание каталога",
+      "text": "Содержимое в каталоге можно просматривать, а также выполнять поиск по нему, даже когда источники не подключены. Данные о ходе создания каталога отображаются здесь и в левом нижнем углу окна приложения.",
+      "button": "Далее"
+    },
+    "MultipleSources": {
+      "title": "Несколько источников",
+      "text1": "Теперь, когда вы добавили еще один источник, {{product_name}} по очереди добавит содержимое на них в каталог, начиная с первого добавленного устройства и заканчивая последним.",
+      "text2": "Вы можете в любой момент просмотреть данные о ходе создания каталога здесь и в левом нижнем углу окна приложения.",
+      "button": "Далее"
+    },
+    "ManagingSources": {
+      "title": "Управление источниками",
+      "text": "Наведите указатель на источник и нажмите на иконку с тремя точками, чтобы просмотреть список действий, доступных для этого источника.",
+      "button": "Далее"
+    },
+    "AddSourceButton": {
+      "title": "Добавление источника",
+      "text": "На вкладке источников нажмите <b>кнопку «+»</b>, чтобы выбрать тип источника и приступить к добавлению содержимого в каталог."
+    },
+    "DriveLocked": {
+      "title": "Разблокировать устройство",
+      "text": "Прежде чем добавлять содержимое в каталог, необходимо разблокировать устройство."
+    },
+    "FinishAlert": {
+      "title": "Источник добавлен!",
+      "text": "Посмотрите краткий обзор приложения {{product_name}}, чтобы узнать, как с его помощью вы можете управлять вашим цифровым миром.",
+      "button": "Начать"
+    },
+    "UnlockingDrive": {
+      "title": "Безопасность данных",
+      "text": "С помощью пароля на устройстве вы защищаете ваши данные. Разблокируйте устройство, чтобы приложение {{product_name}} добавило содержимое на нем в каталог."
+    },
+    "UnlockedDriveIndexed": {
+      "title": "Содержимое уже добавляется в каталог",
+      "text": "Содержимое на устройстве уже добавляется {{product_name}} в каталог. Выберите <b>«Закрыть»</b>, и мы посмотрим, что происходит."
+    },
+    "UnlockedDriveNotIndexed": {
+      "title": "Разблокировано!",
+      "text": "Затем выберите <b>«Просмотреть содержимое устройства»</b>."
+    },
+    "UnlockedDriveStartIndexing": {
+      "title": "Теперь приступайте к созданию каталога",
+      "text": "Выберите <b>«Добавить содержимое устройства в каталог»</b>, и приступим. Затем просто подключите и разблокируйте устройство, {{product_name}} автоматически добавит содержимое в каталог."
+    },
+    "TurboMode": {
+      "title": "Составление каталога длится слишком долго?",
+      "text1": "Включите режим повышенной скорости и добавляйте содержимое в каталог в четыре раза быстрее! Это очень удобно, если вам необходимо добавить в каталог большие объемы данных, например при подключении нового источника.",
+      "text2": "Включение режима повышенной скорости отменяет ограничения на скорость добавления содержимого в {{product_name}}. Это ускорит создание каталога, но при этом вентиляторы компьютера могут работать громко, а другие приложения в системе работать медленно или не отвечать.",
+      "text3": "ПРИМЕЧАНИЕ. Сейчас режим повышенной скорости поддерживается только для компьютеров с минимум 4 ядрами и RAM более 4 ГБ. {{link}}",
+      "link": "Подробнее",
+      "button": "Далее"
+    }
+  },
+  "FtueSuspendModal": {
+    "title": "Пропустить учебный курс",
+    "text": "Вы можете пройти учебный курс позже, открыв его в настройках.",
+    "button1": "Пропустить",
+    "button2": "Отмена"
+  },
+  "SelectModePanel": {
+    "counter": "Выбрано элементов: {{count}}",
+    "counter_plural": "Выбрано элементов: {{count}}"
+  },
+  "Notifications": {
+    "volumeIndexing": {
+      "title": "Добавление в каталог содержимого {{label}}",
+      "message": "Просто подождите, пока мы добавим содержимое устройства в каталог. Не отключайте устройство до завершения добавления в каталог."
+    },
+    "indexingCompleted": {
+      "title": "Создание каталога завершено",
+      "message": "Просмотрите обновленное содержимое."
+    },
+    "volumeConnected": {
+      "title": "{{label}} подключено",
+      "message": "Составьте каталог содержимого на этом устройстве, чтобы просматривать и находить нужные материалы, когда устройство не подключено."
+    },
+    "deviceLocked": {
+      "title": "Разблокировать {{label}}",
+      "message": "Щелкните здесь, чтобы разблокировать подключенное устройство."
+    },
+    "deviceLock": {
+      "title": "{{label}} подключено",
+      "message": "Заблокируйте устройство для надежной защиты данных."
+    },
+    "takeSurvey": {
+      "title": "Помогите нам улучшить {{product_name}}!",
+      "message": "Пройдите опрос и расскажите нам о своем опыте использования приложения."
+    },
+    "Albums": {
+      "viewCollections": "Просмотрите коллекции!"
+    }
+  },
+  "IndexingDrive": {
+    "title": "Добавление содержимого устройства в каталог",
+    "text": "Пока мы составляем каталог содержимого на устройстве, вы можете просмотреть коллекции, а мы сообщим вам, когда каталог будет готов.",
+    "viewCollections": "Просмотр коллекций",
+    "slides": {
+      "slide1": {
+        "title": "Автоматическое упорядочение",
+        "description": "{{product_name}} упорядочивает и классифицирует все ваши файлы, чтобы вы могли быстро находить нужные."
+      }
+    }
+  },
+  "TitlebarUser": {
+    "no_subscription": "Нет подписки",
+    "yes_subscription": "Подписка {{product_name}} Access",
+    "link": "Обновить"
+  },
+  "TitlebarUserDesktopOptions": {
+    "devtools": "Средства разработчика",
+    "about": "О программе",
+    "quit": "Выйти"
+  },
+  "TitlebarPrimeModal": {
+    "button": "Подписка на Access"
+  },
+  "Titlebar": {
+    "back": "Назад",
+    "forward": "Далее",
+    "help": "Справка",
+    "account": "Учетная запись"
+  },
+  "Widgets": {
+    "left": "Прокрутить влево",
+    "right": "Прокрутить вправо"
+  },
+  "Duplicates": {
+    "title": "Копии",
+    "subtitle": "Составление каталога содержимого на {{count}} устройстве. Это содержимое не будет включено",
+    "subtitle_plural": "Составление каталога содержимого на устройствах: {{count}}. Это содержимое не будет включено",
+    "indexingInProgressText": "Содержимое на одном из устройств добавляется в каталог. Содержимое, которое вносится в каталог, не будет включено в результаты. Мы рекомендуем подождать, пока составление каталога содержимого на устройстве завершится."
+  },
+  "DuplicatesPreviewPanel": {
+    "noDuplicatesTitle": "Копии не найдены.",
+    "noDuplicatesText": "Поздравляем! Ваши файлы в полном порядке.",
+    "selectDuplicate": "Выбрать копию для предварительного просмотра",
+    "filesCount": "{{count}} файл",
+    "filesCount_plural": "Файлов: {{count}}"
+  },
+  "DuplicatesPreviewPanelFileItem": {
+    "manage": "Управляйте",
+    "managePopOver": "Для управления этим элементом установите соединение с «{{device_name}}».",
+    "openInPhotos": "Открыть приложение «Фото»",
+    "fileIndex": "{{index}} из {{count}}",
+    "sourceNotConnected": "Источник не подключен",
+    "errAccessDenied": "У {{product_name}} нет разрешения вашей операционной системы на удаление файлов в этой папке."
+  },
+  "DuplicatesMissingInfoPanel": {
+    "title": "Отображаются не все копии?",
+    "text": "Файлы из источников в социальных сетях и облачных службах не отображаются в центре копий. {{link_text}}",
+    "link_texts": "Дополнительные сведения можно просмотреть в разделе вопросов и ответов."
+  },
+  "DuplicatesDeleteModal": {
+    "title": "Удалить файл",
+    "text": "Удалить «{{name}}»?",
+    "note": "Примечание. Это последняя копия указанного выше файла. Если ее удалить, оригинальный файл больше не будет отображаться в виджете «Копии». Чтобы найти оригинал, воспользуйтесь вкладкой поиска или обзора.",
+    "confirmButton": "Да, удалить",
+    "deleteSuccess": "«{{name}}» удалено."
+  },
+  "TurboMode": {
+    "title": "Режим повышенной скорости {{state}}",
+    "description": "Что это значит?",
+    "popOverTitle": "Что такое режим повышенной скорости?",
+    "popOverText1": "Мы рекомендуем использовать режим повышенной скорости, если вам необходимо составить каталог больших объемов данных, например при подключении нового источника.",
+    "popOverText2": "Включение режима повышенной скорости отменяет ограничения на скорость добавления содержимого в {{product_name}}. Это ускорит создание каталога, но при этом вентиляторы компьютера могут работать громко, а другие приложения в системе работать медленно или не отвечать. Режим повышенной скорости отключается, когда вы закрываете приложение {{product_name}}, чтобы не замедлять работу системы.",
+    "popOverText3": "ПРИМЕЧАНИЕ. Сейчас режим повышенной скорости доступен на компьютерах с минимум четырьмя ядрами и памятью больше 4 ГБ. {{link}}",
+    "link": "Подробнее"
+  },
+  "Facets": {
+    "title": "По категориям",
+    "empty": "Файлы, добавленные в источники, будут отображаться здесь, автоматически отсортированные по типу."
+  },
+  "BrowseSources": {
+    "allSources": "Все источники",
+    "internalStorage": "Внутренний накопитель",
+    "externalStorage": "Внешний накопитель",
+    "social": "Социальные сети",
+    "cloud": "Облачная система хранения",
+    "addExternal": "Добавить источники в {{product_name}}",
+    "empty_all": "Достаньте из шкафа внешние накопители, стряхните с них пыль и добавьте в {{product_name}}.",
+    "empty_social": "Нет доступных источников социальных сетей Выберите другой тип источника или источник {{link}} в разделе «Управление источниками».",
+    "empty_cloud": "Нет доступных источников облачных систем хранения. Выберите другой тип источника или источник {{link}} в разделе «Управление источниками».",
+    "empty_internalStorage": "Нет доступных внешних источников. Выберите другой тип источника или источник {{link}} в разделе «Управление источниками».",
+    "empty_externalStorage": "Нет доступных внутренних источников. Выберите другой тип источника или источник {{link}} в разделе «Управление источниками».",
+    "link_social": "добавить социальную сеть",
+    "link_cloud": "добавить облачную систему хранения",
+    "link_externalStorage": "добавить внешний накопитель",
+    "link_internalStorage": "добавить внутренний накопитель"
+  },
+  "CollectionGridItem": {
+    "pages": "Страниц: {{count}}"
+  },
+  "LivePhoto": {
+    "live": "LIVE"
+  },
+  "SidePanelCollections": {
+    "search_placeholder": "Поиск в коллекциях",
+    "empty_title": "Результаты поиска в коллекциях",
+    "empty_text": "Похоже, для запроса «ключевое слово» коллекции не найдены."
+  },
+  "Surveys": {
+    "title": "Опросы",
+    "header": "Пройдите короткий опрос.",
+    "survey_1": {
+      "title": "Начало работы и первые впечатления",
+      "short_title": "Начало работы"
+    },
+    "survey_2": {
+      "title": "Добавление и поиск содержимого",
+      "short_title": "Добавить и найти содержимое"
+    },
+    "survey_3": {
+      "title": "Виртуальное упорядочение содержимого",
+      "short_title": "Упорядочение содержимого"
+    }
+  },
+  "BrowseFTUE": {
+    "modal": {
+      "title": "Обзор с {{product_name}}",
+      "left": {
+        "descriptionTitle": "По категориям и виджетам",
+        "descriptionText": "Ваши файлы отсортированы по категориям и другим параметрам, чтобы вы могли быстро их находить."
+      },
+      "right": {
+        "descriptionTitle": "По источникам",
+        "descriptionText": "Удобнее пользоваться структурой папок и файлов на устройстве для хранения данных? Не проблема. Просматривайте содержимое, отсортированное по источникам, чтобы найти нужные файлы."
+      }
+    },
+    "popover": {
+      "title": "Что на этой странице?",
+      "text": "Если вам когда-либо понадобится прочитать о том, как пользоваться каждой вкладкой в {{product_name}}, щелкните <b>значок вопросительного знака</b> в правом верхнем углу и выберите <b>«Что на этой странице?»</b>"
+    }
+  },
+  "PrimeFTUE": {
+    "title": "Возможности Access",
+    "left": {
+      "descriptionTitle": "Доступ откуда угодно",
+      "descriptionText": "Подписка на {{product_name}} Access дает возможность искать и просматривать содержимое на настольном компьютере, мобильном устройстве или планшете, на котором установлено {{product_name}}, или по сети."
+    },
+    "right": {
+      "descriptionTitle": "Социальные сети и облачные службы",
+      "descriptionText": "{{product_name}} Access дает возможность подключить поддерживаемые источники в социальных сетях и облачных службах. Ищите и просматривайте содержимое на ваших источниках в одном приложении. {{link}}",
+      "link": "Узнайте больше."
+    }
+  },
+  "CollectionFTUE": {
+    "title": "Исследование вашего цифрового мира",
+    "left": {
+      "descriptionTitle": "Места и тэги",
+      "descriptionText": "Ваши файлы отсортированы по объектам, дате, расположению и другим параметрам, чтобы добавить ваше содержимое в соответствующие группы."
+    },
+    "right": {
+      "descriptionTitle": "Мои коллекции",
+      "descriptionText": "Создавайте собственные коллекции файлов из ваших источников, чтобы управлять вашим цифровым миром."
+    }
+  },
+  "SearchFTUE": {
+    "title": "Поиск в одном приложении",
+    "left": {
+      "descriptionTitle": "Поиск на всех источниках",
+      "descriptionText": "После добавления цифровых файлов в каталог и присвоения им тэгов вы можете искать нужное содержимое на компьютере и накопителях, даже если они не подключены."
+    },
+    "right": {
+      "descriptionTitle": "Дополнительные фильтры",
+      "descriptionText": "Оптимизируйте поиск, используя такие параметры, как диапазон дат, тэги, источник, тип файла, место и другие. Находите именно то, что нужно, и управляйте содержимым."
+    }
+  },
+  "SourcesFTUE": {
+    "title": "Добавление источников и управление ими",
+    "left": {
+      "descriptionTitle": "Добавление источников и составление каталога их содержимого",
+      "descriptionText": "Подключите устройства к компьютеру и добавьте их как источники. Затем {{product_name}} выполнит сканирование их содержимого для добавления в каталог, чтобы вы могли искать, просматривать и упорядочивать его."
+    },
+    "right": {
+      "descriptionTitle": "Управление внешними устройствами",
+      "descriptionText": "Управляйте поддерживаемыми внешними устройствами для хранения WD и SanDisk, присваивая им названия, добавляя пароль и многое другое. Следите за новостями, так как мы расширяем список поддерживаемых устройств."
+    }
+  },
+  "HelpPopOver": {
+    "whatPage": "Что на этой странице?",
+    "website": "Сайт справки"
+  },
+  "WarningNotificationsUniqueIdentifier": {
+    "text": "Зная уникальный идентификатор, вам будет проще устранить неполадки с {{product_name}}, когда вы обращаетесь в службу поддержки. Если вы предоставите уникальный идентификатор службе поддержки, наши специалисты смогут просмотреть журналы для вашей учетной записи, в которых хранится информация об операциях и работе устройств, которая может быть полезна при выявлении и решении проблемы."
+  },
+  "WarningNotificationsPhotosLibraryNoInternet": {
+    "text": "Создание каталога было приостановлено, потому что ваш компьютер не подключен к Интернету. Восстановите подключение, чтобы продолжить создание каталога библиотеки фотографий."
+  },
+  "TutorialFtue": {
+    "browse": "Просматривайте файлы по категориям, источникам или нашим умным виджетам.",
+    "collections": "Наведите порядок в вашем цифровом мире с помощью коллекций {{product_name}}.",
+    "sources": "Добавляйте новые устройства как источники.",
+    "turbo": "Составление каталога длится слишком долго? Ускорьте его с помощью <b>Режима повышенной скорости</b>.",
+    "search": "Ищите содержимое в каталоге по имени файла, местам и ключевым словам.",
+    "tipsTricks": "Подсказки и рекомендации по эффективному использованию {{product_name}}.",
+    "next": "Перейдите на разные вкладки приложения {{product_name}}, чтобы узнать больше о его функциях."
+  },
+  "ModalConfirmSignOut": {
+    "title": "Выйти из {{product_name}}?",
+    "text": "Выйти из приложения?",
+    "textWithCloudServices": "Вы по-прежнему будете иметь доступ к своему каталогу даже после выхода из системы.",
+    "confirm": "Выход",
+    "titleOffline": "Нет подключения к Интернету",
+    "textOffline": "Чтобы выйти из {{product_name}}, устройство должно быть подключено к Интернету. Убедитесь, что устройство подключено, и повторите попытку."
+  },
+  "ModalSurveyAvailable": {
+    "title": "Доступен опрос № {{index}}",
+    "text": "Пройдите опрос и расскажите нам о своем опыте использования <b>{{name}}</b>.",
+    "confirm": "Принять участие в опросе",
+    "cancel": "Позже"
+  },
+  "UpdateBanner": {
+    "text": "Доступна новая версия {{product_name}}. {{link}} Просмотрите сведения об исправленных ошибках и новых функциях",
+    "link": "Обновить",
+    "updateLoaded": "Обновление загружено. {{relaunch}}",
+    "relaunch": "Перезапустить {{product_name}}"
+  },
+  "Placeholder": {
+    "network": {
+      "title": "Поддержка сетевого накопителя",
+      "text": "Служба поддержки для My Cloud Home, ibi и My Cloud OS 5."
+    }
+  },
+  "SubscriptionTicket": {
+    "EdgeRoverBasic": {
+      "title": "{{product_name}} Basic",
+      "text": "Вы используете бесплатную версию {{product_name}}.",
+      "button": "Возможности перехода на другие версии"
+    },
+    "EdgeRoverAccess": {
+      "title": "Доступ к {{product_name}}",
+      "text": "9,99 $ в месяц, оплата ежегодно",
+      "textExpire": "Следующий платеж запланирован на ",
+      "button": "Управление подпиской"
+    }
+  },
+  "ModalShortcutsHelp": {
+    "ModalTitle": "Сочетания клавиш",
+    "GeneralTitle": "Основные параметры",
+    "PreviousPage": "Предыдущая страница",
+    "SwitchMainSections": "Сменить основные разделы",
+    "StartSearch": "Начать поиск",
+    "CreateCollection": "Создать коллекцию",
+    "CloseModalOrRightPanel": "Закрыть модальную или правую панель",
+    "SelectionTitle": "Выбор",
+    "SelectAll": "Выбрать все",
+    "SelectRangeOfItems": "Выбрать ряд элементов",
+    "SelectOrDeselect": "Выбрать / отменить выбор отдельного элемента",
+    "HelpTitle": "Справка",
+    "HelpCenter": "Центр справки",
+    "KeyboardShortcuts": "Сочетания клавиш",
+    "FilePreviewTitle": "Предварительный просмотр файла",
+    "NextFile": "Следующий файл",
+    "PreviousFile": "Предыдущий файл",
+    "CloseFilePreview": "Завершить предварительный просмотр файла",
+    "PlayOrPause": "Воспроизвести / приостановить воспроизведение видео- или аудиозаписи",
+    "OpenFile": "Открыть файл",
+    "MoreInfo": "Подробнее",
+    "ShowFileLocation": "Показать расположение файла",
+    "ZoomInPhoto": "Увеличить фотографию",
+    "ZoomOutPhoto": "Уменьшить фотографию",
+    "ZoomToZero": "Масштаб 100 %",
+    "EnterFullScreen": "Полноэкранный режим",
+    "ExitFullScreen": "Выйти из полноэкранного режима",
+    "BrowseAndGridsTitle": "Обзор и сетки",
+    "NavigateFilesAndFolders": "Переход по файлам и папкам",
+    "RefreshList": "Обновить список файлов или папок",
+    "OpenFocusedFolder": "Открыть указанную папку",
+    "OpenFocusedFileInApp": "Открыть указанный файл в приложении",
+    "ShowLocation": "Показать расположение файла/папки",
+    "ToggleView": "Переключить представление списка/эскизов",
+    "ChangeSort": "Сортировка",
+    "SourcesTitle": "Источники",
+    "NavigateCategories": "Переход по категориям",
+    "NavigateSources": "Переход по источникам",
+    "OpenFocusedDriveOrSource": "Открыть указанный накопитель или источник",
+    "SettingsTitle": "Настройки",
+    "NavigateSettingsSections": "Переход по разделам настроек",
+    "OpenFocusedSection": "Открыть указанный раздел"
+  },
+  "PageSettingsProductTour": {
+    "title": "Краткий обзор продукта",
+    "text": "Добавление источника",
+    "button_text": "Добавьте источник"
+  },
+  "ManageSourcesSidePanelsSignIn": {
+    "title": "Войти",
+    "descriptionSocial": "Чтобы создать каталог ваших материалов из социальных сетей, например Facebook, Google Photos, Flickr и других, войдите или создайте учетную запись {{company_name}}.",
+    "descriptionCloud": "Чтобы создать каталог ваших материалов из облачных служб, например Dropbox, Google Drive, OneDrive и других, войдите или создайте учетную запись {{company_name}}."
+  },
+  "ProvidersList": {
+    "infoTitle": "Не отображается учетная запись {{type}}?",
+    "infoText": "{{clickHere}}, чтобы отправить запрос службе поддержки об этом источнике: {{sourceType}}.",
+    "clickHere": "Нажмите здесь",
+    "socialMedia": "социальные сети",
+    "social": "социальная сеть",
+    "cloud": "облако"
+  },
+  "NotConnectedItem": {
+    "systemFolderWarning": "Невозможно индексировать эту системную папку"
+  },
+  "ModalReinstall": {
+    "title": "Переустановить {{product_name}}",
+    "content1": "Процесс создания каталога {{product_name}} существенно изменился, вам необходимо <b>удалить и повторно установить {{product_name}}, а затем снова создать каталог материалов</b>, чтобы пользоваться всеми новыми возможностями. {{link1}}.",
+    "link1": "Просмотреть пошаговые инструкции",
+    "title1": "Если вы переустановите приложение…",
+    "title2": "Если вы не переустановите приложение…",
+    "li1": "<b>Выбор расположения каталога</b>. Если у вас несколько томов, выберите расположение для хранения каталога.",
+    "li2": "<b>Меньший размер каталога</b>. Каталог {{product_name}} займет максимум 10 % свободного пространства на диске компьютера.",
+    "li3": "<b>Меньший размер эскизов изображений</b>. Благодаря использованию эскизов изображений с разрешением 720p размер приложения будет небольшим, при этом вы сможете просматривать высококачественные изображения.",
+    "li4": "<b>Больший размер эскизов изображений</b>. Разрешение эскизов останется 1080p, а приложение будет занимать больше места на устройстве.",
+    "li5": "<b>Ошибки просмотра эскизов</b>. При предварительном просмотре файлов в представлении одного элемента могут возникать ошибки.",
+    "li6": "<b>Меньше функций приложения</b>. Функции и обновления приложения, возможно, не будут работать надлежащим образом.",
+    "button1": "Как переустановить {{product_name}}?",
+    "button2": "Спросить позже"
+  },
+  "TurboModeNotifications": {
+    "unavailable": {
+      "text": "Сейчас режим повышенной скорости доступен только для компьютеров с минимум 4 ядрами и RAM более 4 ГБ."
+    },
+    "available": {
+      "on": "В режиме повышенной скорости не действуют ограничения на скорость составления каталога содержимого в {{product_name}}. При этом другие приложения в системе могут работать медленно или не отвечать. Режим повышенной скорости отключается, когда вы закрываете приложение {{product_name}}, чтобы не замедлять работу системы.",
+      "wasOn": "Режим повышенной скорости выключен, так как приложение {{product_name}} было закрыто."
+    }
+  },
+  "SlowIndexPopOver": {
+    "title": "Составление каталога длится слишком долго?",
+    "text1": "Процесс составления каталога большого количества фотографий может длиться долго. Дождитесь завершения создания эскизов, чтобы вы могли их просматривать, даже когда ваши источники не подключены.",
+    "text2": "Чтобы ускорить составление каталога, попробуйте сделать следующее:",
+    "listItem1": "оставьте приложение и систему работать ночью;",
+    "listItem2": "Оставьте источники, содержимое которых вносится в каталог, подключенными к системе."
+  },
+  "CollectionFtueManager": {
+    "popover": {
+      "title": "Добавление к коллекции",
+      "text": "Нажмите кнопку «<b>Добавить</b>», чтобы выбрать категорию и найти файлы, которые вы ищете."
+    }
+  },
+  "AcronisBanner": {
+    "title": "Acronis True Image",
+    "subtitle": "Резервное копирование и клонирование диска"
+  },
+  "ErrorBoundary": {
+    "title": "Что-то пошло не так.",
+    "description": "Чтобы устранить неполадку, попробуйте обновить страницу.",
+    "refresh": "Обновить",
+    "issues": "Неполадки не устранены?",
+    "feedback": "Отправьте отзыв",
+    "help": "{{feedback}}, чтобы помочь нам исследовать и решить проблему."
+  },
+  "ModalTermsOfService": {
+    "title": "Запуск {{product_name}}!",
+    "paragraph_1": "Благодарим за использование бета-версии {{product_name}}! Ваш отзыв помог нам улучшить работу {{product_name}}. Мы рады сообщить, что прекращаем использование бета-версии {{product_name}} и выпускаем версию 1.0.",
+    "paragraph_2": "Прочитайте и примите условия использования и положения о конфиденциальности, чтобы и в дальнейшем использовать {{product_name}}.",
+    "agree": "Я принимаю условия",
+    "close": "Нет, закрыть {{product_name}}",
+    "title_accepted": "Мы рады, что вы с нами!",
+    "accepted_paragraph_1": "Мы благодарны вам за то, что вы нашли время и установили бета-версию {{product_name}}. Мы надеемся, что вы в дальнейшем будете использовать {{product_name}} и отправлять нам предложения по улучшению работы приложения.",
+    "accepted_paragraph_2": " Если вы использовали учетную запись бета-версии {{product_name}}, будет выполнен выход из приложения, пока мы официально не реализуем функцию создания учетной записи. Ваша учетная запись все еще существует, но вы пока не сможете войти в нее."
+  },
+  "SearchResultsFtueManager": {
+    "popover": {
+      "title": "Фильтры",
+      "text": "Фильтры по источникам, категориям, типам файлов, тэгам и расположениям будут обновляться динамически для отображения подходящих результатов."
+    }
+  },
+  "NotificationsErrReadContent": {
+    "text": "При создании каталога «{{label}}» в {{product_name}} возникли ошибки. В результате некоторые файлы могут не отображаться в {{product_name}}.",
+    "text_plural": "При создании каталога содержимого на нескольких дисках в {{product_name}} возникли ошибки. В результате некоторые файлы могут не отображаться в {{product_name}}."
+  },
+  "SignOut": {
+    "start": "{{product_name}} удаляет каталоги материалов в социальных сетях и облачных службах, прежде чем выполнить выход.",
+    "success": "Выход выполнен.",
+    "error": "Возникла ошибка при удалении источников в социальных сетях и облачных службах. Нам не удалось выполнить выход. Повторите попытку позже."
+  },
+  "NotificationsErrCloudProviderAuth": {
+    "text": "Похоже, у {{product_name}} больше не доступа к {{label}}. Чтобы разрешить доступ {{product_name}} к источникам, откройте меню источника и выберите «Повторно подключить источник».",
+    "text_plural": "Похоже, у {{product_name}} больше не доступа к {{label}}. Чтобы разрешить доступ {{product_name}} к источникам, откройте меню источника и выберите «Повторно подключить источник»."
+  },
+  "RemovedCatalogInformer": {
+    "title": "Каталог {{name}} удален."
+  },
+  "ModalSocialCloudFtue": {
+    "title": "Социальные сети и облачные службы",
+    "left": {
+      "descriptionTitle": "Подключение источников в социальных сетях и облачных службах",
+      "descriptionText": "Подключите социальные сети и облачные службы в {{product_name}} и добавьте их как источники. Затем {{product_name}} выполнит сканирование их содержимого для добавления в каталог, чтобы вы могли искать, просматривать и упорядочивать его."
+    },
+    "right": {
+      "descriptionTitle": "Синхронизация каталога",
+      "descriptionText": "Хотя мы храним каталог на локальном устройстве, отдельные данные, необходимые для синхронизации каталога с социальными сетями и облачными службами, хранятся в облаке {{product_name}}."
+    }
+  },
+  "ModalSignOut": {
+    "title": "Выход",
+    "text": "Перед выходом укажите, что вы хотели бы сделать с каталогами материалов в социальных сетях и облачных службах.",
+    "keepCatalog": {
+      "title": "Сохранить каталоги материалов в социальных сетях и облачных службах",
+      "point_1": "Каталоги для учетных записей социальных сетей и облачных служб будут храниться в {{product_name}} и на вашем компьютере.",
+      "point_2": "Пользователи, у которых есть доступ к вашему компьютеру, также будут иметь доступ к этим каталогам.",
+      "point_3": "Создание каталога будет приостановлено, пока вы не войдете в приложение снова."
+    },
+    "removeCatalog": {
+      "title": "Удалить каталоги материалов в социальных сетях и облачных службах",
+      "point_1": "Каталоги содержимого в социальных сетях и облачных службах будут удалены из {{product_name}}.",
+      "point_2": "Вы не сможете искать содержимое и пользоваться функциями {{product_name}}, пока снова не войдете в приложение и не добавите содержимое повторно в каталог.",
+      "point_3": "Каталоги содержимого на внутренних и внешних устройствах хранения не будут удалены.",
+      "text": "Удаление каталогов материалов в социальных сетях и облачных службах может занять несколько минут и зависит от размера каталога."
+    }
+  },
+  "NotificationsErrInsufficientStorage": {
+    "text_big": "Недостаточно места для добавления нового содержимого в каталог. Чтобы освободить место для каталога, вы можете удалить ненужные файлы на компьютере. {{learn_more_link}}.",
+    "text_small": "Создание каталога остановлено.",
+    "learn_more_link": "Подробнее"
+  },
+  "NotificationsErrMaxDataSizeReached": {
+    "text_big": "Размер каталога достиг максимального значения, мы не можем добавлять в него новые элементы. {{learn_more_link}}, чтобы просмотреть дополнительные сведения о каталоге.",
+    "text_small": "Создание каталога приостановлено.",
+    "learn_more_link": "Нажмите здесь"
+  },
+  "Auth": {
+    "Before": {
+      "buttons": "«Создать учетную запись» или «Войти»",
+      "title": "Пора настроить вашу бесплатную учетную запись.",
+      "description": "Ваша учетная запись {{company_name}} отслеживает устройства для хранения в приложениях для настольных компьютеров, мобильных устройств, планшетов и веб-приложениях."
+    },
+    "After": {
+      "error_connected_to_another_account_title": "Подключено к другой учетной записи.",
+      "error_connected_to_another_account_description": "Ваше приложение {{product_name}} подключено к другой учетной записи. Войдите с помощью этой учетной записи, чтобы продолжить настройку.",
+      "error_common_title": "Ой",
+      "error_common_description": "При создании учетной записи произошла ошибка. Вы можете нажать «Повторить попытку» или «Пропустить», чтобы продолжить настройку.",
+      "title": "Подключение к учетной записи",
+      "Error": {
+        "error_template": "Нужна помощь? {{online_help_site_link}}",
+        "online_help_site_link": "Перейдите на наш сайт справки"
+      },
+      "NameForm": {
+        "title": "Расскажите нам о себе.",
+        "description": "Введите имя."
+      }
+    }
+  }
+}

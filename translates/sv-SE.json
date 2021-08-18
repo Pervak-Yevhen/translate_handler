@@ -1,0 +1,22 @@
+{
+  "ModalConfirmSignOut.title": "Logga ut från {{product_name}}?",
+  "SingleItemView.CloudUnavailablePopup.description": "För att öppna en fil via din sociala eller molnleverantör, se till att du är ansluten till internet.",
+  "CollectionHowToAddFileModal.add_to_collection": "Lägg till i samlingen av ...",
+  "CollectionHowToAddFileModal.facet_title": "Kategorier",
+  "CollectionHowToAddFileModal.sources_title": "Alla källor",
+  "OrderContextMenu.album.addedTime": "Datum ändrat",
+  "IndexingStatus.errInsufficientStorage": "<strong> Katalogisering pausad </strong> - Det finns inte tillräckligt med utrymme för att lägga till nytt innehåll i katalogen. Du kan ta bort oönskade filer från din dator för att frigöra utrymme för katalogen.",
+  "ModalConfirmSignOut.textWithCloudServices": "Du kommer fortfarande att ha tillgång till din katalog även när du är utloggad.",
+  "UpdateBanner.text": "En ny version av {{product_name}} är tillgänglig. Uppdatera nu för de senaste buggfixarna och nya funktioner.",
+  "UpdateBanner.link": "Uppdatering",
+  "UpdateBanner.updateLoaded": "Uppdatering nedladdad.",
+  "Banners.insufficientStorage": "Det finns inte tillräckligt med utrymme för att lägga till nytt innehåll i katalogen. Du kan ta bort oönskade filer från din dator för att frigöra utrymme för katalogen.",
+  "Banners.maxDataSizeReached": "Du har nått 100% av den maximala katalogstorleken, och vi kan inte lägga till några nya artiklar i den. Läs mer om din katalog.",
+  "Banners.photosLibraryNoInternet": "Katalogiseringen pausades eftersom din dator förlorade anslutningen till internet. Anslut igen för att fortsätta katalogisera ditt fotobibliotek.",
+  "Banners.accessDeniedCloudFS": "Det gick inte att lägga till {{label}}. {{action}} och se till att ge {{product_name}} alla åtkomstbehörigheter när du uppmanas.",
+  "Banners.errCloudProviderAuth": "Det verkar som att {{product_name}} har förlorat behörigheten att få åtkomst till {{label}}. För att ge {{product_name}} åtkomst, gå till Källor, klicka på källans “menyalternativ“ och välj “Återanslut källa“.",
+  "Banners.retry": "Försök igen",
+  "Banners.learn_more_link": "Läs mer",
+  "Banners.more_label": "{{count}} mer avisering",
+  "Banners.more_label_plural": "{{count}} fler aviseringar"
+}

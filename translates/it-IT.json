@@ -1,0 +1,22 @@
+{
+  "ModalConfirmSignOut.title": "Uscire da {{product_name}}?",
+  "SingleItemView.CloudUnavailablePopup.description": "Per aprire un file tramite il tuo provider social o cloud, assicurati di essere connesso a Internet.",
+  "CollectionHowToAddFileModal.add_to_collection": "Aggiungi alla collezione per...",
+  "CollectionHowToAddFileModal.facet_title": "Categorie",
+  "CollectionHowToAddFileModal.sources_title": "Tutte le fonti",
+  "OrderContextMenu.album.addedTime": "Data modificata",
+  "IndexingStatus.errInsufficientStorage": "<strong>Catalogare in pausa</strong>: lo spazio non è sufficiente per aggiungere nuovi contenuti al catalogo. Puoi eliminare i file indesiderati dal tuo computer per liberare spazio per il catalogo.",
+  "ModalConfirmSignOut.textWithCloudServices": "Avrai comunque accesso al tuo catalogo anche quando sei disconnesso.",
+  "UpdateBanner.text": "È disponibile una nuova versione di {{product_name}}. Aggiorna ora per le ultime correzioni di bug e nuove funzionalità.",
+  "UpdateBanner.link": "Aggiornare",
+  "UpdateBanner.updateLoaded": "Aggiornamento scaricato.",
+  "Banners.insufficientStorage": "Non c'è abbastanza spazio per aggiungere nuovi contenuti al catalogo. Puoi eliminare i file indesiderati dal tuo computer per liberare spazio per il catalogo.",
+  "Banners.maxDataSizeReached": "Hai raggiunto il 100% della dimensione massima del catalogo e non possiamo aggiungere nuovi articoli. Scopri di più sul tuo catalogo.",
+  "Banners.photosLibraryNoInternet": "La catalogazione è stata sospesa perché il tuo computer ha perso la connessione a Internet. Riconnettiti per continuare a catalogare la tua libreria di foto.",
+  "Banners.accessDeniedCloudFS": "Impossibile aggiungere {{label}}. {{action}} e assicurati di concedere a {{product_name}} tutte le autorizzazioni di accesso quando richiesto.",
+  "Banners.errCloudProviderAuth": "Sembra che {{product_name}} abbia perso l'autorizzazione per accedere a {{label}}. Per fornire l'accesso a {{product_name}} vai a Sorgenti, fai clic sull “opzione di menu“ della sorgente e seleziona “Riconnetti sorgente“.",
+  "Banners.retry": "Riprova",
+  "Banners.learn_more_link": "Per saperne di più",
+  "Banners.more_label": "{{count}} altre notifiche",
+  "Banners.more_label_plural": "{{count}} altre notifiche"
+}

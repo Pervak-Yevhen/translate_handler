@@ -1,0 +1,1918 @@
+{
+  "product_name": "EdgeRover",
+  "company_name": "Western Digital",
+  "_category": {
+    "all": "Alle matches",
+    "media": "Fotos og videoer",
+    "image,video": "Fotos og videoer",
+    "video": "Videoer",
+    "image": "Fotos",
+    "pdf": "PDF-filer",
+    "writing": "Dokumenter",
+    "presentation": "Præsentationer",
+    "book": "Bøger",
+    "spreadsheet": "Regneark",
+    "audio": "Lyd"
+  },
+  "_fileTypes": {
+    "folder": "Mappe",
+    "generalFile": "Fil",
+    "font": "Skrifttype",
+    "image": "Billede",
+    "video": "Video",
+    "audio": "Lyd",
+    "archive": "Arkiv",
+    "web_picture": "Webbillede",
+    "advanced_systems_format_file": "Avanceret systemformatfil",
+    "flash_video": "Flash Video",
+    "mkv_video": "Matroska Video",
+    "opus_audio": "Opus Lyd",
+    "ogv_video": "Ogg Video",
+    "device_independent_bitmap": "Enhedsuafhængig bitmap",
+    "http_archive_file": "HTTP-arkivfil",
+    "hasselblad_3fr_raw_image": "Hasselblad 3FR RAW-billede",
+    "gpp_movie": "3GPP Movie",
+    "sony_digital_camera_image": "Sony digitalt kamerabillede",
+    "avi_movie": "AVI Movie",
+    "casio_raw_image": "Casio RAW-billede",
+    "canon_cr2_raw_image": "Canon CR2 RAW-billede ",
+    "canon_cr3_raw_image": "Canon CR3 RAW-billede ",
+    "canon_raw_ciff_image_file": "Canon Raw CIFF billedfil",
+    "kodak_raw_image": "Kodak RAW-billede",
+    "adobe_raw_image": "Adobe RAW-billede",
+    "epson_raw_image": "Epson RAW-billede ",
+    "hasselblad_raw_image": "Hasselblad RAW-billede",
+    "heif_image": "HEIF-billede",
+    "phase_one_raw_image": "Phase One RAW-billede",
+    "jpeg_image": "JPEG-billede",
+    "itunes_movie": "iTunes Movie",
+    "leaf_raw_image": "Leaf RAW-billede ",
+    "quicktime_movie": "QuickTime Movie",
+    "mpeg_4_movie": "MPEG-4 Movie",
+    "mpeg_4_video": "MPEG-4 Video",
+    "mpeg_movie": "MPEG Movie",
+    "mpeg_1_movie": "MPEG-1 Movie",
+    "mpeg_2_movie": "MPEG-2 Movie",
+    "webm_video": "WebM Video",
+    "minolta_raw_image": "Minolta RAW-billede",
+    "nikon_raw_image": "Nikon RAW-billede",
+    "olympus_raw_image": "Olympus RAW-billede",
+    "pentax_raw_image": "Pentax RAW-billede",
+    "fuji_raw_image": "Fuji RAW-billede",
+    "panasonic_raw_image": "Panasonic RAW-billede",
+    "leica_raw_image": "Leica RAW-billede",
+    "sony_raw_image": "Sony RAW-billede",
+    "samsung_raw_image": "Samsung RAW-billede",
+    "windows_media": "Windows Media",
+    "aac_audio": "AAC-lyd",
+    "aiff_c_audio": "AIFF-C-lyd",
+    "au_audio": "AU-lyd",
+    "flac_audio": "FLAC-lyd",
+    "f4v_video": "FV4 Video",
+    "midi_audio": "MIDI-lyd",
+    "mp2_audio": "MP2-lyd",
+    "mp3_audio": "MP3-lyd",
+    "mpeg_4_audio": "MPEG-4-lyd",
+    "ogg_audio": "Ogg Lyd",
+    "waveform_audio": "Waveform Lyd",
+    "windows_media_audio": "Windows Media Lyd",
+    "amazon_kindle_ebook": "Amazon Kindle eBog",
+    "broad_band_ebook": "Broad Band eBog",
+    "djvu_image": "DjVu-billede",
+    "epub_ebook": "EPUB eBog",
+    "apple_books": "Apple-bøger",
+    "microsoft_reader_file": "Microsoft Reader-fil",
+    "sony_portable_reader_file": "Sony Portable Reader-fil",
+    "librie_reader_file": "Librie Reader-fil",
+    "mobipocket_ebook": "Mobipocket eBog",
+    "box_note": "Boksnote",
+    "word_document": "Word-dokument",
+    "word_document_template": "Word-dokumentskabelon",
+    "google_document": "Google-dokument",
+    "google_form": "Google-formular",
+    "lotus_word_document": "Lotus word-dokument",
+    "pages_document": "Pages-dokument",
+    "google_slides": "Google Slides",
+    "keynote_presentation": "Keynote-præsentation",
+    "opendocument_document": "OpenDocument tekstdokument",
+    "opendocument_presentation": "OpenDocument præsentation",
+    "opendocument_presentation_template": "OpenDocument præsentationsskabelon",
+    "prezi_presentation": "Prezi præsentation",
+    "powerpoint_presentation_template": "PowerPoint præsentationsskabelon",
+    "powerpoint_presentation": "PowerPoint-præsentation",
+    "csv_file": "CSV-fil",
+    "google_sheets": "Google Sheets",
+    "numbers_document": "Numbers dokument",
+    "opendocument_spreadsheet": "OpenDocument regneark",
+    "lotus_123_spreadsheet": "Lotus 123 regneark",
+    "excel_document": "Excel-dokument",
+    "pdf_document": "PDF-dokument",
+    "after_effects_project": "After Effects-projekt",
+    "illustrator_file": "Illustrator-fil",
+    "blender_3d_file": "Blender 3D-fil",
+    "cinema_4d_file": "Cinema 4D-fil",
+    "autocad_image": "AutoCAD-billede",
+    "vector_image_file_eps": "Vektor billedfil (EPS)",
+    "figma_drawing": "Figma Drawing",
+    "framemaker_file": "FrameMaker-fil",
+    "google_drawings": "Google Tegninger",
+    "indesign_file": "InDesign-fil",
+    "pagemaker_file": "PageMaker-fil",
+    "photoshop_file": "Photoshop-fil",
+    "publisher_file": "Publisher-fil",
+    "sketch_drawing": "Skitsetegning",
+    "deb": "DEB",
+    "dmg": "DMG",
+    "exe": "EXE",
+    "bin_archive": "BIN-arkiv",
+    "gzip_archive": "GZip-arkiv",
+    "amiga_lzx_archive": "Amiga LZX-arkiv",
+    "rar_archive": "RAR-arkiv",
+    "tar_archive": "TAR-arkiv",
+    "zip_archive": "Zip-arkiv",
+    "cascading_style_sheet": "Cascading Style Sheets",
+    "html_text": "HTML-tekst",
+    "javascript": "JavaScript",
+    "php_script": "PHP-script",
+    "python_source": "Python Source",
+    "ruby_source": "Ruby Source",
+    "xml_document": "XML-dokument",
+    "bitmap": "BitMap",
+    "gif_image": "GIF-billede",
+    "icon_image": "Ikonbillede",
+    "png_image": "PNG-billede",
+    "svg_image": "SVG-billede",
+    "tiff_image": "TIFF-billede",
+    "markdown_file": "Markdown-fil",
+    "rtf_file": "RTF-fil",
+    "plain_text_document": "Almindeligt tekstdokument",
+    "imovie_project": "iMovie-projekt",
+    "logic_pro_project": "Logic Pro-projekt"
+  },
+  "_mimeTypes": {
+    "image/jpeg": "JPEG",
+    "image/png": "PNG",
+    "image/ico": "ICO",
+    "image/xls": "XLS",
+    "image/tiff": "TIFF",
+    "application/pdf": "PDF"
+  },
+  "_fileCategories": {
+    "book": "Bøger",
+    "photos": "Fotos",
+    "photosAndVideos": "Fotos og videoer",
+    "videos": "Videoer",
+    "audio": "Lyd",
+    "movies": "Film",
+    "writing": "Dokumenter",
+    "similarImages": "Næsten identiske fotos",
+    "pdf": "PDF-filer",
+    "presentation": "Præsentationer",
+    "spreadsheet": "Regneark",
+    "filesAndFolders": "Filer og mapper",
+    "duplicates": "Dubletter"
+  },
+  "_errors": {
+    "emptySourceList": "Vælg en kilde først.",
+    "noVolumeSelected": "Ingen tilgængelige enheder til scanning.",
+    "noDeviceSelected": "Vælg en enhed først.",
+    "connectionError": "Der gik noget galt. Kontroller, at du har en aktiv internetforbindelse, og prøv igen.",
+    "unexpected": "Hovsa, der gik noget galt. Prøv igen.",
+    "timeout": "Handlingen kunne ikke udføres på grund af timeout.",
+    "incorrectEmail": "Indtast gyldig e-mail.",
+    "incorrectPass": "Forkert adgangskode.",
+    "verifyPass": "Bekræft din adgangskode",
+    "repeatPass": "Gentag den nye adgangskode",
+    "incorrectEmailPass": "Forkert e-mail eller adgangskode.",
+    "invalid_user_password": "Forkert e-mail eller adgangskode.",
+    "userExists": "Konto eksisterer allerede. Du har muligvis tidligere oprettet en konto, da du opsatte din ibi, My Cloud OS 5 eller My Cloud Home. {{link}}",
+    "userExistsLink": "Log ind for at fortsætte",
+    "passwordMismatch": "Adgangskoder stemmer ikke overens",
+    "PasswordHistoryError": "Din nye adgangskode kan ikke være den samme som nogen af dine tidligere adgangskoder.",
+    "PasswordDictionaryError": "Adgangskode er ikke tilladt. Den er muligvis for almindelig.",
+    "PasswordStrengthError": "Adgangskode er ikke tilladt. Den kan være for svag.",
+    "anotherUserAttached": "En anden bruger er allerede knyttet til det aktuelle miljø.",
+    "searchLength": "Skriv mindst tre tegn for at søge.",
+    "albumCreationError": "Oprettelse mislykkedes.",
+    "openExtensionError": "Åbning af forlængelse mislykkedes.",
+    "sourceIsNotConnected": "Kilde ikke tilsluttet. For at åbne dette element skal du slutte {{name}} til din computer og prøve igen.",
+    "indexDeletedError": "Ups, denne fil er ikke længere tilgængelig. Kildekataloget er muligvis blevet fjernet for nylig.",
+    "FILE_GROUP_NOT_FOUND_ERROR": "Samlingen kunne ikke findes",
+    "FILE_DELETED_ERROR": "Ups, denne fil er ikke længere tilgængelig. Filen er muligvis slettet for nylig eller er på en kilde, der er blevet koblet fra.",
+    "DEVICE_MIGRATING_ERROR": "Vi har foretaget nogle store forbedringer til din oplevelse. Som en del af denne proces genopbygger og forbedrer dit program, hvordan dit indhold lagres. Dette kan tage et stykke tid.",
+    "signup_invalid_request": "Forkert e-mail eller adgangskode",
+    "disconnectCloudFS": "Kan ikke fjerne {{label}}-katalog. Kontrollér, at du har forbindelse til internettet, og prøv igen."
+  },
+  "_errorTitles": {
+    "unexpected": "",
+    "DEVICE_MIGRATING_ERROR": "Opdatering i gang"
+  },
+  "_common": {
+    "photosLibrary": "Fotobibliotek",
+    "volumeLabelWin": "{{label}} ({{mountPoint}})",
+    "untitledVolumeName": "Uden titel",
+    "ok": "OK",
+    "selectSomethingForPreview": "Vælg element for at se forhåndsvisning",
+    "open": "Åbn",
+    "fileTypeNotSupported": "Afspilning understøttes ikke. Åbn fil for at afspille.",
+    "resendLink": "Send link igen",
+    "done": "Udført",
+    "cancel": "Annuller",
+    "continue": "Fortsæt",
+    "skipForNow": "Spring over nu",
+    "retry": "Prøv igen",
+    "close": "Luk",
+    "back": "Tilbage",
+    "skip": "Spring over",
+    "addSource": "Tilføj kilder",
+    "remove": "Fjern",
+    "rename": "Omdøb",
+    "later": "Senere",
+    "letsDoIt": "Lad os gøre det!",
+    "newCollectionTitle": "Ny samling",
+    "emptyPhotos": "Ingen fotos eller videoer endnu",
+    "timeline": "Tidslinje",
+    "more": "Mere",
+    "show_less": "Vis mindre",
+    "show_more": "Vis mere",
+    "edit": "Rediger",
+    "save": "Gem",
+    "next": "Næste",
+    "add_to_collection": "Føj til samling",
+    "remove_from_collection": "Fjern fra samling",
+    "create_collection": "Opret samling",
+    "set_cover": "Indstil forside",
+    "sign_in": "Log ind",
+    "create_account": "Opret konto",
+    "settings": "Indstillinger",
+    "tryAgain": "Prøv igen",
+    "createdForYou": "Oprettet til dig",
+    "or": "eller",
+    "add": "Tilføj",
+    "title": "Titel",
+    "items": "{{count}} element",
+    "items_plural": "{{count}} elementer",
+    "widgets": "Widgets",
+    "quit": "Afslut",
+    "browse": "Gennemse",
+    "collections": "Samlinger",
+    "description": "Beskrivelse",
+    "name": "Navn",
+    "viewSources": "Se kilder",
+    "viewTitles": "Vis titler",
+    "selectMode": "Vælg tilstand",
+    "suggested_collections": "Foreslåede samlinger",
+    "my_collections": "Mine samlinger",
+    "sorting": "Sorterer",
+    "viewModes": "Visningstilstande",
+    "comingSoon": "Kommer snart",
+    "signIn": "Log ind",
+    "createAccount": "Opret konto",
+    "on": "Til",
+    "off": "Slukket",
+    "learnMore": "Læs mere",
+    "viewAll": "Vis alle",
+    "gotIt": "Forstået",
+    "firstName": "Fornavn",
+    "lastName": "Efternavn",
+    "reset": "Nulstil",
+    "resetting": "Nulstiller …"
+  },
+  "_customGroupNames": {
+    "largeFiles": "Store filer",
+    "recentlyOpenFiles": "Åbnet for nylig",
+    "thisMonth": "Denne måned i historik",
+    "thisWeek": "Denne uge i historik",
+    "celebrate": "Fejr!",
+    "duplicateFiles": "Dubletter"
+  },
+  "Datepicker": {
+    "placeholder": "mm/dd/åååå"
+  },
+  "PasswordValidation": {
+    "upperLower": "Inkludér 1 stort og 1 lille bogstav",
+    "number": "Inkludér 1 tal",
+    "length": "8 eller flere tegn"
+  },
+  "SignInForm": {
+    "email": "E-mailadresse",
+    "password": "Adgangskode",
+    "forgotPassword": "Glemt adgangskode?",
+    "button_text": "\"Log ind\""
+  },
+  "PasswordInput": {
+    "show_password": "Vis adgangskode",
+    "hide_password": "Skjul adgangskode"
+  },
+  "SignUpForm": {
+    "title": "Registrer dig",
+    "firstName": "Fornavn",
+    "lastName": "Efternavn",
+    "email": "E-mailadresse",
+    "password": "Adgangskode",
+    "submit": "Opret konto",
+    "button_text": "\"Opret konto\"",
+    "enterFirstNameError": "Indtast fornavn",
+    "enterLastNameError": "Indtast efternavn",
+    "enterEmailError": "Indtast e-mail",
+    "enterValidEmailError": "Angiv en gyldig e-mailadresse.",
+    "createAccount": "Opret konto"
+  },
+  "Policy": {
+    "agreement": "Ved at klikke på {{button_text}} accepterer du {{product_name}} {{licence_agreement_link}} og {{privacy_link}}. Du forstår og accepterer, at {{company_name}} overfører, behandler og gemmer dine data til/i andre lande, inklusive USA. Dette kan omfatte kontooplysninger, som du har givet til {{company_name}} og indhold, som du synkroniserer til {{product_name}} skyen.",
+    "licence_agreement": "Betingelser for tjenesten",
+    "privacy_state": "Erklæring om beskyttelse af personlige oplysninger"
+  },
+  "ResetPassword": {
+    "title": "Glemt adgangskode?",
+    "resetLinkSendTitle": "Tjek din indbakke",
+    "resetLinkSendText": "Hvis der findes en{{product_name}}-konto for {{email}}, sendes en <span>e-mail</span> med yderligere instruktioner.",
+    "resendLink": "Prøv igen"
+  },
+  "ResetPasswordForm": {
+    "title": "Nulstil adgangskode",
+    "text": "Har du brug for at nulstille din adgangskode? Vi sender dig en e-mail med instruktioner.",
+    "submit": "Send instruktioner",
+    "email": "E-mailadresse"
+  },
+  "SetNewPassword": {
+    "formTitle": "Lad os oprette en ny adgangskode",
+    "invalidLinkTitle": "Link til nulstilling af adgangskoden er ikke længere gyldig",
+    "invalidLinkText": "Dette link til nulstilling af adgangskoden er ikke længere gyldig. Gå tilbage til siden Nulstil adgangskode, og prøv igen.",
+    "resendLink": "Send link igen",
+    "passwordUpdatedTitle": "Adgangskode ændret",
+    "passwordUpdatedText": "Du kan logge ind nu med din nye adgangskode.",
+    "signIn": "Log ind",
+    "linkExpiredTitle": "Link til nulstilling af adgangskode er udløbet",
+    "linkExpiredText": "Linket til nulstilling af adgangskode er udløbet. Gå tilbage til siden Nulstil adgangskode, og prøv igen.",
+    "validatingLink": "Validerer link ..."
+  },
+  "SetNewPasswordForm": {
+    "newPassword": "Nyt kodeord",
+    "confirmNewPassword": "Bekræft ny adgangskode",
+    "submit": "Indstil ny adgangskode"
+  },
+  "Welcome": {
+    "title": "Velkommen til",
+    "text1": "Opsæt og konfigurer dine WD- og SanDisk-produkter, aktiver din garanti, og installer yderligere software.",
+    "text2": "Administrer indhold fra din computer, inklusive eksterne lagerenheder og cloud-platforme, i en enkelt visning.",
+    "text3": "Se dine digitale aktiver kategoriserede og søgbare ét sted, uanset om de er tilsluttede eller ej.",
+    "copyright": "© {{current_year}} Western Digital Corporation eller virksomhedens datterselskaber. Alle rettigheder forbeholdes. Fortroligt."
+  },
+  "NotFound": {
+    "mainText": "Side ikke fundet"
+  },
+  "Root": {
+    "browser": "Gennemse",
+    "report": "Send feedback"
+  },
+  "Browse": {
+    "unknown": "[UKENDT]"
+  },
+  "SettingsRoot": {
+    "account": "Kontoindstillinger",
+    "manageSources": "Kilder",
+    "language": "Sprog",
+    "appSettings": "App-indstillinger",
+    "theme": "Tema",
+    "helpAndSupport": "Hjælp og support",
+    "legal": "Juridisk afdeling",
+    "privacy": "Beskyttelse af privatliv",
+    "darkMode": "Mørk tilstand",
+    "checking": "kontrollerer ...",
+    "logs": "Download logfiler",
+    "info": "Fanebladets header og info-indstillinger",
+    "surveys": "Undersøgelser",
+    "uniq_identifier_line": "Entydig identifikator",
+    "link_text": "Hvad er dette?",
+    "copy": "Kopiér UID",
+    "copy_success": "UID blev kopieret",
+    "copy_failed": "Kopiering af UID mislykkedes",
+    "manageCatalog": "Administrer katalog",
+    "turboMode": "Turbotilstand"
+  },
+  "SettingsManageCatalog": {
+    "title": "Administrer katalog",
+    "size": {
+      "title": "Nuværende størrelse",
+      "text": "{{size}} af {{maxSize}} (ca. {{percent}} % af katalogstørrelsen)",
+      "description": "Kataloget indeholder filmetadata som navn, dato, størrelse, forhåndsvisning af billede osv. Vi bruger maksimalt 10 % af den ledige plads (beregnet på installationstidspunktet) på dit drev til at gemme dette katalog. {{link}}",
+      "link": "Få mere at vide om dit katalog."
+    },
+    "driveSpace": {
+      "title": "Drevplads",
+      "chartTitle": "{{free}} Fri af {{total}}",
+      "usedSpaceLabel": "Anvendt plads",
+      "usedSpaceTooltip": "{{size}} anvendt plads",
+      "indexSizeLabel": "Nuværende katalog",
+      "indexSizeTooltip": "{{size}} nuværende katalogstørrelse",
+      "maxSizeLabel": "Maksimalt katalog",
+      "maxSizeTooltip": "{{size}} maksimal katalogstørrelse",
+      "freeSizeLabel": "Ledig plads",
+      "freeSizeTooltip": "{{size}} ledig plads"
+    },
+    "updateCatalogSize": {
+      "title": "Opdater katalogstørrelse",
+      "text": "Som standard tildeler vi 10 % af din ledige plads til kataloget. Hvis du skal bruge mere plads til at katalogisere dine kilder, kan du øge maksimumstørrelsen på kataloget ved hjælp af skyderen nedenfor.",
+      "size_note": "Bemærk – andre apps skal bruge ledig plads til at operere normalt, så {{product_name}} tillader ikke, at du tildeler al din ledige plads til kataloget.",
+      "button": "Opdater katalogstørrelse",
+      "successUpdated": "Maksimal katalogstørrelse opdateret til {{size}}.",
+      "sizeRestrictionWarning": "Du kan ikke gå under den nuværende katalogstørrelse."
+    }
+  },
+  "SettingsTheme": {
+    "orange": "Orange"
+  },
+  "SettingsAccount": {
+    "title": "Kontoindstillinger",
+    "youAreNotSigned": "Du er ikke logget ind.",
+    "youAreSignedIn": "Du er logget ind.",
+    "createAccount": "Opret konto",
+    "createAccountOrSignIn": "{{createAccount}} eller {{signIn}}",
+    "logout": "Log af",
+    "deleteAccount": "Slet min konto",
+    "profile": "Profil",
+    "name": "Navn",
+    "email": "E-mail",
+    "password": "Adgangskode",
+    "emails": "E-mails",
+    "analytics": "Analyse",
+    "keplerPrime": "{{product_name}} Access",
+    "editPhoto": "Rediger",
+    "addPhoto": "Tilføj foto",
+    "imageLoadError": "Fejl ved indlæsning af foto.",
+    "imageTypeError": "Kun .png og .jpg er tilladt.",
+    "imageSizeError": "Dit billede skal være mindre end 30KB.",
+    "cognitoImageSizeError": "Dit billede skal være mindre end 1 MB.",
+    "generalImageTooltip": "Kun .png og .jpg er tilladt. Skal være mindre end 30 KB.",
+    "cognitoGeneralImageTooltip": "Kun .png og .jpg er tilladt. Skal være mindre end 1 MB.",
+    "resetPasswordModal": {
+      "title": "Tjek din e-mail",
+      "text1": "Tjek din e-mail med instruktioner.",
+      "text2": "BEMÆRK: Hvis du bruger den samme e-mailadresse til din konto hos EdgeRover™, ibi™, My Cloud™ OS 5 eller My Cloud™ Home, vil adgangskoderne til disse konti også blive nulstillet.",
+      "button": "Send e-mail igen"
+    }
+  },
+  "SettingsPrivacy": {
+    "title": "Beskyttelse af privatliv",
+    "shareAnalyticsTitle": "Del appanalyse med {{company_name}}",
+    "shareAnalyticsText": "Hjælp teamet bag {{company_name}} med at forbedre vores produkter, tjenester og apps og personliggøre din oplevelse, herunder ved at sende underretninger i appen og push-beskeder ved automatisk at sende brugsdata.{{link}}",
+    "marketingTitle": "Tillad {{company_name}} at sende mig markedsførings-e-mails",
+    "marketingText": "Hold kontakten for at få de seneste opdateringer, kampagner og nyhedsbreve, herunder målrettede annoncer, via meddelelser i appen, push-beskeder og e-mail.{{link}}",
+    "learnMore": "Læs mere"
+  },
+  "SettingsAccountCreateAccount": {
+    "title": "Opret konto",
+    "subtitle": "Opret en konto for at registrere dine enheder og aktivere deres garanti – kreditkort ikke påkrævet."
+  },
+  "Language": {
+    "title": "Sprog"
+  },
+  "AppSettings": {
+    "info": "Fanebladets header og info-indstillinger",
+    "resetSettings": "Nulstil fanebladets header og info-indstillinger",
+    "resetBtn": "Nulstil",
+    "title": "App-indstillinger",
+    "appVersion": "App-version",
+    "privacy": "Beskyttelse af privatliv",
+    "version": "Version {{version}}",
+    "latestVersion": "Du har den nyeste version af {{product_name}}!",
+    "updateAvailable": "Ny version tilgængelig. {{update}}",
+    "updateFailed": "Opdatering annulleret. {{retry}}",
+    "retry": "Prøv igen",
+    "downloadingUpdate": "Downloader opdatering ...",
+    "updateLoaded": "Opdatering downloadet. {{relaunch}}",
+    "relaunch": "Genstart {{product_name}}",
+    "updateNow": "Opdater nu",
+    "appLaunch": "Appstart",
+    "openAutomatically": "Åbn {{product_name}} automatisk, når du har logget ind på computeren.",
+    "language": "Sprog",
+    "offline": "Opret forbindelse til internettet for at søge efter opdateringer."
+  },
+  "HelpFeedback": {
+    "title": "Hjælp og feedback",
+    "haveQuestion": "Jeg har et spørgsmål eller feedback ...",
+    "helpCenter": "Hjælpecenter",
+    "reportProblem": "Anmeld et problem",
+    "generalQuestion": "Generelt spørgsmål eller support",
+    "haveIdea": "Jeg har en ide ...",
+    "requestFeature": "Anmod om en funktion"
+  },
+  "HelpAndSupport": {
+    "title": "Hjælp og support",
+    "HowToAddASource": "Sådan tilføjer du en kilde",
+    "StartAddingASource": "Start med at tilføje en kilde",
+    "KeyboardShortcuts": "Tastaturgenveje ",
+    "OpenKeyboardShortcuts": "Åbn tastaturgenveje",
+    "tipsTricks": "Tips og tricks",
+    "helpSite": "Hjælpeside"
+  },
+  "Legal": {
+    "title": "Juridisk afdeling",
+    "terms": "Betingelser for tjenesten",
+    "policy": "Erklæring om beskyttelse af personlige oplysninger",
+    "privacyFAQ": "Ofte stillede spørgsmål om databeskyttelse",
+    "acceptableUsePolicy": "Politik for acceptabel brug",
+    "copyrightUsePolicy": "Politik om ophavsret",
+    "trademarks": "Varemærker",
+    "openSourceNotices": "Open source-meddelelser"
+  },
+  "SettingsAccountSidePanelChangeName": {
+    "title": "Skift navn",
+    "text": "Rediger og gem dit navn."
+  },
+  "ChangeNameForm": {
+    "enterFirstNameError": "Indtast et fornavn",
+    "enterLastNameError": "Indtast et efternavn"
+  },
+  "SettingsAccountSidePanelChangePassword": {
+    "title": "Skift adgangskode",
+    "text": "Indtast din nuværende adgangskode, og vælg dernæst en ny adgangskode."
+  },
+  "ChangePasswordForm": {
+    "currentPassword": "Nuværende adgangskode",
+    "newPassword": "Nyt kodeord",
+    "repeatNewPassword": "Bekræft ny adgangskode"
+  },
+  "DeleteAccountModal": {
+    "title": "Slet din {{product_name}}-konto permanent?",
+    "text": "<p>Vi er kede af, at du forlader os.</p><p>Ved at slette din {{product_name}}-konto slettes kataloget over dit indhold fra alle tilsluttede kilder. </p><p>Inden du sletter din konto, kan vi måske hjælpe. {{getInTouch}}</p><p>Eller tryk på fortsæt for at fortsætte.</p>",
+    "getInTouch": "Kontakt os"
+  },
+  "DeleteAccountForm": {
+    "text": "Indtast din adgangskode for at slette din {{product_name}}-konto permanent."
+  },
+  "Main": {
+    "manageSource": "Tilføj og administrer kilder"
+  },
+  "MainActions": {
+    "title": "Gennemse dit indhold",
+    "sources": "Efter kilder"
+  },
+  "Search": {
+    "title": "Viser resultater for \"{{query}}\"",
+    "emptyTitle": "Søgeresultater",
+    "empty": "Ser ud til, at der ikke blev fundet nogen søgeresultater for \"{{query}}\"",
+    "text1": "Fandt du ikke det, du ledte efter?",
+    "text2": "Prøv at opdatere filtrene, og søg igen, eller start {{product_name}}-appen igen for at opdatere dit katalog."
+  },
+  "SearchMain": {
+    "title": "Søg",
+    "searchHistory": "Søgehistorik",
+    "empty": "Ser ud til, at der ikke blev fundet nogen søgehistorik.",
+    "count": "({{count}})"
+  },
+  "SearchInput": {
+    "placeholder": "Søger i det indhold",
+    "search": "Søg"
+  },
+  "SearchInputSuggestions": {
+    "submitHelpText": "\"{{query}}\" Søg ved at trykke på enter.",
+    "submitHelpTextTruncated": "\"{{query}} ...\" Søg ved at trykke på enter."
+  },
+  "SearchInputSuggestionsList": {
+    "tags": "Til dig",
+    "tagsEmpty": "Der er ingen objekter, der matcher nøgleordet.",
+    "locations": "Steder",
+    "locationsEmpty": "Der er ingen steder, der matcher nøgleordet.",
+    "history": "Søgehistorik",
+    "historyEmpty": "Der er ingen historik, der matcher nøgleordet.",
+    "titleButton": "Ryd hele historikken"
+  },
+  "SearchHeader": {
+    "selectSource": "Vælg kilde",
+    "categories": "Kategorier",
+    "kind": "Filtype",
+    "moreFilters": "Flere filtre",
+    "resetAll": "Nulstil alle",
+    "locationGroupLabel": "{{country}} {{city}}",
+    "fromLabel": "fra {{from}}",
+    "toLabel": "til {{to}}",
+    "rangeLabel": "{{from}} - {{to}}",
+    "allSources": "Alle kilder",
+    "allCategories": "Alle kategorier",
+    "allKinds": "Alle filtyper"
+  },
+  "DropdownFilter": {
+    "all": "Alle"
+  },
+  "SearchContentGroups": {
+    "query": "Søgeresultater for \"{{- query}}\""
+  },
+  "SearchContentGroup": {
+    "all": "Alle: Alle matches",
+    "media": "Medie: Fotos og videoer",
+    "pdf": "PDF-filer",
+    "writing": "Skrifter",
+    "presentation": "Præsentationer",
+    "book": "Bøger",
+    "spreadsheet": "Regneark",
+    "audio": "Lyd",
+    "more": "Mere"
+  },
+  "SearchFiltersSidePanel": {
+    "title": "Flere filtreringsmuligheder",
+    "description": "Tilføj filtre for at indsnævre dine søgeresultater og finde det, du leder efter.",
+    "locationDescription": "Filtrer dine resultater efter sted for at se fotos og videoer, der automatisk blev markeret med den placering, de blev taget.",
+    "tagsDescription": "Begræns dine resultater med både {{product_name}}s automatisk genererede tags såvel som tags, du selv har tilføjet.",
+    "places": "Steder",
+    "tags": "Tags",
+    "range": "Datointerval",
+    "create": "Oprettelsesdato",
+    "modify": "Ændringsdato",
+    "from": "fra",
+    "to": "til",
+    "apply": "Anvend"
+  },
+  "SearchFiltersSidePanelGroupInfo": {
+    "selected": "{{count}} valgte"
+  },
+  "SearchFiltersSidePanelGroupSelector": {
+    "search": "Søg",
+    "selected": "{{count}} valgte",
+    "confirm": "Bekræft"
+  },
+  "FilesList": {
+    "empty": "Tom",
+    "empty_folder_title": "Denne mappe er tom!",
+    "empty_folder_text_mac": "Når dine filer er klar, skal du tilføje dem via Finder.",
+    "empty_folder_text_win": "Når dine filer er klar, skal du tilføje dem via Explorer.",
+    "empty_drive_title": "Din enhed er tom!",
+    "empty_drive_text_mac": "Når dine filer er klar, skal du lægge dem i denne enhed via Finder.",
+    "empty_drive_text_win": "Når dine filer er klar, skal du lægge dem i denne enhed via Stifinder og genstarte {{product_name}}-programmet.",
+    "empty_external_drive_text": "Når dine filer er klar, skal du lægge dem i denne enhed.",
+    "empty_external_folder_text": "Når dine filer er klar, skal du lægge dem i denne mappe.",
+    "empty_cloud_source_folder_text": "Når du føjer filer til din cloud-kilde, opdaterer {{product_name}} automatisk denne mappe.",
+    "empty_social_source_folder_text": "Når du føjer filer til din sociale kilde, opdaterer {{product_name}} automatisk denne mappe.",
+    "open_folder_mac": "Åbn i Finder",
+    "open_folder_win": "Åbn i stifinder",
+    "manage_sources": "Kilder",
+    "empty_facet_title": "Der er ikke blevet tilføjet noget endnu!",
+    "empty_facet_text": "Tilslut, og katalogiser dine enheder. Tilføjelse af flere kilder fylder {{product_name}} med dit indhold.",
+    "list_view": "Listevisning",
+    "media_view": "Medievisning",
+    "thumbnail_view": "Miniaturevisning",
+    "preview": "Forhåndsvisningsrude"
+  },
+  "ListView": {
+    "name": "Navn",
+    "kind": "Type",
+    "mTime": "Ændringsdato",
+    "cTime": "Oprettelsesdato",
+    "source": "Kilde",
+    "size": "Størrelse",
+    "artist": "Kunstner",
+    "author": "Forfatter",
+    "totalSize": "Samlet størrelse",
+    "item": "Element",
+    "duplicates": "Samlet nr."
+  },
+  "ThumbnailsView": {
+    "folders": "Mapper",
+    "folder": "Mappe",
+    "files": "Filer",
+    "similar_group": "Lignende gruppe"
+  },
+  "Media": {
+    "select": "Vælg og organiser"
+  },
+  "MediaGroupList": {
+    "empty_photos": "Endnu ingen fotos",
+    "empty_videos": "Endnu ingen videoer"
+  },
+  "SingleItemView": {
+    "lockedFile": "Åbn denne fil for at låse den op.",
+    "noPreviewAvailable": "Denne type fil understøtter ikke forhåndsvisning.",
+    "noPreviewDocumentCloud": "Eksempler på dokumenter er i øjeblikket ikke tilgængelige for nogle clouds og sociale kilder.",
+    "showInParentFolder": "Vis i overordnet mappe",
+    "previewOnly": "– Kun forhåndsvisning",
+    "prev": "Forrige",
+    "next": "Næste",
+    "location": "Vis placering",
+    "info": "Flere oplysninger",
+    "descriptionTitle": "Beskrivelse",
+    "descriptionHide": "Skjul",
+    "more": " ... mere",
+    "more_actions": "Mere",
+    "more_info": "Panel for flere oplysninger",
+    "rename": "Omdøb",
+    "copy": "Kopi",
+    "remove": "Slet",
+    "fullscreen": "Fuld skærm",
+    "close_fullscreen": "Luk fuld skærm",
+    "no_source": "{{- sourceName}} er ikke tilgængelig.",
+    "defaultSource": "Filkilde",
+    "DASDisconnectedPopup": {
+      "title": "Sådan får du adgang til indhold på frakoblede enheder",
+      "description": "{{product_name}} giver dig mulighed for at se tilgængelige forhåndsvisninger af filer, selvom deres kilde ikke er tilsluttet. For at åbne filen på din personlige enhed eller åbne mappen med indholdet, skal kilden være tilsluttet."
+    },
+    "CloudUnavailablePopup": {
+      "title": "Sådan får du adgang til sociale kilder og skykilder",
+      "description": "For at åbne en fil via din sociale eller cloud -udbyder skal du sørge for at have forbindelse til internettet."
+    },
+    "no_file": "Vælg et element for at få det vist.",
+    "file_info": "Se filoplysninger",
+    "open_in_finder": "Handlingerne nedenfor åbnes i Finder.",
+    "open_in_photos_library": "Handlingerne nedenfor åbnes i fotoappen.",
+    "open_in_explorer": "Handlingerne nedenfor åbnes i Explorer."
+  },
+  "SingleItemViewZoomControls": {
+    "scale": "{{value}}%",
+    "zoom_in": "Zoom ind",
+    "zoom_out": "Zoom ud",
+    "fit": "Tilpas til skærm"
+  },
+  "VolumeListCommon": {
+    "mountPoint": "{{label}} ({{mountPoint}})",
+    "homeDir": "{{main}}/{{home}}"
+  },
+  "ConnectedVolumeList": {
+    "connectedSource": "Tilsluttede kilder",
+    "ejected": "(skubbet ud)",
+    "remove": "Fjern kilde",
+    "noConnectedSources": "Ingen tilsluttede kilder.",
+    "addText": "Tryk på the knappen \"Tilføj kilder\" for at tilslutte kilder."
+  },
+  "VolumesWizardWaiting": {
+    "doNotWait": "Jeg vil ikke vente",
+    "paused": "Katalogisering er i øjeblikket sat på pause for at spare på batteriet. Slut din bærbare computer til strøm for at fortsætte.",
+    "itemError": "Ups. Der gik noget galt. Enheden {{label}} scanner ikke.",
+    "unpluggedError": "Enheden {{label}} var koblet fra under scanning.",
+    "allUnpluggedError": "Alle tilsluttede enheder var frakoblet under scanning.",
+    "info": [
+      {
+        "title": "Scanning er i gang ...",
+        "description": "Dette kan tage op til 5 minutter. Hold dine eksterne lagerenheder tilsluttet, og {{product_name}}-appen kører."
+      },
+      {
+        "title": "Scanner dine enheder ...",
+        "description": "Snapshots af din lagerplads gemmes lokalt, når pladsen tillader det, så du kan finde og få vist dit indhold når som helst."
+      },
+      {
+        "title": "Tager snapshots ...",
+        "description": "Snapshots af din lagerplads gemmes lokalt, når pladsen tillader det, så du kan finde og få vist dit indhold når som helst."
+      },
+      {
+        "title": "Kategoriserer indhold ...",
+        "description": "{{product_name}} genererer filtre, så du automatisk kan organisere dine fotos, videoer og filer."
+      },
+      {
+        "title": "Sidste touch-up ...",
+        "description": "Du kan altid slutte flere lagre til {{product_name}} ved at besøge <strong>Kilder</strong>."
+      }
+    ]
+  },
+  "ManageSources": {
+    "title": "Kilder",
+    "addSource": "Tilføj kilde",
+    "failureErrorAddCloudSourceMessage": "Der gik noget galt. Kan ikke oprette forbindelse til din konto. Prøv igen.",
+    "existsErrorAddCloudSourceMessage": "Kontoen er allerede synkroniseret. Du kan ikke synkronisere den samme konto flere gange."
+  },
+  "SourceContextMenu": {
+    "removeIndex": "Fjern katalog",
+    "indexDrive": "Katalogenhed",
+    "manageIndex": "Administrer katalog",
+    "unlock": "Lås op",
+    "setPassword": "Indstil lås",
+    "editPassword": "Rediger adgangskode",
+    "driveSettings": "Enhedsindstillinger",
+    "eraseDrive": "Slet enhed",
+    "eject": "Skub ud",
+    "raidsettings": "RAID-indstillinger",
+    "noActions": "Ingen handlinger tilgængelige nu",
+    "reconnectCloudSource": "Tilslut kilde igen"
+  },
+  "PhotosLibraryAction": {
+    "title": "Bemærk",
+    "titleDetached": "Fjerner fotobibliotek",
+    "openPhotosApp": "Åbn fotoapp",
+    "text": "Hvis du vil foretage dig noget ved dette element, skal du åbne det i fotoappen.",
+    "textDetached": "Fjernelse af fotobibliotek er i gang. Du har muligvis ikke adgang til nogle elementer, før denne proces slutter."
+  },
+  "ReportBugModal": {
+    "title": "Send feedback",
+    "listTitle": "Din feedback er ekstremt vigtig for os. Hvis du har nogen ideer til at forbedre appen eller oplever problemer, så lad os det vide.",
+    "copy": "Kopiér UID",
+    "idea": "Indsend en idé:",
+    "portal": "Besøg {{link}} for at tilføje dine egne ideer og se, hvad andre har delt.",
+    "issue": "Rapporter et problem:",
+    "upload": "1. Upload dine logfiler for at give os så meget information som muligt om situationen.",
+    "email": "2. Send os en {{email}}, der beskriver dit problem.",
+    "emailLink": "e-mail",
+    "download": "Download logfiler",
+    "uploadLogs": "Overfør logfiler",
+    "uploading": "Overfører... ",
+    "connection_error": "Du skal være tilsluttet internettet for at oploade dine logfiler. Opret forbindelse, og prøv igen.",
+    "error": "Fejl i overførsel af logfiler. Prøv igen.",
+    "subject": "{{product_name}} feedback",
+    "success": "Logfiler blev oploadet.",
+    "uid": "Entydig identifikator",
+    "what": "Hvad er dette?"
+  },
+  "DisconnectModal": {
+    "title": "Er du sikker på, du vil fjerne denne kilde?",
+    "message": "Katalog over indholdet fra kilden slettes permanent. Du vil ikke længere kunne se forhåndsvisninger eller søge i indhold på den.",
+    "disconnect": "Fjern kilde",
+    "close": "Annuller"
+  },
+  "Scanner": {
+    "progress": "Scanning er i gang ..."
+  },
+  "ConnectErrorModal": {
+    "title": "Hovsa, der gik noget galt.",
+    "permissionTitle": "Adgang ikke tilladt.",
+    "driveMessage": "Din enhed {{diskName}} var ikke tilsluttet på grund af en fejl.",
+    "drivesMessage": "Enhederne {{diskNameList}} blev ikke tilsluttet på grund af en fejl.",
+    "permissionMessage": "{{product_name}} har ikke adgang til filer. Gentag operationen, og tillad adgang eller skift systemindstillinger for at give adgang.",
+    "AllDrivesMessage": "Dine enheder blev ikke tilsluttet på grund af en fejl."
+  },
+  "DisconnectErrorModal": {
+    "title": "Hovsa, der gik noget galt.",
+    "driveMessage": "Din enhed {{diskName}} blev ikke afbrudt på grund af en fejl.",
+    "drivesMessage": "Enhederne {{diskNameList}} blev ikke afbrudt på grund af en fejl.",
+    "AllDrivesMessage": "Dine enheder blev ikke afbrudt på grund af en fejl."
+  },
+  "ModalUpdateError": {
+    "permissionTitle": "Adgang ikke tilladt.",
+    "title": "Hovsa, der gik noget galt.",
+    "driveMessage": "Din enhed {{diskName}} blev ikke opdateret på grund af en fejl.",
+    "drivesMessage": "Enhederne {{diskNameList}} blev ikke opdateret på grund af en fejl.",
+    "permissionMessage": "{{product_name}} har ikke adgang til filer. Gentag operationen, og tillad adgang eller skift systemindstillinger for at give adgang.",
+    "AllDrivesMessage": "Dine enheder blev ikke opdateret på grund af en fejl."
+  },
+  "UnplugModal": {
+    "driveTitle": "Din enhed {{label}} er koblet fra",
+    "drivesTitle": "Dine enheder er koblede fra",
+    "driveText": "Din enhed {{label}} blev frakoblet under scanningen, og dit indhold i {{product_name}} vil ikke være opdateret. Scanninger af andre enheder fortsætter.",
+    "drivesText": "Enheden {{labels}} blev frakoblet under scanningen, og dit indhold i {{product_name}} vil ikke være opdateret. Scanninger af andre enheder fortsætter."
+  },
+  "ChangePasswordSignOutModal": {
+    "title": "Du er blevet logget ud.",
+    "text": "Du er logget ud, fordi din adgangskode er opdateret. Log ind for at fortsætte."
+  },
+  "PasswordChanged": {
+    "title": "Tjek din e-mail",
+    "text": "Hvis der findes en {{product_name}}-konto for {{email}}, sendes en e-mail med yderligere instruktioner.",
+    "button": "Send link igen",
+    "success": "E-mail er sendt"
+  },
+  "AlbumToasts": {
+    "updateSuccess": "Samling opdateret",
+    "removeSuccess": "Samling fjernet",
+    "coverChangeSuccess": "Forside på samling ændret",
+    "creationCoverChangeSuccess": "Coverfotosæt",
+    "filesAdded": "{{count}} fil tilføjet",
+    "filesAdded_plural": "{{count}} filer tilføjet",
+    "filesNotAdded": "{{count}} fil er allerede i samlingen.",
+    "filesNotAdded_plural": "{{count}} filer er allerede i samlingen.",
+    "filesRemoved": {
+      "items": "Element fjernet",
+      "items_plural": "{{count}} Elementer fjernet"
+    }
+  },
+  "AlbumsTooltips": {
+    "addPhotos": "Tilføj fotos",
+    "description": "Beskrivelse"
+  },
+  "Albums": {
+    "title": "Samlinger",
+    "search": "Søg",
+    "forYou": "Til dig",
+    "locations": "Steder",
+    "creationDescription": "Giv din samling et navn og en valgfri beskrivelse, så du kan identificere den senere.",
+    "groupTitle": "Navn på samling",
+    "button1": "Gennemse",
+    "button2": "Søg",
+    "description": "Tilføj en valgfri beskrivelse.",
+    "name": "Tilføj navn",
+    "remove": "Fjern samling",
+    "edit": "Rediger navn/beskrivelse"
+  },
+  "AddPhotosToAlbum": {
+    "title": "Tilføj fotos"
+  },
+  "AlbumList": {
+    "noAlbumsYet": "Endnu ingen samlinger tilføjet",
+    "noAlbumsYetSubtitle1": "Opret samlinger med indhold på tværs af dine kilder.",
+    "counter": "{{count}} element",
+    "counter_plural": "{{count}} elementer",
+    "create_collection": "Opret samling"
+  },
+  "AlbumRenameModal": {
+    "title": "Navngiv din samling",
+    "placeholder": "Navn på samling",
+    "invalidName": "Et navn må ikke indeholde følgende tegn: \\/<|>\"?*:",
+    "enterName": "Indtast først et navn på samlingen."
+  },
+  "AlbumDescription": {
+    "title": "Beskrivelse",
+    "save": "Gem",
+    "readMore": "læs mere",
+    "addDescription": "Ingen beskrivelse"
+  },
+  "AlbumCommon": {
+    "selectCoverPhoto": "Vælg forsidefoto",
+    "items": "{{count}} element fra {{date}}",
+    "items_plural": "{{count}} elementer fra {{date}}",
+    "emptyText": "Der er ingenting her!",
+    "emptySubtext": "Det ser ikke ud til, at der er tilføjet nogen billeder her endnu …. {{product_name}} kan ikke stille meget op med en tom samling!",
+    "addPhotos": "Tilføj fotos",
+    "created": "Oprettet den {{date}}",
+    "coverTitle": "Hvordan tilføjer jeg elementer?",
+    "coverDescription": "For at føje indhold til denne samling skal du gennemse eller søge efter det, vælge alt, hvad du vil tilføje, eller vælge \"Føj til samling\".",
+    "emptyCoverDescription": "For at føje indhold til denne samling, skal du gennemse eller søge efter det, vælge alt, hvad du vil tilføje og vælge \"Føj til samling\". Brug knappen nedenfor til at vælge og springe direkte til et afsnit i Gennemse."
+  },
+  "RemoveAlbum": {
+    "title": "Fjern",
+    "removeAlbum": "Ønsker du at fjerne samlingen \"{{collection}}\"?",
+    "delete": "Ja, fjern den"
+  },
+  "RemoveAlbumPhotos": {
+    "title": {
+      "items": "Fjern element fra samling?",
+      "items_plural": "Fjern elementer fra samling?"
+    },
+    "text": {
+      "items": "Er du sikker på, at du vil fjerne valgte element fra samling? Dette vil kun fjerne det valgte element fra denne samling og ikke slette det.",
+      "items_plural": "Er du sikker på, at du vil fjerne {{count}} valgte elementer fra samling? Dette vil kun fjerne valgte elementer fra denne samling og ikke slette dem."
+    }
+  },
+  "AlbumItemContextMenu": {
+    "addPhotos": "Tilføj fotos",
+    "download": "Hent"
+  },
+  "AlbumContextMenu": {
+    "setAsCover": "Angiv som forside"
+  },
+  "Objects": {
+    "title": "Søg",
+    "location": "Steder",
+    "tag": "Til dig",
+    "emptyLocations": "Det ser ud til, at der endnu ikke er tilføjet nogen placeringer.",
+    "emptyTagGroups": "Det ser ud til, at der endnu ikke er tilføjet nogen taggrupper."
+  },
+  "ObjectsGroup": {
+    "empty": "Det ser ud til, at der endnu ikke er tilføjet nogen taggrupper."
+  },
+  "LocationGroups": {
+    "title": "Steder",
+    "empty": "Det ser ud til, at der endnu ikke er tilføjet nogen placeringer."
+  },
+  "TagGroups": {
+    "title": "Til dig",
+    "empty": "Det ser ud til, at der endnu ikke er tilføjet nogen taggrupper."
+  },
+  "ObjectGroup": {
+    "albumsCounted": "Samlinger ({{count}})",
+    "albums": "Samlinger"
+  },
+  "TagGroup": {
+    "forYou": "Til dig",
+    "search": "Søg"
+  },
+  "LocationGroup": {
+    "locations": "Steder",
+    "search": "Søg"
+  },
+  "ObjectSuggestions": {
+    "tagGroups": "Til dig",
+    "locationGroups": "Placering",
+    "empty": "Der er ingen samlinger, der matcher <span>\"{{query}}\"</span>.<br>Tryk på Enter for at fortsætte med at søge i filer og mapper."
+  },
+  "OfflineAlertModal": {
+    "title": "Du er offline",
+    "text": "KAS er ikke tilgængelig på grund af forbindelsesfejl, men du kan skifte til den lokale enhed."
+  },
+  "SidebarDevices": {
+    "mac": "Mac",
+    "pc": "PC",
+    "cloud": "Access"
+  },
+  "IndexingStatusSidebarContent": {
+    "preparing": "Forbereder...",
+    "paused": "På pause",
+    "pausedCommon": "Vent, mens vi opdaterer katalogiseringsstatus.",
+    "lowBattery": "Batteri lavt. Katalogisering er sat på pause, indtil din computer er tilsluttet strøm.",
+    "ejectedDrive": "Katalogisering blev sat på pause, fordi kilden blev skubbet ud. Tilslut kilde igen for at fortsætte.",
+    "indexUpToDate": "Katalog er opdateret",
+    "indexingConnectionError": "Katalogisering sat på pause. Gå online for at fortsætte.",
+    "nothingIndexed": "Endnu intet er katalogiseret"
+  },
+  "Sidebar": {
+    "search": "Søg",
+    "browse": "Gennemse",
+    "collections": "Samlinger",
+    "discover": "Oplev",
+    "manageSources": "Kilder",
+    "pinLabel": "Fastgør sidebjælke",
+    "unpinLabel": "Frigør sidebjælke",
+    "turboMode": "Turbotilstand",
+    "collapseMenu": "Skjul menu",
+    "expandMenu": "Udvid menu",
+    "survey": "Undersøgelse",
+    "catalog": "Katalogstatus",
+    "drives": "Drev"
+  },
+  "CustomGroup": {
+    "rootPathName": "Søg",
+    "endPathName": "Tilpassede grupper"
+  },
+  "CustomGroups": {
+    "title": "Widgets",
+    "empty": "Det ser ud til, at der ikke er tilføjet nogen tilpassede grupper her endnu.",
+    "noSourcesYet": "Vi arbejder på det",
+    "noSourcesYetSubtitle1": "Når vi har katalogiseret noget indhold fra dine kilder, hjælper vi dig med at opdage ting om din digitale verden, du aldrig vidste.",
+    "noSourcesYetSubtitle2": "Jo flere kilder du katalogiserer, jo bedre bliver {{product_name}}.",
+    "addSource": "Tilføj og administrer kilder"
+  },
+  "NoSourceAdded": {
+    "title": "Endnu ingen kilder tilføjet",
+    "line": "{{product_name}} kan ikke gøre meget, før du har tilføjet en kilde.",
+    "button": "Tilføj en kilde"
+  },
+  "OrderContextMenu": {
+    "facets": {
+      "name": "Navn",
+      "mTime": "Ændringsdato",
+      "cTime": "Oprettelsesdato",
+      "size": "Filstørrelse"
+    },
+    "files": {
+      "name": "Navn",
+      "mTime": "Dato",
+      "size": "Filstørrelse"
+    },
+    "albums": {
+      "cTime": "Oprettelsesdato",
+      "mTime": "Ændringsdato"
+    },
+    "album": {
+      "addedTime": "Dato ændret",
+      "cTime": "Oprettelsesdato"
+    }
+  },
+  "WhatsNew": {
+    "header": "Hvad er nyt",
+    "title": "{{product_name}} Nyheder",
+    "version": "Version: {{version}}",
+    "date": "Dato",
+    "updatedTo": "Opdateret til v {{version}}"
+  },
+  "AddSourceContextMenu": {
+    "addDrive": "Tilføj enhed",
+    "addSocial": "Tilføj sociale medier",
+    "addCloud": "Tilføj cloud"
+  },
+  "AddSocialProviders": {
+    "title": "Social mediekonto",
+    "description": "Tilføj sociale mediekonti for at medtage dit indhold i kataloget."
+  },
+  "AddCloudProviders": {
+    "title": "Cloud-konto",
+    "description": "Tilføj cloud-konti for at medtage dit indhold i kataloget."
+  },
+  "DeleteIndex": {
+    "title": "Fjern katalog",
+    "descriptionCommon": "Denne funktion fjerner kataloget fra {{product_name}}. Dit indhold vil forblive på din enhed, men du \nvil ikke være i stand til at søge på enheden og nyde funktionerne i {{product_name}}, medmindre du omkatalogiserer denne enhed. ",
+    "descriptionCloud": "Denne funktion fjerner kataloget fra {{product_name}}. Du kan ikke søge i dette indhold eller nyde funktionerne i {{product_name}} medmindre du katalogiserer denne kilde igen.",
+    "info": "Er du sikker på, at du vil fjerne enhedens katalog fra {{product_name}}?",
+    "ok": "Fjern katalog"
+  },
+  "AddDrives": {
+    "title": "Tilføj enhed",
+    "description": "Gennemse dit indhold ét sted på tværs af flere enheder med den fulde kraft af {{product_name}}-søgning!",
+    "addSelectedDrives": "Tilføj valgte enheder",
+    "addInfo": {
+      "noDriveTitle": "Ingen ukatalogiserede enheder",
+      "noDriveInfo": "Tilslut dine ukatalogiserede enheder, så de vises automatisk ovenfor.",
+      "externalTitle": "Har du et eksternt lager?",
+      "externalInfo": "Tilslut dine ukatalogiserede enheder, så de vises automatisk ovenfor."
+    }
+  },
+  "ListViewSourceItem": {
+    "indexed": "Tilsluttet og katalogiseret",
+    "indexing": "Katalogiserer {{percent}} %"
+  },
+  "SourcesList": {
+    "yourDevices": "Interne harddiske",
+    "yourDrives": "Ekstern harddisk",
+    "socialMedia": "Sociale medier",
+    "cloudStorage": "Cloud-lagerplads",
+    "addSocial": "Hold styr på, hvor de dyrebare minder befinder sig ved at linke til dine konti på sociale medier.",
+    "addSocialButton": "Tilføj dine konti til sociale medier",
+    "addCloud": "Søg på tværs af dine forskellige cloud-lagerpladskonti ved at linke dem her.",
+    "addCloudButton": "Tilføj dine cloud-lagerpladskonti",
+    "addDrive": "Få disse eksterne lagerenheder ud af skabet, støv dem af og føj dem til {{product_name}}.",
+    "addDriveButton": "Tilføj dit eksterne lager"
+  },
+  "IndexingStatus": {
+    "indexed": "Katalogiseret",
+    "indexedCompleted": "Katalogisering fuldført",
+    "indexingPercent": "Katalogiserer {{percent}} %",
+    "indexing": "Katalogiserer",
+    "erasing": "Sletter",
+    "removing": "Afinstallerer...",
+    "connecting": "Tilslutter ...",
+    "unlockToIndex": "Lås op til kataloget",
+    "lastIndexedYesterday": "Katalogiseret i går",
+    "lastIndexedDaysAgo": "Katalogiseret for {{count}} dage siden",
+    "indexingPaused": "Katalogisering sat på pause",
+    "notIndexed": "Ikke katalogiseret",
+    "preparing": "Forbereder...",
+    "clickHere": "klik her",
+    "cloudConnectionError": "Kan ikke katalogisere {{label}}. Vi kunne ikke oprette forbindelse til platformudbyderen.",
+    "indexErrorExplain": "<strong>Katalogiseringsfejl</strong> – noget gik galt under katalogisering. Oftest løses dette, hvis du frakobler og tilslutter enheden igen.",
+    "cloudIndexErrorExplain": "<strong>Fejl ved katalogisering af </strong> – der opstod en fejl under katalogisering af cloud-kilden. Vi vil fortsætte med at prøve igen for at genoptage katalogiseringen. Hvis fejlen vedvarer, bedes du rapportere den via <strong>Send feedback</strong>.",
+    "cloudWarningNotificationIndexErrorExplain": "Der opstod en fejl under katalogisering af cloud-kilden. Vi vil fortsætte med at prøve igen for at genoptage katalogiseringen. Hvis fejlen vedvarer, {{clickHere}} for at rapportere problemet.",
+    "pausedDueToConnectionError": "<strong>Ingen internetforbindelse</strong> – {{product_type}} kan ikke få forbindelse til tjenesteudbyderen. Opret forbindelse til internettet for at genoptage katalogiseringen.",
+    "pausedDueToDisconnected": "<strong>Katalogisering sat på pause</strong> – enheden er ikke længere tilsluttet. Tilslut din enhed for automatisk at genoptage katalogiseringen.",
+    "pausedDueToLowBattery": "<strong>Katalogisering sat på pause</strong> – katalogisering sat på pause for at spare batteri. Slut din bærbare computer til strøm for at fortsætte.",
+    "errReadContent": "<strong>Filindekseringsfejl</strong> – {{product_name}} stødte på problemer med katalogisering af nogle filer på \"{{label}}\". Disse filer vises muligvis ikke i {{product_name}}.",
+    "errCloudProviderAuth": "<strong>Kan ikke få adgang til konto</strong> – det ser ud til, at {{product_name}} har mistet tilladelsen til at få adgang til denne sociale konto eller cloud-konto. For at give {{product_name}} adgang skal du klikke på <strong>\"menuen med tre prikker\"</strong> og vælge <strong>\"Opret forbindelse til kilde igen\"</strong>.",
+    "errMaxDataSizeReached": "<strong>Katalogisering sat på pause</strong> - Du har nået 100 % af den maksimale katalogstørrelse, og vi kan ikke føje nye elementer til den.",
+    "errInsufficientStorage": "<strong> Katalogisering sat på pause </strong> - Der er ikke plads nok til at tilføje nyt indhold til kataloget. Du kan slette uønskede filer fra din computer for at frigøre plads til kataloget."
+  },
+  "ConnectedSourcesList": {
+    "noConnectedSources": "Ingen tilsluttede kilder.",
+    "addText": "Tryk på knappen \"Tilføj kilder\" for at tilslutte kilder."
+  },
+  "FileInfo": {
+    "info": "Oplysninger",
+    "name": "Filnavn",
+    "type": "Filtype",
+    "source": "Filkilde",
+    "size": "Filstørrelse",
+    "modified": "Sidst ændret",
+    "created": "Oprettet",
+    "fileLocation": "Filplacering",
+    "location": "Sted",
+    "tagTitle": "Tags",
+    "tagLengthError": "Indtast mere end 2 tegn for at gemme",
+    "tags": "Indtast brugerdefinerede tags ...",
+    "descriptionTitle": "Beskrivelse",
+    "description": "Tilføj beskrivelse ...",
+    "title": "Personer med Access",
+    "text": "Kommer snart …",
+    "tagsLimit": "Højst 100 tags.",
+    "aperture": "F-nummer",
+    "camera": "Kamera",
+    "exposureTime": "Eksponeringstid",
+    "focalLength": "Brændvidde",
+    "isoSpeed": "ISO-hastighed",
+    "latitude": "Breddegrad",
+    "longitude": "Længdegrad",
+    "flash": "Blitz"
+  },
+  "ManageDriveIndex": {
+    "title": "Administrer enhed",
+    "description": "Gennemse dit indhold ét sted på tværs af flere enheder med den fulde kraft af {{product_name}}-søgning!",
+    "listTitle": "Vælg de mapper i denne enhed, der skal katalogiseres.",
+    "updateIndex": "Opdater katalog"
+  },
+  "GetPrime": {
+    "title": "Få Access",
+    "description": "Kombiner dine lagerapps og lagerenheder, og få adgang til dem ét sted, både online eller offline.",
+    "signUp": "Tilmeld dig Access",
+    "enablePrime": "Aktiver Access",
+    "noThanks": "Nej tak"
+  },
+  "IndexDrive": {
+    "title": "Katalogenhed",
+    "subTitle": "Vi har bemærket, at denne enhed ikke er katalogiseret.",
+    "text": "Når dine enheder er katalogiseret, kan du se og søge på tværs af flere enheder, selv når de ikke er tilsluttet.",
+    "index": "Katalogiser denne enhed"
+  },
+  "DriveDisconnected": {
+    "title": "Forbindelsen til enheden er afbrudt",
+    "subTitle": "Enheden er i øjeblikket ikke tilsluttet. Klik på \"Gennemse enhed\" for at gennemse det aktuelle katalog. ",
+    "text": "For at opdatere kataloget skal du tilslutte enheden, så gør vi resten.",
+    "browse": "Gennemse enhed"
+  },
+  "LaunchWizard": {
+    "locationSelectTitle": "Katalogplacering",
+    "permissionsInfoTitle": "Access-tilladelse",
+    "deviceSelectionWaitingTitle": "Leder efter din enhed",
+    "deviceSelectionWaitingDescription": "Sørg for, at din enhed understøttes af {{product_name}}-appen og er tilsluttet din computers USB-port.",
+    "deviceSelectionChooseTitle": "Følgende enheder er tilsluttede.",
+    "deviceSelectionChooseDescription": "Vælg en for at begynde opsætning. Vi klarer de andre senere, når installationen er afsluttet.",
+    "launchWizardPipTitle": "At hjælpe os med at forbedre {{product_name}}.",
+    "launchWizardMarketingTitle": "Markedsføringspræferencer",
+    "deviceSelectionEmptyTitle": "Ingen enheder registreret",
+    "deviceSelectionEmptyDescription": "Sørg for, at din enhed understøttes af {{product_name}}-appen og er tilsluttet din computers USB-port, og prøv så igen.",
+    "deviceSelectionConnectedTitle": "{{deviceName}} tilsluttet",
+    "deviceSelectionConnectedDescription": "Din {{deviceName}} enhed er nu klar til at blive konfigureret.",
+    "deviceNameTitle": "Navngiv din enhed",
+    "deviceNameDescription": "Giv din enhed et unikt navn, så du kan kende forskel på dine enheder.",
+    "devicePasswordTitle": "Beskyt din enhed med en adgangskode.",
+    "devicePasswordDescription": "Beskyt din enhed med en adgangskode for at beskytte dine filer.",
+    "deviceSetupCompleteTitle": "Din {{- deviceName}} er klar til brug!",
+    "deviceSetupCompleteDescription": "Nu da din {{deviceName}} enhed er sat op, lad os konfigurere din {{product_name}} oplevelse.",
+    "defaultDeviceName": "My Passport",
+    "addSourcesTitle": "Vælg mapper, der skal medtages i {{product_name}}",
+    "addSourcesDescription": "Bare rolig – {{product_name}} vil aldrig flytte eller slette nogen af dine filer eller mapper uden din tilladelse.",
+    "accountSignInTitle": "Log ind",
+    "accountSignUpTitle": "Lad os oprette din gratis konto.",
+    "accountSignUpDescription": "Opret en konto for at katalogisere alle dine minder på de sociale medier og cloud-filer ét sted.",
+    "accountPasswordTitle": "Nulstil adgangskode",
+    "accountPasswordDescription": "Har du brug for at nulstille din adgangskode? Vi sender dig en e-mail med instruktioner. <br/><br/> BEMÆRK: Hvis du brugte denne e-mail til at oprette en konto til din ibi, My Cloud OS 5 eller My Cloud Home, nulstiller den også adgangskoden.",
+    "accountAuthTitle": "Lad os oprette din gratis konto.",
+    "accountAuthDescription": "Opret en konto for nemt at registrere og katalogisere dine medieminder og -filer på ét sted."
+  },
+  "AgreementMarketing": {
+    "title": "Kommunikationsindstillinger",
+    "first": {
+      "title": "Hold kontakten",
+      "description": "Du kan vælge at modtage markedsføringskommunikation, herunder målrettede reklamer, fra os via in-app-meddelelser, push-beskeder og e-mail."
+    },
+    "second": {
+      "title": "Modtag personaliserede opdateringer fra os",
+      "description": "Når du tilmelder dig vores markedsføringsprogram, kan vi bruge personligt identificerbare oplysninger fra din brug af {{company_name}}s tjenester til at give dig annoncer, der er relevante for dig. Dette kan omfatte oplysninger relateret til din brug af {{product_name}}-appen, såsom dit navn, e-mailadresse, IP-adresse, kontoindstillinger (for eksempel sprog og tidszoneindstillinger) og abonnementsoplysninger; brugsdata, hvis du har valgt {{product_name}} {{analytics_link}}; oplysninger om din brug af tredjepartstjenester (for eksempel cloud- og sociale medietjenester såsom Facebook, Instagram, Dropbox, Google Drive og OneDrive), der er forbundet til {{product_name}}-appen; oplysninger om din brug af {{company_name}}s tjenester, såsom {{store_link}}, som kan omfatte din købshistorik, placering og kontoindstillinger (for eksempel sprogindstillinger) samt information om din brug af {{company_name}}s sider og brugen af cookies som beskrevet i vores {{cookie_link}}. Du kan altid justere dit valg senere i Indstillinger.",
+      "analytics_program": "analyseprogram",
+      "store": "{{company_name}} Butik",
+      "cookie": "Cookie-erklæring"
+    },
+    "agreement": "Ved at klikke på \"{{agree}}\" anerkender du {{company_name}} {{privacy_link}} og accepterer at modtage markedsføringskommunikation fra {{company_name}}, der inkluderer nyhedsbreve, opdateringer og kampagner relateret til {{company_name}} produkter og tredjepartsprodukter, herunder via meddelelser i appen, push-beskeder og e-mail. Du accepterer også brugen af personligt identificerbare oplysninger som beskrevet ovenfor til disse formål. Du kan når som helst trække dit samtykke tilbage.",
+    "privacy_statement": "Erklæring om beskyttelse af personlige oplysninger",
+    "agree": "Accepterer",
+    "skip": "Spring over nu",
+    "notShare": "Accepterer ikke"
+  },
+  "LaunchWizardHeader": {
+    "account": "Opret konto",
+    "deviceName": "Enhedsnavn",
+    "devicePassword": "Adgangskode til enhed",
+    "deviceSetupComplete": "Opsætning af enhed er gennemført"
+  },
+  "LaunchWizardPermissionsInfo": {
+    "title": "\"{{product_name}}\" Tilladelser",
+    "text1": "Når du ser systemet \"{{product_name}} Notifikationer\" dukke op, skal du klikke på \"Tillad\", og så er du køreklar.",
+    "text2": "Det gør det muligt for {{product_name}} at kommunikere app-opdateringer, konnektivitet mellem enheder og andre vigtige notifikationer, der er med til at holde din digitale verden organiseret. "
+  },
+  "LaunchWizardDeviceSelectionChoose": {
+    "select": "Vælg",
+    "retry": "Jeg kan ikke se min enhed",
+    "modalContent": "Sørg for, at din enhed understøttes og er fast knyttet til din computers USB-port, og prøv igen."
+  },
+  "LaunchWizardDeviceSelectionEmpty": {
+    "retry": "Prøv igen",
+    "skip": "Jeg sætter ikke en enhed op",
+    "help": "Brug for hjælp?",
+    "site": "Besøg vores online hjælp"
+  },
+  "LaunchWizardAccountSignUp": {
+    "signIn": "Log ind"
+  },
+  "LaunchWizardAccountSignIn": {
+    "signUp": "Registrer dig",
+    "forgotPassword": "Glemt adgangskode?",
+    "offline": "Ingen internetforbindelse. Kontrollér din internetforbindelse, og prøv igen."
+  },
+  "LaunchWizardAccountModal": {
+    "title": "Er du sikker?",
+    "text": "Oprettelse af en konto giver dig mulighed for nemt at registrere og aktivere din garanti samt katalogisere dine konti til sociale medier og cloud-filer ét sted.<br/><br/>Er du sikker på, at du vil fortsætte uden at oprette en konto?",
+    "textSkipSocial": "Opret en konto for nemt at registrere og katalogisere dine medieminder og -filer på ét sted.<br/><br/>Er du sikker på, at du vil fortsætte uden at oprette en konto?",
+    "confirm": "Ja, jeg er sikker",
+    "close": "Annuller"
+  },
+  "LaunchWizardAccountExistEmail": {
+    "title": "E-mail allerede tilknyttet",
+    "text": "Denne e-mailadresse er allerede tilknyttet en konto. Vil du logge ind i stedet for?",
+    "confirm": "Log ind",
+    "close": "Luk"
+  },
+  "LaunchWizardDeviceName": {
+    "skip": "Jeg gør det senere",
+    "error": "Der opstod et problem under navngivning af din enhed. Prøv igen."
+  },
+  "AgreementAnalytics": {
+    "title": "At hjælpe os med at blive bedre {{product_name}}",
+    "hint": "Ved at klikke på <b>\"Enig\"</b> accepterer du at dele dine brugsdata med os til de ovenfor beskrevne formål. Du kan altid justere dit valg senere i Indstillinger.",
+    "AgreementAnalyticsDescription1": "Del brugsdata med os for at hjælpe os med at forbedre vores produkter, tjenester og apps og til at personalisere din oplevelse med appen. Vi holder af vores kunder og vil være gennemsigtige for vores brugere om vores databeskyttelsespraksisser. Besøg vores {{privacy_link}} for at få flere oplysninger.",
+    "AgreementAnalytics2": "Hvilke data indsamler vi?",
+    "AgreementAnalyticsDescription2": "Brugsdata inkluderer oplysninger om, hvordan du bruger appen. Dette kan omfatte emner såsom enhedsoplysninger og konfiguration, CPU/enhed og anden brugsstatistik efter applikation, API-opkald, information om nedbrud af tjenester, netværksstatus, lagerudnyttelse, søgeord, placering, filattributter (for eksempel indholdsmetadata såsom filstørrelse, type, kilde, oprettelses-, ændrings- og adgangsdatoer og -tider, kameramærke/-model, placering, tags/beskrivelser), korrelationer mellem filer og kontoplysninger fra tredjepart, som du linker til tjenesten.",
+    "AgreementAnalytics3": "Hvordan bruger vi disse data?",
+    "AgreementAnalyticsDescription3": "Vi indsamler automatisk brugsdata, hvis du tilmelder dig vores analyseprogram. Dette hjælper os med at forbedre kvaliteten og ydeevnen af vores produkter, tjenester og apps og tilpasse din oplevelse med appen og push-beskeder. Vi sælger ikke dine personoplysninger.",
+    "notShare": "Accepterer ikke",
+    "skip": "Spring over nu",
+    "agree": "Accepterer",
+    "offline": "Ingen internetforbindelse. Kontrollér din internetforbindelse, og prøv igen.",
+    "privacy_center": "Privatlivscenter"
+  },
+  "LaunchWizardDevicePassword": {
+    "skip": "Jeg vil ikke angive en adgangskode",
+    "password": "Adgangskode",
+    "confirmation": "Bekræft adgangskode",
+    "hint": "Adgangskodetip",
+    "checkboxTitle": "Aktivér automatisk oplåsning for mig på denne computer.",
+    "checkboxDescription": "Afkryds dette felt, hvis du vil have, at denne computer skal huske adgangskoden til Pat’s My Passport.",
+    "error": "Der opstod et problem med at angive din adgangskode. Prøv igen."
+  },
+  "LaunchWizardResetPassword": {
+    "button": "Send instruktioner",
+    "email": "E-mailadresse"
+  },
+  "LaunchWizardLocationSelect": {
+    "hint": "Kataloget er en liste over elementer, der indeholder oplysninger relateret til dine filer, såsom filnavn, -type, -størrelse, -kilde, oprettelsesdato og ændringsdato. Kataloget gemmes som standard på din computers interne drev. Vi bruger maksimalt 10 % af den ledige plads på din enhed til at gemme dette katalog.",
+    "info": "Hvis du har mere end ét drev på din computer, skal du vælge et drev med maksimal ledig plads.",
+    "capacity": "<b>{{free}}</b> fri for {{full}}",
+    "drive": "Drev",
+    "popoverTitle": "Ikke-understøttet filsystem",
+    "popoverContent": "{{product_name}} understøtter ikke dette drevs (FAT) filsystemformat. Gem dit katalog på et andet drev.",
+    "popoverNotEnoughSpaceTitle": "Ingen plads tilgængelig",
+    "popoverNotEnoughSpaceText": "Dette drev har ikke ledig plads. Gem dit katalog på et andet drev. {{link}}",
+    "link": "Læs mere"
+  },
+  "HeaderFtuePopover": {
+    "title": "Lad os tilføje din første kilde!",
+    "text": "{{product_name}} har brug for mindst én kilde for at vise sin virkelige styrke. Lad os vise dig, hvordan det skal gøres. {{take_the_tour_link}}",
+    "take_the_tour_link": "Tag rundvisningen"
+  },
+  "ManageSourcesFtueManager": {
+    "StartAlert": {
+      "title": "Tag en rundvisning i {{product_name}}!",
+      "text": "Vores guidede opsætning viser dig, hvordan du tilføjer et eksternt lager, du har til dine kilder, hvordan du tilføjer din computers interne lager og vejleder dig i det grundlæggende i brugen af programmet.",
+      "textSocialCloud": "Vores guidede opsætning viser dig, hvordan du tilføjer eksterne lagerenheder til dine liste af kilder, hvordan du tilføjer din computers interne lager og vejleder dig i det grundlæggende i brugen af programmet.",
+      "button": "Næste"
+    },
+    "DrivePresent": {
+      "title": "Lad os først tilføje din nye enhed.",
+      "text": "Hold markøren over din enhed, klik på <b>\"...\" mere menu</b>, og vælg <b>\"Katalogenhed\"</b> for at starte katalogiseringen."
+    },
+    "DriveNotPresent": {
+      "title": "Lad os først tilføje din nye enhed.",
+      "text": "Klik på <b>\"Tilføj enhed\"</b> for at vælge en kilde, der skal katalogiseres."
+    },
+    "NotFromTinyInstaller": {
+      "title": "Lad os først tilføje en enhed.",
+      "text1": "Klik et vilkårligt sted på enhedens kort for at starte katalogiseringen.",
+      "text2": "Klik et vilkårligt sted på et kort for at begynde at katalogisere din valgte enhed."
+    },
+    "AddingAComputer": {
+      "title": "Tilføjelse af en computer",
+      "text1": "Når du tilføjer en computers interne lager som kilde, kan du vælge det første niveau af mapper på enheden, der skal katalogiseres. Vi har valgt et par standardplaceringer, hvor folk normalt gemmer deres vigtige filer.",
+      "text2": "Du er velkommen til at vælge eller fravælge mapper, hvor dine vigtige filer er, og derefter rulle ned og klikke på \"Tilføj valgte enheder\"."
+    },
+    "PlugInDrive": {
+      "title": "Tilslut din eksterne enhed.",
+      "text": "Når du tilslutter en enhed til din computer, skal du vælge den fra listen og klikke på <b>\"Tilføj valgte enhed\"</b>."
+    },
+    "IndexingProgress": {
+      "title": "Katalogiseringsstatus",
+      "text": "Katalogiseret indhold kan gennemses eller søges, selv når dine kilder ikke er tilsluttede. Tjek status her eller i nederste venstre hjørne af programvinduet.",
+      "button": "Næste"
+    },
+    "MultipleSources": {
+      "title": "Flere kilder",
+      "text1": "Nu hvor du har tilføjet en anden kilde, katalogiserer {{product_name}} dem en ad gangen, fra den sidste kilde, der er tilføjet til den seneste.",
+      "text2": "Som nævnt før, kan du altid tjekke katalogiseringstatus her eller i nederste venstre hjørne af programvinduet.",
+      "button": "Næste"
+    },
+    "ManagingSources": {
+      "title": "Sådan administreres kilder",
+      "text": "Hold markøren over en kilde, og klik på ikonet med tre prikker for at se en liste over handlinger, der er tilgængelige for den kilde.",
+      "button": "Næste"
+    },
+    "AddSourceButton": {
+      "title": "Tilføjelse af en kilde",
+      "text": "Klik på <b>knappen \"+\"</b>, når du er på fanen Kilder for at vælge en kildetype, der skal katalogiseres."
+    },
+    "DriveLocked": {
+      "title": "Lås din enhed op",
+      "text": "Vi bliver nødt til at låse din enhed op, før vi kan katalogisere den."
+    },
+    "FinishAlert": {
+      "title": "Du har tilføjet en kilde!",
+      "text": "Lad os nu tage en hurtig rundvisning i {{product_name}}-appen, så du kan tage kontrol over din digitale verden.",
+      "button": "Jeg er klar"
+    },
+    "UnlockingDrive": {
+      "title": "Stille og roligt",
+      "text": "Din enheds adgangskode hjælper med at holde dine data sikre. Lås din enhed op, så {{product_name}} kan føje den til dit katalog."
+    },
+    "UnlockedDriveIndexed": {
+      "title": "Katalogiserer allerede",
+      "text": "Din enhed bliver allerede katalogiseret af {{product_name}}. Vælg <b>\"Luk\"</b>, så ser vi, hvordan det går."
+    },
+    "UnlockedDriveNotIndexed": {
+      "title": "Den er låst op!",
+      "text": "Vælg dernæst <b>\"Gennemse enhed\"</b>."
+    },
+    "UnlockedDriveStartIndexing": {
+      "title": "Start katalogisering nu",
+      "text": "Vælg <b>\"Katalogiser denne enhed\"</b>, og vi er godt på vej. Herefter skal du bare tilslutte enheden og låse den op, og {{product_name}} begynder automatisk at katalogisere den."
+    },
+    "TurboMode": {
+      "title": "Katalogisering for langsom?",
+      "text1": "Slå turbotilstand til, og katalogiser op til fire gange hurtigere! Det er ret nyttigt, hvis du hurtigt skal katalogisere en stor mængde indhold, f.eks. fra en nyligt tilføjet kilde.",
+      "text2": "Aktivering af turbotilstand fjerner begrænsningerne for, hvor hurtigt {{product_name}} katalogiserer dit indhold. Dette vil fremskynde din katalogisering, men kan få din computers ventilator til at larme, og bevirke at andre applikationer på dit system bliver langsommere eller ikke reagerer.",
+      "text3": "BEMÆRK: Turbo-tilstand understøttes i øjeblikket kun for computere med 4 eller flere kerner og mere end 4 GB RAM. {{link}}",
+      "link": "Læs mere",
+      "button": "Næste"
+    }
+  },
+  "FtueSuspendModal": {
+    "title": "Spring vejledning over",
+    "text": "Du kan altid få adgang til vejledningen igen senere fra Indstillinger.",
+    "button1": "Spring over",
+    "button2": "Annuller"
+  },
+  "SelectModePanel": {
+    "counter": "{{count}} Element valgt",
+    "counter_plural": "{{count}} Elementer valgt"
+  },
+  "Notifications": {
+    "volumeIndexing": {
+      "title": "{{label}} katalogiserer",
+      "message": "Bare vent, mens vi katalogiserer din enhed. Frakobl ikke, katalogiseringen er fuldført."
+    },
+    "indexingCompleted": {
+      "title": "Katalogisering fuldført",
+      "message": "Tjek dit opdaterede indhold."
+    },
+    "volumeConnected": {
+      "title": "{{label}} tilsluttet",
+      "message": "Katalogiser denne enhed for at søge og gennemse dens indhold, når den ikke er tilsluttet."
+    },
+    "deviceLocked": {
+      "title": "Lås op for {{label}}",
+      "message": "Klik her for at låse den tilsluttede enhed op."
+    },
+    "deviceLock": {
+      "title": "{{label}} tilsluttet",
+      "message": "Lad os låse din enhed for øget sikkerhed."
+    },
+    "takeSurvey": {
+      "title": "Hjælp os med at forbedre {{product_name}}!",
+      "message": "Deltag i en hurtig undersøgelse, og lad os vide, hvordan du har det med appen."
+    },
+    "Albums": {
+      "viewCollections": "Se samlinger!"
+    }
+  },
+  "IndexingDrive": {
+    "title": "Katalogiserer enhed",
+    "text": "Mens vi katalogiserer din enhed, skal du tjekke samlinger, og vi giver dig besked, når katalogiseringen er afsluttet.",
+    "viewCollections": "Se samlinger",
+    "slides": {
+      "slide1": {
+        "title": "Automatisk organisering",
+        "description": "{{product_name}} organiserer og kategoriserer alle dine filer, så du hurtigt kan søge efter det, du har brug for."
+      }
+    }
+  },
+  "TitlebarUser": {
+    "no_subscription": "Ingen abonnement",
+    "yes_subscription": "{{product_name}} Access-abonnement",
+    "link": "Opgrader"
+  },
+  "TitlebarUserDesktopOptions": {
+    "devtools": "Skift til udviklerværktøjer",
+    "about": "Om",
+    "quit": "Afslut"
+  },
+  "TitlebarPrimeModal": {
+    "button": "Abonner på Access"
+  },
+  "Titlebar": {
+    "back": "Gå tilbage",
+    "forward": "Gå frem",
+    "help": "Hjælp",
+    "account": "Konto"
+  },
+  "Widgets": {
+    "left": "Rul til venstre",
+    "right": "Rul til højre"
+  },
+  "Duplicates": {
+    "title": "Dubletter",
+    "subtitle": "{{count}} enhed katalogiserer og vil ikke blive inkluderet",
+    "subtitle_plural": "{{count}} enheder katalogiserer og vil ikke blive inkluderet",
+    "indexingInProgressText": "En af dine enheder katalogiserer. Resultaterne inkluderer ikke katalogiseringsenheden – vi anbefaler at vente, indtil enheden er færdigkatalogiseret!"
+  },
+  "DuplicatesPreviewPanel": {
+    "noDuplicatesTitle": "Fandt ingen kopier!",
+    "noDuplicatesText": "Tillykke med at være så ordentlig!",
+    "selectDuplicate": "Vælg et duplikat, der skal vises",
+    "filesCount": "{{count}} fil",
+    "filesCount_plural": "{{count}} filer"
+  },
+  "DuplicatesPreviewPanelFileItem": {
+    "manage": "Administrer",
+    "managePopOver": "Tilslut \"{{device_name}}\" for at administrere dette element.",
+    "openInPhotos": "Åbn fotoapp",
+    "fileIndex": "{{index}} af {{count}}",
+    "sourceNotConnected": "Kilde ikke tilsluttet",
+    "errAccessDenied": "{{product_name}} har ikke tilladelse fra dit operativsystem til at slette filer i denne mappe."
+  },
+  "DuplicatesMissingInfoPanel": {
+    "title": "Ser du ikke alle dine dubletter?",
+    "text": "Filer fra sociale kilder og cloud-kilder vises ikke i dubletcentret. {{link_text}}",
+    "link_texts": "Åbn vores ofte stillede spørgsmål (FAQ) for at få mere at vide."
+  },
+  "DuplicatesDeleteModal": {
+    "title": "Slet fil",
+    "text": "Er du sikker på, at du vil slette \"{{name}}\"?",
+    "note": "Bemærk: Dette er den sidste dubletkopi af ovenstående fil. Hvis du sletter den, vil den oprindelige fil ikke længere optræde i widgetten Dubletter. Du kan finde originalen ved at bruge Søg eller fanebladet Gennemse.",
+    "confirmButton": "Ja, slet det",
+    "deleteSuccess": "\"{{name}}\" blev slettet."
+  },
+  "TurboMode": {
+    "title": "Turbotilstand er {{state}}",
+    "description": "Hvad er dette?",
+    "popOverTitle": "Hvad er turbotilstand?",
+    "popOverText1": "Vi anbefaler, at du bruger turbotilstand, hvis du hurtigt skal katalogisere en stor mængde indhold, f.eks. fra en nyligt tilføjet kilde.",
+    "popOverText2": "Aktivering af turbotilstand fjerner begrænsningerne for, hvor hurtigt {{product_name}} katalogiserer dit indhold. Dette vil fremskynde din katalogisering, men kan få din computers ventilator til at larme, og bevirke at andre applikationer på dit system bliver langsommere eller ikke reagerer. Turbo-tilstand slukker automatisk, når du lukker {{product_name}}-appen for at forhindre unødvendig afmatning af dit system.",
+    "popOverText3": "BEMÆRK: Turbo-tilstand er i øjeblikket kun tilgængelig for computere med mere end fire kerner og mindst 4 GB RAM. {{link}}",
+    "link": "Læs mere"
+  },
+  "Facets": {
+    "title": "Efter kategorier",
+    "empty": "Når du har føjet nogle filer til dine kilder, vises de her organiseret automatisk efter type."
+  },
+  "BrowseSources": {
+    "allSources": "Alle kilder",
+    "internalStorage": "Interne harddiske",
+    "externalStorage": "Ekstern harddisk",
+    "social": "Sociale medier",
+    "cloud": "Cloud-lagerplads",
+    "addExternal": "Føj dine kilder til {{product_name}}",
+    "empty_all": "Få disse eksterne lagerenheder ud af skabet, støv dem af og føj dem til {{product_name}}.",
+    "empty_social": "Ingen tilgængelige kilder for sociale medier. Vælg en anden kildetype eller {{link}} kilde i sektionen Administrer dine kilder.",
+    "empty_cloud": "Ingen tilgængelige cloud-lagerpladskilder. Vælg en anden kildetype eller {{link}} kilde i sektionen Administrer dine kilder.",
+    "empty_internalStorage": "Ingen tilgængelige eksterne kilder. Vælg en anden kildetype eller {{link}} kilde i sektionen Administrer dine kilder.",
+    "empty_externalStorage": "Ingen tilgængelige interne kilder. Vælg en anden kildetype eller {{link}} kilde i sektionen Administrer dine kilder.",
+    "link_social": "tilføj socialt medie",
+    "link_cloud": "tilføj en cloud-lagerplads",
+    "link_externalStorage": "tilføj ekstern lagerplads",
+    "link_internalStorage": "tilføj intern lagerplads"
+  },
+  "CollectionGridItem": {
+    "pages": "{{count}} sider"
+  },
+  "LivePhoto": {
+    "live": "LIVE"
+  },
+  "SidePanelCollections": {
+    "search_placeholder": "Søg samlinger",
+    "empty_title": "Søgeresultater for samlinger",
+    "empty_text": "Det ser ud til, at der ikke blev fundet nogen søgeresultater for \"nøgleord\"."
+  },
+  "Surveys": {
+    "title": "Undersøgelser",
+    "header": "Deltag i en hurtig undersøgelse!",
+    "survey_1": {
+      "title": "Introduktion og første indtryk",
+      "short_title": "Introduktion"
+    },
+    "survey_2": {
+      "title": "Tilføjelse og søgning efter indhold",
+      "short_title": "Tilføj og søg efter indhold"
+    },
+    "survey_3": {
+      "title": "Virtuel organisering af indhold",
+      "short_title": "Organisering af indhold"
+    }
+  },
+  "BrowseFTUE": {
+    "modal": {
+      "title": "Sådan gennemser du med {{product_name}}",
+      "left": {
+        "descriptionTitle": "Efter kategorier og widgets",
+        "descriptionText": "Dine filer sorteres intelligent efter bl.a. kategori for at gøre det nemt at finde det, du leder efter."
+      },
+      "right": {
+        "descriptionTitle": "Efter kilder",
+        "descriptionText": "Foretrækker du at navigere efter din lagringsenheds fil- og mappestruktur? Det klarer vi. Bare søg efter kilde for at gå ned til det, du har brug for."
+      }
+    },
+    "popover": {
+      "title": "Hvad er der på denne side?",
+      "text": "Hvis du nogensinde vil læse om, hvordan du bruger hver fane i {{product_name}} igen, skal du bare gå til ikonet <b>Spørgsmålstegn</b> øverst til højre og derefter vælge <b>\"Hvad er der på denne side?\"</b>"
+    }
+  },
+  "PrimeFTUE": {
+    "title": "Bliv stærkere med Access",
+    "left": {
+      "descriptionTitle": "Access hvor som helst",
+      "descriptionText": "Ved at abonnere på {{product_name}} Access får du mulighed for at søge, gennemse og forhåndsvise dit indhold fra stationære, mobile eller tablet-enheder, som {{product_name}} er installeret på eller via internettet."
+    },
+    "right": {
+      "descriptionTitle": "Sociale medier og cloud-tjenester",
+      "descriptionText": "Med {{product_name}} Access kan du tilslutte understøttede kilder til sociale medier og cloud-tjenester. Søg, gennemse og få vist indhold fra alle dine kilder på ét sted. {{link}}",
+      "link": "Få mere at vide."
+    }
+  },
+  "CollectionFTUE": {
+    "title": "Udforsk din digitale verden",
+    "left": {
+      "descriptionTitle": "Steder og tags",
+      "descriptionText": "Dine filer sorteres intelligent efter objekter, dato, placering og mere for at give dig relevante grupperinger af dit personlige indhold."
+    },
+    "right": {
+      "descriptionTitle": "Mine samlinger",
+      "descriptionText": "Opret brugerdefinerede samlinger af dine filer fra dine lagerkilder for at få fuld kontrol over din digitale verden."
+    }
+  },
+  "SearchFTUE": {
+    "title": "Søgning ét sted",
+    "left": {
+      "descriptionTitle": "Søg i alle kilder",
+      "descriptionText": "Med dine digitale filer tagget og katalogiseret kan du søge i dit indhold på din computer og dine lagerenheder, selv når de ikke er tilsluttede."
+    },
+    "right": {
+      "descriptionTitle": "Avancerede filtre",
+      "descriptionText": "Juster dine søgninger efter datointerval, tags, kilde, filtype, sted og meget mere. Find og administrer nøjagtigt det, du har brug for."
+    }
+  },
+  "SourcesFTUE": {
+    "title": "Tilføj og administrer kilder",
+    "left": {
+      "descriptionTitle": "Tilslut og katalogiser kilder",
+      "descriptionText": "Tilslut dine kilder til din computer og føj dem til dit lager. Når de er tilføjet, scanner {{product_name}} deres indhold for at føje det til dit katalog, så du kan søge, gennemse og organisere det."
+    },
+    "right": {
+      "descriptionTitle": "Administrer eksterne enheder",
+      "descriptionText": "Administrer dine understøttede eksterne WD- og SanDisk-lagerenheder ved at navngive dem, tilføje en adgangskode og mere. Hold øje med fremtidige opdateringer, når vi tilføjer flere understøttede enheder."
+    }
+  },
+  "HelpPopOver": {
+    "whatPage": "Hvad er denne side?",
+    "website": "Hjælpeside"
+  },
+  "WarningNotificationsUniqueIdentifier": {
+    "text": "Den entydige identifikator hjælper dig med at foretage fejlfinding af problemer med {{product_name}}, når du kontakter support. Ved at give denne entydige identifikator til vores supportteam vil de være i stand til at se logfiler for din konto, der inkluderer aktivitet og ydeevne på dine enheder, og det kan hjælpe dem med at identificere eller løse det problem, du har."
+  },
+  "WarningNotificationsPhotosLibraryNoInternet": {
+    "text": "Katalogisering blev sat på pause, fordi din computer mistede forbindelsen til internettet. Tilslut igen for at fortsætte med at katalogisere dit Fotobibliotek."
+  },
+  "TutorialFtue": {
+    "browse": "Gennemse dine filer efter kategori, kilde eller vores smarte widgets.",
+    "collections": "Organiser din digitale verden med {{product_name}}s samlinger.",
+    "sources": "Føj nye lagringskilder til din digitale lagerplads.",
+    "turbo": "Går katalogiseringen for langsomt? Fremskynd den med <b>turbotilstand</b>.",
+    "search": "Søg på tværs af dit katalogiserede indhold efter filnavn, steder og nøgleord.",
+    "tipsTricks": "Få tip og tricks til, hvordan du får mest muligt ud af {{product_name}}.",
+    "next": "Bare naviger rundt i {{product_name}} for at lære mere om dens funktioner."
+  },
+  "ModalConfirmSignOut": {
+    "title": "Vil du logge ud af {{product_name}}?",
+    "text": "Er du sikker, at du vil logge ud?",
+    "textWithCloudServices": "Du har stadig adgang til dit katalog, selvom du er logget ud.",
+    "confirm": "Log af",
+    "titleOffline": "Ingen internetforbindelse",
+    "textOffline": "Du skal være tilsluttet internettet for at logge ud af {{product_name}}. Bekræft din forbindelse, og prøv igen."
+  },
+  "ModalSurveyAvailable": {
+    "title": "Undersøgelse #{{index}} tilgængelig",
+    "text": "Deltag i en hurtig undersøgelse, og fortæl os, hvad du synes om din oplevelse med <b>{{name}}</b>.",
+    "confirm": "Tag undersøgelsen",
+    "cancel": "Senere"
+  },
+  "UpdateBanner": {
+    "text": "En ny version af {{product_name}} er tilgængelig. Opdater nu for de seneste fejlrettelser og nye funktioner.",
+    "link": "Opdatering",
+    "updateLoaded": "Opdatering downloadet.",
+    "relaunch": "Genstart {{product_name}}"
+  },
+  "Placeholder": {
+    "network": {
+      "title": "Netværksdrevsupport",
+      "text": "Support til My Cloud Home, ibi og My Cloud OS 5 er på vej."
+    }
+  },
+  "SubscriptionTicket": {
+    "EdgeRoverBasic": {
+      "title": "{{product_name}} Basic",
+      "text": "Du bruger den gratis version af {{product_name}}.",
+      "button": "Se opgraderingsmuligheder"
+    },
+    "EdgeRoverAccess": {
+      "title": "{{product_name}} Access",
+      "text": "9,99 USD pr. måned, faktureret årligt",
+      "textExpire": "Næste betaling planlagt den ",
+      "button": "Administrer abonnement"
+    }
+  },
+  "ModalShortcutsHelp": {
+    "ModalTitle": "Tastaturgenveje",
+    "GeneralTitle": "Generelt",
+    "PreviousPage": "Forrige side",
+    "SwitchMainSections": "Skift hovedafsnit",
+    "StartSearch": "Start søgning",
+    "CreateCollection": "Opret samling",
+    "CloseModalOrRightPanel": "Luk modal eller højre panel",
+    "SelectionTitle": "Valg",
+    "SelectAll": "Vælg alle",
+    "SelectRangeOfItems": "Vælg række af elementer",
+    "SelectOrDeselect": "Vælg/fravælg enkelt element",
+    "HelpTitle": "Hjælp",
+    "HelpCenter": "Hjælpecenter",
+    "KeyboardShortcuts": "Tastaturgenveje",
+    "FilePreviewTitle": "Forhåndsvisning af fil",
+    "NextFile": "Næste fil",
+    "PreviousFile": "Forrige fil",
+    "CloseFilePreview": "Luk forhåndsvisning af fil",
+    "PlayOrPause": "Afspil/Afbryd video eller lydfil",
+    "OpenFile": "Åbn fil",
+    "MoreInfo": "Flere oplysninger",
+    "ShowFileLocation": "Vis placering af fil",
+    "ZoomInPhoto": "Zoom foto ind",
+    "ZoomOutPhoto": "Zoom foto ud",
+    "ZoomToZero": "Zoom til 100 %",
+    "EnterFullScreen": "Fuld skærmtilstand",
+    "ExitFullScreen": "Forlad fuld skærmtilstand",
+    "BrowseAndGridsTitle": "Gennemse og gitre",
+    "NavigateFilesAndFolders": "Naviger i filer og mapper",
+    "RefreshList": "Opdatér mappe eller filliste",
+    "OpenFocusedFolder": "Åbn fokuseret mappe",
+    "OpenFocusedFileInApp": "Åbn fokuseret fil i app",
+    "ShowLocation": "Vis placering af fil/mappe",
+    "ToggleView": "Skift til liste-/miniaturevisning",
+    "ChangeSort": "Sortér",
+    "SourcesTitle": "Kilder",
+    "NavigateCategories": "Naviger i kategorier",
+    "NavigateSources": "Naviger i kilder",
+    "OpenFocusedDriveOrSource": "Åbn fokuseret drev eller kilde",
+    "SettingsTitle": "Indstillinger",
+    "NavigateSettingsSections": "Naviger i afsnittet Indstillinger",
+    "OpenFocusedSection": "Åbn fokuseret afsnit"
+  },
+  "PageSettingsProductTour": {
+    "title": "Produktpræsentation",
+    "text": "Tilføjelse af en kilde",
+    "button_text": "Start med at tilføje en kilde"
+  },
+  "ManageSourcesSidePanelsSignIn": {
+    "title": "Log ind",
+    "descriptionSocial": "For at indeksere dine sociale mediehukommelser fra kilder som Facebook, Google Photos, Flickr osv., skal du logge ind eller oprette en {{company_name}}-konto.",
+    "descriptionCloud": "For at katalogisere dine cloud-konti som Dropbox, Google Drive, OneDrive osv., skal du logge ind eller oprette en {{company_name}}-konto."
+  },
+  "ProvidersList": {
+    "infoTitle": "Kan du ikke se din {{type}}-konto her?",
+    "infoText": "{{clickHere}} for at anmode om support til din {{sourceType}}-kilde.",
+    "clickHere": "Klik her",
+    "socialMedia": "sociale medier",
+    "social": "social",
+    "cloud": "sky"
+  },
+  "NotConnectedItem": {
+    "systemFolderWarning": "Du kan ikke indeksere denne systemmappe"
+  },
+  "ModalReinstall": {
+    "title": "Geninstaller {{product_name}}",
+    "content1": "Katalogiseringsprocessen fra {{product_name}} har gennemgået betydelige opgraderinger, men du skal først <b>afinstallere og geninstallere {{product_name}} og derefter katalogisere dit indhold igen</b> for at få fuld fordel af det. {{link1}}.",
+    "link1": "Se trin-for-trin guide her",
+    "title1": "Hvis du geninstallerer ...",
+    "title2": "Hvis du ikke geninstallerer ...",
+    "li1": "<b>Fleksibel katalogplacering</b> – vælg, hvor dit katalog skal gemmes, hvis du har flere diskenheder.",
+    "li2": "<b>Mindre katalogstørrelse</b> – {{product_name}}-kataloget optager maksimalt 10 % af din computers tilgængelige diskplads.",
+    "li3": "<b>Mindre billedminiaturer</b> – miniaturer i 720p holder appstørrelsen lille, mens du stadig kan nyde dine billeder i høj kvalitet.",
+    "li4": "<b>Større appstørrelse</b> – dine miniaturebilleder forbliver i 1080p, og dit katalog bruger mere plads på din enhed.",
+    "li5": "<b>Problemer med visning af miniaturebilleder</b> – du kan støde på fejl, når du prøver at få vist dine filer i enkeltelementvisning.",
+    "li6": "<b>Færre produktfunktioner</b> – fremtidig funktionalitet og app-opdateringer fungerer muligvis ikke korrekt.",
+    "button1": "Sådan geninstalleres {{product_name}}",
+    "button2": "Spørg mig igen senere"
+  },
+  "TurboModeNotifications": {
+    "unavailable": {
+      "text": "Turbo Mode er i øjeblikket kun tilgængelig for computere med 4 eller flere kerner og mere end 4 GB RAM."
+    },
+    "available": {
+      "on": "Turbotilstand fjerner begrænsningerne for, hvor hurtigt {{product_name}} katalogiserer dit indhold. Dette kan bevirke at andre programmer på dit system bliver langsommere eller ikke reagerer. Turbo-tilstand slukkes automatisk, når du lukker {{product_name}}-appen for at forhindre unødvendig afmatning af dit system.",
+      "wasOn": "Turbo-tilstand slukket, fordi {{product_name}}-appen blev lukket."
+    }
+  },
+  "SlowIndexPopOver": {
+    "title": "Katalogisering for langsom?",
+    "text1": "Hvis du skal katalogisere et meget stort antal billedfiler, kan processen tage lang tid. Vær tålmodig, mens vi genererer miniaturer, som du kan få adgang til, selv når dine kilder ikke er tilsluttede.",
+    "text2": "Du kan fremskynde katalogiseringsprocessen ved at prøve følgende:",
+    "listItem1": "Hold appen og systemet kørende natten over",
+    "listItem2": "Lad katalogkilderne være tilsluttet dit system"
+  },
+  "CollectionFtueManager": {
+    "popover": {
+      "title": "Sådan føjes til din samling",
+      "text": "Klik på knappen \"<b>Tilføj</b>\" for at vælge en kategori og gå på jagt efter de filer, du søger."
+    }
+  },
+  "AcronisBanner": {
+    "title": "Acronis True Image",
+    "subtitle": "Sikkerhedskopiering og diskkloning"
+  },
+  "ErrorBoundary": {
+    "title": "Der gik noget galt.",
+    "description": "For at løse problemet kan du prøve at opdatere siden.",
+    "refresh": "Opdatér",
+    "issues": "Har du stadig problemer?",
+    "feedback": "Send os dit feedback",
+    "help": "{{feedback}} for at hjælpe os med at undersøge og løse problemet."
+  },
+  "ModalTermsOfService": {
+    "title": "{{product_name}} kommer nu!",
+    "paragraph_1": "Tak, fordi du bruger {{product_name}} Beta-softwaren! Din feedback har hjulpet os med at forbedre {{product_name}}-oplevelsen. Vi er glade for at kunne meddele dig, at {{product_name}} nu bevæger sig ud af betafasen, og vi frigiver version 1.0.",
+    "paragraph_2": "Læs og acceptér vores servicevilkår og fortrolighedserklæring for at fortsætte med at bruge {{product_name}}.",
+    "agree": "Jeg accepterer",
+    "close": "Nej, luk {{product_name}}",
+    "title_accepted": "Mange tak!",
+    "accepted_paragraph_1": "Vi vil gerne takke dig for at tage dig tid og kræfter til at være en del af {{product_name}}-betatesten. Vi håber, du fortsætter med at nyde {{product_name}} og vil fortælle os, hvordan vi kan forbedre produktet.",
+    "accepted_paragraph_2": " Bemærk, at hvis du var logget ind på en {{product_name}}-konto under betatesten, bliver du logget ud, indtil vi officielt starter kontofunktionen. Din konto eksisterer stadig, men du kan ikke logge ind indtil da."
+  },
+  "SearchResultsFtueManager": {
+    "popover": {
+      "title": "Filtre",
+      "text": "Filtre efter kilder, kategorier, filtype, tags og sted opdateres dynamisk for at vise matchningsresultater"
+    }
+  },
+  "NotificationsErrReadContent": {
+    "text": "{{product_name}} stødte på problemer under katalogisering af \"{{label}}\". Som et resultat vises nogle filer muligvis ikke i {{product_name}}.",
+    "text_plural": "{{product_name}} stødte på problemer under katalogisering af nogle drev. Som et resultat vises nogle filer muligvis ikke i {{product_name}}."
+  },
+  "SignOut": {
+    "start": "{{product_name}} fjerner dine sociale kataloger og cloud-kataloger, inden du logger ud.",
+    "success": "Logget ud.",
+    "error": "Der opstod en fejl under fjernelse af dine cloud- og sociale kilder. Så vi kunne ikke logge dig af. Prøv venligst igen senere."
+  },
+  "NotificationsErrCloudProviderAuth": {
+    "text": "Det ser ud til, at {{product_name}} har mistet tilladelsen til tilgå {{label}}. For at give {{product_name}} adgang skal du gå til Kilder, klikke på kildens \"menupunkt\" og vælge \"Genopret kilde\".",
+    "text_plural": "Det ser ud til, at {{product_name}} har mistet tilladelsen til tilgå {{label}}. For at give {{product_name}} adgang skal du gå til Kilder, klikke på kildens \"menupunkt\" og vælge \"Genopret kilde\"."
+  },
+  "RemovedCatalogInformer": {
+    "title": "Fjernede {{name}}-kataloget."
+  },
+  "ModalSocialCloudFtue": {
+    "title": "Sociale medier og cloud-kilder",
+    "left": {
+      "descriptionTitle": "Forbind sociale kilder og cloud-kilder",
+      "descriptionText": "Forbind dine sociale medier og cloud-kilder til {{product_name}}, og føj dem til din beholdning. Når de er tilføjet, scanner {{product_name}} dit indhold for at føje det til dit katalog, så du kan søge, gennemse og organisere det."
+    },
+    "right": {
+      "descriptionTitle": "Synkroniser kataloget",
+      "descriptionText": "Selvom vi gemmer kataloget lokalt, lagres nogle oplysninger, der kræves for at synkronisere kataloget med de sociale kilder og cloud-kilderne i {{product_name}} clouden."
+    }
+  },
+  "ModalSignOut": {
+    "title": "Log af",
+    "text": "Inden du logger ud, bedes du angive, hvad du vil gøre med dine nuværende sociale og cloud-kataloger.",
+    "keepCatalog": {
+      "title": "Opbevar sociale og cloud-kataloger",
+      "point_1": "Kataloger til sociale medier og cloud-lagerpladskonti gemmes i {{product_name}} og på din computer.",
+      "point_2": "Enhver med adgang til din computer har adgang til disse kataloger.",
+      "point_3": "Katalogisering sættes på pause, indtil du logger ind igen."
+    },
+    "removeCatalog": {
+      "title": "Fjern sociale kataloger og cloud-kataloger",
+      "point_1": "Katalogerne til dine sociale medier og cloud-lagerpladskonti fjernes fra {{product_name}}.",
+      "point_2": "Du kan ikke søge i dette indhold eller nyde funktionerne i {{product_name}} medmindre du logger på og katalogiserer dem igen.",
+      "point_3": "Katalogerne til dine interne og eksterne lagringsenheder fjernes ikke.",
+      "text": "Det kan tage et par minutter at fjerne de sociale kataloger og cloud-kataloger afhængigt af katalogstørrelse."
+    }
+  },
+  "NotificationsErrInsufficientStorage": {
+    "text_big": "Der er ikke nok plads til at tilføje nyt indhold til kataloget. Du kan slette uønskede filer fra din computer for at frigøre plads til kataloget. {{learn_more_link}}.",
+    "text_small": "Katalogisering er standset.",
+    "learn_more_link": "Læs mere"
+  },
+  "NotificationsErrMaxDataSizeReached": {
+    "text_big": "Du har nået 100 % af den maksimale katalogstørrelse, og vi kan ikke føje nye elementer til det. {{learn_more_link}} for at få mere at vide om dit katalog.",
+    "text_small": "Katalogisering sat på pause.",
+    "learn_more_link": "Klik her"
+  },
+  "Auth": {
+    "Before": {
+      "buttons": "\"Opret konto\" eller \"Log ind\"",
+      "title": "Lad os oprette din gratis konto.",
+      "description": "Din {{company_name}}-konto holder styr på dine lagerprodukter på tværs af dine stationære, mobile, tablet- og webapplikationer."
+    },
+    "After": {
+      "error_connected_to_another_account_title": "Forbundet til en anden konto.",
+      "error_connected_to_another_account_description": "Din {{product_name}}-applikation er forbundet til en anden konto. Log ind med denne konto for at fortsætte opsætningen.",
+      "error_common_title": "Hovsa",
+      "error_common_description": "Vi stødte på et problem med oprettelsen af en konto. Du kan trykke på Forsøg igen eller klikke på Spring over for at fortsætte opsætningen.",
+      "title": "Opretter forbindelse til konto",
+      "Error": {
+        "error_template": "Brug for hjælp? {{online_help_site_link}}",
+        "online_help_site_link": "Besøg vores online hjælp"
+      },
+      "NameForm": {
+        "title": "Lad os lære dig nærmere at kende.",
+        "description": "Hvad er dit navn?"
+      }
+    }
+  },
+  "CollectionHowToAddFileModal": {
+    "add_to_collection": "Føj til samling efter ...",
+    "facet_title": "Kategorier",
+    "sources_title": "Alle kilder"
+  },
+  "Banners": {
+    "insufficientStorage": "Der er ikke plads nok til at tilføje nyt indhold til kataloget. Du kan slette uønskede filer fra din computer for at frigøre plads til kataloget.",
+    "maxDataSizeReached": "Du har nået 100% af den maksimale katalogstørrelse, og vi kan ikke tilføje nye varer til den. Lær mere om dit katalog.",
+    "photosLibraryNoInternet": "Katalogisering blev sat på pause, fordi din computer mistede forbindelsen til internettet. Tilslut igen for at fortsætte med at katalogisere dit fotosbibliotek.",
+    "accessDeniedCloudFS": "Kan ikke tilføje {{label}}. {{action}}, og sørg for at give {{product_name}} alle adgangstilladelser, når du bliver bedt om det.",
+    "errCloudProviderAuth": "Det ser ud til, at {{product_name}} har mistet tilladelsen til at få adgang til {{label}}. For at give {{product_name}} adgang skal du gå til Kilder, klikke på kildens “menuindstilling“ og vælge “Forbind kilde igen“.",
+    "retry": "Prøve igen",
+    "learn_more_link": "Lær mere",
+    "more_label": "{{count}} mere underretning",
+    "more_label_plural": "{{count}} flere notifikationer"
+  }
+}

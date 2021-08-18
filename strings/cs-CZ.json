@@ -1,0 +1,1902 @@
+{
+  "product_name": "EdgeRover",
+  "company_name": "Western Digital",
+  "_category": {
+    "all": "Všechny shody",
+    "media": "Fotografie a videa",
+    "image,video": "Fotografie a videa",
+    "video": "Videa",
+    "image": "Fotografie",
+    "pdf": "Soubory PDF",
+    "writing": "Dokumenty",
+    "presentation": "Prezentace",
+    "book": "Knihy",
+    "spreadsheet": "Tabulky",
+    "audio": "Audio"
+  },
+  "_fileTypes": {
+    "folder": "Složka",
+    "generalFile": "Soubor",
+    "font": "Písmo",
+    "image": "Obrázek",
+    "video": "Video",
+    "audio": "Audio",
+    "archive": "Archiv",
+    "web_picture": "Obrázek webu",
+    "advanced_systems_format_file": "Soubor ASF (Advanced Systems Format)",
+    "flash_video": "Video ve formátu Flash",
+    "mkv_video": "Video ve formátu Matroska",
+    "opus_audio": "Audio ve formátu Opus",
+    "ogv_video": "Video ve formátu Ogg",
+    "device_independent_bitmap": "Bitmap nezávislý na zařízení",
+    "http_archive_file": "Soubor archivu HTTP",
+    "hasselblad_3fr_raw_image": "Obrázek ve formátu Hasselblad 3FR Raw",
+    "gpp_movie": "Film ve formátu 3GPP",
+    "sony_digital_camera_image": "Obrázek digitálního fotoaparátu Sony",
+    "avi_movie": "Film ve formátu AVI",
+    "casio_raw_image": "Obrázek ve formátu Casio RAW",
+    "canon_cr2_raw_image": "Obrázek ve formátu Canon CR2 Raw ",
+    "canon_cr3_raw_image": "Obrázek ve formátu Canon CR3 Raw ",
+    "canon_raw_ciff_image_file": "Obrázek ve formátu Canon Raw CIFF",
+    "kodak_raw_image": "Obrázek ve formátu Kodak Raw",
+    "adobe_raw_image": "Obrázek ve formátu Adobe Raw",
+    "epson_raw_image": "Obrázek ve formátu Epson Raw ",
+    "hasselblad_raw_image": "Obrázek ve formátu Hasselblad Raw",
+    "heif_image": "Obrázek ve formátu HEIF",
+    "phase_one_raw_image": "Obrázek ve formátu Phase One Raw",
+    "jpeg_image": "Obrázek ve formátu JPEG",
+    "itunes_movie": "Film ve formátu iTunes",
+    "leaf_raw_image": "Obrázek ve formátu Leaf Raw ",
+    "quicktime_movie": "Film ve formátu QuickTime",
+    "mpeg_4_movie": "Film ve formátu MPEG-4",
+    "mpeg_4_video": "Video ve formátu MPEG-4",
+    "mpeg_movie": "Film ve formátu MPEG",
+    "mpeg_1_movie": "Film ve formátu MPEG-1",
+    "mpeg_2_movie": "Film ve formátu MPEG-2",
+    "webm_video": "Video ve formátu WebM",
+    "minolta_raw_image": "Obrázek ve formátu Minolta Raw",
+    "nikon_raw_image": "Obrázek ve formátu Nikon Raw",
+    "olympus_raw_image": "Obrázek ve formátu Olympus Raw",
+    "pentax_raw_image": "Obrázek ve formátu Pentax Raw",
+    "fuji_raw_image": "Obrázek ve formátu Fuji Raw",
+    "panasonic_raw_image": "Obrázek ve formátu Panasonic Raw",
+    "leica_raw_image": "Obrázek ve formátu Leica Raw",
+    "sony_raw_image": "Obrázek ve formátu Sony Raw",
+    "samsung_raw_image": "Obrázek ve formátu Samsung Raw",
+    "windows_media": "Windows Media",
+    "aac_audio": "Audio ve formátu AAC",
+    "aiff_c_audio": "Audio ve formátu AIFF-C",
+    "au_audio": "Audio ve formátu AU",
+    "flac_audio": "Audio ve formátu FLAC",
+    "f4v_video": "Video ve formátu FV4",
+    "midi_audio": "Audio ve formátu MIDI",
+    "mp2_audio": "Audio ve formátu MP2",
+    "mp3_audio": "Audio ve formátu MP3",
+    "mpeg_4_audio": "Audio ve formátu MPEG-4",
+    "ogg_audio": "Audio ve formátu Ogg",
+    "waveform_audio": "Audio ve formátu Waveform",
+    "windows_media_audio": "Audio ve formátu Windows Media",
+    "amazon_kindle_ebook": "Elektronická kniha ve formátu Amazon Kindle",
+    "broad_band_ebook": "Elektronická kniha ve formátu Broad Band",
+    "djvu_image": "Obrázek ve formátu DjVu",
+    "epub_ebook": "Elektronická kniha ve formátu EPUB",
+    "apple_books": "Apple Books",
+    "microsoft_reader_file": "Soubor ve formátu Microsoft Reader",
+    "sony_portable_reader_file": "Soubor ve formátu Sony Portable Reader",
+    "librie_reader_file": "Soubor ve formátu Librie Reader",
+    "mobipocket_ebook": "Elektronická kniha ve formátu Mobipocket",
+    "box_note": "Poznámka ve formátu Box",
+    "word_document": "Dokument aplikace Word",
+    "word_document_template": "Šablona dokumentu aplikace Word",
+    "google_document": "Dokument Google",
+    "google_form": "Formulář Google",
+    "lotus_word_document": "Dokument aplikace Lotus Word",
+    "pages_document": "Dokument aplikace Pages",
+    "google_slides": "Prezentace Google",
+    "keynote_presentation": "Prezentace aplikace Keynote",
+    "opendocument_document": "Textový dokument aplikace OpenDocument",
+    "opendocument_presentation": "Prezentace aplikace OpenDocument",
+    "opendocument_presentation_template": "Šablona prezentace aplikace OpenDocument",
+    "prezi_presentation": "Prezentace aplikace Prezi",
+    "powerpoint_presentation_template": "Šablona prezentace aplikace PowerPoint",
+    "powerpoint_presentation": "Prezentace aplikace PowerPoint",
+    "csv_file": "Soubor ve formátu CSV",
+    "google_sheets": "Tabulky Google",
+    "numbers_document": "Dokument aplikace Numbers",
+    "opendocument_spreadsheet": "Tabulka aplikace OpenDocument",
+    "lotus_123_spreadsheet": "Tabulka aplikace Lotus 123",
+    "excel_document": "Dokument aplikace Excel",
+    "pdf_document": "Dokument ve formátu PDF",
+    "after_effects_project": "Projekt aplikace After Effects",
+    "illustrator_file": "Soubor aplikace Illustrator",
+    "blender_3d_file": "Soubor aplikace Blender 3D",
+    "cinema_4d_file": "Soubor aplikace Cinema 4D",
+    "autocad_image": "Obrázek ve formátu AutoCAD",
+    "vector_image_file_eps": "Soubor vektorového obrázku (EPS)",
+    "figma_drawing": "Kresba ve formátu Figma",
+    "framemaker_file": "Soubor ve formátu FrameMaker",
+    "google_drawings": "Kresby Google",
+    "indesign_file": "Soubor aplikace InDesign",
+    "pagemaker_file": "Soubor aplikace PageMaker",
+    "photoshop_file": "Soubor aplikace Photoshop",
+    "publisher_file": "Soubor aplikace Publisher",
+    "sketch_drawing": "Kresba aplikace Sketch",
+    "deb": "DEB",
+    "dmg": "DMG",
+    "exe": "XE",
+    "bin_archive": "Archiv ve formátu BIN",
+    "gzip_archive": "Archiv ve formátu GZip",
+    "amiga_lzx_archive": "Archiv ve formátu Amiga LZX",
+    "rar_archive": "Archiv ve formátu RAR",
+    "tar_archive": "Archiv ve formátu TAR",
+    "zip_archive": "Archiv ve formátu ZIP",
+    "cascading_style_sheet": "Formát CSS (Cascading Style Sheet)",
+    "html_text": "Text ve formátu HTML",
+    "javascript": "JavaScript",
+    "php_script": "Skript jazyka PHP",
+    "python_source": "Zdrojový soubor jazyka Python",
+    "ruby_source": "Zdrojový soubor jazyka Ruby",
+    "xml_document": "Dokument ve formátu XML",
+    "bitmap": "Bitmapa",
+    "gif_image": "Obrázek ve formátu GIF",
+    "icon_image": "Obrázek ikony",
+    "png_image": "Obrázek ve formátu PNG",
+    "svg_image": "Obrázek ve formátu SVG",
+    "tiff_image": "Obrázek ve formátu TIFF",
+    "markdown_file": "Soubor ve formátu Markdown",
+    "rtf_file": "Soubor ve formátu RTF",
+    "plain_text_document": "Dokument obsahující prostý text",
+    "imovie_project": "Projekt ve formátu iMovie",
+    "logic_pro_project": "Projekt ve formátu Logic Pro"
+  },
+  "_mimeTypes": {
+    "image/jpeg": "JPEG",
+    "image/png": "PNG",
+    "image/ico": "ICO",
+    "image/xls": "XLS",
+    "image/tiff": "TIFF",
+    "application/pdf": "PDF"
+  },
+  "_fileCategories": {
+    "book": "Knihy",
+    "photos": "Fotografie",
+    "photosAndVideos": "Fotografie a videa",
+    "videos": "Videa",
+    "audio": "Audio",
+    "movies": "Filmy",
+    "writing": "Dokumenty",
+    "similarImages": "Podobné fotografie",
+    "pdf": "Soubory PDF",
+    "presentation": "Prezentace",
+    "spreadsheet": "Tabulky",
+    "filesAndFolders": "Soubory a složky",
+    "duplicates": "Duplicitní položky"
+  },
+  "_errors": {
+    "emptySourceList": "Nejprve vyberte nějaký zdroj.",
+    "noVolumeSelected": "Nebyla vybrána žádná zařízení ke skenování.",
+    "noDeviceSelected": "Nejprve vyberte nějaké zařízení.",
+    "connectionError": "Něco se nezdařilo Něco se nezdařilo, zkontrolujte, zda máte aktivní připojení k internetu, a zkuste to znovu.",
+    "unexpected": "Něco se nezdařilo. Opakujte akci.",
+    "timeout": "Operaci nebylo možné dokončit, protože vypršel časový limit.",
+    "incorrectEmail": "Zadejte platnou e-mailovou adresu.",
+    "incorrectPass": "Nesprávné heslo.",
+    "verifyPass": "Ověřte své heslo",
+    "repeatPass": "Zadejte nové heslo znovu",
+    "incorrectEmailPass": "Nesprávný e-mail nebo heslo.",
+    "invalid_user_password": "Nesprávný e-mail nebo heslo.",
+    "userExists": "Účet již existuje. Možná jste již účet vytvořili při předchozím nastavení zařízení ibi, My Cloud OS 5 nebo My Cloud Home. {{link}}",
+    "userExistsLink": "Pokud chcete pokračovat, přihlaste se",
+    "passwordMismatch": "Hesla se neshodují",
+    "PasswordHistoryError": "Vaše nové heslo nemusí být stejné jako některé z předchozích hesel.",
+    "PasswordDictionaryError": "Heslo není povoleno. Pravděpodobně jde o příliš obecné heslo.",
+    "PasswordStrengthError": "Heslo není povoleno. Pravděpodobně je příliš slabé.",
+    "anotherUserAttached": "K aktuálnímu prostředí je již připojen jiný uživatel.",
+    "searchLength": "Pokud chcete vyhledávat, zadejte alespoň tři znaky.",
+    "albumCreationError": "Vytvoření se nezdařilo.",
+    "openExtensionError": "Otevírání rozšíření se nezdařilo.",
+    "sourceIsNotConnected": "Zdroj není připojen. Pokud chcete otevřít tuto položku, připojte k počítači zařízení {{name}} a zkuste to znovu.",
+    "indexDeletedError": "Jejda, tento soubor již není dostupný. Zdrojový katalog byl pravděpodobně nedávno odebrán.",
+    "FILE_GROUP_NOT_FOUND_ERROR": "Sbírku se nepodařilo najít",
+    "FILE_DELETED_ERROR": "Jejda, tento soubor již není dostupný. Soubor byl pravděpodobně nedávno odstraněn nebo se nachází ve zdroji, který byl odpojen.",
+    "DEVICE_MIGRATING_ERROR": "Provedli jsme velká vylepšení používání. V rámci tohoto procesu aplikace přepracuje a vylepší způsob uložení vašeho obsahu. Tento proces může chvíli trvat.",
+    "signup_invalid_request": "Nesprávný e-mail nebo heslo",
+    "disconnectCloudFS": "Katalog {{label}} nelze odebrat. Zkontrolujte, zda jste připojeni k internetu, a zkuste to znovu."
+  },
+  "_errorTitles": {
+    "unexpected": "",
+    "DEVICE_MIGRATING_ERROR": "Probíhá aktualizace"
+  },
+  "_common": {
+    "photosLibrary": "Knihovna fotografií",
+    "volumeLabelWin": "{{label}} ({{mountPoint}})",
+    "untitledVolumeName": "Bez názvu",
+    "ok": "OK",
+    "selectSomethingForPreview": "Pokud chcete zobrazit náhled, vyberte položku",
+    "open": "Otevřít",
+    "fileTypeNotSupported": "Přehrávání není podporováno. Pokud chcete přehrávat, otevřete soubor.",
+    "resendLink": "Znovu odeslat odkaz",
+    "done": "Hotovo",
+    "cancel": "Zrušit",
+    "continue": "Pokračovat",
+    "skipForNow": "Zatím přeskočit",
+    "retry": "Opakovat",
+    "close": "Zavřít",
+    "back": "Zpět",
+    "skip": "Přeskočit",
+    "addSource": "Přidat zdroje",
+    "remove": "Odebrat",
+    "rename": "Přejmenovat",
+    "later": "Později",
+    "letsDoIt": "Provést!",
+    "newCollectionTitle": "Nová sbírka",
+    "emptyPhotos": "Zatím zde nejsou žádné fotografie ani videa",
+    "timeline": "Časová osa",
+    "more": "Více",
+    "show_less": "Zobrazit méně",
+    "show_more": "Zobrazit více",
+    "edit": "Upravit",
+    "save": "Uložit",
+    "next": "Další",
+    "add_to_collection": "Přidat do sbírky",
+    "remove_from_collection": "Odebrat ze sbírky",
+    "create_collection": "Vytvořit sbírku",
+    "set_cover": "Nastavit úvodní obrázek",
+    "sign_in": "Přihlásit se",
+    "create_account": "Vytvořit účet",
+    "settings": "Nastavení",
+    "tryAgain": "Zkuste to znovu",
+    "createdForYou": "Vytvořeno pro vás",
+    "or": "nebo",
+    "add": "Přidat",
+    "title": "Title",
+    "items": "{{count}} položka",
+    "items_plural": "{{count}} položek",
+    "widgets": "Widgety",
+    "quit": "Ukončit",
+    "browse": "Procházet",
+    "collections": "Sbírky",
+    "description": "Popis",
+    "name": "Název",
+    "viewSources": "Zobrazit zdroje",
+    "viewTitles": "Zobrazit nadpisy",
+    "selectMode": "Vyberte režim",
+    "suggested_collections": "Navrhované sbírky",
+    "my_collections": "Moje sbírky",
+    "sorting": "Řazení",
+    "viewModes": "Zobrazit režimy",
+    "comingSoon": "K dispozici již brzy",
+    "signIn": "Přihlásit se",
+    "createAccount": "Vytvořit účet",
+    "on": "Zapnuto",
+    "off": "Vypnuto",
+    "learnMore": "Další informace",
+    "viewAll": "Zobrazit vše",
+    "gotIt": "Rozumím",
+    "firstName": "Jméno",
+    "lastName": "Příjmení",
+    "reset": "Obnovit",
+    "resetting": "Probíhá obnovení…"
+  },
+  "_customGroupNames": {
+    "largeFiles": "Velké soubory",
+    "recentlyOpenFiles": "Nedávno otevřeno",
+    "thisMonth": "Tento měsíc v historii",
+    "thisWeek": "Tento týden v historii",
+    "celebrate": "Oslavujte!",
+    "duplicateFiles": "Duplicitní položky"
+  },
+  "Datepicker": {
+    "placeholder": "dd. mm. yyyy"
+  },
+  "PasswordValidation": {
+    "upperLower": "Zadejte 1 velké a 1 malé písmeno",
+    "number": "Zadejte 1 číslici",
+    "length": "8 nebo více znaků"
+  },
+  "SignInForm": {
+    "email": "E-mailová adresa",
+    "password": "Heslo",
+    "forgotPassword": "Zapomněli jste heslo?",
+    "button_text": "„Přihlásit se“"
+  },
+  "PasswordInput": {
+    "show_password": "Zobrazit heslo",
+    "hide_password": "Skrýt heslo"
+  },
+  "SignUpForm": {
+    "title": "Zaregistrovat se",
+    "firstName": "Jméno",
+    "lastName": "Příjmení",
+    "email": "E-mailová adresa",
+    "password": "Heslo",
+    "submit": "Vytvořit účet",
+    "button_text": "„Vytvořit účet“",
+    "enterFirstNameError": "Zadejte jméno",
+    "enterLastNameError": "Zadejte příjmení",
+    "enterEmailError": "Zadejte e-mail",
+    "enterValidEmailError": "Zadejte platný e-mail.",
+    "createAccount": "Vytvořit účet"
+  },
+  "Policy": {
+    "agreement": "Kliknutím na tlačítko {{button_text}} vyjadřujete souhlas s dokumenty {{product_name}} {{licence_agreement_link}} a {{privacy_link}}. Souhlasíte, že společnost {{company_name}} bude převádět, zpracovávat a ukládat vaše data do/v jiných zemích včetně Spojených států. Součástí mohou být informace poskytnuté společnosti {{company_name}} a obsah synchronizovaný s cloudem {{product_name}}.",
+    "licence_agreement": "Podmínky služby",
+    "privacy_state": "Prohlášení o ochraně osobních údajů"
+  },
+  "ResetPassword": {
+    "title": "Zapomněli jste heslo?",
+    "resetLinkSendTitle": "Zkontrolujte příchozí poštu",
+    "resetLinkSendText": "Pokud pro adresu {{email}} již existuje účet {{product_name}}, bude na ni odeslán <span>e-mail</span> s dalšími pokyny.",
+    "resendLink": "Zkuste to znovu"
+  },
+  "ResetPasswordForm": {
+    "title": "Obnovit heslo",
+    "text": "Potřebujete obnovit své heslo? Odešleme vám e-mail s pokyny.",
+    "submit": "Odeslat pokyny",
+    "email": "E-mailová adresa"
+  },
+  "SetNewPassword": {
+    "formTitle": "Vytvořte si nové heslo",
+    "invalidLinkTitle": "Odkaz na obnovení hesla již není platný",
+    "invalidLinkText": "Tento odkaz na obnovení hesla již není platný. Přejděte zpět na stránku Obnovit heslo a zkuste to znovu.",
+    "resendLink": "Znovu odeslat odkaz",
+    "passwordUpdatedTitle": "Heslo bylo změněno",
+    "passwordUpdatedText": "Nyní se můžete přihlásit prostřednictvím nového hesla.",
+    "signIn": "Přihlásit se",
+    "linkExpiredTitle": "Platnost odkazu pro obnovení hesla vypršela",
+    "linkExpiredText": "Platnost odkazu pro obnovení hesla vypršela. Přejděte zpět na stránku Obnovit heslo a zkuste to znovu.",
+    "validatingLink": "Ověřování odkazu…"
+  },
+  "SetNewPasswordForm": {
+    "newPassword": "Nové heslo",
+    "confirmNewPassword": "Potvrzení nového hesla",
+    "submit": "Nastavení nového hesla"
+  },
+  "Welcome": {
+    "title": "Vítejte v softwaru",
+    "text1": "Nastavte a konfigurujte své produkty WD a SanDisk, aktivujte svou záruku a nainstalujte další software.",
+    "text2": "Spravujte v rámci jediného zobrazení obsah ze svého počítače včetně externích úložišť a cloudových platforem.",
+    "text3": "Zobrazte na jednom místě svá digitální zařízení uspořádaná do kategorií, ve kterých lze snadno vyhledávat, a to bez ohledu na to, zda jsou zařízení právě připojena.",
+    "copyright": "© {{current_year}} Western Digital Corporation nebo její pobočky. Všechna práva vyhrazena. Důvěrné."
+  },
+  "NotFound": {
+    "mainText": "Stránka nenalezena"
+  },
+  "Root": {
+    "browser": "Procházet",
+    "report": "Odeslat názor"
+  },
+  "Browse": {
+    "unknown": "[NEZNÁMÉ]"
+  },
+  "SettingsRoot": {
+    "account": "Nastavení účtu",
+    "manageSources": "Zdroje",
+    "language": "Jazyk",
+    "appSettings": "Nastavení aplikace",
+    "theme": "Motiv",
+    "helpAndSupport": "Nápověda a podpora",
+    "legal": "Právní informace",
+    "privacy": "Ochrana soukromí",
+    "darkMode": "Tmavý režim",
+    "checking": "Kontrola…",
+    "logs": "Stáhnout protokoly",
+    "info": "Nastavení záhlaví karet a informací",
+    "surveys": "Průzkumy",
+    "uniq_identifier_line": "Jedinečný identifikátor",
+    "link_text": "Co to je?",
+    "copy": "Kopírovat UID",
+    "copy_success": "UID bylo úspěšně zkopírováno",
+    "copy_failed": "Kopírování UID se nezdařilo",
+    "manageCatalog": "Spravovat katalog",
+    "turboMode": "Režim Turbo"
+  },
+  "SettingsManageCatalog": {
+    "title": "Spravovat katalog",
+    "size": {
+      "title": "Aktuální velikost",
+      "text": "{{size}} z {{maxSize}} ( přibližně {{percent}} % z velikosti katalogu)",
+      "description": "Katalog obsahuje náhled obrázku a metadata souboru, jako jsou název, datum, velikost atd. K uložení tohoto katalogu použijeme maximálně 10 % volného místa na disku (podle výpočtu v čase instalace). {{link}}",
+      "link": "Další informace o katalogu."
+    },
+    "driveSpace": {
+      "title": "Místo na disku",
+      "chartTitle": "{{free}} volného místa z {{total}}",
+      "usedSpaceLabel": "Využité místo",
+      "usedSpaceTooltip": "{{size}} využitého místa",
+      "indexSizeLabel": "Aktuální katalog",
+      "indexSizeTooltip": "{{size}} velikosti aktuálního katalogu",
+      "maxSizeLabel": "Maximální katalog",
+      "maxSizeTooltip": "{{size}} maximální velikosti katalogu",
+      "freeSizeLabel": "Volné místo",
+      "freeSizeTooltip": "{{size}} volného místa"
+    },
+    "updateCatalogSize": {
+      "title": "Aktualizovat velikost katalogu",
+      "text": "Ve výchozím nastavení přidělujeme katalogu 10 % volného místa. Pokud potřebujete na katalogizaci zdrojů více místa, můžete zvětšit maximální velikost katalogu pomocí posuvníku níže.",
+      "size_note": "Upozorňujeme, že i další aplikace potřebují ke správnému fungování volné místo, proto {{product_name}}  neumožňuje vyhradit všechno volné místo pro katalog.",
+      "button": "Aktualizovat velikost katalogu",
+      "successUpdated": "Maximální velikost katalogu byla aktualizována na {{size}}.",
+      "sizeRestrictionWarning": "Velikost katalogu nelze překročit."
+    }
+  },
+  "SettingsTheme": {
+    "orange": "Oranžová"
+  },
+  "SettingsAccount": {
+    "title": "Nastavení účtu",
+    "youAreNotSigned": "Nejste přihlášeni.",
+    "youAreSignedIn": "Jste přihlášeni.",
+    "createAccount": "Vytvořit účet",
+    "createAccountOrSignIn": "{{createAccount}} nebo {{signIn}}",
+    "logout": "Odhlásit",
+    "deleteAccount": "Odstranit účet",
+    "profile": "Profil",
+    "name": "Název",
+    "email": "E-mail",
+    "password": "Heslo",
+    "emails": "E-maily",
+    "analytics": "Analýza",
+    "keplerPrime": "{{product_name}} Access",
+    "editPhoto": "Upravit",
+    "addPhoto": "Přidat fotografii",
+    "imageLoadError": "Při načítání fotografie došlo k chybě.",
+    "imageTypeError": "Jsou povoleny pouze soubory PNG a JPG.",
+    "imageSizeError": "Obrázek musí být menší než 30 kB.",
+    "cognitoImageSizeError": "Obrázek musí být menší než 1 MB.",
+    "generalImageTooltip": "Jsou povoleny pouze soubory PNG a JPG. Musí být menší než 30 kB.",
+    "cognitoGeneralImageTooltip": "Jsou povoleny pouze soubory PNG a JPG. Musí být menší než 1 MB.",
+    "resetPasswordModal": {
+      "title": "Zkontrolovat e-mail",
+      "text1": "Zkontrolujte svůj e-mail podle pokynů.",
+      "text2": "POZNÁMKA: Používáte-li stejnou e-mailovou adresu pro účet EdgeRover™, ibi™, My Cloud™ OS 5 nebo My Cloud™ Home, obnoví se také hesla těchto účtú.",
+      "button": "Znovu odeslat e-mail"
+    }
+  },
+  "SettingsPrivacy": {
+    "title": "Ochrana soukromí",
+    "shareAnalyticsTitle": "Sdílejte analytické údaje aplikace se společností {{company_name}}",
+    "shareAnalyticsText": "Pomozte na základě automatického odesílání dat o používání týmu společnosti {{company_name}} vylepšit naše produkty, služby a aplikace a přizpůsobte si prostředí, včetně zasílání oznámení v aplikaci a nabízených oznámení.{{link}}",
+    "marketingTitle": "Povolit společnosti {{company_name}} posílat mi marketingové e-maily",
+    "marketingText": "Mějte přístup k nejnovějším aktualizacím, propagačním akcím a zpravodajům včetně cílených reklam, zpráv v aplikaci, nabízených oznámení a e-mailů.{{link}}",
+    "learnMore": "Další informace"
+  },
+  "SettingsAccountCreateAccount": {
+    "title": "Vytvořit účet",
+    "subtitle": "Vytvořte účet za účelem registrace zařízení a aktivace jejich záruky – není nutná kreditní karta."
+  },
+  "Language": {
+    "title": "Jazyk"
+  },
+  "AppSettings": {
+    "info": "Nastavení záhlaví karet a informací",
+    "resetSettings": "Obnovení nastavení záhlaví karet a informací",
+    "resetBtn": "Obnovit",
+    "title": "Nastavení aplikace",
+    "appVersion": "Verze aplikace",
+    "privacy": "Ochrana soukromí",
+    "version": "Verze {{version}}",
+    "latestVersion": "Máte nejnovější verzi aplikace {{product_name}}!",
+    "updateAvailable": "K dispozici je nová verze. {{update}}",
+    "updateFailed": "Aktualizace byla zrušena. {{retry}}",
+    "retry": "Opakovat",
+    "downloadingUpdate": "Stahování aktualizace…",
+    "updateLoaded": "Aktualizace byla stažena. {{relaunch}}",
+    "relaunch": "Znovu spustit {{product_name}}",
+    "updateNow": "Aktualizovat nyní",
+    "appLaunch": "Spuštění aplikace",
+    "openAutomatically": "Aplikace {{product_name}} se spustí automaticky po přihlášení k počítači.",
+    "language": "Jazyk",
+    "offline": "Připojte se k internetu za účelem kontroly aktualizací."
+  },
+  "HelpFeedback": {
+    "title": "Nápověda a názory",
+    "haveQuestion": "Mám otázku nebo názor…",
+    "helpCenter": "Centrum nápovědy",
+    "reportProblem": "Nahlásit problém",
+    "generalQuestion": "Obecná otázka nebo názor",
+    "haveIdea": "Mám nápad…",
+    "requestFeature": "Požádat o funkci"
+  },
+  "HelpAndSupport": {
+    "title": "Nápověda a podpora",
+    "HowToAddASource": "Postup přidání zdroje",
+    "StartAddingASource": "Zahájit přidávání zdroje",
+    "KeyboardShortcuts": "Klávesové zkratky ",
+    "OpenKeyboardShortcuts": "Otevřít klávesové zkratky",
+    "tipsTricks": "Tipy a triky",
+    "helpSite": "Stránka s nápovědou"
+  },
+  "Legal": {
+    "title": "Právní informace",
+    "terms": "Podmínky služby",
+    "policy": "Prohlášení o ochraně osobních údajů",
+    "privacyFAQ": "Nejčastější dotazy týkající se soukromí",
+    "acceptableUsePolicy": "Zásady přijatelného používání",
+    "copyrightUsePolicy": "Zásady ochrany autorských práv",
+    "trademarks": "Ochranné známky",
+    "openSourceNotices": "Poznámky k obsahu s otevřeným kódem (open source)"
+  },
+  "SettingsAccountSidePanelChangeName": {
+    "title": "Změnit jméno",
+    "text": "Upravte a uložte své jméno."
+  },
+  "ChangeNameForm": {
+    "enterFirstNameError": "Zadejte jméno",
+    "enterLastNameError": "Zadejte příjmení"
+  },
+  "SettingsAccountSidePanelChangePassword": {
+    "title": "Změna hesla",
+    "text": "Zadejte níže své aktuální heslo a pak si zvolte nové heslo."
+  },
+  "ChangePasswordForm": {
+    "currentPassword": "Aktuální heslo",
+    "newPassword": "Nové heslo",
+    "repeatNewPassword": "Potvrzení nového hesla"
+  },
+  "DeleteAccountModal": {
+    "title": "Chcete svůj účet {{product_name}} trvale odstranit?",
+    "text": "<p>Je nám líto, že odcházíte.</p><p>Po odstranění účtu {{product_name}} dojde k odstranění katalogu vašeho obsahu ze všech připojených zdrojů. </p><p>Než svůj účet odstraníte, možná bychom vám mohli pomoci. {{getInTouch}}</p><p>Případně můžete pokračovat stisknutím tlačítka Pokračovat.</p>",
+    "getInTouch": "Kontaktujte nás"
+  },
+  "DeleteAccountForm": {
+    "text": "Pokud chcete trvale odstranit svůj účet {{product_name}}, zadejte heslo."
+  },
+  "Main": {
+    "manageSource": "Přidání a správa zdrojů"
+  },
+  "MainActions": {
+    "title": "Procházení obsahu",
+    "sources": "Podle zdrojů"
+  },
+  "Search": {
+    "title": "Zobrazují se výsledky pro dotaz „{{query}}“",
+    "emptyTitle": "Výsledky hledání",
+    "empty": "Vypadá to, že pro dotaz „{{query}}“ nebyly nalezeny žádné výsledky.",
+    "text1": "Nenašli jste, co jste hledali?",
+    "text2": "Zkuste aktualizovat filtry a hledejte znovu nebo opětovným spuštěním aplikace {{product_name}} aktualizujte katalog."
+  },
+  "SearchMain": {
+    "title": "Hledat",
+    "searchHistory": "Historie vyhledávání",
+    "empty": "Vypadá to, že nebyla nalezena žádná historie vyhledávání.",
+    "count": "({{count}})"
+  },
+  "SearchInput": {
+    "placeholder": "Vyhledávání obsahu",
+    "search": "Hledat"
+  },
+  "SearchInputSuggestions": {
+    "submitHelpText": "„{{query}}“ Hledejte stisknutím klávesy Enter.",
+    "submitHelpTextTruncated": "„{{query}}…“ Hledejte stisknutím klávesy Enter."
+  },
+  "SearchInputSuggestionsList": {
+    "tags": "Pro vás",
+    "tagsEmpty": "Vašemu klíčovému slovu neodpovídají žádné předměty.",
+    "locations": "Místa",
+    "locationsEmpty": "Vašemu klíčovému slovu neodpovídají žádná místa.",
+    "history": "Historie vyhledávání",
+    "historyEmpty": "Vašemu klíčovému slovu neodpovídá žádná historie.",
+    "titleButton": "Vymazat veškerou historii"
+  },
+  "SearchHeader": {
+    "selectSource": "Vyberte zdroj",
+    "categories": "Kategorie",
+    "kind": "Typ souboru",
+    "moreFilters": "Další filtry",
+    "resetAll": "Obnovit vše",
+    "locationGroupLabel": "{{country}} {{city}}",
+    "fromLabel": "od {{from}}",
+    "toLabel": "do {{to}}",
+    "rangeLabel": "{{from}} - {{to}}",
+    "allSources": "Všechny zdroje",
+    "allCategories": "Všechny kategorie",
+    "allKinds": "Všechny typy souborů"
+  },
+  "DropdownFilter": {
+    "all": "Vše"
+  },
+  "SearchContentGroups": {
+    "query": "Výsledky hledání pro výraz „{{- query}}“"
+  },
+  "SearchContentGroup": {
+    "all": "Vše: Všechny shody",
+    "media": "Média: Fotografie a videa",
+    "pdf": "Soubory PDF",
+    "writing": "Písemný obsah",
+    "presentation": "Prezentace",
+    "book": "Knihy",
+    "spreadsheet": "Tabulky",
+    "audio": "Audio",
+    "more": "Více"
+  },
+  "SearchFiltersSidePanel": {
+    "title": "Další možnosti filtrování",
+    "description": "Přidáním filtrů zúžíte výsledky hledání, abyste našli, co hledáte.",
+    "locationDescription": "Filtrováním výsledků podle místa zobrazíte fotografie a videa, ke kterým bylo automaticky přidáno místo pořízení.",
+    "tagsDescription": "Výsledky zúžíte pomocí automaticky generovaných štítků aplikace {{product_name}} nebo štítků, které jste přidali ručně.",
+    "places": "Místa",
+    "tags": "Značky",
+    "range": "Rozsah dat",
+    "create": "Datum vytvoření",
+    "modify": "Datum změny",
+    "from": "od",
+    "to": "do",
+    "apply": "Použít"
+  },
+  "SearchFiltersSidePanelGroupInfo": {
+    "selected": "Vybráno: {{count}}"
+  },
+  "SearchFiltersSidePanelGroupSelector": {
+    "search": "Hledat",
+    "selected": "Vybráno: {{count}}",
+    "confirm": "Potvrdit"
+  },
+  "FilesList": {
+    "empty": "Prázdné",
+    "empty_folder_title": "Tato složka je prázdná!",
+    "empty_folder_text_mac": "Jakmile budete mít soubory připravené, přidejte je prostřednictvím aplikace Finder.",
+    "empty_folder_text_win": "Jakmile budete mít soubory připravené, přidejte je prostřednictvím aplikace Průzkumník.",
+    "empty_drive_title": "Toto zařízení je prázdné!",
+    "empty_drive_text_mac": "Jakmile budete mít soubory připravené, umístěte je do tohoto zařízení prostřednictvím aplikace Finder.",
+    "empty_drive_text_win": "Jakmile budete mít soubory připravené, umístěte je do tohoto zařízení prostřednictvím aplikace Průzkumník souborů a restartujte aplikaci {{product_name}}.",
+    "empty_external_drive_text": "Jakmile budete mít soubory připravené, umístěte je do tohoto zařízení.",
+    "empty_external_folder_text": "Jakmile budete mít soubory připravené, umístěte je do této složky.",
+    "empty_cloud_source_folder_text": "Když přidáte soubory do cloudového zdroje, aplikace {{product_name}} tuto složku automaticky aktualizuje.",
+    "empty_social_source_folder_text": "Když přidáte soubory do zdroje sociálních sítí, aplikace {{product_name}} tuto složku automaticky aktualizuje.",
+    "open_folder_mac": "Otevřít v aplikaci Finder",
+    "open_folder_win": "Otevřít v Průzkumníku souborů",
+    "manage_sources": "Zdroje",
+    "empty_facet_title": "Zatím nebylo nic přidáno!",
+    "empty_facet_text": "Připojte zařízení a zařaďte je do katalogu. Pokud přidáte další zdroje, doplníte do zařízení {{product_name}} svůj obsah.",
+    "list_view": "Zobrazení seznamu",
+    "media_view": "Zobrazení médií",
+    "thumbnail_view": "Zobrazení miniatur",
+    "preview": "Podokno náhledu"
+  },
+  "ListView": {
+    "name": "Název",
+    "kind": "Typ",
+    "mTime": "Datum změny",
+    "cTime": "Datum vytvoření",
+    "source": "Zdroj",
+    "size": "Velikost",
+    "artist": "Umělec",
+    "author": "Autor",
+    "totalSize": "Celková velikost",
+    "item": "Položka",
+    "duplicates": "Celkový počet"
+  },
+  "ThumbnailsView": {
+    "folders": "Složky",
+    "folder": "Složka",
+    "files": "Soubory",
+    "similar_group": "Podobná skupina"
+  },
+  "Media": {
+    "select": "Vybrat a uspořádat"
+  },
+  "MediaGroupList": {
+    "empty_photos": "Zatím žádné fotografie",
+    "empty_videos": "Zatím žádná videa"
+  },
+  "SingleItemView": {
+    "lockedFile": "Pokud chcete soubor odemknout, otevřete ho.",
+    "noPreviewAvailable": "Tento typ souboru nepodporuje náhledy.",
+    "noPreviewDocumentCloud": "Náhledy dokumentů momentálně nejsou dostupné pro některé cloudové zdroje a zdroje sociálních sítí.",
+    "showInParentFolder": "Zobrazit v nadřazené složce",
+    "previewOnly": "– Pouze náhled",
+    "prev": "Předchozí",
+    "next": "Další",
+    "location": "Zobrazit umístění",
+    "info": "Další informace",
+    "descriptionTitle": "Popis",
+    "descriptionHide": "Skrýt",
+    "more": " …více",
+    "more_actions": "Více",
+    "more_info": "Panel s dalšími informacemi",
+    "rename": "Přejmenovat",
+    "copy": "Kopírovat",
+    "remove": "Odstranit",
+    "fullscreen": "Celá obrazovka",
+    "close_fullscreen": "Zavřít zobrazení na celou obrazovku",
+    "no_source": "{{- sourceName}} není k dispozici.",
+    "defaultSource": "Zdroj souboru",
+    "DASDisconnectedPopup": {
+      "title": "Způsob přístupu k obsahu na připojených zařízeních",
+      "description": "{{product_name}} vám umožňuje zobrazit dostupné náhledy souborů, i když není připojen jejich zdroj. Zdroj musí být připojen, pokud chcete soubor otevřít ve svém osobním zařízení, nebo pokud chcete otevřít složku, která ho obsahuje."
+    },
+    "CloudUnavailablePopup": {
+      "title": "Jak získat přístup ke zdrojům sociálních médií a cloudovým zdrojům",
+      "description": "{{product_name}} vám umožňuje zobrazit dostupné náhledy souborů, i když není připojen jejich zdroj. Chcete-li otevřít soubor pomocí svého poskytovatele sociálních médií nebo cloudových služeb, zkontrolujte zda jste se přihlásili do aplikace {{product_name}} a máte aktivní připojení k internetu."
+    },
+    "no_file": "Pokud chcete zobrazit náhled položky, vyberte ji.",
+    "file_info": "Zobrazení informací o souboru",
+    "open_in_finder": "Následující akce provedou otevření v aplikaci Finder.",
+    "open_in_photos_library": "Následující akce provedou otevření v aplikaci Fotky.",
+    "open_in_explorer": "Následující akce provedou otevření v aplikaci Průzkumník."
+  },
+  "SingleItemViewZoomControls": {
+    "scale": "{{value}}%",
+    "zoom_in": "Přiblížit",
+    "zoom_out": "Oddálit",
+    "fit": "Přizpůsobit obrazovce"
+  },
+  "VolumeListCommon": {
+    "mountPoint": "{{label}} ({{mountPoint}})",
+    "homeDir": "{{main}}/{{home}}"
+  },
+  "ConnectedVolumeList": {
+    "connectedSource": "Připojené zdroje",
+    "ejected": "(vysunuto)",
+    "remove": "Odebrat zdroj",
+    "noConnectedSources": "Nejsou připojeny žádné zdroje.",
+    "addText": "Pokud chcete připojit zdroje, stiskněte tlačítko „Přidat zdroje“."
+  },
+  "VolumesWizardWaiting": {
+    "doNotWait": "Nechci čekat",
+    "paused": "Zařazování do katalogu je momentálně pozastaveno za účelem úspory baterie. Pokud chcete pokračovat, připojte notebook k napájení.",
+    "itemError": "Jejda. Něco se nezdařilo Zařízení {{label}} neskenuje.",
+    "unpluggedError": "Zařízení {{label}} bylo během skenování odpojeno.",
+    "allUnpluggedError": "Všechna připojená zařízení byla během skenování odpojena.",
+    "info": [
+      {
+        "title": "Probíhá skenování…",
+        "description": "Tato operace může trvat až 5 minut. Ponechte svá externí úložiště připojená a nevypínejte aplikaci {{product_name}}."
+      },
+      {
+        "title": "Probíhá skenování vašich zařízení…",
+        "description": "Snímky vašeho úložiště jsou ukládány místně podle volného prostoru k dispozici, takže můžete svůj obsah kdykoli najít a zobrazit si jeho náhled."
+      },
+      {
+        "title": "Probíhá pořizování snímků…",
+        "description": "Snímky vašeho úložiště jsou ukládány místně podle volného prostoru k dispozici, takže můžete svůj obsah kdykoli najít a zobrazit si jeho náhled."
+      },
+      {
+        "title": "Probíhá kategorizace obsahu…",
+        "description": "{{product_name}} vytváří filtry, které vám umožní automaticky uspořádat fotografie, videa a soubory."
+      },
+      {
+        "title": "Probíhají poslední úpravy…",
+        "description": "V aplikaci {{product_name}} můžete vždy připojit další úložiště v části <strong>Zdroje</strong>."
+      }
+    ]
+  },
+  "ManageSources": {
+    "title": "Zdroje",
+    "addSource": "Přidat zdroj",
+    "failureErrorAddCloudSourceMessage": "Něco se nezdařilo Nepodařilo se připojit k vašemu účtu. Opakujte akci.",
+    "existsErrorAddCloudSourceMessage": "Účet je již synchronizován. Stejný účet nelze synchronizovat opakovaně."
+  },
+  "SourceContextMenu": {
+    "removeIndex": "Odebrat katalog",
+    "indexDrive": "Katalogizovat zařízení",
+    "manageIndex": "Spravovat katalog",
+    "unlock": "Odemknout",
+    "setPassword": "Nastavit zámek",
+    "editPassword": "Upravit heslo",
+    "driveSettings": "Nastavení zařízení",
+    "eraseDrive": "Vymazat zařízení",
+    "eject": "Vysunout",
+    "raidsettings": "Nastavení pole RAID",
+    "noActions": "Nyní nejsou k dispozici žádné akce",
+    "reconnectCloudSource": "Znovu připojit zdroj"
+  },
+  "PhotosLibraryAction": {
+    "title": "Poznámka",
+    "titleDetached": "Odpojování knihovny fotografií",
+    "openPhotosApp": "Otevřít aplikaci Fotky",
+    "text": "Pokud chcete provést nějakou akci s touto položkou, otevřete ji v aplikaci Fotky.",
+    "textDetached": "Probíhá odpojování knihovny fotografií. Pravděpodobně nebudete mít přístup k některým položkám, dokud tento proces neskončí."
+  },
+  "ReportBugModal": {
+    "title": "Odeslat názor",
+    "listTitle": "Váš názor je pro nás velmi důležitý. Pokud máte nějaké nápady na zlepšení aplikace nebo se potýkáte s potížemi, dejte nám vědět.",
+    "copy": "Kopírovat UID",
+    "idea": "Odeslání nápadu:",
+    "portal": "Navštivte prosím web {{link}}, podělte se o svůj nápad a zjistěte, co sdíleli ostatní.",
+    "issue": "Nahlášení problému:",
+    "upload": "1. Nahrajte své protokoly, abyste nám poskytli co nejvíce informací o situaci.",
+    "email": "2. Odešlete nám {{email}} s popisem situace.",
+    "emailLink": "e-mail",
+    "download": "Stáhnout protokoly",
+    "uploadLogs": "Nahrát protokoly",
+    "uploading": "Probíhá nahrávání... ",
+    "connection_error": "Pokud chcete nahrát své protokoly, musíte být připojeni k internetu. Připojte se a zkuste to znovu.",
+    "error": "Při nahrávání souborů došlo k chybě. Zkuste to znovu.",
+    "subject": "Názor na aplikaci {{product_name}}",
+    "success": "Protokoly byly úspěšně nahrány.",
+    "uid": "Jedinečný identifikátor",
+    "what": "Co to je?"
+  },
+  "DisconnectModal": {
+    "title": "Opravdu si přejete tento zdroj odebrat?",
+    "message": "Katalog obsahu z daného zdroje bude trvale odebrán. Nebudete nadále moci zobrazovat náhledy obsahu z tohoto zdroje ani v něm vyhledávat.",
+    "disconnect": "Odebrat zdroj",
+    "close": "Zrušit"
+  },
+  "Scanner": {
+    "progress": "Probíhá skenování…"
+  },
+  "ConnectErrorModal": {
+    "title": "Něco se nezdařilo.",
+    "permissionTitle": "Není povolen žádný přístup.",
+    "driveMessage": "Vaše zařízení {{diskName}} nebylo připojeno z důvodu chyby.",
+    "drivesMessage": "Zařízení {{diskNameList}} nebyla připojena z důvodu chyby.",
+    "permissionMessage": "Aplikace {{product_name}} nemá oprávnění k přístupu k souborům. Opakujte akci a umožněte přístup nebo změňte předvolby systému, aby umožňovaly přístup.",
+    "AllDrivesMessage": "Vaše zařízení nebyla připojena z důvodu chyby."
+  },
+  "DisconnectErrorModal": {
+    "title": "Něco se nezdařilo.",
+    "driveMessage": "Vaše zařízení {{diskName}} nebylo odpojeno z důvodu chyby.",
+    "drivesMessage": "Zařízení {{diskNameList}} nebyla odpojena z důvodu chyby.",
+    "AllDrivesMessage": "Vaše zařízení nebyla odpojena z důvodu chyby."
+  },
+  "ModalUpdateError": {
+    "permissionTitle": "Není povolen žádný přístup.",
+    "title": "Něco se nezdařilo.",
+    "driveMessage": "Vaše zařízení {{diskName}} nebylo aktualizováno z důvodu chyby.",
+    "drivesMessage": "Zařízení {{diskNameList}} nebyla aktualizována z důvodu chyby.",
+    "permissionMessage": "Aplikace {{product_name}} nemá oprávnění k přístupu k souborům. Opakujte akci a umožněte přístup nebo změňte předvolby systému, aby umožňovaly přístup.",
+    "AllDrivesMessage": "Vaše zařízení nebyla aktualizována z důvodu chyby."
+  },
+  "UnplugModal": {
+    "driveTitle": "Vaše zařízení {{label}} je odpojeno",
+    "drivesTitle": "Vaše zařízení jsou odpojená",
+    "driveText": "Vaše zařízení {{label}} bylo během skenování odpojené a váš obsah v aplikaci {{product_name}} nebude aktuální. Skenování ostatních zařízení budou pokračovat.",
+    "drivesText": "Zařízení {{labels}} byla během skenování odpojená a váš obsah v aplikaci {{product_name}} nebude aktuální. Skenování ostatních zařízení budou pokračovat."
+  },
+  "ChangePasswordSignOutModal": {
+    "title": "Byli jste odhlášeni.",
+    "text": "Byli jste odhlášeni, protože vaše heslo bylo aktualizováno. Pokud chcete pokračovat, přihlaste se znovu."
+  },
+  "PasswordChanged": {
+    "title": "Zkontrolovat e-mail",
+    "text": "Pokud pro adresu {{email}} již existuje účet {{product_name}}, bude na ni odeslán e-mail s dalšími pokyny.",
+    "button": "Znovu odeslat odkaz",
+    "success": "E-mail byl úspěšně odeslán"
+  },
+  "AlbumToasts": {
+    "updateSuccess": "Sbírka byla aktualizována",
+    "removeSuccess": "Sbírka byla odebrána",
+    "coverChangeSuccess": "Úvodní fotografie sbírky se změnila",
+    "creationCoverChangeSuccess": "Byla nastavena úvodní fotografie",
+    "filesAdded": "Počet přidaných souborů: {{count}}",
+    "filesAdded_plural": "Počet přidaných souborů: {{count}}",
+    "filesNotAdded": "Sbírka již obsahuje následující počet souborů: {{count}}",
+    "filesNotAdded_plural": "Sbírka již obsahuje následující počet souborů: {{count}}",
+    "filesRemoved": {
+      "items": "Položka byla odebrána",
+      "items_plural": "Následující počet položek byl odebrán: {{count}}"
+    }
+  },
+  "AlbumsTooltips": {
+    "addPhotos": "Přidat fotografie",
+    "description": "Popis"
+  },
+  "Albums": {
+    "title": "Sbírky",
+    "search": "Hledat",
+    "forYou": "Pro vás",
+    "locations": "Místa",
+    "creationDescription": "Pojmenujte svou sbírku a přidejte volitelný popis, abyste ji později poznali.",
+    "groupTitle": "Název sbírky",
+    "button1": "Procházet",
+    "button2": "Hledat",
+    "description": "Přidejte volitelný popis.",
+    "name": "Přidat název",
+    "remove": "Odebrat sbírku",
+    "edit": "Upravit název/popis"
+  },
+  "AddPhotosToAlbum": {
+    "title": "Přidat fotografie"
+  },
+  "AlbumList": {
+    "noAlbumsYet": "Zatím nebyly přidány žádné sbírky",
+    "noAlbumsYetSubtitle1": "Vytvořte sbírky na základě obsahu ve svých zdrojích.",
+    "counter": "{{count}} položka",
+    "counter_plural": "{{count}} položek",
+    "create_collection": "Vytvořit sbírku"
+  },
+  "AlbumRenameModal": {
+    "title": "Pojmenujte svou sbírku",
+    "placeholder": "Název sbírky",
+    "invalidName": "Název nesmí obsahovat žádný z následujících znaků: \\/<|>\"?*:",
+    "enterName": "Nejprve zadejte název sbírky."
+  },
+  "AlbumDescription": {
+    "title": "Popis",
+    "save": "Uložit",
+    "readMore": "další informace",
+    "addDescription": "Žádný popis"
+  },
+  "AlbumCommon": {
+    "selectCoverPhoto": "Vyberte úvodní fotografii",
+    "items": "{{count}} položka od {{date}}",
+    "items_plural": "{{count}} položky od {{date}}",
+    "emptyText": "Nic tady není!",
+    "emptySubtext": "Vypadá to, že sem ještě nebyly přidány žádné fotografie… {{product_name}} toho s prázdnou sbírkou příliš nesvede!",
+    "addPhotos": "Přidat fotografie",
+    "created": "Vytvořeno {{date}}",
+    "coverTitle": "Jak přidám položky?",
+    "coverDescription": "Pokud do této sbírky chcete přidat obsah, přejděte k němu nebo ho vyhledejte, vyberte vše, co chcete přidat, nebo zvolte možnost „Přidat do sbírky“.",
+    "emptyCoverDescription": "Pokud chcete přidat obsah do této sbírky, přejděte k němu nebo ho vyhledejte, vyberte vše, co chcete přidat, a zvolte možnost „Přidat do sbírky“. Pomocí tlačítka níže můžete vybrat a přímo přejít na určitou část v prohledávání."
+  },
+  "RemoveAlbum": {
+    "title": "Odebrat",
+    "removeAlbum": "Chcete sbírku „{{collection}}“ odebrat?",
+    "delete": "Ano, odebrat"
+  },
+  "RemoveAlbumPhotos": {
+    "title": {
+      "items": "Chcete položku odebrat ze sbírky?",
+      "items_plural": "Chcete položky odebrat ze sbírky?"
+    },
+    "text": {
+      "items": "Opravdu chcete vybranou položku odebrat ze sbírky? Takto pouze odeberete vybranou položku z této sbírky, ale nedojde k odstranění položky.",
+      "items_plural": "Opravdu chcete vybrané položky (celkem {{count}}) odebrat ze sbírky? Takto pouze odeberete vybrané položky z této sbírky, ale nedojde k odstranění položek."
+    }
+  },
+  "AlbumItemContextMenu": {
+    "addPhotos": "Přidat fotografie",
+    "download": "Stáhnout"
+  },
+  "AlbumContextMenu": {
+    "setAsCover": "Nastavit jako úvodní obrázek"
+  },
+  "Objects": {
+    "title": "Hledat",
+    "location": "Místa",
+    "tag": "Pro vás",
+    "emptyLocations": "Vypadá to, že zatím nebyla přidána žádná umístění.",
+    "emptyTagGroups": "Vypadá to, že zatím nebyly přidány žádné skupiny štítků."
+  },
+  "ObjectsGroup": {
+    "empty": "Vypadá to, že zatím nebyly přidány žádné skupiny štítků."
+  },
+  "LocationGroups": {
+    "title": "Místa",
+    "empty": "Vypadá to, že zatím nebyla přidána žádná umístění."
+  },
+  "TagGroups": {
+    "title": "Pro vás",
+    "empty": "Vypadá to, že zatím nebyly přidány žádné skupiny štítků."
+  },
+  "ObjectGroup": {
+    "albumsCounted": "Sbírky ({{count}})",
+    "albums": "Sbírky"
+  },
+  "TagGroup": {
+    "forYou": "Pro vás",
+    "search": "Hledat"
+  },
+  "LocationGroup": {
+    "locations": "Místa",
+    "search": "Hledat"
+  },
+  "ObjectSuggestions": {
+    "tagGroups": "Pro vás",
+    "locationGroups": "Umístění",
+    "empty": "Žádné sbírky neodpovídají výrazu <span>„{{query}}“</span>.<br>Pokud chcete pokračovat v hledání souborů a složek, stiskněte klávesu Enter."
+  },
+  "OfflineAlertModal": {
+    "title": "Jste offline",
+    "text": "Zařízení KAS není k dispozici z důvodu chyby připojení, ale můžete přepnout na místní zařízení."
+  },
+  "SidebarDevices": {
+    "mac": "Mac",
+    "pc": "PC",
+    "cloud": "Přístup"
+  },
+  "IndexingStatusSidebarContent": {
+    "preparing": "Příprava…",
+    "paused": "Pozastaveno",
+    "pausedCommon": "Počkejte, než aktualizujeme stav katalogizace.",
+    "lowBattery": "Nízká úroveň baterie. Katalogizace byla pozastavena, dokud nebude počítač připojen k napájení.",
+    "ejectedDrive": "Katalogizace byla pozastavena, protože zdroj byl vysunut. Připojte zdroj znovu a pokračujte.",
+    "indexUpToDate": "Katalog je aktuální",
+    "indexingConnectionError": "Katalogizace byla pozastavena. Pokud chcete pokračovat, přejděte do online režimu.",
+    "nothingIndexed": "Zatím nebylo nic katalogizováno"
+  },
+  "Sidebar": {
+    "search": "Hledat",
+    "browse": "Procházet",
+    "collections": "Sbírky",
+    "discover": "Objevte",
+    "manageSources": "Zdroje",
+    "pinLabel": "Připnout postranní panel",
+    "unpinLabel": "Odepnout postranní panel",
+    "turboMode": "Režim Turbo",
+    "collapseMenu": "Sbalit nabídku",
+    "expandMenu": "Rozbalit nabídku",
+    "survey": "Průzkum",
+    "catalog": "Stav katalogu",
+    "drives": "Disky"
+  },
+  "CustomGroup": {
+    "rootPathName": "Hledat",
+    "endPathName": "Vlastní skupiny"
+  },
+  "CustomGroups": {
+    "title": "Widgety",
+    "empty": "Vypadá to, že zatím nebyly přidány žádné skupiny.",
+    "noSourcesYet": "Pracujeme na tom",
+    "noSourcesYetSubtitle1": "Jakmile provedeme katalogizaci obsahu z vašich zdrojů, ukážeme vám věci z vašeho digitálního světa, o kterých jste neměli ani tušení.",
+    "noSourcesYetSubtitle2": "Čím více zdrojů je zařazeno do katalogu, tím lépe aplikace {{product_name}} funguje.",
+    "addSource": "Přidání a správa zdrojů"
+  },
+  "NoSourceAdded": {
+    "title": "Zatím nebyly přidány žádné zdroje",
+    "line": "Aplikace {{product_name}} toho příliš nesvede, dokud nepřidáte nějaký zdroj.",
+    "button": "Přidat zdroj"
+  },
+  "OrderContextMenu": {
+    "facets": {
+      "name": "Název",
+      "mTime": "Datum změny",
+      "cTime": "Datum vytvoření",
+      "size": "Velikost souboru"
+    },
+    "files": {
+      "name": "Název",
+      "mTime": "Datum",
+      "size": "Velikost souboru"
+    },
+    "albums": {
+      "cTime": "Datum vytvoření",
+      "mTime": "Datum změny"
+    },
+    "album": {
+      "addedTime": "Datum přidání",
+      "cTime": "Datum vytvoření"
+    }
+  },
+  "WhatsNew": {
+    "header": "Novinky",
+    "title": "Novinky v aplikaci {{product_name}}",
+    "version": "Verze: {{version}}",
+    "date": "Datum",
+    "updatedTo": "Aktualizováno na verzi {{version}}"
+  },
+  "AddSourceContextMenu": {
+    "addDrive": "Přidat zařízení",
+    "addSocial": "Přidat sociální síť",
+    "addCloud": "Přidat cloud"
+  },
+  "AddSocialProviders": {
+    "title": "Přidat účet sociální sítě",
+    "description": "Pokud chcete zahrnout obsah do katalogu, přidejte účet sociální sítě."
+  },
+  "AddCloudProviders": {
+    "title": "Cloudový účet",
+    "description": "Pokud chcete zahrnout obsah do katalogu, přidejte cloudový účet."
+  },
+  "DeleteIndex": {
+    "title": "Odebrat katalog",
+    "descriptionCommon": "Tento nástroj odebere katalog z aplikace {{product_name}}. Váš obsah zůstane v zařízení, ale \nnebudete moci v zařízení vyhledávat a využívat funkce aplikace {{product_name}}, dokud neprovedete opětovnou katalogizaci tohoto zařízení. ",
+    "descriptionCloud": "Tento nástroj odebere katalog z aplikace {{product_name}}. V tomto obsahu budete moci vyhledávat a používat funkce aplikace {{product_name}} až po opětovném katalogizování tohoto zdroje.",
+    "info": "Opravdu chcete katalog tohoto zařízení odebrat z aplikace {{product_name}}?",
+    "ok": "Odebrat katalog"
+  },
+  "AddDrives": {
+    "title": "Přidat zařízení",
+    "description": "Ucelené řešení vyhledávání v aplikaci {{product_name}} vám umožní procházet váš obsah z několika zařízení na jednom místě!",
+    "addSelectedDrives": "Přidat vybraná zařízení",
+    "addInfo": {
+      "noDriveTitle": "Žádná nekatalogizovaná zařízení",
+      "noDriveInfo": "Jakmile připojíte svá nekatalogizovaná zařízení, automaticky se zobrazí výše.",
+      "externalTitle": "Máte externí úložiště?",
+      "externalInfo": "Jakmile připojíte svá nekatalogizovaná zařízení, automaticky se zobrazí výše."
+    }
+  },
+  "ListViewSourceItem": {
+    "indexed": "Připojeno a katalogizováno",
+    "indexing": "Katalogizování: {{percent}} %"
+  },
+  "SourcesList": {
+    "yourDevices": "Interní úložiště",
+    "yourDrives": "Externí úložiště",
+    "socialMedia": "Sociální sítě",
+    "cloudStorage": "Cloudová úložiště",
+    "addSocial": "Připojte své účty sociálních sítí a mějte přehled o umístění svých cenných vzpomínek.",
+    "addSocialButton": "Přidejte své účty sociálních sítí",
+    "addCloud": "Připojte své účty různých cloudových úložišť, abyste v nich mohli hledat.",
+    "addCloudButton": "Přidejte své účty cloudových úložišť",
+    "addDrive": "Vytáhněte ze skříně všechna externí úložiště, oprašte je a přidejte do aplikace {{product_name}}.",
+    "addDriveButton": "Přidejte svá externí úložiště"
+  },
+  "IndexingStatus": {
+    "indexed": "Katalogizováno",
+    "indexedCompleted": "Katalogizace byla dokončena",
+    "indexingPercent": "Katalogizování: {{percent}} %",
+    "indexing": "Probíhá katalogizování",
+    "erasing": "Probíhá mazání",
+    "removing": "Probíhá odebírání...",
+    "connecting": "Probíhá připojování…",
+    "unlockToIndex": "Odemknout pro katalog",
+    "lastIndexedYesterday": "Katalogizováno včera",
+    "lastIndexedDaysAgo": "Katalogizováno před {{count}} dny",
+    "indexingPaused": "Katalogizace byla pozastavena",
+    "notIndexed": "Nekatalogizováno",
+    "preparing": "Příprava…",
+    "clickHere": "kliknutím sem",
+    "cloudConnectionError": "Položku {{label}} nelze katalogizovat. Nepodařilo se nám připojit k poskytovateli platformy.",
+    "indexErrorExplain": "<strong>Chyba katalogizace</strong> – Při katalogizaci došlo k chybě. Ve většině případů vyřešíte problém odpojením a připojením zařízení.",
+    "cloudIndexErrorExplain": "<strong>Chyba v katalogizaci</strong> – Při katalogizaci cloudového zdroje došlo k chybě. Pokusíme se pokračovat v katalogizaci. Pokud chyba přetrvává, nahlaste ji prostřednictvím možnosti <strong>Odeslat názor</strong>.",
+    "cloudWarningNotificationIndexErrorExplain": "Při katalogizaci cloudového zdroje došlo k chybě. Pokusíme se o pokračování v katalogizaci. Pokud chyba přetrvává, {{clickHere}} a nahlaste chybu.",
+    "pausedDueToConnectionError": "<strong>Žádné připojení k internetu</strong> – {{product_type}} nemůže kontaktovat poskytovatele služby. Pokud chcete pokračovat v katalogizaci, připojte se znovu k internetu.",
+    "pausedDueToDisconnected": "<strong>Katalogizace byla pozastavena</strong> – Zařízení již není připojeno. Pokud chcete automaticky pokračovat v katalogizaci, připojte zařízení.",
+    "pausedDueToLowBattery": "<strong>Katalogizace byla pozastavena</strong> – Katalogizace byla pozastavena za účelem úspory baterie. Pokud chcete pokračovat, připojte notebook k napájení.",
+    "errReadContent": "<strong>Chyba indexování souboru</strong> –  V aplikaci {{product_name}} došlo u některých souborů k potížím při katalogizaci položky „{{label}}“. Tyto produkty se pravděpodobně nezobrazí v aplikaci {{product_name}}.",
+    "errCloudProviderAuth": "<strong>K účtu nelze přistupovat</strong> – Aplikace {{product_name}} pravděpodobně ztratila oprávnění k přístupu k tomu účtu sociální sítě nebo cloudové služby. Pokud chcete aplikaci {{product_name}} poskytnout přístup, klikněte na <strong>„nabídku se třemi tečkami“</strong> a vyberte možnost <strong>„Znovu připojit zdroj“</strong>.",
+    "errMaxDataSizeReached": "<strong>Katalogizování bylo pozastaveno</strong> – Dosáhli jste 100 % z maximální velikosti katalogu a nemůžete do něho přidávat žádné nové položky.",
+    "errInsufficientStorage": "<strong>Katalogizace byla pozastavena</strong> – Není dostatek místa pro přidání nového obsahu do katalogu. Můžete ze svého počítače odstranit nevyžádané soubory, abyste uvolnili místo pro katalog."
+  },
+  "ConnectedSourcesList": {
+    "noConnectedSources": "Nejsou připojeny žádné zdroje.",
+    "addText": "Pokud chcete připojit zdroje, stiskněte tlačítko „Přidat zdroje“."
+  },
+  "FileInfo": {
+    "info": "Informace",
+    "name": "Název souboru",
+    "type": "Typ souboru",
+    "source": "Zdroj souboru",
+    "size": "Velikost souboru",
+    "modified": "Naposledy upraveno",
+    "created": "Vytvořeno",
+    "fileLocation": "Umístění souboru",
+    "location": "Umístění",
+    "tagTitle": "Značky",
+    "tagLengthError": "Pokud chcete položku uložit, zadejte více než dva znaky",
+    "tags": "Zadejte vlastní štítky…",
+    "descriptionTitle": "Popis",
+    "description": "Přidat popis…",
+    "title": "Lidé s přístupem",
+    "text": "K dispozici již brzy…",
+    "tagsLimit": "Maximální počet štítků je 100.",
+    "aperture": "Číslo F",
+    "camera": "Fotoaparát",
+    "exposureTime": "Doba expozice",
+    "focalLength": "Ohnisková vzdálenost",
+    "isoSpeed": "Rychlost ISO",
+    "latitude": "Zeměpisná šířka",
+    "longitude": "Zeměpisná délka",
+    "flash": "Záblesk"
+  },
+  "ManageDriveIndex": {
+    "title": "Správa zařízení",
+    "description": "Ucelené řešení vyhledávání v aplikaci {{product_name}} vám umožní procházet váš obsah z několika zařízení na jednom místě!",
+    "listTitle": "Vyberte složky z tohoto zařízení, které chcete katalogizovat.",
+    "updateIndex": "Aktualizovat katalog"
+  },
+  "GetPrime": {
+    "title": "Získat přístup",
+    "description": "Propojte aplikace a zařízení úložišť a přistupujte k nim na jednom místě online i offline.",
+    "signUp": "Zaregistrovat se za účelem přístupu",
+    "enablePrime": "Povolit přístup",
+    "noThanks": "Ne, děkuji"
+  },
+  "IndexDrive": {
+    "title": "Katalogizovat zařízení",
+    "subTitle": "Všimli jsme si, že toto zařízení není katalogizováno.",
+    "text": "Když jsou vaše zařízení katalogizována, můžete prohledávat různá zařízení, i když nejsou připojená.",
+    "index": "Katalogizovat toto zařízení"
+  },
+  "DriveDisconnected": {
+    "title": "Zařízení je odpojeno",
+    "subTitle": "Toto zařízení je momentálně odpojeno. Pokud chcete procházet aktuální katalog, klikněte na tlačítko Procházet zařízení. ",
+    "text": "Pokud chcete aktualizovat katalog, připojte zařízení a my se postaráme o vše ostatní.",
+    "browse": "Procházet zařízení"
+  },
+  "LaunchWizard": {
+    "locationSelectTitle": "Umístění katalogu",
+    "permissionsInfoTitle": "Přístup na základě oprávnění",
+    "deviceSelectionWaitingTitle": "Vyhledávání vašeho zařízení",
+    "deviceSelectionWaitingDescription": "Zařízení musí být podporováno aplikací {{product_name}} a pevně připojeno k portu USB počítače.",
+    "deviceSelectionChooseTitle": "Jsou připojena následující zařízení.",
+    "deviceSelectionChooseDescription": "Pokud chcete zahájit nastavení, vyberte jedno z nich. Jakmile dokončíme nastavení, postaráme se o vše ostatní.",
+    "launchWizardPipTitle": "Pomozte nám zlepšit aplikaci {{product_name}}.",
+    "launchWizardMarketingTitle": "Předvolby marketingové komunikace",
+    "deviceSelectionEmptyTitle": "Nebyla zjištěna žádná zařízení",
+    "deviceSelectionEmptyDescription": "Zkontrolujte, zda je zařízení podporováno aplikací {{product_name}} a pevně připojeno k portu USB počítače, a zkuste to znovu.",
+    "deviceSelectionConnectedTitle": "Zařízení {{deviceName}} je připojeno",
+    "deviceSelectionConnectedDescription": "Vaše zařízení {{deviceName}} je nyní připraveno ke konfiguraci.",
+    "deviceNameTitle": "Pojmenujte své zařízení",
+    "deviceNameDescription": "Přiřaďte svému zařízení jedinečný název, abyste ho odlišili od ostatních zařízení.",
+    "devicePasswordTitle": "Chraňte své zařízení heslem.",
+    "devicePasswordDescription": "Chraňte své zařízení heslem, aby vaše soubory byly v bezpečí.",
+    "deviceSetupCompleteTitle": "Vaše zařízení {{- deviceName}} je připraveno k použití!",
+    "deviceSetupCompleteDescription": "Když je teď zařízení {{deviceName}} nastaveno, pojďme nastavit aplikaci {{product_name}}.",
+    "defaultDeviceName": "My Passport",
+    "addSourcesTitle": "Vyberte složky, které mají být zahrnuty do umístění {{product_name}}",
+    "addSourcesDescription": "Žádný strach – aplikace {{product_name}} nebude nikdy přesunovat ani odstraňovat vaše soubory nebo složky.",
+    "accountSignInTitle": "Přihlásit se",
+    "accountSignUpTitle": "Pojďme nastavit váš bezplatný účet",
+    "accountSignUpDescription": "Chcete-li katalogizovat vzpomínky ze sociálních sítí a cloudových souborů na jednom místě, vytvořte si účet.",
+    "accountPasswordTitle": "Obnovit heslo",
+    "accountPasswordDescription": "Potřebujete obnovit své heslo? Odešleme vám e-mail s pokyny. <br/><br/> POZNÁMKA: Pokud jste tuto e-mailovou adresu použili k vytvoření účtu pro zařízení ibi, My Cloud OS 5 nebo My Cloud Home, bude také obnoveno heslo.",
+    "accountAuthTitle": "Pojďme nastavit váš bezplatný účet",
+    "accountAuthDescription": "Vytvořte si účet a získejte možnost jednoduché registrace a katalogizace všech vzpomínek ze sociálních sítí a souborů na jednom místě."
+  },
+  "AgreementMarketing": {
+    "title": "Předvolby komunikace",
+    "first": {
+      "title": "Buďte v kontaktu",
+      "description": "Můžete se přihlásit k odběru našich marketingových sdělení včetně cílené reklamy prostřednictvím zpráv v aplikaci, nabízených oznámení a e-mailů."
+    },
+    "second": {
+      "title": "Dostávejte naše přizpůsobené aktualizace",
+      "description": "Když se zaregistrujete v našem marketingovém programu, můžeme používat údaje umožňující osobní identifikaci získané na základě používání služeb společnosti {{company_name}} za účelem poskytování reklam, které pro vás budou relevantní. Součástí mohou být informace související s vaším používáním aplikace {{product_name}}, jako je například vaše jméno, e-mailová adresa, IP adresa, předvolby účtu (například jazykové předvolby a předvolby časového pásma), a informace o předplatném; data o využití, pokud jste se přihlásili do {{analytics_link}} aplikace {{product_name}}; informace o vašem používání služeb třetích stran (například cloudové služby a služby sociálních sítí, jako jsou Facebook, Instagram, Dropbox, Google Drive a OneDrive) připojených k aplikaci {{product_name}}; informace o vašem používání služeb společnosti {{company_name}}, jako je například {{store_link}}, což může zahrnovat vaši historii nákupů, umístění a předvolby účtu (například jazykové předvolby); a informace o vašem používání serverů společnosti {{company_name}} a používání souborů cookie, jak je popsáno v našem {{cookie_link}}. Svou volbu můžete vždy později změnit v části Nastavení.",
+      "analytics_program": "analytického programu",
+      "store": "Obchod {{company_name}}",
+      "cookie": "Prohlášení o používání souborů cookie"
+    },
+    "agreement": "Kliknutím na položku „{{agree}}“ vyjadřujete souhlas s dokumentem {{privacy_link}} společnosti {{company_name}} a souhlas s přijímáním marketingových sdělení od společnosti {{company_name}}, která zahrnují zpravodaje, aktualizace a propagační informace související s produkty společnosti {{company_name}} a třetích stran včetně zpráv v aplikaci, nabízených oznámení a e-mailů. Dále vyjadřujete souhlas s používáním údajů umožňujících osobní identifikaci k těmto účelům, jak je popsáno výše. Svůj souhlas můžete kdykoli odvolat.",
+    "privacy_statement": "Prohlášení o ochraně osobních údajů",
+    "agree": "Souhlasím",
+    "skip": "Zatím přeskočit",
+    "notShare": "Nesouhlasím"
+  },
+  "LaunchWizardHeader": {
+    "account": "Vytvořit účet",
+    "deviceName": "Název zařízení",
+    "devicePassword": "Heslo zařízení",
+    "deviceSetupComplete": "Nastavení zařízení bylo dokončeno"
+  },
+  "LaunchWizardPermissionsInfo": {
+    "title": "Oprávnění aplikace {{product_name}}",
+    "text1": "Po zobrazení žádosti systému „Upozornění aplikace {{product_name}}“, klikněte na Povolit a můžete začít s používáním.",
+    "text2": "Toto povolení umožňuje aplikaci {{product_name}} vás informovat o aktualizacích aplikace, připojení zařízení a upozorňovat vás na další důležité věci, které vám pomáhají organizovat digitální obsah. "
+  },
+  "LaunchWizardDeviceSelectionChoose": {
+    "select": "Vybrat",
+    "retry": "Nevidím své zařízení",
+    "modalContent": "Zkontrolujte, zda je zařízení podporováno a pevně připojeno k portu USB počítače, a zkuste to znovu."
+  },
+  "LaunchWizardDeviceSelectionEmpty": {
+    "retry": "Zkuste to znovu",
+    "skip": "Nenastavuji zařízení",
+    "help": "Potřebujete pomoc?",
+    "site": "Navštivte náš web pomoci online"
+  },
+  "LaunchWizardAccountSignUp": {
+    "signIn": "Přihlásit se"
+  },
+  "LaunchWizardAccountSignIn": {
+    "signUp": "Zaregistrovat se",
+    "forgotPassword": "Zapomněli jste heslo?",
+    "offline": "Žádné připojení k internetu. Zkontrolujte připojení k internetu a zkuste to znovu."
+  },
+  "LaunchWizardAccountModal": {
+    "title": "Jste si jistí?",
+    "text": "Vytvoření účtu vám umožní provést snadnou registraci a aktivaci záruky a také katalogizaci vzpomínek na sociálních sítích a cloudových souborů na jednom místě.<br/><br/>Opravdu chcete pokračovat bez vytvoření účtu?",
+    "textSkipSocial": "Vytvořte si účet a na jednom místě budete moci jednoduše registrovat a katalogizovat své vzpomínky ze sociálních sítí a soubory.<br/><br/>Opravdu chcete pokračovat bez vytvoření účtu?",
+    "confirm": "Ano, určitě",
+    "close": "Zrušit"
+  },
+  "LaunchWizardAccountExistEmail": {
+    "title": "E-mailová adresa je již připojena",
+    "text": "Tato e-mailová adresa je již připojena k účtu. Chcete se raději přihlásit?",
+    "confirm": "Přihlásit se",
+    "close": "Zavřít"
+  },
+  "LaunchWizardDeviceName": {
+    "skip": "Udělám to později",
+    "error": "Při pojmenovávání vašeho zařízení došlo k potížím. Opakujte akci."
+  },
+  "AgreementAnalytics": {
+    "title": "Pomozte nám zlepšit aplikaci {{product_name}}",
+    "hint": "Kliknutím na tlačítko <b>„Souhlasím“</b> vyjadřujete souhlas se sdílením dat o používání s námi za účely uvedenými výše. Svou volbu můžete vždy později změnit v části Nastavení.",
+    "AgreementAnalyticsDescription1": "Sdílejte s námi data o používání a pomozte nám vylepšit naše produkty, služby a aplikace a přizpůsobit používání aplikace. Záleží nám na našich zákaznících a chceme být vůči uživatelům transparentní ohledně našich postupů ochrany osobních údajů. Další informace najdete v {{privacy_link}}.",
+    "AgreementAnalytics2": "Jaká data sdílíme?",
+    "AgreementAnalyticsDescription2": "Data o používání obsahují informace o způsobu, jakým aplikaci používáte. Součástí mohou být položky jako informace o zařízení a jejich konfiguraci, statistiky procesoru/zařízení a další statistiky využití pořízené aplikací, volání rozhraní API, informace o haváriích služby, stavu sítě, využití úložiště, hledaných výrazech, umístění, atributech souborů (například metadata obsahu, jako je velikost a typ souborů, zdroj, data a časy vytvoření/změny/přístupu, typ/model fotoaparátu, umístění, štítky/popisy), korelaci mezi soubory a informace o účtech třech stran propojených se službou.",
+    "AgreementAnalytics3": "Jak tato data využíváme?",
+    "AgreementAnalyticsDescription3": "Pokud se zapojíte do našeho analytického programu, budeme automaticky shromažďovat data o využití. Pomáhá nám to vylepšovat kvalitu a výkon našich produktů, služeb a aplikací a přizpůsobit chování aplikace včetně zasílání zpráv a nabízených oznámení. Vaše osobní údaje neprodáváme.",
+    "notShare": "Nesouhlasím",
+    "skip": "Zatím přeskočit",
+    "agree": "Souhlasím",
+    "offline": "Žádné připojení k internetu. Zkontrolujte připojení k internetu a zkuste to znovu.",
+    "privacy_center": "Centrum ochrany osobních údajů"
+  },
+  "LaunchWizardDevicePassword": {
+    "skip": "Nechci nastavovat heslo",
+    "password": "Heslo",
+    "confirmation": "Potvrdit heslo",
+    "hint": "Nápověda k heslu",
+    "checkboxTitle": "Povolit automatické odemykání tohoto počítače pro moji osobu.",
+    "checkboxDescription": "Toto políčko zaškrtněte, pokud chcete, aby si počítač pamatoval vaše heslo pro zařízení My Passport.",
+    "error": "Při nastavování hesla došlo k potížím. Opakujte akci."
+  },
+  "LaunchWizardResetPassword": {
+    "button": "Odeslat pokyny",
+    "email": "E-mailová adresa"
+  },
+  "LaunchWizardLocationSelect": {
+    "hint": "Katalog je seznam položek, které obsahují informace o vašich souborech, jako jsou název, typ, velikost, zdroj, datum vytvoření a datum úpravy. Ve výchozím nastavení se katalog ukládá na interní disk počítače. K uložení tohoto katalogu použijeme maximálně 10 % volného místa ve vašem zařízení.",
+    "info": "Máte-li v počítači více než jeden disk, vyberte disk s největším volným prostorem.",
+    "capacity": "<b>{{free}}</b> volného místa z {{full}}",
+    "drive": "Disk",
+    "popoverTitle": "Nepodporovaný systém souborů",
+    "popoverContent": "{{product_name}} nepodporuje systém souborů tohoto disku (FAT). Uložte svůj katalog na jiném disku.",
+    "popoverNotEnoughSpaceTitle": "Není dostupné žádné místo",
+    "popoverNotEnoughSpaceText": "Na tomto disku není dostupné žádné volné místo. Uložte svůj katalog na jiném disku. {{link}}",
+    "link": "Další informace"
+  },
+  "HeaderFtuePopover": {
+    "title": "Pojďme přidat první zdroj!",
+    "text": "Aplikace {{product_name}} potřebuje alespoň jeden zdroj, aby předvedla svůj potenciál. Ukážeme vám, jak se to dělá. {{take_the_tour_link}}",
+    "take_the_tour_link": "Podívejte se na ukázku"
+  },
+  "ManageSourcesFtueManager": {
+    "StartAlert": {
+      "title": "Podívejte se na ukázku aplikace {{product_name}}!",
+      "text": "Naše nastavení s využitím průvodce vás provede přidáním libovolných úložišť mezi zdroje, přidáním interního úložiště počítače a seznámením se základy používání aplikace.",
+      "textSocialCloud": "Naše nastavení s využitím průvodce vás provede přidáním externích úložišť do seznamu zdrojů, přidáním interního úložiště počítače a seznámením se základy používání aplikace.",
+      "button": "Další"
+    },
+    "DrivePresent": {
+      "title": "Nejprve přidáme vaše nové zařízení.",
+      "text": "Umístěte ukazatel myši nad zařízení, klikněte na nabídku <b>„...“ více</b>, a výběrem možnosti <b>„Katalogizovat zařízení“</b> zahajte katalogizaci."
+    },
+    "DriveNotPresent": {
+      "title": "Nejprve přidáme vaše nové zařízení.",
+      "text": "Kliknutím na položku <b>„Přidat zařízení“</b> zvolte zdroj, u kterého chcete zahájit katalogizaci."
+    },
+    "NotFromTinyInstaller": {
+      "title": "Nejprve přidáme zařízení.",
+      "text1": "Kliknutím kdekoli na kartě zařízení zahájíte katalogizaci.",
+      "text2": "Kliknutím kdekoli na kartě zahájíte katalogizaci vybraného zařízení."
+    },
+    "AddingAComputer": {
+      "title": "Přidání počítače",
+      "text1": "Když přidáte jako zdroj vnitřní úložiště počítače, můžete si vybrat z první úrovně složek v zařízení ke katalogizaci. Vybrali jsme několik výchozích umístění, kam lidé obvykle ukládají své důležité soubory.",
+      "text2": "Můžete vybrat další složky obsahující soubory, které jsou pro vás důležité, nebo můžete zrušit výběr některých složek. Pak přejděte dolů a klikněte na položku „Přidat vybraná zařízení“."
+    },
+    "PlugInDrive": {
+      "title": "Připojte externí zařízení.",
+      "text": "Jakmile své zařízení připojíte k počítači, vyberte ho ze seznamu a klikněte na položku <b>„Přidat vybrané zařízení“</b>."
+    },
+    "IndexingProgress": {
+      "title": "Postup katalogizace",
+      "text": "Katalogizovaný obsah je možné procházet nebo vyhledávat, i když vaše zdroje nejsou připojeny. Postup můžete zkontrolovat zde nebo v levém dolním rohu okna aplikace.",
+      "button": "Další"
+    },
+    "MultipleSources": {
+      "title": "Více zdrojů",
+      "text1": "Po přidání dalšího zdroje provede aplikace {{product_name}} postupnou katalogizaci zdrojů – od posledního přidaného zdroje po nejnovější.",
+      "text2": "Postup katalogizace můžete opět zkontrolovat zde nebo v levém dolním rohu okna aplikace.",
+      "button": "Další"
+    },
+    "ManagingSources": {
+      "title": "Správa zdrojů",
+      "text": "Umístěte kurzor nad zdroj a kliknutím na ikonu tří teček zobrazte seznam akcí, které jsou pro daný zdroj k dispozici.",
+      "button": "Další"
+    },
+    "AddSourceButton": {
+      "title": "Přidání zdroje",
+      "text": "Kliknutím na <b>tlačítko „+“</b> na kartě Zdroje zvolte typ zdroje, který se má začít katalogizovat."
+    },
+    "DriveLocked": {
+      "title": "Odemknutí zařízení",
+      "text": "Před katalogizací bude nutné vaše zařízení odemknout."
+    },
+    "FinishAlert": {
+      "title": "Úspěšně jste přidali zdroj!",
+      "text": "Nyní se stručně seznámíme s aplikací {{product_name}}, abyste mohli převzít kontrolu nad svým digitálním světem.",
+      "button": "Jsem připraven/a"
+    },
+    "UnlockingDrive": {
+      "title": "V naprostém bezpečí",
+      "text": "Heslo vašeho zařízení vám pomáhá udržet data v bezpečí. Odemkněte své zařízení, aby ho aplikace {{product_name}} mohla přidat do katalogu."
+    },
+    "UnlockedDriveIndexed": {
+      "title": "Již probíhá katalogizace",
+      "text": "Již probíhá katalogizace vašeho zařízení aplikací {{product_name}}. Zvolte možnost <b>„Zavřít“</b> a uvidíme, jak to vypadá."
+    },
+    "UnlockedDriveNotIndexed": {
+      "title": "Je to odemčené!",
+      "text": "Následně zvolte možnost <b>„Procházet zařízení“</b>."
+    },
+    "UnlockedDriveStartIndexing": {
+      "title": "Nyní můžeme začít s katalogizací",
+      "text": "Zvolte možnost <b>„Katalogizovat toto zařízení“</b> a my se do toho pustíme. Pak stačí jen připojit zařízení, odemknout ho a aplikace {{product_name}} automaticky zahájí jeho katalogizaci."
+    },
+    "TurboMode": {
+      "title": "Probíhá katalogizace příliš pomalu?",
+      "text1": "Zapněte režim Turbo a provádějte katalogizaci až čtyřnásobnou rychlostí! Obzvláště se hodí, když potřebujete rychle katalogizovat velké množství obsahu, například z nově přidaného zdroje.",
+      "text2": "Zapnutím režimu Turbo zrušíte omezení rychlosti katalogizace obsahu v aplikaci {{product_name}}. Urychlíte postup katalogizace, ale může se zvýšit hlasitost ventilátorů a ostatní aplikace v počítači se zpomalí nebo nebudou reagovat.",
+      "text3": "POZNÁMKA: Režim Turbo je momentálně podporován pouze počítači se čtyřmi a více jádry a více než 4 GB paměti RAM. {{link}}",
+      "link": "Další informace",
+      "button": "Další"
+    }
+  },
+  "FtueSuspendModal": {
+    "title": "Přeskočit kurz",
+    "text": "Ke kurzu se můžete kdykoli vrátit z části Nastavení.",
+    "button1": "Přeskočit",
+    "button2": "Zrušit"
+  },
+  "SelectModePanel": {
+    "counter": "Počet vybraných položek: {{count}}",
+    "counter_plural": "Počet vybraných položek: {{count}}"
+  },
+  "Notifications": {
+    "volumeIndexing": {
+      "title": "{{label}} – katalogizace",
+      "message": "Počkejte, než proběhne katalogizace zařízení. Neodpojujte zařízení, dokud nebude katalogizace dokončena."
+    },
+    "indexingCompleted": {
+      "title": "Katalogizace byla dokončena",
+      "message": "Zkontrolujte svůj aktualizovaný obsah."
+    },
+    "volumeConnected": {
+      "title": "Zařízení {{label}} je připojeno",
+      "message": "Proveďte katalogizaci tohoto zařízení, která umožní prohledávání a procházení obsahu, i když zařízení nebude připojeno."
+    },
+    "deviceLocked": {
+      "title": "Odemknout {{label}}",
+      "message": "Kliknutím sem připojené zařízení odemknete."
+    },
+    "deviceLock": {
+      "title": "Zařízení {{label}} je připojeno",
+      "message": "Pojďme zařízení uzamknout za účelem zvýšení zabezpečení."
+    },
+    "takeSurvey": {
+      "title": "Pomozte nám zlepšit aplikaci {{product_name}}!",
+      "message": "Zúčastněte se stručného průzkumu a dejte nám vědět, jaký máte na aplikaci názor."
+    },
+    "Albums": {
+      "viewCollections": "Zobrazit sbírky"
+    }
+  },
+  "IndexingDrive": {
+    "title": "Probíhá katalogizace zařízení",
+    "text": "Během katalogizace zařízení se můžete podívat na Sbírky a my vám dáme vědět, jakmile bude katalogizace dokončena.",
+    "viewCollections": "Zobrazit sbírky",
+    "slides": {
+      "slide1": {
+        "title": "Automatické uspořádání",
+        "description": "Aplikace {{product_name}} uspořádává a kategorizuje všechny vaše soubory, abyste rychle našli, co potřebujete."
+      }
+    }
+  },
+  "TitlebarUser": {
+    "no_subscription": "Žádné předplatné",
+    "yes_subscription": "Předplatné verze {{product_name}} Access",
+    "link": "Upgrade"
+  },
+  "TitlebarUserDesktopOptions": {
+    "devtools": "Přepnout vývojářské nástroje",
+    "about": "O produktu",
+    "quit": "Ukončit"
+  },
+  "TitlebarPrimeModal": {
+    "button": "Předplatné verze Access"
+  },
+  "Titlebar": {
+    "back": "Přejít zpět",
+    "forward": "Přejít vpřed",
+    "help": "Nápověda",
+    "account": "Účet"
+  },
+  "Widgets": {
+    "left": "Posunout doleva",
+    "right": "Posunout doprava"
+  },
+  "Duplicates": {
+    "title": "Duplicitní položky",
+    "subtitle": "Probíhá katalogizace {{count}} zařízení a nebude zahrnuto",
+    "subtitle_plural": "Probíhá katalogizace {{count}} zařízení a nebudou zahrnuta",
+    "indexingInProgressText": "Jedno z vašich zařízení se katalogizuje. Výsledky nebudou zahrnovat zařízení, u kterého probíhá katalogizace – doporučujeme počkat na dokončení katalogizace zařízení."
+  },
+  "DuplicatesPreviewPanel": {
+    "noDuplicatesTitle": "Nebyly nalezeny žádné duplicitní položky!",
+    "noDuplicatesText": "Gratulujeme, že máte v zařízeních takový pořádek!",
+    "selectDuplicate": "Vyberte duplicitní položku, která se má zobrazit",
+    "filesCount": "Soubory: {{count}}",
+    "filesCount_plural": "Soubory: {{count}}"
+  },
+  "DuplicatesPreviewPanelFileItem": {
+    "manage": "Spravujte",
+    "managePopOver": "Chcete-li spravovat tuto položku, připojte zařízení „{{device_name}}“.",
+    "openInPhotos": "Otevřít aplikaci Fotky",
+    "fileIndex": "{{index}} z {{count}}",
+    "sourceNotConnected": "Zdroj není připojen",
+    "errAccessDenied": "{{product_name}} nemá povolení operačního systému k odstranění souborů v této složce."
+  },
+  "DuplicatesMissingInfoPanel": {
+    "title": "Nevidíte všechny svoje duplicitní položky?",
+    "text": "Soubory ze zdrojů sociálních sítí a z cloudových zdrojů se v centru duplicitních položek nezobrazí. {{link_text}}",
+    "link_texts": "Chcete-li získat další informace, otevřete naši stránku s nejčastějšími otázkami."
+  },
+  "DuplicatesDeleteModal": {
+    "title": "Odstranit soubor",
+    "text": "Opravdu chcete odstranit „{{name}}“?",
+    "note": "Poznámka: Toto je poslední duplicitní kopie výše uvedeného souboru. Pokud ji odstraníte, původní soubor se již nebude zobrazovat ve widgetu Duplicitní položky. Budete ho moci najít na kartě Procházet a pomocí funkce vyhledávání.",
+    "confirmButton": "Ano, odstranit",
+    "deleteSuccess": "Položka „{{name}}“ byla odstraněna."
+  },
+  "TurboMode": {
+    "title": "Stav režimu Turbo je {{state}}",
+    "description": "Co to je?",
+    "popOverTitle": "Co je režim Turbo?",
+    "popOverText1": "Režim Turbo doporučujeme používat, když potřebujete rychle katalogizovat velké množství obsahu, například po přidání nového zdroje.",
+    "popOverText2": "Zapnutím režimu Turbo zrušíte omezení rychlosti katalogizace obsahu v aplikaci {{product_name}}. Urychlíte postup katalogizace, ale může se zvýšit hlasitost ventilátorů a ostatní aplikace v počítači se zpomalí nebo nebudou reagovat. Režim Turbo se automaticky vypne, když aplikaci {{product_name}} zavřete, aby se zabránilo zbytečnému zpomalení systému.",
+    "popOverText3": "POZNÁMKA: Režim Turbo je momentálně k dispozici pro počítače s více než čtyřmi jádry a více než 4 GB paměti RAM. {{link}}",
+    "link": "Další informace"
+  },
+  "Facets": {
+    "title": "Podle kategorií",
+    "empty": "Jakmile přidáte do svých zdrojů nějaké soubory, zobrazí se zde automaticky uspořádané podle typů."
+  },
+  "BrowseSources": {
+    "allSources": "Všechny zdroje",
+    "internalStorage": "Interní úložiště",
+    "externalStorage": "Externí úložiště",
+    "social": "Sociální sítě",
+    "cloud": "Cloudová úložiště",
+    "addExternal": "Přidejte své zdroje do aplikace {{product_name}}",
+    "empty_all": "Vytáhněte ze skříně všechna externí úložiště, oprašte je a přidejte do aplikace {{product_name}}.",
+    "empty_social": "Nejsou k dispozici žádné zdroje sociálních sítí. Vyberte jiný zdroj nebo v části správa zdrojů {{link}}.",
+    "empty_cloud": "Nejsou k dispozici žádné zdroje cloudových úložišť. Vyberte jiný zdroj nebo v části správa zdrojů {{link}}.",
+    "empty_internalStorage": "Nejsou k dispozici žádné externí zdroje. Vyberte jiný zdroj nebo v části správa zdrojů {{link}}.",
+    "empty_externalStorage": "Nejsou k dispozici žádné interní zdroje. Vyberte jiný zdroj nebo v části správa zdrojů {{link}}.",
+    "link_social": "přidejte zdroj sociální sítě",
+    "link_cloud": "přidejte zdroj cloudového úložiště",
+    "link_externalStorage": "přidejte zdroj externího úložiště",
+    "link_internalStorage": "přidejte zdroj interního úložiště"
+  },
+  "CollectionGridItem": {
+    "pages": "Počet stránek: {{count}}"
+  },
+  "LivePhoto": {
+    "live": "ŽIVĚ"
+  },
+  "SidePanelCollections": {
+    "search_placeholder": "Hledání ve sbírkách",
+    "empty_title": "Výsledky hledání ve sbírkách",
+    "empty_text": "Vypadá to, že pro „klíčové slovo“ nebyly nalezeny žádné sbírky."
+  },
+  "Surveys": {
+    "title": "Průzkumy",
+    "header": "Zúčastněte se krátkého průzkumu",
+    "survey_1": {
+      "title": "Zahájení práce a první dojmy",
+      "short_title": "Zahájení práce"
+    },
+    "survey_2": {
+      "title": "Přidání a vyhledávání obsahu",
+      "short_title": "Přidejte a vyhledávejte obsah"
+    },
+    "survey_3": {
+      "title": "Virtuální uspořádání obsahu",
+      "short_title": "Uspořádání obsahu"
+    }
+  },
+  "BrowseFTUE": {
+    "modal": {
+      "title": "Procházení prostřednictvím aplikace {{product_name}}",
+      "left": {
+        "descriptionTitle": "Podle kategorií a widgetů",
+        "descriptionText": "Vaše soubory jsou inteligentně seřazeny podle kategorií mimo jiné také proto, aby se usnadnilo nalezení hledaného obsahu."
+      },
+      "right": {
+        "descriptionTitle": "Podle zdrojů",
+        "descriptionText": "Dáváte přednost procházení struktury souborů a složek úložiště? Máme vše, co potřebujete. Stačí přejít k požadovanému obsahu procházením zdroje."
+      }
+    },
+    "popover": {
+      "title": "Co se nachází na této stránce?",
+      "text": "Pokud se chcete znovu dozvědět více o používání jednotlivých karet v aplikaci {{product_name}}, přejděte na <b>ikonu otazníku</b> v pravém horním rohu a vyberte možnost <b>„Co se nachází na této stránce?“</b>"
+    }
+  },
+  "PrimeFTUE": {
+    "title": "Více funkcí ve verzi Access",
+    "left": {
+      "descriptionTitle": "Přístup odkudkoliv",
+      "descriptionText": "Předplatné verze {{product_name}} Access umožňuje vyhledávat, procházet a zobrazovat náhledy obsahu z počítačů, mobilních telefonů nebo tabletů, ve kterých je nainstalována aplikace {{product_name}}, a také prostřednictvím webu."
+    },
+    "right": {
+      "descriptionTitle": "Sociální sítě a cloudové služby",
+      "descriptionText": "Prostřednictvím verze {{product_name}} Access se můžete připojit k podporovaným zdrojům sociálních sítí a cloudových služeb. Můžete vyhledávat, procházet a zobrazovat náhledy obsahu ze svých zdrojů. Vše na jednom místě. {{link}}",
+      "link": "Zde zjistíte další informace."
+    }
+  },
+  "CollectionFTUE": {
+    "title": "Zkoumání vašeho digitálního světa",
+    "left": {
+      "descriptionTitle": "Místa a štítky",
+      "descriptionText": "Vaše soubory jsou inteligentně seřazeny podle předmětů, kalendářních dat, umístění a dalších údajů, takže máte k dispozici seskupený relevantní osobní obsah."
+    },
+    "right": {
+      "descriptionTitle": "Moje sbírky",
+      "descriptionText": "Vytvářejte vlastní sbírky souborů na základě zdrojů úložišť a mějte svůj digitální svět zcela pod kontrolou."
+    }
+  },
+  "SearchFTUE": {
+    "title": "Vyhledávání na jednom místě",
+    "left": {
+      "descriptionTitle": "Vyhledávání ve všech zdrojích",
+      "descriptionText": "Protože jsou vaše digitální soubory označeny štítky a katalogizovány, můžete hledat v obsahu v počítači a úložištích, i když jsou odpojená."
+    },
+    "right": {
+      "descriptionTitle": "Pokročilé filtry",
+      "descriptionText": "Hledání můžete upřesnit podle rozsahu, štítků, zdrojů, typů souborů, umístění a dalších parametrů. Takto zvládnete najít a spravovat přesně to, co potřebujete."
+    }
+  },
+  "SourcesFTUE": {
+    "title": "Přidání a správa zdrojů",
+    "left": {
+      "descriptionTitle": "Připojení a katalogizace zdrojů",
+      "descriptionText": "Připojte své zdroje k počítači a přidejte je do svého inventáře. Po přidání {{product_name}} aplikace prohledá obsah za účelem přidání do katalogu, abyste v něm mohli vyhledávat, procházet ho a uspořádávat."
+    },
+    "right": {
+      "descriptionTitle": "Správa externích zařízení",
+      "descriptionText": "Spravujte svá podporovaná úložiště WD a SanDisk, využijte možnost pojmenování, přidání hesla a další funkce. Mějte přehled o budoucích aktualizacích a dalších podporovaných zařízeních."
+    }
+  },
+  "HelpPopOver": {
+    "whatPage": "K čemu je tato stránka?",
+    "website": "Stránka s nápovědou"
+  },
+  "WarningNotificationsUniqueIdentifier": {
+    "text": "Jedinečný identifikátor pomáhá při řešení potíží s aplikací {{product_name}} při kontaktování podpory. Když tento jedinečný identifikátor poskytnete našemu týmu, bude moci zobrazit protokoly vašeho účtu, které zahrnují aktivitu a výkon vašich zařízení, a dále jim pomůže identifikovat nebo vyřešit vaše potíže."
+  },
+  "WarningNotificationsPhotosLibraryNoInternet": {
+    "text": "Katalogizování bylo pozastaveno protože počítač ztratil připojení k internetu. Chcete-li pokračovat v katalogizování vaší knihovny fotografií, připojte se znovu k internetu."
+  },
+  "TutorialFtue": {
+    "browse": "Procházejte své soubory podle kategorií, zdrojů nebo našich chytrých widgetů.",
+    "collections": "Uspořádejte si digitální svět prostřednictvím sbírek v aplikaci {{product_name}}.",
+    "sources": "Přidejte do svého digitálního inventáře nové zdroje úložišť.",
+    "turbo": "Probíhá katalogizace příliš pomalu? Urychlete ji pomocí <b>režimu Turbo</b>.",
+    "search": "Hledejte v katalogizovaném obsahu podle názvů souborů, umístění a klíčových slov.",
+    "tipsTricks": "Získejte tipy a triky, díky kterým získáte z aplikace {{product_name}} maximum.",
+    "next": "Projděte si aplikaci {{product_name}}, abyste se dozvěděli více o jejích funkcích."
+  },
+  "ModalConfirmSignOut": {
+    "title": "Odhlásit se z {{product_name}}?",
+    "text": "Opravdu se chcete odhlásit?",
+    "textWithCloudServices": "Stále budete mít přístup ke svému katalogu, i když jste odhlášeni.",
+    "confirm": "Odhlásit",
+    "titleOffline": "Žádné připojení k internetu",
+    "textOffline": "Odhlášení z aplikace {{product_name}} vyžaduje připojení k internetu. Zkontrolujte svoje připojení a zkuste to znovu."
+  },
+  "ModalSurveyAvailable": {
+    "title": "Je k dispozici průzkum č. {{index}}",
+    "text": "Zúčastněte se stručného průzkumu a sdělte nám, jaké jsou vaše zkušenosti s produktem <b>{{name}}</b>.",
+    "confirm": "Provést průzkum",
+    "cancel": "Později"
+  },
+  "UpdateBanner": {
+    "text": "Je k dispozici nová verze aplikace {{product_name}},. {{link}} abyste získali nejnovější opravy chyb a nové funkce.",
+    "link": "Aktualizovat nyní",
+    "updateLoaded": "Aktualizace byla stažena. {{relaunch}}",
+    "relaunch": "Znovu spustit {{product_name}}"
+  },
+  "Placeholder": {
+    "network": {
+      "title": "Podpora síťových disků",
+      "text": "Připravujeme podporu zařízení My Cloud Home, ibi a My Cloud OS 5."
+    }
+  },
+  "SubscriptionTicket": {
+    "EdgeRoverBasic": {
+      "title": "{{product_name}} Basic",
+      "text": "Používáte bezplatnou verzi aplikace {{product_name}}.",
+      "button": "Podívejte se na možnosti upgradu"
+    },
+    "EdgeRoverAccess": {
+      "title": "{{product_name}} Access",
+      "text": "9,99 USD měsíčně, roční platby",
+      "textExpire": "Příští platba je naplánována na ",
+      "button": "Správa předplatného"
+    }
+  },
+  "ModalShortcutsHelp": {
+    "ModalTitle": "Klávesové zkratky",
+    "GeneralTitle": "Všeobecné",
+    "PreviousPage": "Předchozí strana",
+    "SwitchMainSections": "Přepnout mezi hlavními částmi",
+    "StartSearch": "Zahájit hledání",
+    "CreateCollection": "Vytvořit sbírku",
+    "CloseModalOrRightPanel": "Zavřít modální nebo pravý panel",
+    "SelectionTitle": "Výběr",
+    "SelectAll": "Vybrat vše",
+    "SelectRangeOfItems": "Vybrat položky v rozsahu",
+    "SelectOrDeselect": "Vybrat jednu položku nebo zrušit její výběr",
+    "HelpTitle": "Nápověda",
+    "HelpCenter": "Centrum nápovědy",
+    "KeyboardShortcuts": "Klávesové zkratky",
+    "FilePreviewTitle": "Náhled souborů",
+    "NextFile": "Další soubor",
+    "PreviousFile": "Předchozí soubor",
+    "CloseFilePreview": "Zavřít náhled souborů",
+    "PlayOrPause": "Přehrát/pozastavit soubor videa nebo zvuku",
+    "OpenFile": "Otevřít soubor",
+    "MoreInfo": "Další informace",
+    "ShowFileLocation": "Zobrazit umístění souborů",
+    "ZoomInPhoto": "Přiblížit fotografii",
+    "ZoomOutPhoto": "Oddálit fotografii",
+    "ZoomToZero": "Přiblížit na 100 %",
+    "EnterFullScreen": "Režim celé obrazovky",
+    "ExitFullScreen": "Ukončit režim celé obrazovky",
+    "BrowseAndGridsTitle": "Procházení a mřížky",
+    "NavigateFilesAndFolders": "Procházení souborů a složek",
+    "RefreshList": "Obnovte složku nebo seznam souborů",
+    "OpenFocusedFolder": "Otevřít zvýrazněnou složku",
+    "OpenFocusedFileInApp": "Otevřít zvýrazněný soubor v aplikaci",
+    "ShowLocation": "Zobrazit umístění souboru/složky",
+    "ToggleView": "Přepnout zobrazení seznamu/miniatur",
+    "ChangeSort": "Seřadit",
+    "SourcesTitle": "Zdroje",
+    "NavigateCategories": "Procházet kategorie",
+    "NavigateSources": "Procházet zdroje",
+    "OpenFocusedDriveOrSource": "Otevřít zvýrazněný disk nebo zdroj",
+    "SettingsTitle": "Nastavení",
+    "NavigateSettingsSections": "Procházet části nastavení",
+    "OpenFocusedSection": "Otevřít zvýrazněnou část"
+  },
+  "PageSettingsProductTour": {
+    "title": "Seznámení s produktem",
+    "text": "Přidání zdroje",
+    "button_text": "Zahájit přidávání zdroje"
+  },
+  "ManageSourcesSidePanelsSignIn": {
+    "title": "Přihlásit se",
+    "descriptionSocial": "Chcete-li indexovat své vzpomínky ze sociálních sítí, jako jsou služby Facebook, Google Photos, Flickr a další, přihlaste se nebo si vytvořte účet {{company_name}}.",
+    "descriptionCloud": "Chcete-li indexovat své účty cloudových služeb, jako je Dropbox, Google Drive, OneDrive a další, přihlaste se nebo si vytvořte účet {{company_name}}."
+  },
+  "ProvidersList": {
+    "infoTitle": "Nevidíte zde svůj účet {{type}}?",
+    "infoText": "{{clickHere}} a zažádejte o podporu pro svůj zdroj {{sourceType}}.",
+    "clickHere": "Klikněte sem",
+    "socialMedia": "sociální sítě",
+    "social": "sociální sítě",
+    "cloud": "cloud"
+  },
+  "NotConnectedItem": {
+    "systemFolderWarning": "Tuto systémovou složku nelze synchronizovat"
+  },
+  "ModalReinstall": {
+    "title": "Znovu nainstalovat aplikaci {{product_name}}",
+    "content1": "Proces katalogizace aplikace {{product_name}} prošel výraznými vylepšeními, ale bude nutné <b>aplikaci {{product_name}} odinstalovat a znovu nainstalovat a následně provést opětovnou katalogizaci obsahu,</b> abyste mohli využít výhody naplno. {{link1}}.",
+    "link1": "Zde si můžete prohlédnout podrobné pokyny",
+    "title1": "Pokud provádíte opětovnou instalaci…",
+    "title2": "Pokud neprovádíte opětovnou instalaci…",
+    "li1": "<b>Flexibilní umístění katalogu</b> – Zvolte, kam chcete svůj katalog umístit, pokud máte více svazků.",
+    "li2": "<b>Menší velikost katalogu</b> – Katalog aplikace {{product_name}} zabere maximálně 10 % dostupného místa na disku vašeho počítače.",
+    "li3": "<b>Menší miniatury fotografií</b> – Díky miniaturám v rozlišení 720p si aplikace zachová malou velikost, ale i přesto vám umožní užít si fotografie ve vysoké kvalitě.",
+    "li4": "<b>Větší velikost aplikace</b> – Vaše miniatury si zachovají rozlišení 1080p a katalog bude v zařízení využívat více místa.",
+    "li5": "<b>Problémy při zobrazování miniatur</b> – Při pokusu o zobrazení jedné položky může dojít k chybám.",
+    "li6": "<b>Méně funkcí produktů</b> – Budoucí funkce a aktualizace aplikací nemusejí fungovat správně.",
+    "button1": "Postup opětovné instalace aplikace {{product_name}}",
+    "button2": "Zeptejte se mě znovu později"
+  },
+  "TurboModeNotifications": {
+    "unavailable": {
+      "text": "Režim Turbo je momentálně k dispozici pouze pro počítače se čtyřmi a více jádry a více než 4 GB paměti RAM."
+    },
+    "available": {
+      "on": "Režim Turbo ruší omezení rychlosti katalogizace obsahu v aplikaci {{product_name}}. Může to způsobit, že ostatní aplikace v systému se zpomalí nebo nebudou reagovat. Režim Turbo se automaticky vypne, když aplikaci {{product_name}} zavřete, aby se zabránilo zbytečnému zpomalení systému.",
+      "wasOn": "Režim Turbo se vypnul, protože byla zavřena aplikace {{product_name}}."
+    }
+  },
+  "SlowIndexPopOver": {
+    "title": "Probíhá katalogizace příliš pomalu?",
+    "text1": "Pokud potřebujete katalogizovat velmi velký počet souborů obrázků, může proces trvat dlouho. Buďte trpěliví, než vygenerujeme miniatury, ke kterým je možné přistupovat, když jsou vaše zdroje odpojeny.",
+    "text2": "Proces katalogizace můžete urychlit vyzkoušením následujících postupů:",
+    "listItem1": "Nechte aplikaci a systém spuštěné přes noc",
+    "listItem2": "Ponechte katalogizované zdroje připojené k systému"
+  },
+  "CollectionFtueManager": {
+    "popover": {
+      "title": "Přidání do sbírky",
+      "text": "Po kliknutí na tlačítko „<b>Přidat</b>“ můžete zvolit kategorii a vyhledat soubory."
+    }
+  },
+  "AcronisBanner": {
+    "title": "Acronis True Image",
+    "subtitle": "Zálohování a klonování disku"
+  },
+  "ErrorBoundary": {
+    "title": "Něco se nezdařilo",
+    "description": "Chcete-li vyřešit problém, zkuste znovu načíst stránku.",
+    "refresh": "Aktualizovat",
+    "issues": "Máte problémy i nadále?",
+    "feedback": "Pošlete nám zpětnou vazbu",
+    "help": "{{feedback}} a pomozte nám s prozkoumáním a vyřešením problému."
+  },
+  "ModalTermsOfService": {
+    "title": "{{product_name}} se spouští!",
+    "paragraph_1": "Děkujeme, že používáte software {{product_name}} Beta! Váš názor nám pomohl zlepšit prostředí a používání aplikace {{product_name}}. Těší nás, že vás můžeme informovat o tom, že aplikace {{product_name}} nyní přechází do fáze Beta a vydáváme verzi 1.0.",
+    "paragraph_2": "Pokud chcete nadále používat aplikaci {{product_name}}, přečtěte si a přijměte naše Podmínky použití služby a Prohlášení o ochraně osobních údajů.",
+    "agree": "Souhlasím",
+    "close": "Ne, ukončit aplikaci {{product_name}}",
+    "title_accepted": "Děkujeme!",
+    "accepted_paragraph_1": "Rádi bychom vám poděkovali za to, že jste si našli čas a snahu zapojit se do testování beta verze aplikace {{product_name}}. Doufáme, že si aplikaci {{product_name}} budete užívat i nadále a dáte nám vědět, jak bychom tento produkt mohli dále zlepšit.",
+    "accepted_paragraph_2": " Berte prosím na vědomí, že pokud jste byli v rámci beta verze přihlášeni k účtu {{product_name}}, budete až do oficiálního spuštění funkce účtu odhlášeni. Váš účet nadále existuje, ale až do té doby nebude možné se přihlásit."
+  },
+  "SearchResultsFtueManager": {
+    "popover": {
+      "title": "Filtry",
+      "text": "Filtrování podle zdroje, kategorií, typu souborů, štítků a míst bude dynamicky aktualizováno, aby se zobrazily odpovídající výsledky"
+    }
+  },
+  "NotificationsErrReadContent": {
+    "text": " V aplikaci {{product_name}} došlo k potížím při katalogizaci položky „{{label}}“. V důsledku toho se v aplikaci {{product_name}} nemusejí zobrazit některé soubory.",
+    "text_plural": " V aplikaci {{product_name}} došlo k potížím při katalogizaci některých disků. V důsledku toho se v aplikaci {{product_name}} nemusejí zobrazit některé soubory."
+  },
+  "SignOut": {
+    "start": " Aplikace {{product_name}} před odhlášením odebírá vaše katalogy sociálních sítí a cloudu.",
+    "success": "Odhlášení proběhlo úspěšně.",
+    "error": "Při odebírání cloudových zdrojů a zdrojů sociálních sítí došlo k chybě. Z toho důvodu se odhlášení nezdařilo. Zkuste to znovu později."
+  },
+  "NotificationsErrCloudProviderAuth": {
+    "text": "Aplikace {{product_name}} pravděpodobně přišla o přístup k umístění {{label}}. Pokud chcete aplikaci {{product_name}} poskytnout přístup, přejděte do části Zdroj, klikněte na položku „Možnost nabídky“ a vyberte možnost „Znovu připojit zdroj“.",
+    "text_plural": "Aplikace {{product_name}} pravděpodobně přišla o přístup k umístění {{label}}. Pokud chcete aplikaci {{product_name}} poskytnout přístup, přejděte do části Zdroj, klikněte na položku „Možnost nabídky“ a vyberte možnost „Znovu připojit zdroj“."
+  },
+  "RemovedCatalogInformer": {
+    "title": "Katalog {{name}} byl odebrán."
+  },
+  "ModalSocialCloudFtue": {
+    "title": "Zdroje ze sociálních sítí a cloudu",
+    "left": {
+      "descriptionTitle": "Připojení zdrojů ze sociálních sítí a cloudu",
+      "descriptionText": "Připojte své zdroje sociálních sítí a cloudu k aplikaci {{product_name}} a přidejte je do inventáře. Po jejich přidání aplikace {{product_name}} prohledá obsah za účelem přidání do katalogu, abyste v něm mohli vyhledávat, procházet ho a uspořádávat."
+    },
+    "right": {
+      "descriptionTitle": "Synchronizace katalogu",
+      "descriptionText": "Přestože katalog ukládáme lokálně, některé informace potřebné k synchronizaci katalogu se zdroji ze sociálních sítí a cloudové zdroje jsou uloženy v cloudu {{product_name}}."
+    }
+  },
+  "ModalSignOut": {
+    "title": "Odhlásit",
+    "text": "Před odhlášením uveďte, co chcete provést se svými aktuálními katalogy sociálních sítí a cloudu.",
+    "keepCatalog": {
+      "title": "Ponechání katalogů sociálních sítí a cloudu",
+      "point_1": "Katalogy pro účty sociálních sítí a cloudových úložišť jsou uloženy v aplikaci {{product_name}} a ve vašem počítači.",
+      "point_2": "K těmto katalogům bude mít přístup každý, kdo má přístup k vašemu počítači.",
+      "point_3": "Katalogizace bude pozastavena, dokud se znovu nepřihlásíte."
+    },
+    "removeCatalog": {
+      "title": "Odebrání katalogů sociálních sítí a cloudu",
+      "point_1": "Katalogy vašich účtů sociálních sítí a cloudových úložišť budou z aplikace {{product_name}} odebrány.",
+      "point_2": "V tomto obsahu budete moci vyhledávat a používat funkce aplikace {{product_name}} až po opětovném přihlášení se do těchto účtů a jejich opakovaném katalogizování.",
+      "point_3": "Katalogy vašich interních a externích úložišť nebudou odstraněny.",
+      "text": "Odebrání katalogů účtu sociálních sítí a cloudových úložišť může trvat několik minut v závislosti na velikosti katalogu."
+    }
+  },
+  "NotificationsErrInsufficientStorage": {
+    "text_big": "Není dostatek místa pro přidání nového obsahu do katalogu. Můžete ze svého počítače odstranit nevyžádané soubory, abyste uvolnili místo pro katalog. {{learn_more_link}}.",
+    "text_small": "Katalogizování bylo zastaveno",
+    "learn_more_link": "Další informace"
+  },
+  "NotificationsErrMaxDataSizeReached": {
+    "text_big": "Dosáhli jste 100 % z maximální velikosti katalogu a nemůžete do něho přidávat žádné nové položky. {{learn_more_link}Další informace o vašem katalogu: }",
+    "text_small": "Katalogizace byla pozastavena.",
+    "learn_more_link": "Klikněte sem"
+  },
+  "Auth": {
+    "Before": {
+      "buttons": "„Vytvořit účet“ nebo „Přihlásit se“",
+      "title": "Pojďme nastavit váš bezplatný účet",
+      "description": "Váš účet {{company_name}} vám umožňuje sledovat všechny vaše úložiště v počítači, mobilu, tabletě a webových aplikacích."
+    },
+    "After": {
+      "error_connected_to_another_account_title": "Připojeno k jinému účtu.",
+      "error_connected_to_another_account_description": "Aplikace {{product_name}} je připojena k jinému účtu. Chcete-li pokračovat s nastavením, přihlaste se tímto účtem.",
+      "error_common_title": "Jejda",
+      "error_common_description": "Při vytváření účtu se vyskytla chyba. Chcete-li pokračovat s nastavením, můžete použít možnost Zkusit znovu nebo kliknout na Přeskočit.",
+      "title": "Probíhá připojování k účtu",
+      "Error": {
+        "error_template": "Potřebujete pomoc? {{online_help_site_link}}",
+        "online_help_site_link": "Navštivte náš web pomoci online"
+      },
+      "NameForm": {
+        "title": "Chceme vás poznat.",
+        "description": "Jak se jmenujete?"
+      }
+    }
+  }
+}

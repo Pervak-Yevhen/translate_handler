@@ -1,0 +1,22 @@
+{
+  "ModalConfirmSignOut.title": "Odhlásit se ze služby {{product_name}}?",
+  "SingleItemView.CloudUnavailablePopup.description": "Chcete -li otevřít soubor prostřednictvím svého poskytovatele sociálních služeb nebo cloudu, zkontrolujte, zda jste připojeni k internetu.",
+  "CollectionHowToAddFileModal.add_to_collection": "Přidat do kolekce od ...",
+  "CollectionHowToAddFileModal.facet_title": "Kategorie",
+  "CollectionHowToAddFileModal.sources_title": "Všechny zdroje",
+  "OrderContextMenu.album.addedTime": "Datum změny",
+  "IndexingStatus.errInsufficientStorage": "<strong> Katalogování pozastaveno </strong> - Není dostatek místa pro přidání nového obsahu do katalogu. Chcete -li uvolnit místo v katalogu, můžete z počítače odstranit nežádoucí soubory.",
+  "ModalConfirmSignOut.textWithCloudServices": "Ke svému katalogu budete mít i nadále přístup, i když jste odhlášeni.",
+  "UpdateBanner.text": "K dispozici je nová verze produktu {{product_name}}. Aktualizujte nyní nejnovější opravy chyb a nové funkce.",
+  "UpdateBanner.link": "Aktualizace",
+  "UpdateBanner.updateLoaded": "Aktualizace stažena.",
+  "Banners.insufficientStorage": "K přidání nového obsahu do katalogu není dost místa. Chcete -li uvolnit místo v katalogu, můžete z počítače odstranit nechtěné soubory.",
+  "Banners.maxDataSizeReached": "Dosáhli jste 100% maximální velikosti katalogu a nemůžeme do něj přidávat žádné nové položky. Zjistěte více o svém katalogu.",
+  "Banners.photosLibraryNoInternet": "Katalogizace byla pozastavena, protože váš počítač ztratil připojení k internetu. Chcete -li pokračovat v katalogizaci knihovny fotografií, znovu se připojte.",
+  "Banners.accessDeniedCloudFS": "Nelze přidat {{label}}. {{action}} a po výzvě udělte společnosti {{product_name}} všechna přístupová oprávnění.",
+  "Banners.errCloudProviderAuth": "Vypadá to, že {{product_name}} ztratil oprávnění k přístupu k {{label}}. Chcete -li poskytnout {{product_name}} přístup, přejděte na Zdroje, klikněte na „možnost nabídky“ zdroje a vyberte „Znovu připojit zdroj“.",
+  "Banners.retry": "Zkuste to znovu",
+  "Banners.learn_more_link": "Další informace",
+  "Banners.more_label": "{{count}} další upozornění",
+  "Banners.more_label_plural": "{{count}} další oznámení"
+}

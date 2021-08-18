@@ -1,0 +1,22 @@
+{
+  "ModalConfirmSignOut.title": "Vil du logge ud af {{product_name}}?",
+  "SingleItemView.CloudUnavailablePopup.description": "For at åbne en fil via din sociale eller cloud -udbyder skal du sørge for at have forbindelse til internettet.",
+  "CollectionHowToAddFileModal.add_to_collection": "Føj til samling efter ...",
+  "CollectionHowToAddFileModal.facet_title": "Kategorier",
+  "CollectionHowToAddFileModal.sources_title": "Alle kilder",
+  "OrderContextMenu.album.addedTime": "Dato ændret",
+  "IndexingStatus.errInsufficientStorage": "<strong> Katalogisering sat på pause </strong> - Der er ikke plads nok til at tilføje nyt indhold til kataloget. Du kan slette uønskede filer fra din computer for at frigøre plads til kataloget.",
+  "ModalConfirmSignOut.textWithCloudServices": "Du har stadig adgang til dit katalog, selvom du er logget ud.",
+  "UpdateBanner.text": "En ny version af {{product_name}} er tilgængelig. Opdater nu for de seneste fejlrettelser og nye funktioner.",
+  "UpdateBanner.link": "Opdatering",
+  "UpdateBanner.updateLoaded": "Opdatering downloadet.",
+  "Banners.insufficientStorage": "Der er ikke plads nok til at tilføje nyt indhold til kataloget. Du kan slette uønskede filer fra din computer for at frigøre plads til kataloget.",
+  "Banners.maxDataSizeReached": "Du har nået 100% af den maksimale katalogstørrelse, og vi kan ikke tilføje nye varer til den. Lær mere om dit katalog.",
+  "Banners.photosLibraryNoInternet": "Katalogisering blev sat på pause, fordi din computer mistede forbindelsen til internettet. Tilslut igen for at fortsætte med at katalogisere dit fotosbibliotek.",
+  "Banners.accessDeniedCloudFS": "Kan ikke tilføje {{label}}. {{action}}, og sørg for at give {{product_name}} alle adgangstilladelser, når du bliver bedt om det.",
+  "Banners.errCloudProviderAuth": "Det ser ud til, at {{product_name}} har mistet tilladelsen til at få adgang til {{label}}. For at give {{product_name}} adgang skal du gå til Kilder, klikke på kildens “menuindstilling“ og vælge “Forbind kilde igen“.",
+  "Banners.retry": "Prøve igen",
+  "Banners.learn_more_link": "Lær mere",
+  "Banners.more_label": "{{count}} mere underretning",
+  "Banners.more_label_plural": "{{count}} flere notifikationer"
+}

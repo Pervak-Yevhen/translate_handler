@@ -1,0 +1,1902 @@
+{
+  "product_name": "EdgeRover",
+  "company_name": "Western Digital",
+  "_category": {
+    "all": "Kaikki osumat",
+    "media": "Valokuvat ja videot",
+    "image,video": "Valokuvat ja videot",
+    "video": "Videot",
+    "image": "Valokuvat",
+    "pdf": "PDF-tiedostot",
+    "writing": "Asiakirjat",
+    "presentation": "Esitykset",
+    "book": "Kirjat",
+    "spreadsheet": "Laskentataulukot",
+    "audio": "Ääni"
+  },
+  "_fileTypes": {
+    "folder": "Kansio",
+    "generalFile": "Tiedosto",
+    "font": "Fontti",
+    "image": "Kuva",
+    "video": "Video",
+    "audio": "Ääni",
+    "archive": "Arkisto",
+    "web_picture": "Verkkokuva",
+    "advanced_systems_format_file": "Edistyneiden järjestelmien muototiedosto",
+    "flash_video": "Flash-video",
+    "mkv_video": "Matroska-video",
+    "opus_audio": "Opus-äänitiedosto",
+    "ogv_video": "Ogg-video",
+    "device_independent_bitmap": "Laitteen itsenäinen bittikartta",
+    "http_archive_file": "HTTP-arkistotiedosto",
+    "hasselblad_3fr_raw_image": "Hasselblad 3FR -raakakuva",
+    "gpp_movie": "3GPP-elokuva",
+    "sony_digital_camera_image": "Sony-digitaalikamerakuva",
+    "avi_movie": "AVI-elokuva",
+    "casio_raw_image": "Casio-raakakuva",
+    "canon_cr2_raw_image": "Canon CR2 -raakakuva ",
+    "canon_cr3_raw_image": "Canon CR3 -raakakuva ",
+    "canon_raw_ciff_image_file": "Canon Raw CIFF -kuvatiedosto",
+    "kodak_raw_image": "Kodak-raakakuva",
+    "adobe_raw_image": "Adobe-raakakuva",
+    "epson_raw_image": "Epson-raakakuva ",
+    "hasselblad_raw_image": "Hasselblad-raakakuva",
+    "heif_image": "HEIF-kuva",
+    "phase_one_raw_image": "Phase One -raakakuva",
+    "jpeg_image": "JPEG-kuva",
+    "itunes_movie": "iTunes-elokuva",
+    "leaf_raw_image": "Leaf-raakakuva ",
+    "quicktime_movie": "QuickTime-elokuva",
+    "mpeg_4_movie": "MPEG-4-elokuva",
+    "mpeg_4_video": "MPEG-4-video",
+    "mpeg_movie": "MPEG-elokuva",
+    "mpeg_1_movie": "MPEG-1-elokuva",
+    "mpeg_2_movie": "MPEG-2-elokuva",
+    "webm_video": "WebM-video",
+    "minolta_raw_image": "Minolta-raakakuva",
+    "nikon_raw_image": "Nikon-raakakuva",
+    "olympus_raw_image": "Olympus-raakakuva",
+    "pentax_raw_image": "Pentax-raakakuva",
+    "fuji_raw_image": "Fuji-raakakuva",
+    "panasonic_raw_image": "Panasonic-raakakuva",
+    "leica_raw_image": "Leica-raakakuva",
+    "sony_raw_image": "Sony-raakakuva",
+    "samsung_raw_image": "Samsung-raakakuva",
+    "windows_media": "Windows Media",
+    "aac_audio": "AAC-äänitiedosto",
+    "aiff_c_audio": "AIFF-C-äänitiedosto",
+    "au_audio": "AU-äänitiedosto",
+    "flac_audio": "FLAC-äänitiedosto",
+    "f4v_video": "FV4-video",
+    "midi_audio": "MIDI-äänitiedosto",
+    "mp2_audio": "MP2-äänitiedosto",
+    "mp3_audio": "MP3-äänitiedosto",
+    "mpeg_4_audio": "MPEG-4-äänitiedosto",
+    "ogg_audio": "Ogg-äänitiedosto",
+    "waveform_audio": "Waveform-äänitiedosto",
+    "windows_media_audio": "Windows Media -äänitiedosto",
+    "amazon_kindle_ebook": "Amazon Kindle -e-kirja",
+    "broad_band_ebook": "Broad Band -e-kirja",
+    "djvu_image": "DjVu-kuva",
+    "epub_ebook": "EPUB--e-kirja",
+    "apple_books": "Apple Books -kirja",
+    "microsoft_reader_file": "Microsoft Reader -tiedosto",
+    "sony_portable_reader_file": "Sony Portable Reader -tiedosto",
+    "librie_reader_file": "Librie Reader -tiedosto",
+    "mobipocket_ebook": "Mobipocket-e-kirja",
+    "box_note": "Box Note",
+    "word_document": "Word-asiakirja",
+    "word_document_template": "Word-asiakirjamalli",
+    "google_document": "Google Docs",
+    "google_form": "Google Forms",
+    "lotus_word_document": "Lotus Word -asiakirja",
+    "pages_document": "Pages-asiakirja",
+    "google_slides": "Google Slides",
+    "keynote_presentation": "Keynote-esitys",
+    "opendocument_document": "OpenDocument-tekstiasiakirja",
+    "opendocument_presentation": "OpenDocument-esitys",
+    "opendocument_presentation_template": "OpenDocument-esitysmalli",
+    "prezi_presentation": "Prezi-esitys",
+    "powerpoint_presentation_template": "PowerPoint-esitysmalli",
+    "powerpoint_presentation": "PowerPoint-esitys",
+    "csv_file": "CSV-tiedosto",
+    "google_sheets": "Google Sheets",
+    "numbers_document": "Numbers-asiakirja",
+    "opendocument_spreadsheet": "OpenDocument-laskentataulukko",
+    "lotus_123_spreadsheet": "Lotus 123 -laskentataulukko",
+    "excel_document": "Excel-asiakirja",
+    "pdf_document": "PDF-asiakirja",
+    "after_effects_project": "After Effects -projekti",
+    "illustrator_file": "Illustrator-tiedosto",
+    "blender_3d_file": "Blender 3D -tiedosto",
+    "cinema_4d_file": "Cinema 4D -tiedosto",
+    "autocad_image": "AutoCAD-kuva",
+    "vector_image_file_eps": "Vector-kuvatiedosto (EPS)",
+    "figma_drawing": "Figma-piirros",
+    "framemaker_file": "FrameMaker-tiedosto",
+    "google_drawings": "Google Drawings",
+    "indesign_file": "InDesign-tiedosto",
+    "pagemaker_file": "PageMaker-tiedosto",
+    "photoshop_file": "Photoshop-tiedosto",
+    "publisher_file": "Publisher-tiedosto",
+    "sketch_drawing": "Sketch-piirros",
+    "deb": "DEB",
+    "dmg": "DMG",
+    "exe": "EXE",
+    "bin_archive": "BIN-arkisto",
+    "gzip_archive": "GZip-arkisto",
+    "amiga_lzx_archive": "Amiga LZX -arkisto",
+    "rar_archive": "RAR-arkisto",
+    "tar_archive": "TAR-arkisto",
+    "zip_archive": "ZIP-arkisto",
+    "cascading_style_sheet": "CSS",
+    "html_text": "HTML-teksti",
+    "javascript": "JavaScript",
+    "php_script": "PHP Script",
+    "python_source": "Python",
+    "ruby_source": "Ruby",
+    "xml_document": "XML-asiakirja",
+    "bitmap": "Bitmap",
+    "gif_image": "GIF-kuva",
+    "icon_image": "Icon-kuva",
+    "png_image": "PNG-kuva",
+    "svg_image": "SVG-kuva",
+    "tiff_image": "TIFF-kuva",
+    "markdown_file": "Markdown-tiedosto",
+    "rtf_file": "RTF-tiedosto",
+    "plain_text_document": "Pelkkää tekstiä sisältävä asiakirja",
+    "imovie_project": "iMovie-projekti",
+    "logic_pro_project": "Logic Pro -projekti"
+  },
+  "_mimeTypes": {
+    "image/jpeg": "JPEG",
+    "image/png": "PNG",
+    "image/ico": "ICO",
+    "image/xls": "XLS",
+    "image/tiff": "TIFF",
+    "application/pdf": "PDF"
+  },
+  "_fileCategories": {
+    "book": "Kirjat",
+    "photos": "Valokuvat",
+    "photosAndVideos": "Valokuvat ja videot",
+    "videos": "Videot",
+    "audio": "Ääni",
+    "movies": "Elokuvat",
+    "writing": "Asiakirjat",
+    "similarImages": "Samanlaiset valokuvat",
+    "pdf": "PDF-tiedostot",
+    "presentation": "Esitykset",
+    "spreadsheet": "Laskentataulukot",
+    "filesAndFolders": "Tiedostot ja kansiot",
+    "duplicates": "Kaksoiskappaleet"
+  },
+  "_errors": {
+    "emptySourceList": "Valitse ensin mikä tahansa lähde.",
+    "noVolumeSelected": "Skannattavia laitteita ei löydy.",
+    "noDeviceSelected": "Valitse ensin mikä tahansa laite.",
+    "connectionError": "Jokin meni vikaan. Tarkista, että Internet-yhteys on muodostettu, ja yritä uudelleen.",
+    "unexpected": "Hups! Jokin meni vikaan. Yritä uudelleen.",
+    "timeout": "Toimenpidettä ei voitu suorittaa aikakatkaisun takia.",
+    "incorrectEmail": "Anna kelvollinen sähköpostiosoite.",
+    "incorrectPass": "Virheellinen salasana.",
+    "verifyPass": "Vahvista salasanasi",
+    "repeatPass": "Anna salasana uudelleen",
+    "incorrectEmailPass": "Väärä sähköpostiosoite tai salasana.",
+    "invalid_user_password": "Väärä sähköpostiosoite tai salasana.",
+    "userExists": "Tili on jo olemassa. Olet ehkä aiemmin luonut tilin, kun olet määrittänyt ibin, My Cloud OS 5:n tai My Cloud Homen. {{link}}",
+    "userExistsLink": "Kirjaudu sisään jatkaaksesi",
+    "passwordMismatch": "Salasanat eivät vastaa toisiaan",
+    "PasswordHistoryError": "Uusi salasana ei saa olla sama kuin mikään edellinen salasanasi.",
+    "PasswordDictionaryError": "Salasana ei ole sallittu. Se on mahdollisesti liian yleisesti käytetty.",
+    "PasswordStrengthError": "Salasana ei ole sallittu. Se on mahdollisesti liian heikko.",
+    "anotherUserAttached": "Toinen käyttäjä on jo liitetty nykyiseen ympäristöön.",
+    "searchLength": "Kirjoita vähintään kolme merkkiä haun suorittamiseksi.",
+    "albumCreationError": "Luominen epäonnistui.",
+    "openExtensionError": "Laajennuksen avaaminen epäonnistui.",
+    "sourceIsNotConnected": "Lähdettä ei ole yhdistetty. Jos haluat avata tämän kohteen, sinun on yhdistettävä {{name}} tietokoneeseesi ja yritettävä uudelleen.",
+    "indexDeletedError": "Hups! Tämä tiedosto ei ole enää käytettävissä. Lähdeluettelo on ehkä poistettu äskettäin.",
+    "FILE_GROUP_NOT_FOUND_ERROR": "Kokoelmaa ei löydy",
+    "FILE_DELETED_ERROR": "Hups! Tämä tiedosto ei ole enää käytettävissä. Tiedosto on ehkä poistettu äskettäin tai se on lähteessä, jota ei ole yhdistetty.",
+    "DEVICE_MIGRATING_ERROR": "Olemme tehneet kokemukseesi vaikuttavia suuria parannuksia. Osana tätä prosessia sovelluksesi rakentaa uudelleen ja parantaa sitä, miten sisältöä säilytetään. Tässä voi kestää hetki.",
+    "signup_invalid_request": "Väärä sähköpostiosoite tai salasana",
+    "disconnectCloudFS": "Luettelointia {{label}} ei voitu poistaa. Varmista, että olet yhdistänyt Internetiin ja yritä sitten uudelleen."
+  },
+  "_errorTitles": {
+    "unexpected": "",
+    "DEVICE_MIGRATING_ERROR": "Päivitys käynnissä"
+  },
+  "_common": {
+    "photosLibrary": "Valokuvakirjasto",
+    "volumeLabelWin": "{{label}} ({{mountPoint}})",
+    "untitledVolumeName": "Nimetön",
+    "ok": "Ok",
+    "selectSomethingForPreview": "Valitse esikatseltava kohde",
+    "open": "Avaa",
+    "fileTypeNotSupported": "Toistoa ei tueta. Toista tiedosto avaamalla se.",
+    "resendLink": "Lähetä linkki uudelleen",
+    "done": "Valmis",
+    "cancel": "Peruuta",
+    "continue": "Jatka",
+    "skipForNow": "Ohita väliaikaisesti",
+    "retry": "Yritä uudelleen",
+    "close": "Sulje",
+    "back": "Takaisin",
+    "skip": "Ohita",
+    "addSource": "Lisää lähteitä",
+    "remove": "Poista",
+    "rename": "Nimeä uudelleen",
+    "later": "Myöhemmin",
+    "letsDoIt": "Aloitetaanpa!",
+    "newCollectionTitle": "Uusi kokoelma",
+    "emptyPhotos": "Ei vielä valokuvia tai videoita",
+    "timeline": "Aikajana",
+    "more": "Lisää",
+    "show_less": "Näytä vähemmän",
+    "show_more": "Näytä lisää",
+    "edit": "Muokkaa",
+    "save": "Tallenna",
+    "next": "Seuraava",
+    "add_to_collection": "Lisää kokoelmaan",
+    "remove_from_collection": "Poista kokoelmasta",
+    "create_collection": "Luo kokoelma",
+    "set_cover": "Aseta kansikuva",
+    "sign_in": "Kirjaudu sisään",
+    "create_account": "Luo tili",
+    "settings": "Asetukset",
+    "tryAgain": "Yritä uudelleen",
+    "createdForYou": "Luotu sinulle",
+    "or": "tai",
+    "add": "Lisää",
+    "title": "Otsikko",
+    "items": "{{count}} kohde",
+    "items_plural": "{{count}} kohdetta",
+    "widgets": "Pienoisohjelmat",
+    "quit": "Lopeta",
+    "browse": "Selaa",
+    "collections": "Kokoelmat",
+    "description": "Kuvaus",
+    "name": "Nimi",
+    "viewSources": "Näytä lähteet",
+    "viewTitles": "Näytä otsikot",
+    "selectMode": "Valitse tila",
+    "suggested_collections": "Ehdotetut kokoelmat",
+    "my_collections": "Omat kokoelmat",
+    "sorting": "Lajittelu",
+    "viewModes": "Näkymätilat",
+    "comingSoon": "Tulossa pian",
+    "signIn": "Kirjaudu sisään",
+    "createAccount": "Luo tili",
+    "on": "Päällä",
+    "off": "Poissa päältä",
+    "learnMore": "Lue lisää",
+    "viewAll": "Näytä kaikki",
+    "gotIt": "Selvä",
+    "firstName": "Etunimi",
+    "lastName": "Sukunimi",
+    "reset": "Palauta",
+    "resetting": "Nollataan..."
+  },
+  "_customGroupNames": {
+    "largeFiles": "Suuret tiedostot",
+    "recentlyOpenFiles": "Äskettäin avatut",
+    "thisMonth": "Tämän kuukauden tapahtumat",
+    "thisWeek": "Tämän viikon tapahtumat",
+    "celebrate": "Juhli!",
+    "duplicateFiles": "Kaksoiskappaleet"
+  },
+  "Datepicker": {
+    "placeholder": "kk/pp/vvvv"
+  },
+  "PasswordValidation": {
+    "upperLower": "Sisällytä 1 iso kirjain ja 1 pieni kirjain",
+    "number": "Sisällytä 1 numero",
+    "length": "8 merkkiä tai enemmän"
+  },
+  "SignInForm": {
+    "email": "Sähköpostiosoite",
+    "password": "Salasana",
+    "forgotPassword": "Unohtuiko salasana?",
+    "button_text": "Kirjaudu sisään"
+  },
+  "PasswordInput": {
+    "show_password": "Näytä salasana",
+    "hide_password": "Piilota salasana"
+  },
+  "SignUpForm": {
+    "title": "Rekisteröidy",
+    "firstName": "Etunimi",
+    "lastName": "Sukunimi",
+    "email": "Sähköpostiosoite",
+    "password": "Salasana",
+    "submit": "Luo tili",
+    "button_text": "Luo tili",
+    "enterFirstNameError": "Anna etunimi",
+    "enterLastNameError": "Anna sukunimi",
+    "enterEmailError": "Anna sähköpostiosoite",
+    "enterValidEmailError": "Anna kelvollinen sähköpostiosoite.",
+    "createAccount": "Luo tili"
+  },
+  "Policy": {
+    "agreement": "Napsauttamalla {{button_text}} hyväksyt kohteen {{product_name}} kohteet {{licence_agreement_link}} ja {{privacy_link}}. Hyväksyt, että {{company_name}} siirtää tietojasi muihin maihin sekä käsittelee ja säilyttää tietojasi muissa maissa, mukaan lukien Yhdysvallat. Tietoihin saattaa kuulua kohteelle {{company_name}} antamiasi tietoja ja {{product_name}}-pilvipalveluun synkronoimiasi sisältöä.",
+    "licence_agreement": "Palveluehdot",
+    "privacy_state": "Tietosuojalausunto"
+  },
+  "ResetPassword": {
+    "title": "Unohtuiko salasana?",
+    "resetLinkSendTitle": "Tarkista Saapuneet-kansiosi",
+    "resetLinkSendText": "Jos {{product_name}}-tili on jo olemassa kohteella {{email}}, sinulle lähetetään lisäohjeita sisältävä <span>sähköpostiviesti</span>.",
+    "resendLink": "Yritä uudelleen"
+  },
+  "ResetPasswordForm": {
+    "title": "Aseta salasana uudelleen",
+    "text": "Pitääkö sinun palauttaa salasanasi? Lähetämme sinulle sähköpostin, joka sisältää ohjeet.",
+    "submit": "Lähetä ohjeet",
+    "email": "Sähköpostiosoite"
+  },
+  "SetNewPassword": {
+    "formTitle": "Luodaan uusi salasana",
+    "invalidLinkTitle": "Salasanan palautuslinkki ei ole enää kelvollinen",
+    "invalidLinkText": "Tämä salasanan palautuslinkki ei ole enää kelvollinen. Palaa takaisin Palauta salasana -sivulle ja yritä uudelleen.",
+    "resendLink": "Lähetä linkki uudelleen",
+    "passwordUpdatedTitle": "Salasana vaihdettu",
+    "passwordUpdatedText": "Voit nyt kirjautua sisään uudella salasanallasi.",
+    "signIn": "Kirjaudu sisään",
+    "linkExpiredTitle": "Salasanan palautuslinkki on vanhentunut",
+    "linkExpiredText": "Salasanan palautuslinkki on vanhentunut. Palaa takaisin Palauta salasana -sivulle ja yritä uudelleen.",
+    "validatingLink": "Linkkiä vahvistetaan..."
+  },
+  "SetNewPasswordForm": {
+    "newPassword": "Uusi salasana",
+    "confirmNewPassword": "Vahvista uusi salasana",
+    "submit": "Aseta uusi salasana"
+  },
+  "Welcome": {
+    "title": "Tervetuloa",
+    "text1": "Aseta ja määritä WD- ja SanDisk-tuotteesi, aktivoi takuut ja asenna lisäohjelmistoja.",
+    "text2": "Hallitse sisältöä tietokoneellasi yhden näkymän kautta, mukaan lukien ulkoiset tallennusvälineet ja pilvialustat.",
+    "text3": "Tarkastele luokiteltuja ja haettavia digitaalisia resurssejasi yhdessä paikassa, olivatpa ne yhdistetty tietokoneeseen tai ei.",
+    "copyright": "© {{current_year}} Western Digital Corporation tai sen tytäryhtiöt. Kaikki oikeudet pidätetään. Luottamuksellinen."
+  },
+  "NotFound": {
+    "mainText": "Sivua ei löydy"
+  },
+  "Root": {
+    "browser": "Selaa",
+    "report": "Lähetä palautetta"
+  },
+  "Browse": {
+    "unknown": "[TUNTEMATON]"
+  },
+  "SettingsRoot": {
+    "account": "Tilin asetukset",
+    "manageSources": "Lähteet",
+    "language": "Kieli",
+    "appSettings": "Sovelluksen asetukset",
+    "theme": "Teema",
+    "helpAndSupport": "Ohjeet ja tuki",
+    "legal": "Oikeudelliset huomautukset",
+    "privacy": "Tietosuoja",
+    "darkMode": "Tumma tila",
+    "checking": "tarkistetaan...",
+    "logs": "Lataa lokit",
+    "info": "Välilehden otsikon ja tietojen asetukset",
+    "surveys": "Kyselyt",
+    "uniq_identifier_line": "Ainutlaatuinen tunniste",
+    "link_text": "Mikä tämä on?",
+    "copy": "Kopioi UID",
+    "copy_success": "UID:n kopiointi onnistui",
+    "copy_failed": "UID:n kopiointi epäonnistui",
+    "manageCatalog": "Hallitse luetteloa",
+    "turboMode": "Turbo-tila"
+  },
+  "SettingsManageCatalog": {
+    "title": "Hallitse luetteloa",
+    "size": {
+      "title": "Nykyinen koko",
+      "text": "{{size}}/{{maxSize}} (noin {{percent}} % luettelon koosta)",
+      "description": "Luettelo sisältää tiedostojen metatietoja, kuten nimi, päivämäärä, koko, kuvien esikatselu jne. Käytämme tämän luettelon tallentamiseen korkeintaan 10 % asemasi vapaasta levytilasta (lasketaan asennushetkellä). {{link}}",
+      "link": "Lue lisää luettelostasi."
+    },
+    "driveSpace": {
+      "title": "Levytila",
+      "chartTitle": "{{free}} Vapaana, yhteensä {{total}}",
+      "usedSpaceLabel": "Käytetty tila",
+      "usedSpaceTooltip": "{{size}} Käytetty tila",
+      "indexSizeLabel": "Nykyinen luettelo",
+      "indexSizeTooltip": "{{size}} Nykyisen luettelon koko",
+      "maxSizeLabel": "Suurin luettelo",
+      "maxSizeTooltip": "{{size}} Luettelon suurin koko",
+      "freeSizeLabel": "Vapaa tila",
+      "freeSizeTooltip": "{{size}} Vapaa tila"
+    },
+    "updateCatalogSize": {
+      "title": "Päivitä luettelon koko",
+      "text": "Oletusarvoisesti varaamme luettelolle tilasta 10 %. Jos tarvitset enemmän tilaa lähteiden luettelointiin, voit päivittää luettelon koon suurimpaan mahdolliseen alla olevalla liukusäätimellä.",
+      "size_note": "Huomautus – Muut sovellukset tarvitsevat jonkin verran vapaata tilaa toimiakseen normaalisti, joten {{product_name}} ei salli sinun käyttää kaikkea vapaata tilaa luettelointiin.",
+      "button": "Päivitä luettelon koko",
+      "successUpdated": "Luettelon suurimmaksi kooksi on päivitetty {{size}}.",
+      "sizeRestrictionWarning": "Et voi alittaa nykyistä luettelokokoa."
+    }
+  },
+  "SettingsTheme": {
+    "orange": "Oranssi"
+  },
+  "SettingsAccount": {
+    "title": "Tilin asetukset",
+    "youAreNotSigned": "Et ole kirjautunut sisään.",
+    "youAreSignedIn": "Olet kirjautunut sisään.",
+    "createAccount": "Luo tili",
+    "createAccountOrSignIn": "{{createAccount}} tai {{signIn}}",
+    "logout": "Kirjaudu ulos",
+    "deleteAccount": "Poista käyttäjätili",
+    "profile": "Profiili",
+    "name": "Nimi",
+    "email": "Sähköposti",
+    "password": "Salasana",
+    "emails": "Sähköpostiviestit",
+    "analytics": "Analytiikka",
+    "keplerPrime": "{{product_name}} Access",
+    "editPhoto": "Muokkaa",
+    "addPhoto": "Lisää valokuva",
+    "imageLoadError": "Virhe kuvan lataamisen aikana.",
+    "imageTypeError": "Vain .png- ja .jpg-tiedostot sallittu.",
+    "imageSizeError": "Kuvasi täytyy olla pienempi kuin 30 kB.",
+    "cognitoImageSizeError": "Kuvasi täytyy olla pienempi kuin 1 Mt.",
+    "generalImageTooltip": "Vain .png- ja .jpg-tiedostot sallittu. Täytyy olla pienempi kuin 30 kB.",
+    "cognitoGeneralImageTooltip": "Vain .png- ja .jpg-tiedostot sallittu. Täytyy olla pienempi kuin 1 mt.",
+    "resetPasswordModal": {
+      "title": "Tarkista sähköpostisi",
+      "text1": "Tarkista sähköpostisi ja seuraa ohjeita.",
+      "text2": "HUOMAUTUS: Jos käytät samaa sähköpostiosoitetta tileille EdgeRover™, ibi™, My Cloud™ OS 5 tai My Cloud™ Home, kaikkien tilien salasanat nollataan.",
+      "button": "Lähetä sähköpostiviesti uudelleen"
+    }
+  },
+  "SettingsPrivacy": {
+    "title": "Tietosuoja",
+    "shareAnalyticsTitle": "Jaa sovellusanalytiikka palveluun {{company_name}}",
+    "shareAnalyticsText": "Auta {{company_name}}-tiimiä parantamaan tuotteitamme, palveluitamme ja sovelluksiamme sekä yksilöimään kokemustasi, mm. lähettämällä sovelluksensisäisiä tai push-ilmoituksia, lähettämällä käyttötietoja automaattisesti.{{link}}",
+    "marketingTitle": "Salli kohteen {{company_name}} lähettää minulle markkinointiviestejä",
+    "marketingText": "Pysy yhteydessä, niin saat uusimmat päivitykset, tietoa kampanjoista ja uutiskirjeitä, mukaan lukien kohdistetut mainokset sovelluksensisäisten viestien, push-ilmoitusten ja sähköpostien kautta.{{link}}",
+    "learnMore": "Lue lisää"
+  },
+  "SettingsAccountCreateAccount": {
+    "title": "Luo tili",
+    "subtitle": "Luo tili laitteiden rekisteröimiseksi ja niiden takuun aktivoimiseksi – luottokorttia ei tarvita."
+  },
+  "Language": {
+    "title": "Kieli"
+  },
+  "AppSettings": {
+    "info": "Välilehden otsikon ja tietojen asetukset",
+    "resetSettings": "Palauta välilehden otsikon ja tietojen asetukset",
+    "resetBtn": "Palauta",
+    "title": "Sovelluksen asetukset",
+    "appVersion": "Sovellusversio",
+    "privacy": "Tietosuoja",
+    "version": "Versio {{version}}",
+    "latestVersion": "Sinulla on kohteen {{product_name}} uusin versio!",
+    "updateAvailable": "Uusi versio saatavilla. {{update}}",
+    "updateFailed": "Päivitys peruutettu. {{retry}}",
+    "retry": "Yritä uudelleen",
+    "downloadingUpdate": "Ladataan päivitystä…",
+    "updateLoaded": "Päivitys ladattu. {{relaunch}}",
+    "relaunch": "Käynnistä uudelleen {{product_name}}",
+    "updateNow": "Päivitä nyt",
+    "appLaunch": "Sovelluksen käynnistys",
+    "openAutomatically": "Avaa {{product_name}} automaattisesti koneelle kirjautumisen jälkeen.",
+    "language": "Kieli",
+    "offline": "Muodosta yhteys Internetiin tarkistaaksesi päivitysten saatavuus."
+  },
+  "HelpFeedback": {
+    "title": "Ohje ja palaute",
+    "haveQuestion": "Minulla on kysymys tai palautetta…",
+    "helpCenter": "Tukikeskus",
+    "reportProblem": "Ilmoita ongelmasta",
+    "generalQuestion": "Yleinen kysymys tai palaute",
+    "haveIdea": "Minulla on idea…",
+    "requestFeature": "Pyydä ominaisuutta"
+  },
+  "HelpAndSupport": {
+    "title": "Ohjeet ja tuki",
+    "HowToAddASource": "Lähteen lisääminen",
+    "StartAddingASource": "Aloita lähteen lisääminen",
+    "KeyboardShortcuts": "Näppäimistön pikanäppäimet ",
+    "OpenKeyboardShortcuts": "Avaa näppäimistön pikanäppäimet",
+    "tipsTricks": "Vinkit",
+    "helpSite": "Ohjesivusto"
+  },
+  "Legal": {
+    "title": "Oikeudelliset huomautukset",
+    "terms": "Palveluehdot",
+    "policy": "Tietosuojalausunto",
+    "privacyFAQ": "Tietosuojaa koskeva UKK-osio",
+    "acceptableUsePolicy": "Hyväksyttyä käyttöä koskeva käytäntö",
+    "copyrightUsePolicy": "Tekijänoikeuskäytäntö",
+    "trademarks": "Tavaramerkit",
+    "openSourceNotices": "Avointa lähdekoodia koskeva ilmoitus"
+  },
+  "SettingsAccountSidePanelChangeName": {
+    "title": "Vaihda nimeä",
+    "text": "Muokkaa nimeä ja tallenna se."
+  },
+  "ChangeNameForm": {
+    "enterFirstNameError": "Anna etunimi",
+    "enterLastNameError": "Anna sukunimi"
+  },
+  "SettingsAccountSidePanelChangePassword": {
+    "title": "Vaihda salasana",
+    "text": "Anna nykyinen salasanasi alla ja valitse sitten uusi salasana."
+  },
+  "ChangePasswordForm": {
+    "currentPassword": "Nykyinen salasana",
+    "newPassword": "Uusi salasana",
+    "repeatNewPassword": "Vahvista uusi salasana"
+  },
+  "DeleteAccountModal": {
+    "title": "Poista {{product_name}}-tili pysyvästi?",
+    "text": "<p>Todella ikävää, että jätät meidät.</p><p>{{product_name}}-tilin poistaminen johtaa kaikkien yhdistettyjen lähteiden sisällön luettelon poistamiseen. </p><p>Ennen kuin poistat tilisi, voimme ehkä auttaa sinua. {{getInTouch}}</p><p>Tai vahvista painamalla Jatka.</p>",
+    "getInTouch": "Ota meihin yhteyttä"
+  },
+  "DeleteAccountForm": {
+    "text": "Poista {{product_name}}-tili pysyvästi antamalla salasanasi."
+  },
+  "Main": {
+    "manageSource": "Lisää ja hallitse lähteitä"
+  },
+  "MainActions": {
+    "title": "Selaa sisältöä",
+    "sources": "Lähteiden mukaan"
+  },
+  "Search": {
+    "title": "Näytetään tulokset haulle ”{{query}}”",
+    "emptyTitle": "Hakutulokset",
+    "empty": "Haulla ”{{query}}” ei löytynyt hakutuloksia",
+    "text1": "Etkö löytänyt etsimääsi?",
+    "text2": "Päivitä suodattimia ja hae uudelleen tai päivitä luettelo käynnistämällä {{product_name}}-sovellus uudelleen."
+  },
+  "SearchMain": {
+    "title": "Haku",
+    "searchHistory": "Hakuhistoria",
+    "empty": "Hakuhistoriaa ei löytynyt.",
+    "count": "({{count}})"
+  },
+  "SearchInput": {
+    "placeholder": "Hae sisältöä",
+    "search": "Haku"
+  },
+  "SearchInputSuggestions": {
+    "submitHelpText": "”{{query}}” Suorita haku painamalla Enter-näppäintä.",
+    "submitHelpTextTruncated": "”{{query}}...” Suorita haku painamalla Enter-näppäintä."
+  },
+  "SearchInputSuggestionsList": {
+    "tags": "Sinulle",
+    "tagsEmpty": "Hakusanaa vastaavia objekteja ei ole.",
+    "locations": "Paikat",
+    "locationsEmpty": "Hakusanaa vastaavia paikkoja ei ole.",
+    "history": "Hakuhistoria",
+    "historyEmpty": "Hakusanaa vastaavaa historiaa ei ole.",
+    "titleButton": "Tyhjennä koko historia"
+  },
+  "SearchHeader": {
+    "selectSource": "Valitse lähde",
+    "categories": "Luokat",
+    "kind": "Tiedostotyyppi",
+    "moreFilters": "Lisää suodattimia",
+    "resetAll": "Tyhjennä kaikki",
+    "locationGroupLabel": "{{country}} {{city}}",
+    "fromLabel": "alkaen: {{from}}",
+    "toLabel": "päättyy: {{to}}",
+    "rangeLabel": "{{from}} - {{to}}",
+    "allSources": "Kaikki lähteet",
+    "allCategories": "Kaikki luokat",
+    "allKinds": "Kaikki tiedostotyypit"
+  },
+  "DropdownFilter": {
+    "all": "Kaikki"
+  },
+  "SearchContentGroups": {
+    "query": "Hakutulokset haulla ”{{- query}}”"
+  },
+  "SearchContentGroup": {
+    "all": "Kaikki: Kaikki osumat",
+    "media": "Media: Valokuvat ja videot",
+    "pdf": "PDF-tiedostot",
+    "writing": "Kirjoitukset",
+    "presentation": "Esitykset",
+    "book": "Kirjat",
+    "spreadsheet": "Laskentataulukot",
+    "audio": "Ääni",
+    "more": "Lisää"
+  },
+  "SearchFiltersSidePanel": {
+    "title": "Lisää suodatusvaihtoehtoja",
+    "description": "Lisää suodattimia tarkentaaksesi hakutuloksia ja löytääksesi etsimäsi.",
+    "locationDescription": "Suodata tulokset paikkojen mukaan nähdäksesi valokuvia ja videoita, joiden sijainniksi on automaattisesti merkitty paikka, jossa ne on kuvattu.",
+    "tagsDescription": "Tarkenna tuloksia kohteen {{product_name}} automaattisesti luoduilla merkinnöillä sekä itse lisäämilläsi merkinnöillä.",
+    "places": "Paikat",
+    "tags": "Merkinnät",
+    "range": "Päivämääräalue",
+    "create": "Luontipäivämäärä",
+    "modify": "Muokkauspäivämäärä",
+    "from": "alkaa",
+    "to": "päättyy",
+    "apply": "Käytä"
+  },
+  "SearchFiltersSidePanelGroupInfo": {
+    "selected": "{{count}} valittu"
+  },
+  "SearchFiltersSidePanelGroupSelector": {
+    "search": "Haku",
+    "selected": "{{count}} valittu",
+    "confirm": "Vahvista"
+  },
+  "FilesList": {
+    "empty": "Tyhjä",
+    "empty_folder_title": "Tämä kansio on tyhjä!",
+    "empty_folder_text_mac": "Kun tiedostosi ovat valmiita, lisää ne Finderin avulla.",
+    "empty_folder_text_win": "Kun tiedostosi ovat valmiita, lisää ne Explorerin avulla.",
+    "empty_drive_title": "Tämä laite on tyhjä!",
+    "empty_drive_text_mac": "Kun tiedostosi ovat valmiita, pudota ne tähän laitteeseen Finderin avulla.",
+    "empty_drive_text_win": "Kun tiedostosi ovat valmiita, pudota ne tähän laitteeseen resurssienhallinnan avulla ja käynnistä {{product_name}}-sovellus uudelleen.",
+    "empty_external_drive_text": "Kun tiedostosi ovat valmiita, pudota ne tähän laitteeseen.",
+    "empty_external_folder_text": "Kun tiedostosi ovat valmiita, pudota ne tähän kansioon.",
+    "empty_cloud_source_folder_text": "Kun lisäät tiedostoja pilvilähteeseesi, {{product_name}} päivittää tämän kansion automaattisesti.",
+    "empty_social_source_folder_text": "Kun lisäät tiedostoja sosiaalisiin lähteisiisi, {{product_name}} päivittää tämän kansion automaattisesti.",
+    "open_folder_mac": "Avaa Finderissa",
+    "open_folder_win": "Avaa Explorerissa",
+    "manage_sources": "Lähteet",
+    "empty_facet_title": "Mitään ei ole lisätty vielä!",
+    "empty_facet_text": "Liitä ja luetteloi laitteesi. Useiden lähteiden lisääminen täyttää kohteen {{product_name}} sisällöllä.",
+    "list_view": "Luettelonäkymä",
+    "media_view": "Medianäkymä",
+    "thumbnail_view": "Pikkukuvanäkymä",
+    "preview": "Esikatseluruutu"
+  },
+  "ListView": {
+    "name": "Nimi",
+    "kind": "Tyyppi",
+    "mTime": "Muokkauspäivämäärä",
+    "cTime": "Luontipäivämäärä",
+    "source": "Lähde",
+    "size": "Koko",
+    "artist": "Artisti",
+    "author": "Laatija",
+    "totalSize": "Kokonaiskoko",
+    "item": "Kohde",
+    "duplicates": "Määrä yhteensä"
+  },
+  "ThumbnailsView": {
+    "folders": "Kansiot",
+    "folder": "Kansio",
+    "files": "Tiedostot",
+    "similar_group": "Samanlainen ryhmä"
+  },
+  "Media": {
+    "select": "Valitse ja järjestä"
+  },
+  "MediaGroupList": {
+    "empty_photos": "Ei vielä valokuvia",
+    "empty_videos": "Ei vielä videoita"
+  },
+  "SingleItemView": {
+    "lockedFile": "Avaa tämä tiedosto sen lukituksen avaamiseksi.",
+    "noPreviewAvailable": "Tämän tyyppinen tiedosto ei tue esikatselua.",
+    "noPreviewDocumentCloud": "Asiakirjojen esikatselu ei ole tällä hetkellä käytettävissä tietyissä pilvilähteissä tai sosiaalisissa lähteissä.",
+    "showInParentFolder": "Näytä pääkansiossa",
+    "previewOnly": "– Vain esikatselu",
+    "prev": "Edellinen",
+    "next": "Seuraava",
+    "location": "Näytä sijainti",
+    "info": "Lisätietoa",
+    "descriptionTitle": "Kuvaus",
+    "descriptionHide": "Piilota",
+    "more": " ...lisää",
+    "more_actions": "Lisää",
+    "more_info": "Lisätietopaneeli",
+    "rename": "Nimeä uudelleen",
+    "copy": "Kopioi",
+    "remove": "Poista",
+    "fullscreen": "Koko näytön tila",
+    "close_fullscreen": "Sulje koko näytön tila",
+    "no_source": "{{- sourceName}} ei ole käytettävissä",
+    "defaultSource": "Tiedoston lähde",
+    "DASDisconnectedPopup": {
+      "title": "Irrotettujen laitteiden sisällön käyttäminen",
+      "description": "Kohteen {{product_name}} avulla voit tarkastella sellaisten tiedostojen esikatseluita, joiden lähdettä ei ole yhdistetty. Jos haluat avata tiedoston henkilökohtaisella laitteellasi tai avata kansion, jossa tiedosto on, lähteen on oltava yhdistetty."
+    },
+    "CloudUnavailablePopup": {
+      "title": "Sosiaalisten ja pilvilähteiden käyttö",
+      "description": "Kohteen {{product_name}} avulla voit tarkastella sellaisten tiedostojen esikatseluita, joiden lähdettä ei ole yhdistetty. Avataksesi tiedoston sosiaalisen tai pilvipalvelun kautta, varmista, että olet kirjautunut sisään palveluun {{product_name}} ja yhteydessä Internetiin."
+    },
+    "no_file": "Esikatsele kohdetta valitsemalla se.",
+    "file_info": "Näytä tiedoston tiedot",
+    "open_in_finder": "Alla olevat toiminnot aukeavat Finderissa.",
+    "open_in_photos_library": "Alla olevat toiminnot aukeavat Valokuvat-sovelluksessa.",
+    "open_in_explorer": "Alla olevat toiminnot aukeavat Explorerissa."
+  },
+  "SingleItemViewZoomControls": {
+    "scale": "{{value}}%",
+    "zoom_in": "Lähennä",
+    "zoom_out": "Loitonna",
+    "fit": "Sovita näyttöön"
+  },
+  "VolumeListCommon": {
+    "mountPoint": "{{label}} ({{mountPoint}})",
+    "homeDir": "{{main}}/{{home}}"
+  },
+  "ConnectedVolumeList": {
+    "connectedSource": "Yhdistetyt laitteet",
+    "ejected": "(irrotettu)",
+    "remove": "Poista lähde",
+    "noConnectedSources": "Ei yhdistettyjä lähteitä.",
+    "addText": "Paina Lisää lähteitä -painiketta, jos haluat yhdistää lähteitä."
+  },
+  "VolumesWizardWaiting": {
+    "doNotWait": "En halua odottaa",
+    "paused": "Luettelointi on keskeytetty akun säästämiseksi. Yhdistä kannettava tietokoneesi virtalähteeseen jatkaaksesi.",
+    "itemError": "Hups. Jokin meni vikaan. Laite {{label}} ei skannaa.",
+    "unpluggedError": "Laite {{label}} irrotettiin skannauksen aikana.",
+    "allUnpluggedError": "Kaikki yhdistetyt laitteet irrotettiin skannauksen aikana.",
+    "info": [
+      {
+        "title": "Skannaus käynnissä…",
+        "description": "Tämä saattaa kestää enintään 5 minuuttia. Pidä ulkoiset tallennusvälineet yhdistettyinä ja {{product_name}}-sovellus käynnissä."
+      },
+      {
+        "title": "Skannataan laitteita…",
+        "description": "Tilannekuvat tallennusvälineestäsi tallennetaan paikallisesti, jos vapaata tilaa on tarpeeksi, joten voit etsiä ja esikatsella sisältöäsi milloin tahansa."
+      },
+      {
+        "title": "Tilannekuvia otetaan…",
+        "description": "Tilannekuvat tallennusvälineestäsi tallennetaan paikallisesti, jos vapaata tilaa on tarpeeksi, joten voit etsiä ja esikatsella sisältöäsi milloin tahansa."
+      },
+      {
+        "title": "Sisältöä luokitellaan…",
+        "description": "{{product_name}} luo suodattimia, jotta voit lajitella valokuvia, videoita ja tiedostoja automaattisesti."
+      },
+      {
+        "title": "Viimeistely käynnissä…",
+        "description": "Voit aina yhdistää lisää tallennusvälineitä kohteeseen {{product_name}} käymällä kohdassa <strong>Lähteet</strong>."
+      }
+    ]
+  },
+  "ManageSources": {
+    "title": "Lähteet",
+    "addSource": "Lisää lähde",
+    "failureErrorAddCloudSourceMessage": "Jokin meni vikaan. Tiliisi ei saada yhteyttä. Yritä uudelleen.",
+    "existsErrorAddCloudSourceMessage": "Tili on jo synkronoitu. Et voi synkronoida samaa tiliä useana kertaan."
+  },
+  "SourceContextMenu": {
+    "removeIndex": "Poista luettelo",
+    "indexDrive": "Luetteloi laite",
+    "manageIndex": "Hallitse luetteloa",
+    "unlock": "Avaa lukitus",
+    "setPassword": "Määritä kello",
+    "editPassword": "Muokkaa salasanaa",
+    "driveSettings": "Laiteasetukset",
+    "eraseDrive": "Poista tiedot laitteelta",
+    "eject": "Irrota",
+    "raidsettings": "RAID-asetukset",
+    "noActions": "Toimintoja ei saatavilla",
+    "reconnectCloudSource": "Yhdistä lähde uudelleen"
+  },
+  "PhotosLibraryAction": {
+    "title": "Huomautus",
+    "titleDetached": "Valokuvakirjastoa irrotetaan",
+    "openPhotosApp": "Avaa Valokuvat-sovellus",
+    "text": "Avaa tämä kohde Valokuvat-sovelluksessa, jos haluat suorittaa siihen liittyen toimia.",
+    "textDetached": "Valokuvakirjaston irrotus on käynnissä. Et voi ehkä käyttää joitakin kohteita, ennen kuin tämä prosessi päättyy."
+  },
+  "ReportBugModal": {
+    "title": "Lähetä palautetta",
+    "listTitle": "Palautteesi on meille tärkeää. Jos sinulla on ideoita, miten sovellusta voitaisiin parantaa, tai jos kohtaat ongelmia, kerro siitä meille.",
+    "copy": "Kopioi UID",
+    "idea": "Lähetä idea:",
+    "portal": "Kohteessa {{link}} voit lisätä omia ideoitasi ja nähdä, mitä muut ovat jakaneet.",
+    "issue": "Ilmoita ongelmasta:",
+    "upload": "1. Lähetä lokisi, niin saamme mahdollisimman paljon tietoa tilanteesta.",
+    "email": "2. Lähetä meille {{email}}, jossa kuvaat ongelmaasi.",
+    "emailLink": "sähköposti",
+    "download": "Lataa lokit",
+    "uploadLogs": "Lataa lokit",
+    "uploading": "Ladataan... ",
+    "connection_error": "Sinun on oltava yhteydessä Internetiin, jotta voit lähettää lokit. Muodosta yhteys ja yritä uudelleen.",
+    "error": "Virhe lokin lähettämisen aikana. Yritä uudelleen.",
+    "subject": "{{product_name}} palaute",
+    "success": "Lokien lataus onnistui.",
+    "uid": "Ainutlaatuinen tunniste",
+    "what": "Mikä tämä on?"
+  },
+  "DisconnectModal": {
+    "title": "Haluatko varmasti poistaa tämän lähteen?",
+    "message": "Lähteen sisältöluettelo poistetaan pysyvästi. Et enää pysty esikatselemaan tai hakemaan siinä olevaa sisältöä.",
+    "disconnect": "Poista lähde",
+    "close": "Peruuta"
+  },
+  "Scanner": {
+    "progress": "Skannaus käynnissä…"
+  },
+  "ConnectErrorModal": {
+    "title": "Hups! Jokin meni vikaan.",
+    "permissionTitle": "Käyttö ei ole sallittua.",
+    "driveMessage": "Laitettasi {{diskName}} ei yhdistetty virheen vuoksi.",
+    "drivesMessage": "Laitteita {{diskNameList}} ei yhdistetty virheen vuoksi.",
+    "permissionMessage": "Kohteella {{product_name}} ei ole tiedostojen käyttöoikeutta. Toista toiminto ja anna käyttöoikeudet tai muuta järjestelmän asetuksia käyttöoikeuksien antamiseksi.",
+    "AllDrivesMessage": "Laitteitasi ei yhdistetty virheen vuoksi."
+  },
+  "DisconnectErrorModal": {
+    "title": "Hups! Jokin meni vikaan.",
+    "driveMessage": "Laitettasi {{diskName}} ei irrotettu virheen vuoksi.",
+    "drivesMessage": "Laitteita {{diskNameList}} ei irrotettu virheen vuoksi.",
+    "AllDrivesMessage": "Laitteitasi ei irrotettu virheen vuoksi."
+  },
+  "ModalUpdateError": {
+    "permissionTitle": "Käyttö ei ole sallittua.",
+    "title": "Hups! Jokin meni vikaan.",
+    "driveMessage": "Laitettasi {{diskName}} ei päivitetty virheen vuoksi.",
+    "drivesMessage": "Laitteita {{diskNameList}} ei päivitetty virheen vuoksi.",
+    "permissionMessage": "Kohteella {{product_name}} ei ole tiedostojen käyttöoikeutta. Toista toiminto ja anna käyttöoikeudet tai muuta järjestelmän asetuksia käyttöoikeuksien antamiseksi.",
+    "AllDrivesMessage": "Laitteitasi ei päivitetty virheen vuoksi."
+  },
+  "UnplugModal": {
+    "driveTitle": "Laitteesi {{label}} on irrotettu",
+    "drivesTitle": "Laitteesi on irrotettu",
+    "driveText": "Laitteesi {{label}} irrotettiin skannauksen aikana, joten sisältöäsi kohteessa {{product_name}} ei ole ajan tasaista. Muiden laitteiden skannaukset jatkuvat.",
+    "drivesText": "Laitteet {{labels}} irrotettiin skannauksen aikana, joten sisältöäsi kohteessa {{product_name}} ei ole ajan tasaista. Muiden laitteiden skannaukset jatkuvat."
+  },
+  "ChangePasswordSignOutModal": {
+    "title": "Sinut on kirjattu ulos.",
+    "text": "Sinut on kirjattu ulos, koska salasanasi on päivitetty. Kirjaudu uudelleen sisään jatkaaksesi."
+  },
+  "PasswordChanged": {
+    "title": "Tarkista sähköpostisi",
+    "text": "Jos {{product_name}}-tili on jo olemassa kohteella {{email}}, sinulle lähetetään lisäohjeita.",
+    "button": "Lähetä linkki uudelleen",
+    "success": "Sähköpostiviestin lähettäminen onnistui"
+  },
+  "AlbumToasts": {
+    "updateSuccess": "Kokoelma päivitetty",
+    "removeSuccess": "Kokoelma poistettu",
+    "coverChangeSuccess": "Kokoelman kansi on vaihdettu",
+    "creationCoverChangeSuccess": "Kansikuva asetettu",
+    "filesAdded": "{{count}} tiedosto lisätty",
+    "filesAdded_plural": "{{count}} tiedostoa lisätty",
+    "filesNotAdded": "{{count}} tiedosto on jo kokoelmassa.",
+    "filesNotAdded_plural": "{{count}} tiedostoa on jo kokoelmassa.",
+    "filesRemoved": {
+      "items": "Kohde poistettu",
+      "items_plural": "{{count}} kohdetta poistettu"
+    }
+  },
+  "AlbumsTooltips": {
+    "addPhotos": "Lisää valokuvia",
+    "description": "Kuvaus"
+  },
+  "Albums": {
+    "title": "Kokoelmat",
+    "search": "Haku",
+    "forYou": "Sinulle",
+    "locations": "Paikat",
+    "creationDescription": "Anna kokoelmallesi nimi ja valinnaisesti myös kuvaus, jotta voit tunnistaa sen helpommin myöhemmin.",
+    "groupTitle": "Kokoelman nimi",
+    "button1": "Selaa",
+    "button2": "Haku",
+    "description": "Lisää vaihtoehtoinen kuvaus.",
+    "name": "Lisää nimi",
+    "remove": "Poista kokoelma",
+    "edit": "Muokkaa nimeä/kuvausta"
+  },
+  "AddPhotosToAlbum": {
+    "title": "Lisää valokuvia"
+  },
+  "AlbumList": {
+    "noAlbumsYet": "Kokoelmia ei vielä ole lisätty",
+    "noAlbumsYetSubtitle1": "Luo kokoelmia kaikkien lähteiden sisällöstä.",
+    "counter": "{{count}} kohde",
+    "counter_plural": "{{count}} kohdetta",
+    "create_collection": "Luo kokoelma"
+  },
+  "AlbumRenameModal": {
+    "title": "Nimeä uusi kokoelmasi",
+    "placeholder": "Kokoelman nimi",
+    "invalidName": "Nimessä ei saa olla mitään seuraavista merkeistä: \\/<|>\"?*:",
+    "enterName": "Anna ensin kokoelman nimi."
+  },
+  "AlbumDescription": {
+    "title": "Kuvaus",
+    "save": "Tallenna",
+    "readMore": "lue lisää",
+    "addDescription": "Ei kuvausta"
+  },
+  "AlbumCommon": {
+    "selectCoverPhoto": "Valitse kansikuva",
+    "items": "{{count}} kohde kohteesta {{date}}",
+    "items_plural": "{{count}} kohdetta kohteesta {{date}}",
+    "emptyText": "Täällä ei ole mitään!",
+    "emptySubtext": "Vaikuttaa siltä, että tänne ei ole vielä lisätty valokuvia... {{product_name}} ei pysty tekemään mitään tyhjällä kokoelmalla!",
+    "addPhotos": "Lisää valokuvia",
+    "created": "Luomisajankohta {{date}}",
+    "coverTitle": "Miten voin lisätä kohteita?",
+    "coverDescription": "Jos haluat lisätä tähän kokoelmaan sisältöä, voit selata tai hakea sitä, valita kaikki haluamasi tiedostot tai valita Lisää kokoelmaan -vaihtoehdon.",
+    "emptyCoverDescription": "Jos haluat lisätä tähän kokoelmaan sisältöä, voit selata tai hakea sitä, valita kaikki haluamasi tiedostot ja valita Lisää kokoelmaan -vaihtoehdon. Käytä alla olevaa painiketta valitaksesi ja hypätäksesi suoraan Selaa-osioon."
+  },
+  "RemoveAlbum": {
+    "title": "Poista",
+    "removeAlbum": "Haluatko poistaa kokoelman {{collection}}?",
+    "delete": "Kyllä, poista se"
+  },
+  "RemoveAlbumPhotos": {
+    "title": {
+      "items": "Poista kohde kokoelmasta?",
+      "items_plural": "Poista kohteet kokoelmasta?"
+    },
+    "text": {
+      "items": "Haluatko varmasti poistaa valitun kohteen kokoelmasta? Tämä poistaa valitun kohteen vain tästä kokoelmasta, kohteita ei poisteta.",
+      "items_plural": "Haluatko varmasti poistaa {{count}} valittua kohdetta kokoelmasta? Tämä poistaa valitut kohteet vain tästä kokoelmasta, kohteita ei poisteta."
+    }
+  },
+  "AlbumItemContextMenu": {
+    "addPhotos": "Lisää valokuvia",
+    "download": "Lataa"
+  },
+  "AlbumContextMenu": {
+    "setAsCover": "Aseta kansikuvaksi"
+  },
+  "Objects": {
+    "title": "Haku",
+    "location": "Paikat",
+    "tag": "Sinulle",
+    "emptyLocations": "Vaikuttaa siltä, että tänne ei ole vielä lisätty sijainteja.",
+    "emptyTagGroups": "Vaikuttaa siltä, että tänne ei ole vielä lisätty merkintäryhmiä."
+  },
+  "ObjectsGroup": {
+    "empty": "Vaikuttaa siltä, että tänne ei ole vielä lisätty merkintäryhmiä."
+  },
+  "LocationGroups": {
+    "title": "Paikat",
+    "empty": "Vaikuttaa siltä, että tänne ei ole vielä lisätty sijainteja."
+  },
+  "TagGroups": {
+    "title": "Sinulle",
+    "empty": "Vaikuttaa siltä, että tänne ei ole vielä lisätty merkintäryhmiä."
+  },
+  "ObjectGroup": {
+    "albumsCounted": "Kokoelmat ({{count}})",
+    "albums": "Kokoelmat"
+  },
+  "TagGroup": {
+    "forYou": "Sinulle",
+    "search": "Haku"
+  },
+  "LocationGroup": {
+    "locations": "Paikat",
+    "search": "Haku"
+  },
+  "ObjectSuggestions": {
+    "tagGroups": "Sinulle",
+    "locationGroups": "Sijainti",
+    "empty": "Kohdetta <span>”</span>”<br> vastaavia kokoelmia ei ole.{{query}}Jatka tiedostojen ja kansioiden hakemista painamalla Enter-näppäintä."
+  },
+  "OfflineAlertModal": {
+    "title": "Olet offline-tilassa",
+    "text": "KAS ei ole käytettävissä yhteysvirheen vuoksi, mutta voit vaihtaa paikalliseen laitteeseen."
+  },
+  "SidebarDevices": {
+    "mac": "Mac",
+    "pc": "PC",
+    "cloud": "Käyttöoikeus"
+  },
+  "IndexingStatusSidebarContent": {
+    "preparing": "Valmistellaan...",
+    "paused": "Keskeytetty",
+    "pausedCommon": "Odota, kunnes luetteloinnin tila on päivitetty.",
+    "lowBattery": "Akun varaustaso alhainen. Luettelointi on keskeytetty siihen asti, kunnes tietokoneesi on yhdistetty virtalähteeseen.",
+    "ejectedDrive": "Luettelointi on keskeytetty, koska lähde irrotettiin. Jatka yhdistämällä lähde uudelleen.",
+    "indexUpToDate": "Luettelo ajan tasalla",
+    "indexingConnectionError": "Luettelointi keskeytetty. Jatka siirtymällä verkkoon.",
+    "nothingIndexed": "Mitään ei ole vielä luetteloitu"
+  },
+  "Sidebar": {
+    "search": "Haku",
+    "browse": "Selaa",
+    "collections": "Kokoelmat",
+    "discover": "Tutustu",
+    "manageSources": "Lähteet",
+    "pinLabel": "Kiinnitä sivupalkki",
+    "unpinLabel": "Poista sivupalkin kiinnitys",
+    "turboMode": "Turbo-tila",
+    "collapseMenu": "Pienennä valikko",
+    "expandMenu": "Laajenna valikko",
+    "survey": "Kyselytutkimus",
+    "catalog": "Luettelon tila",
+    "drives": "Asemat"
+  },
+  "CustomGroup": {
+    "rootPathName": "Haku",
+    "endPathName": "Mukautetut ryhmät"
+  },
+  "CustomGroups": {
+    "title": "Pienoisohjelmat",
+    "empty": "Vaikuttaa siltä, että tänne ei ole vielä lisätty mukautettuja ryhmiä.",
+    "noSourcesYet": "Teemme töitä sen eteen",
+    "noSourcesYetSubtitle1": "Kun olemme luetteloineet jotakin sisältöä lähteestä, autamme sinua tutustumaan digitaalisen maailman uusiin ominaisuuksiin.",
+    "noSourcesYetSubtitle2": "Mitä enemmän lähteitä luetteloit, sitä parempi {{product_name}} on.",
+    "addSource": "Lisää ja hallitse lähteitä"
+  },
+  "NoSourceAdded": {
+    "title": "Lähteitä ei vielä ole lisätty",
+    "line": "{{product_name}} ei voi tehdä paljoa ennen kuin olet lisännyt lähteen.",
+    "button": "Lisää lähde"
+  },
+  "OrderContextMenu": {
+    "facets": {
+      "name": "Nimi",
+      "mTime": "Muokkauspäivämäärä",
+      "cTime": "Luontipäivämäärä",
+      "size": "Tiedostokoko‏"
+    },
+    "files": {
+      "name": "Nimi",
+      "mTime": "Päivämäärä",
+      "size": "Tiedostokoko‏"
+    },
+    "albums": {
+      "cTime": "Luontipäivämäärä",
+      "mTime": "Muokkauspäivämäärä"
+    },
+    "album": {
+      "addedTime": "Lisäyspäivämäärä",
+      "cTime": "Luontipäivämäärä"
+    }
+  },
+  "WhatsNew": {
+    "header": "Uutuudet",
+    "title": "{{product_name}} Uutuudet",
+    "version": "Versio: {{version}}",
+    "date": "Päivämäärä",
+    "updatedTo": "Päivitetty versioon {{version}}"
+  },
+  "AddSourceContextMenu": {
+    "addDrive": "Lisää laite",
+    "addSocial": "Lisää sosiaalisen median kanava",
+    "addCloud": "Lisää pilvipalvelu"
+  },
+  "AddSocialProviders": {
+    "title": "Sosiaalisen median tili",
+    "description": "Lisää sosiaalisen median tilejä, jotta voit lisätä sisältöäsi luetteloon."
+  },
+  "AddCloudProviders": {
+    "title": "Pilvipalvelun tili",
+    "description": "Lisää pilvipalvelun tilejä, jotta voit lisätä sisältöäsi luetteloon."
+  },
+  "DeleteIndex": {
+    "title": "Poista luettelo",
+    "descriptionCommon": "Apuohjelma poistaa luettelon kohteesta {{product_name}}. Sisältösi pysyy laitteellasi, mutta \net voi suorittaa laitteella hakuja ja nauttia kohteen {{product_name}} ominaisuuksista, ellet luetteloi laitetta uudelleen. ",
+    "descriptionCloud": "Apuohjelma poistaa luettelon kohteesta {{product_name}}. Et voi hakea tätä sisältöä ja nauttia sovelluksen {{product_name}} ominaisuuksista, ellet luetteloi lähdettä uudelleen.",
+    "info": "Haluatko varmasti poistaa tämän laitteen luettelon kohteesta {{product_name}}?",
+    "ok": "Poista luettelo"
+  },
+  "AddDrives": {
+    "title": "Lisää laite",
+    "description": "Selaa monella laitteella olevaa sisältöäsi yhdessä paikassa kohteen {{product_name}} hakuominaisuuden täyden tehon avulla!",
+    "addSelectedDrives": "Lisää valitut laitteet",
+    "addInfo": {
+      "noDriveTitle": "Ei luetteloimattomia laitteita",
+      "noDriveInfo": "Yhdistä luetteloimattomat laitteesi, niin ne näkyvät automaattisesti yllä.",
+      "externalTitle": "Onko sinulla ulkoinen tallennusväline?",
+      "externalInfo": "Yhdistä luetteloimattomat laitteesi, niin ne näkyvät automaattisesti yllä."
+    }
+  },
+  "ListViewSourceItem": {
+    "indexed": "Yhdistetyt ja luetteloidut",
+    "indexing": "Luetteloidaan {{percent}} %"
+  },
+  "SourcesList": {
+    "yourDevices": "Sisäinen tallennusväline",
+    "yourDrives": "Ulkoinen tallennusväline",
+    "socialMedia": "Sosiaalinen media",
+    "cloudStorage": "Pilvitallennustila",
+    "addSocial": "Seuraa arvokkaita muistojasi linkittämällä sosiaalisen median tileihin.",
+    "addSocialButton": "Lisää sosiaalisen median tilejä",
+    "addCloud": "Hae useista pilvitallennustilatileistä linkittämällä ne täällä.",
+    "addCloudButton": "Lisää pilvitallennustilatilejä",
+    "addDrive": "Kaiva ulkoiset tallennusvälineet kaapista, pyyhi niistä pölyt ja lisää ne kohteeseen {{product_name}}.",
+    "addDriveButton": "Lisää ulkoinen tallennusväline"
+  },
+  "IndexingStatus": {
+    "indexed": "Luetteloitu",
+    "indexedCompleted": "Luettelointi valmis",
+    "indexingPercent": "Luetteloidaan {{percent}} %",
+    "indexing": "Luetteloidaan",
+    "erasing": "Poistetaan",
+    "removing": "Irrotetaan...",
+    "connecting": "Yhdistetään...",
+    "unlockToIndex": "Avaa lukitus luetteloidaksesi",
+    "lastIndexedYesterday": "Luetteloitu eilen",
+    "lastIndexedDaysAgo": "Luetteloitu {{count}} päivää sitten",
+    "indexingPaused": "Luettelointi keskeytetty",
+    "notIndexed": "Luetteloimaton",
+    "preparing": "Valmistellaan...",
+    "clickHere": "napsauta tästä,",
+    "cloudConnectionError": "Luettelointi kohteessa {{label}} ei onnistunut. Alustantarjoajaan ei saatu yhteyttä.",
+    "indexErrorExplain": "<strong>Luettelointivirhe</strong> – Jokin meni vikaan luetteloinnin aikana. Useimmiten laitteen irrottaminen ja yhdistäminen uudelleen ratkaisee tämän ongelman.",
+    "cloudIndexErrorExplain": "<strong>Virhe luetteloinnin aikana</strong> – Virhe pilvilähteen luetteloinnin aikana. Yritämme edelleen uudelleen, jotta luettelointia voitaisiin jatkaa. Jos ongelma jatkuu, lähetä tästä ilmoitus <strong>Lähetä palautetta</strong> -valinnan kautta.",
+    "cloudWarningNotificationIndexErrorExplain": "Virhe pilvilähteen luetteloinnin aikana. Yritämme edelleen uudelleen, jotta luettelointia voitaisiin edelleen jatkaa. Ilmoita jatkuvasta ongelmasta kohteessa {{clickHere}}.",
+    "pausedDueToConnectionError": "<strong>Ei Internet-yhteyttä</strong> – {{product_type}} ei saa yhteyttä palveluntarjoajaan. Yhdistä uudelleen Internetiin, jotta voit jatkaa luettelointia.",
+    "pausedDueToDisconnected": "<strong>Luettelointi keskeytetty</strong> – Tätä laitetta ei ole enää yhdistetty. Yhdistä laite, niin luettelointi jatkuu automaattisesti.",
+    "pausedDueToLowBattery": "<strong>Luettelointi keskeytetty</strong> – Luettelointi on keskeytetty akun säästämiseksi. Yhdistä kannettava tietokoneesi virtalähteeseen jatkaaksesi.",
+    "errReadContent": "<strong>Virhe tiedoston laatimisen aikana</strong> – {{product_name}} kohtasi ongelman luetteloidessaan joitakin tiedostoja kohteessa {{label}}. Nämä tiedostot eivät välttämättä näy kohteessa {{product_name}}.",
+    "errCloudProviderAuth": "<strong>Tilin käyttö ei onnistu</strong> – {{product_name}} on menettänyt oikeuden käyttää tätä sosiaalista tiliä tai pilvitiliä. Antaaksesi kohteelle {{product_name}} käyttöoikeuden, paina <strong>kolmipistevalikkoa</strong> ja valitse <strong>Yhdistä lähde uudelleen</strong>.",
+    "errMaxDataSizeReached": "<strong>Luettelointi keskeytetty</strong> - Olet saavuttanut 100 % luettelon maksimikoosta, joten luetteloon ei voida lisätä uusia kohteita.",
+    "errInsufficientStorage": "<strong>Luettelointi on keskeytetty</strong> – Ei riittävästi tallennustilaa; uusia sisältöjä ei voida lisätä luetteloon. Voit poistaa epätoivottuja tiedostoja tietokoneeltasi, jolloin luettelolle on saatavilla enemmän tilaa."
+  },
+  "ConnectedSourcesList": {
+    "noConnectedSources": "Ei yhdistettyjä lähteitä.",
+    "addText": "Paina Lisää lähteitä -painiketta, jos haluat yhdistää lähteitä."
+  },
+  "FileInfo": {
+    "info": "Tiedot",
+    "name": "Tiedoston nimi",
+    "type": "Tiedostotyyppi",
+    "source": "Tiedoston lähde",
+    "size": "Tiedostokoko‏",
+    "modified": "Muokattu viimeksi",
+    "created": "Luotu",
+    "fileLocation": "Tiedoston sijainti",
+    "location": "Paikka",
+    "tagTitle": "Merkinnät",
+    "tagLengthError": "Tallenna lisäämällä vähintään kaksi merkkiä",
+    "tags": "Anna mukautettuja merkintöjä...",
+    "descriptionTitle": "Kuvaus",
+    "description": "Lisää kuvaus...",
+    "title": "Henkilöt, joilla on käyttöoikeus",
+    "text": "Tulossa pian...",
+    "tagsLimit": "Merkintöjen suurin sallittu lukumäärä on 100.",
+    "aperture": "F-numero",
+    "camera": "Kamera",
+    "exposureTime": "Altistusaika",
+    "focalLength": "Polttoväli",
+    "isoSpeed": "ISO-nopeus",
+    "latitude": "Leveysaste",
+    "longitude": "Pituusaste",
+    "flash": "Salama"
+  },
+  "ManageDriveIndex": {
+    "title": "Hallitse laitetta",
+    "description": "Selaa monella laitteella olevaa sisältöäsi yhdessä paikassa kohteen {{product_name}} hakuominaisuuden täyden tehon avulla!",
+    "listTitle": "Valitse tällä laitteella olevat kansiot, jotka haluat luetteloida.",
+    "updateIndex": "Päivitä luettelo"
+  },
+  "GetPrime": {
+    "title": "Hanki käyttöoikeudet",
+    "description": "Yhdistä säilytyssovellukset ja tallennusvälineet ja käytä niitä yhdessä paikassa, joko verkossa tai offline-tilassa.",
+    "signUp": "Rekisteröidy hankkiaksesi käyttöoikeudet",
+    "enablePrime": "Salli käyttöoikeudet",
+    "noThanks": "Ei kiitos"
+  },
+  "IndexDrive": {
+    "title": "Luetteloi laite",
+    "subTitle": "Huomasimme, että tätä laitetta ei ole luetteloitu.",
+    "text": "Kun laitteesi on luetteloitu, voit tarkastella ja hakea useista laitteista, vaikka niitä ei olisikaan yhdistetty.",
+    "index": "Luetteloi tämä laite"
+  },
+  "DriveDisconnected": {
+    "title": "Laite irrotettu",
+    "subTitle": "Tämä laite on tällä hetkellä irrotettu. Selaa nykyistä luetteloa napsauttamalla Selaa laitetta. ",
+    "text": "Päivitä luettelo yhdistämällä laite. Me hoidamme loput.",
+    "browse": "Selaa laitetta"
+  },
+  "LaunchWizard": {
+    "locationSelectTitle": "Luettelon sijainti",
+    "permissionsInfoTitle": "Lupakäyttöoikeus",
+    "deviceSelectionWaitingTitle": "Laitettasi etsitään",
+    "deviceSelectionWaitingDescription": "Varmista, että {{product_name}}-sovellus tukee laitettasi, ja yhdistä se tietokoneesi USB-porttiin.",
+    "deviceSelectionChooseTitle": "Seuraavat laitteet on yhdistetty.",
+    "deviceSelectionChooseDescription": "Aloita asennus valitsemalla niistä yksi. Käsittelemme muut myöhemmin asennuksen jälkeen.",
+    "launchWizardPipTitle": "Auta meitä parantamaan kohdetta {{product_name}}.",
+    "launchWizardMarketingTitle": "Markkinointiviestintäasetukset",
+    "deviceSelectionEmptyTitle": "Laitteita ei havaittu",
+    "deviceSelectionEmptyDescription": "Varmista, että {{product_name}}-sovellus tukee laitettasi, ja yhdistä se tietokoneesi USB-porttiin ja yritä uudelleen.",
+    "deviceSelectionConnectedTitle": "{{deviceName}} yhdistetty",
+    "deviceSelectionConnectedDescription": "Laitteesi {{deviceName}} on nyt valmis määritettäväksi.",
+    "deviceNameTitle": "Nimeä laitteesi",
+    "deviceNameDescription": "Anna laitteellesi ainutlaatuinen nimi, jotta erotat sen muista laitteistasi.",
+    "devicePasswordTitle": "Suojaa laitteesi salasananna.",
+    "devicePasswordDescription": "Suojaa laitteesi salasanalla tiedostojesi suojaamiseksi.",
+    "deviceSetupCompleteTitle": "{{- deviceName}} on käyttövalmis!",
+    "deviceSetupCompleteDescription": "Nyt kun {{deviceName}}-laitteesi on valmis, määritetään {{product_name}}-kokemuksesi.",
+    "defaultDeviceName": "My Passport",
+    "addSourcesTitle": "Valitse kansiot, jotka sisällytetään kohteeseen {{product_name}}",
+    "addSourcesDescription": "Ei huolta – {{product_name}} ei koskaan siirrä tai poista mitään tiedostojasi tai kansioitasi ilman lupaasi.",
+    "accountSignInTitle": "Kirjaudu sisään",
+    "accountSignUpTitle": "Määritetään ilmainen tilisi.",
+    "accountSignUpDescription": "Luo tili, niin voit luetteloida kaikki sosiaalisen median muistot ja pilvipalveluissa olevat tiedostot yhteen paikkaan.",
+    "accountPasswordTitle": "Aseta salasana uudelleen",
+    "accountPasswordDescription": "Pitääkö sinun palauttaa salasanasi? Lähetämme sinulle sähköpostin, joka sisältää ohjeet. <br/><br/> HUOMAUTUS: Jos käytit aiemmin tätä sähköpostiosoitetta ibi-, My Cloud OS 5- tai My Cloud Home -tilin luomiseen, salasana palautetaan.",
+    "accountAuthTitle": "Määritetään ilmainen tilisi.",
+    "accountAuthDescription": "Luo tili, niin voit helposti rekisteröidä ja luetteloida eri medioissa olevat muistosi ja tiedostosi yhteen paikkaan."
+  },
+  "AgreementMarketing": {
+    "title": "Viestintäasetukset",
+    "first": {
+      "title": "Pysy yhteydessä",
+      "description": "Voit päättää olla vastaanottamatta markkinointiviestintää, mukaan lukien kohdistetut mainokset, jota lähetämme sovelluksensisäisten viestien, push-ilmoitusten ja sähköpostin välityksellä."
+    },
+    "second": {
+      "title": "Vastaanota yksilöytyjä päivityksiä",
+      "description": "Kun rekisteröidyt markkinointiohjelmaamme, voimme käyttää henkilökohtaisia tunnistetietojasi kohteen {{company_name}} palveluiden käytöstä tarjotaksemme sinulle sopivia mainoksia. Näihin tietoihin voi sisältyä tietoja, jotka liittyvät {{product_name}}-sovelluksen käyttöön, kuten nimesi, sähköpostiosoitteesi, IP-osoitteesi, tiliasetukset (esimerkiksi kieli- ja aikavyöhykeasetukset) ja tilaustiedot, käyttötiedot, jos olet päättänyt osallistua kohteeseen {{product_name}} {{analytics_link}}, tiedot kolmannen osapuolen sellaisten palvelujen (esimerkiksi pilvi- ja sosiaalisen median palvelut, kuten Facebook, Instagram, Dropbox, Google Drive ja OneDrive) käytöstä, jotka on yhdistetty {{product_name}}-sovellukseen, tiedot käyttämistäsi kohteen {{company_name}} tarjoamista palveluista, kuten {{store_link}}, joka voi sisältää ostohistoriasi, sijaintisi ja tiliasetuksesi (esimerkiksi kieliasetukset), ja tiedot kohteen {{company_name}} sivustojen ja evästeiden käytöstä kohteessa {{cookie_link}} kuvatulla tavalla. Voit aina muuttaa valintaasi myöhemmin asetuksissa.",
+      "analytics_program": "analytiikkaohjelma",
+      "store": "{{company_name}}-kauppa",
+      "cookie": "Evästelausunto"
+    },
+    "agreement": "Napsauttamalla {{agree}} hyväksyt kohteen {{company_name}} {{privacy_link}} sekä markkinointiviestinnän vastaanottamisen kohteelta {{company_name}}. Viestintään sisältyy kohteen {{company_name}} ja kolmansien osapuolien uutiskirjeet, päivitykset ja kampanjat. Viestintää lähetetään mm. sovelluksensisäisten viestien, push-ilmoitusten ja sähköpostin välityksellä. Hyväksyt lisäksi henkilökohtaisten tunnistetietojesi käytön edellä kuvatulla tavalla näihin tarkoituksiin. Voit peruuttaa suostumuksesi milloin tahansa.",
+    "privacy_statement": "Tietosuojalausunto",
+    "agree": "Hyväksy",
+    "skip": "Ohita väliaikaisesti",
+    "notShare": "En hyväksy"
+  },
+  "LaunchWizardHeader": {
+    "account": "Luo tili",
+    "deviceName": "Laitteen nimi",
+    "devicePassword": "Laitteen salasana",
+    "deviceSetupComplete": "Laitteen asetukset määritetty"
+  },
+  "LaunchWizardPermissionsInfo": {
+    "title": "Luvat {{product_name}}",
+    "text1": "Kun näet Ilmoitukset ({{product_name}}) -järjestelmäkehotteen, napsauta Salli. Kaikki on sen jälkeen valmista.",
+    "text2": "Tämän avulla {{product_name}} voi ilmoittaa sovelluspäivityksistä, laitteiden liitännöistä ja muista tärkeistä asioista, jotka auttavat pitämään digitaalisen maailman järjestyksessä. "
+  },
+  "LaunchWizardDeviceSelectionChoose": {
+    "select": "Valitse",
+    "retry": "En näe laitettani",
+    "modalContent": "Varmista, että laitettasi tuetaan, ja yhdistä se tietokoneesi USB-porttiin ja yritä uudelleen."
+  },
+  "LaunchWizardDeviceSelectionEmpty": {
+    "retry": "Yritä uudelleen",
+    "skip": "En halua määrittää laitetta",
+    "help": "Tarvitsetko apua?",
+    "site": "Käy verkko-ohjesivustollamme"
+  },
+  "LaunchWizardAccountSignUp": {
+    "signIn": "Kirjaudu sisään"
+  },
+  "LaunchWizardAccountSignIn": {
+    "signUp": "Rekisteröidy",
+    "forgotPassword": "Unohtuiko salasana?",
+    "offline": "Ei Internet-yhteyttä. Tarkista Internet-yhteytesi ja yritä uudelleen."
+  },
+  "LaunchWizardAccountModal": {
+    "title": "Oletko varma?",
+    "text": "Jos luot tilin, voit helposti rekisteröidä ja aktivoida takuun sekä luetteloida sosiaalisen median muistot ja pilvipalveluissa olevat tiedostot yhteen paikkaan.<br/><br/>Haluatko varmasti jatkaa luomatta tiliä?",
+    "textSkipSocial": "Luo tili, niin voit helposti rekisteröidä ja luetteloida eri medioissa olevat muistosi ja tiedostosi yhteen paikkaan.<br/><br/>Haluatko varmasti jatkaa tiliä luomatta?",
+    "confirm": "Kyllä, olen varma",
+    "close": "Peruuta"
+  },
+  "LaunchWizardAccountExistEmail": {
+    "title": "Sähköpostiosoite on jo yhdistetty",
+    "text": "Tämä sähköpostiosoite on jo yhdistetty tiliin. Haluatko sen sijaan kirjautua sisään?",
+    "confirm": "Kirjaudu sisään",
+    "close": "Sulje"
+  },
+  "LaunchWizardDeviceName": {
+    "skip": "Teen tämän myöhemmin",
+    "error": "Laitteesi nimeämisessä ilmeni ongelma. Yritä uudelleen."
+  },
+  "AgreementAnalytics": {
+    "title": "Auta meitä parantamaan {{product_name}}",
+    "hint": "Napsauttamalla <b>Hyväksyn</b> suostut jakamaan käyttötietosi kanssamme edellä kuvattuihin tarkoituksiin. Voit aina muuttaa valintaasi myöhemmin asetuksissa.",
+    "AgreementAnalyticsDescription1": "Jaa käyttötietosi, jotta voimme parantaa tuotteitamme, palveluitamme ja sovelluksiamme sekä yksilöidä sovelluksen käyttökokemustasi. Välitämme asiakkaistamme, joten haluamme olla avoimia tietosuojakäytännöistämme. Käy kohteessa {{privacy_link}} saadaksesi lisätietoja.",
+    "AgreementAnalytics2": "Mitä tietoja keräämme?",
+    "AgreementAnalyticsDescription2": "Käyttötiedot sisältävät tietoja sovelluksen käytöstä. Näihin tietoihin sisältyy mm. laite- ja määritystiedot, suorittimen/laitteen ja muut käyttötiedot, sovelluskohtaiset käyttötilastot, API-puhelut, palvelun kaatumistiedot, verkon tila, tallennustilan käyttö, hakutermit, sijainti, tiedosto-ominaisuudet (esim. metatiedot, kuten tiedoston koko, tyyppi, lähde, luomis-/muokkaus-/käyttöpäivämäärät ja -ajat, kameran merkki/malli, sijainti, merkinnät/kuvaukset), tiedostojen väliset korrelaatiot ja palveluun linkitettävät kolmannen osapuolen tilien tiedot.",
+    "AgreementAnalytics3": "Miten käytämme näitä tietoja?",
+    "AgreementAnalyticsDescription3": "Keräämme käyttötietoja automaattisesti, jos osallistut analytiikkaohjelmamme. Tämä auttaa meitä parantamaan tuotteidemme, palveluidemme ja sovellustemme laatua ja suorituskykyä sekä yksilöimään sovelluksen käyttökokemustasi lähettämällä esimerkiksi sovelluksensisäisiä viestejä ja push-ilmoituksia. Emme myy henkilötietojasi.",
+    "notShare": "En hyväksy",
+    "skip": "Ohita väliaikaisesti",
+    "agree": "Hyväksy",
+    "offline": "Ei Internet-yhteyttä. Tarkista Internet-yhteytesi ja yritä uudelleen.",
+    "privacy_center": "Tietosuojakeskus"
+  },
+  "LaunchWizardDevicePassword": {
+    "skip": "En halua asettaa salasanaa",
+    "password": "Salasana",
+    "confirmation": "Vahvista salasana",
+    "hint": "Salasanavihje",
+    "checkboxTitle": "Ota automaattinen lukituksen poisto käyttöön tällä tietokoneella.",
+    "checkboxDescription": "Valitse tämä valintaruutu, jos haluat tämän tietokoneen muistavan kohteen Pat’s My Passport salasanan.",
+    "error": "Salasanan asettamisessa oli ongelma. Yritä uudelleen."
+  },
+  "LaunchWizardResetPassword": {
+    "button": "Lähetä ohjeet",
+    "email": "Sähköpostiosoite"
+  },
+  "LaunchWizardLocationSelect": {
+    "hint": "Luettelo on lista kohteista, jotka sisältävät tietoja tiedostoistasi, kuten tiedoston nimi, tyyppi, koko, lähde, luomispäivämäärä ja muokkauspäivämäärä. Luettelo tallennetaan oletusarvoisesti tietokoneesi sisäiselle kiintolevylle. Käytämme korkeintaan 10 % laitteen vapaasta tilasta tämän luettelon tallentamiseen.",
+    "info": "Jos tietokoneessasi on useampia kuin yksi kiintolevy, valitse niistä se, jossa on eniten vapaata tilaa.",
+    "capacity": "<b>{{free}}</b> vapaana, yhteensä {{full}}",
+    "drive": "Asema",
+    "popoverTitle": "Tiedostojärjestelmää ei tueta",
+    "popoverContent": "{{product_name}} ei tue tämän aseman (FAT) tiedostojärjestelmän muotoa. Tallenna luettelosi toiselle asemalle.",
+    "popoverNotEnoughSpaceTitle": "Ei vapaata tilaa",
+    "popoverNotEnoughSpaceText": "Asemalla ei ole vapaata tilaa. Tallenna luettelosi toiselle asemalle. {{link}}",
+    "link": "Lue lisää"
+  },
+  "HeaderFtuePopover": {
+    "title": "Lisätään ensimmäinen lähteesi!",
+    "text": "{{product_name}} tarvitsee vähintään yhden lähteen, jotta se toimii täydellä teholla. Me näytämme, miten homma hoituu. {{take_the_tour_link}}",
+    "take_the_tour_link": "Tutustumiskierros"
+  },
+  "ManageSourcesFtueManager": {
+    "StartAlert": {
+      "title": "Lähde kohteen {{product_name}} tutustumiskierrokselle!",
+      "text": "Ohjattu asennus opastaa sinut lisäämään ulkoisia tallennusvälineitä lähteisiin ja lisäämään tietokoneen sisäisen tallennustilan sekä opettaa sinulle sovelluksen käytön perusteet.",
+      "textSocialCloud": "Ohjattu asennus opastaa sinut lisäämään ulkoisia tallennusvälineitä lähdeluetteloon, lisäämään tietokoneen sisäisen tallennustilan ja opettaa sinulle sovelluksen käytön perusteet.",
+      "button": "Seuraava"
+    },
+    "DrivePresent": {
+      "title": "Lisätään ensin uusi laite.",
+      "text": "Pidä hiiren osoitinta laitteen kohdalla, napsauta lisää-valikkoa <b>... </b> ja valitse <b>Luetteloi laite</b> luetteloinnin aloittamiseksi."
+    },
+    "DriveNotPresent": {
+      "title": "Lisätään ensin uusi laite.",
+      "text": "Napsauta <b>Lisää laite</b> lähteen valitsemiseksi ja luetteloinnin aloittamiseksi."
+    },
+    "NotFromTinyInstaller": {
+      "title": "Lisätään ensin uusi laite.",
+      "text1": "Napsauta mitä tahansa kohtaa laitteen kortilla ja aloita luettelointi.",
+      "text2": "Napsauta mitä tahansa kortin kohtaa ja aloita luettelointi valitulle laitteelle."
+    },
+    "AddingAComputer": {
+      "title": "Tietokoneen lisääminen",
+      "text1": "Kun lisäät tietokoneen sisäisen tallennustilan lähteeksi, voit valita luetteloitavia kohteita laitteen ensimmäisestä kansiotasosta. Olemme valinneet muutaman oletusarvoisen sijainnin, johon ihmiset yleensä tallentavat tärkeitä tiedostoja.",
+      "text2": "Valitse mitkä tahansa kansiot tai poista valinta mistä tahansa kansioista, joissa pidät tärkeitä tiedostojasi. Vieritä sitten alas ja napsauta Lisää valitut laitteet."
+    },
+    "PlugInDrive": {
+      "title": "Yhdistä ulkoinen laitteesi.",
+      "text": "Kun yhdistät laitteesi tietokoneeseen, valitse laite luettelosta ja paina <b>Lisää valitut laitteet</b>."
+    },
+    "IndexingProgress": {
+      "title": "Luettelointiprosessi",
+      "text": "Voit selata tai hakea luetteloitua sisältöä, vaikka lähdettä ei olisi yhdistetty. Tarkista edistyminen täällä tai sovellusikkunan vasemmassa alakulmassa.",
+      "button": "Seuraava"
+    },
+    "MultipleSources": {
+      "title": "Useat lähteet",
+      "text1": "Toisen lähteen lisäämisen jälkeen {{product_name}} luetteloi ne yksi kerrallaan vanhimmasta lähteestä uusimpaan.",
+      "text2": "Voit aina tarkistaa luetteloinnin edistymisen täällä tai sovellusikkunan vasemmassa alakulmassa.",
+      "button": "Seuraava"
+    },
+    "ManagingSources": {
+      "title": "Lähteiden hallinta",
+      "text": "Pidä hiiren osoitinta lähteen päällä ja napsauta kolmen pisteen kuvaketta nähdäksesi luettelon toiminnoista, jotka ovat lähteen kohdalla käytettävissä.",
+      "button": "Seuraava"
+    },
+    "AddSourceButton": {
+      "title": "Lähteen lisääminen",
+      "text": "Napsauta Lähteet-välilehdellä <b>+-painiketta</b>, kun haluat valita luetteloitavan lähteen tyypin."
+    },
+    "DriveLocked": {
+      "title": "Laitteen lukituksen avaaminen",
+      "text": "Laitteen lukitus on avattava ennen luettelointia."
+    },
+    "FinishAlert": {
+      "title": "Lähteen lisääminen onnistui!",
+      "text": "Tutustutaan seuraavaksi {{product_name}}-sovellukseen, jotta voit hallita digitaalista maailmaasi.",
+      "button": "Olen valmis"
+    },
+    "UnlockingDrive": {
+      "title": "Turvassa",
+      "text": "Laitteesi salasana auttaa pitämään tietosi turvassa. Avaa laitteen lukitus, jotta {{product_name}} voi lisätä laitteen luetteloon."
+    },
+    "UnlockedDriveIndexed": {
+      "title": "Luettelointi on jo käynnissä",
+      "text": "{{product_name}} luetteloi parhaillaan laitettasi. Valitse <b>Sulje</b> nähdäksesi, miten homma etenee."
+    },
+    "UnlockedDriveNotIndexed": {
+      "title": "Lukitus on avattu!",
+      "text": "Valitse seuraavaksi <b>Selaa laitetta</b>."
+    },
+    "UnlockedDriveStartIndexing": {
+      "title": "Seuraavaksi luetteloinnin aloittaminen",
+      "text": "Valitse <b>Luetteloi tämä laite</b>, niin pistämme rattaat pyörimään. Tämän jälkeen sinun on vain yhdistettävä laite ja avattava sen lukitus, niin {{product_name}} aloittaa luetteloinnin automaattisesti."
+    },
+    "TurboMode": {
+      "title": "Onko luettelointiprosessi liian hidas?",
+      "text1": "Ota Turbo-tila käyttöön, niin luettelointi sujuu jopa nelinkertaisella nopeudella! Turbo-tila on hyödyllinen, jos sinun on nopeasti luetteloitava suuri määrä sisältöä esimerkiksi juuri lisätystä lähteestä.",
+      "text2": "Turbo-tilan ottaminen käyttöön poistaa rajoitukset, jotka koskevat sitä, kuinka nopeasti {{product_name}} luetteloi sisältöä. Tämä nopeuttaa luettelointiprosessia, mutta se saattaa johtaa tietokoneen tuulettimien äänekkääseen toimintaan ja muiden tietokoneesi sovellusten hidastumiseen tai jäätymiseen.",
+      "text3": "HUOMAUTUS: Turbo-tilaa tuetaan tällä hetkellä vain tietokoneissa, joissa on vähintään 4 ydintä ja 4 Gt RAM-muistia. {{link}}",
+      "link": "Lue lisää",
+      "button": "Seuraava"
+    }
+  },
+  "FtueSuspendModal": {
+    "title": "Ohita tutoriaali",
+    "text": "Löydät tutoriaalin aina myöhemmin asetuksista.",
+    "button1": "Ohita",
+    "button2": "Peruuta"
+  },
+  "SelectModePanel": {
+    "counter": "{{count}} kohde valittu",
+    "counter_plural": "{{count}} kohdetta valittu"
+  },
+  "Notifications": {
+    "volumeIndexing": {
+      "title": "{{label}} luetteloidaan",
+      "message": "Odota, kun luetteloimme laitteesi. Älä irrota laitetta ennen luetteloinnin päättymistä."
+    },
+    "indexingCompleted": {
+      "title": "Luettelointi valmis",
+      "message": "Tutustu päivitettyyn sisältöön."
+    },
+    "volumeConnected": {
+      "title": "{{label}} yhdistetty",
+      "message": "Luetteloi tämä laite hakeaksesi ja selataksesi siinä olevaa sisältöä, kun laitetta ei ole yhdistetty."
+    },
+    "deviceLocked": {
+      "title": "Avaa {{label}}",
+      "message": "Napsauta tästä avataksesi yhdistetyn laitteen."
+    },
+    "deviceLock": {
+      "title": "{{label}} yhdistetty",
+      "message": "Lukitaan laitteesi sen suojauksen vahvistamiseksi."
+    },
+    "takeSurvey": {
+      "title": "Auta meitä parantamaan kohdetta {{product_name}}!",
+      "message": "Vastaa lyhyeen kyselyyn ja kerro meille, mitä mieltä olet sovelluksesta."
+    },
+    "Albums": {
+      "viewCollections": "Näytä kokoelmat!"
+    }
+  },
+  "IndexingDrive": {
+    "title": "Laitteen luettelointi",
+    "text": "Voit tutustua kokoelmiin sillä välin, kun luetteloimme laitettasi. Ilmoitamme sinulle, kun luettelointi on valmis.",
+    "viewCollections": "Näytä kokoelmat",
+    "slides": {
+      "slide1": {
+        "title": "Automaattinen järjestäminen",
+        "description": "{{product_name}} järjestää ja luokittelee kaikki tiedostosi, jotta voit helposti hakea tarvitsemasi niiden joukosta."
+      }
+    }
+  },
+  "TitlebarUser": {
+    "no_subscription": "Ei tilausta",
+    "yes_subscription": "{{product_name}} Access -tilaus",
+    "link": "Päivitä"
+  },
+  "TitlebarUserDesktopOptions": {
+    "devtools": "Vaihda kehittäjän työkalujen välillä",
+    "about": "Tietoja",
+    "quit": "Lopeta"
+  },
+  "TitlebarPrimeModal": {
+    "button": "Tee tilaus käyttöoikeuksien hankkimiseksi"
+  },
+  "Titlebar": {
+    "back": "Siirry takaisin",
+    "forward": "Siirry eteenpäin",
+    "help": "Ohje",
+    "account": "Tili"
+  },
+  "Widgets": {
+    "left": "Siirry vasemmalle",
+    "right": "Siirry oikealle"
+  },
+  "Duplicates": {
+    "title": "Kaksoiskappaleet",
+    "subtitle": "{{count}} laite suorittaa luettelointia, sitä ei sisällytetä",
+    "subtitle_plural": "{{count}} laitetta suorittaa luettelointia, niitä ei sisällytetä",
+    "indexingInProgressText": "Yksi laitteistasi suorittaa luettelointia Luettelointia suorittava laite ei sisälly tuloksiin – suosittelemme odottamaan, kunnes laite on suorittanut luetteloinnin!"
+  },
+  "DuplicatesPreviewPanel": {
+    "noDuplicatesTitle": "Kaksoiskappaleita ei löytynyt!",
+    "noDuplicatesText": "Onneksi olkoon siisteyden johdosta!",
+    "selectDuplicate": "Valitse tarkasteltava kaksoiskappale",
+    "filesCount": "{{count}} tiedosto",
+    "filesCount_plural": "{{count}} tiedostoa"
+  },
+  "DuplicatesPreviewPanelFileItem": {
+    "manage": "Hallitse",
+    "managePopOver": "Yhdistä {{device_name}}, jotta voit hallinnoida tätä kohdetta.",
+    "openInPhotos": "Avaa Valokuvat-sovellus",
+    "fileIndex": "{{index}}/{{count}}",
+    "sourceNotConnected": "Lähdettä ei ole yhdistetty",
+    "errAccessDenied": " Kohteella {{product_name}} ei ole käyttöjärjestelmän lupaa poistaa tässä kansiossa olevia tiedostoja."
+  },
+  "DuplicatesMissingInfoPanel": {
+    "title": "Eivätkö kaikki kaksoiskappaleet näy?",
+    "text": "Tiedostot sosiaalisista ja pilvilähteistä eivät näy kaksoiskappaleiden näkymässä. {{link_text}}",
+    "link_texts": "Avaa UKK ja lue lisää."
+  },
+  "DuplicatesDeleteModal": {
+    "title": "Poista tiedosto",
+    "text": "Haluatko varmasti poistaa kohteen {{name}}?",
+    "note": "Huomaa: Tämä on yllä olevan tiedoston viimeinen kopio. Jos poistat sen, alkuperäinen tiedosto ei enää näy Kopiot-pienoisohjelmassa. Löydät alkuperäisen käyttämällä Haku- tai Selaa-välilehteä.",
+    "confirmButton": "Kyllä, poista",
+    "deleteSuccess": "Kohteen {{name}} poisto onnistui."
+  },
+  "TurboMode": {
+    "title": "Turbo-tila on {{state}}",
+    "description": "Mikä tämä on?",
+    "popOverTitle": "Mikä Turbo-tila on?",
+    "popOverText1": "Suosittelemme Turbo-tilan käyttöä, jos sinun on nopeasti luetteloitava suuri määrä sisältöä esimerkiksi uudesta lisätystä lähteestä.",
+    "popOverText2": "Turbo-tilan ottaminen käyttöön poistaa rajoitukset, jotka koskevat sitä, kuinka nopeasti {{product_name}} luetteloi sisältöä. Tämä nopeuttaa luettelointiprosessia, mutta se saattaa johtaa tietokoneen tuulettimien äänekkääseen toimintaan ja muiden tietokoneesi sovellusten hidastumiseen tai jäätymiseen. Turbo-tila poistetaan automaattisesti käytöstä, kun suljet sovelluksen {{product_name}}. Näin estetään järjestelmän tarpeeton hidastuminen.",
+    "popOverText3": "HUOMAUTUS: Turbo-tila on tällä hetkellä käytettävissä tietokoneissa, joissa on vähintään neljä ydintä ja 4 Gt RAM-muistia. {{link}}",
+    "link": "Lue lisää"
+  },
+  "Facets": {
+    "title": "Luokan perusteella",
+    "empty": "Kun olet lisännyt lähteisiisi joitakin tiedostoja, ne näkyvät täällä. Ne järjestetään automaattisesti tyypin perusteella."
+  },
+  "BrowseSources": {
+    "allSources": "Kaikki lähteet",
+    "internalStorage": "Sisäinen tallennusväline",
+    "externalStorage": "Ulkoinen tallennusväline",
+    "social": "Sosiaalinen media",
+    "cloud": "Pilvitallennustila",
+    "addExternal": "Lisää lähteesi kohteeseen {{product_name}}",
+    "empty_all": "Kaiva ulkoiset tallennusvälineet kaapista, pyyhi niistä pölyt ja lisää ne kohteeseen {{product_name}}.",
+    "empty_social": "Ei käytettävissä olevia sosiaalisen median lähteitä. Valitse toinen lähdetyyppi tai lähde {{link}} Hallitse omia lähteitä -osiossa.",
+    "empty_cloud": "Ei käytettävissä olevia pilvitallennustilalähteitä. Valitse toinen lähdetyyppi tai lähde {{link}} Hallitse omia lähteitä -osiossa.",
+    "empty_internalStorage": "Ei käytettävissä olevia ulkoisia lähteitä. Valitse toinen lähdetyyppi tai lähde {{link}} Hallitse omia lähteitä -osiossa.",
+    "empty_externalStorage": "Ei käytettävissä olevia sisäisiä lähteitä. Valitse toinen lähdetyyppi tai lähde {{link}} Hallitse omia lähteitä -osiossa.",
+    "link_social": "lisää sosiaalisen median lähde",
+    "link_cloud": "lisää pilvitallennustila",
+    "link_externalStorage": "lisää ulkoinen tallennusväline",
+    "link_internalStorage": "lisää sisäinen tallennusväline"
+  },
+  "CollectionGridItem": {
+    "pages": "{{count}} sivua"
+  },
+  "LivePhoto": {
+    "live": "REAALIAIKAINEN"
+  },
+  "SidePanelCollections": {
+    "search_placeholder": "Hae kokoelmia",
+    "empty_title": "Kokoelmien hakutulokset",
+    "empty_text": "Haulla ”Hakusana” ei löytynyt kokoelmia."
+  },
+  "Surveys": {
+    "title": "Kyselyt",
+    "header": "Vastaa lyhyeen kyselyyn!",
+    "survey_1": {
+      "title": "Perehdytys ja ensivaikutelmat",
+      "short_title": "Perehdytys"
+    },
+    "survey_2": {
+      "title": "Sisällön lisääminen ja hakeminen",
+      "short_title": "Lisää ja hae sisältöä"
+    },
+    "survey_3": {
+      "title": "Sisällön virtuaalinen järjestäminen",
+      "short_title": "Sisällön järjestäminen"
+    }
+  },
+  "BrowseFTUE": {
+    "modal": {
+      "title": "Selaaminen {{product_name}}-sovelluksella",
+      "left": {
+        "descriptionTitle": "Luokan ja pienoisohjelman perusteella",
+        "descriptionText": "Tiedostosi lajitellaan älykkäästi luokan ja muiden perusteella, jotta sinun on helpompi löytää haluamasi."
+      },
+      "right": {
+        "descriptionTitle": "Lähteiden mukaan",
+        "descriptionText": "Haluatko navigoida tallennusvälineen tiedosto- ja kansiorakenteen perusteella? Se käy. Selaa lähteen perusteella löytääksesi haluamasi."
+      }
+    },
+    "popover": {
+      "title": "Mitä tällä sivulla on?",
+      "text": "Jos haluat koskaan lukea lisää siitä, mitä kohteen {{product_name}} jokaiselta välilehdeltä löytyy, siirry oikeassa yläkulmassa olevan <b>Kysymysmerkki-kuvakkeen</b> kohdalle ja valitse <b>Mitä tällä sivulla on? -kohta.</b>"
+    }
+  },
+  "PrimeFTUE": {
+    "title": "Tehosta toimintaa Access-tilauksella",
+    "left": {
+      "descriptionTitle": "Käytä missä tahansa",
+      "descriptionText": "{{product_name}} Access -tilaus mahdollistaa sisällön hakemisen, selaamisen ja esikatselun sellaisella työpötyätietokoneella, mobiililaitteella tai tabletilla, johon {{product_name}} on asennettu tai jonka kautta sitä voidaan käyttää verkossa."
+    },
+    "right": {
+      "descriptionTitle": "Sosiaalinen media ja pilvipalvelut",
+      "descriptionText": "{{product_name}} Access -tilauksella voit yhdistää tuetut sosiaalisen median lähteet ja pilvipalvelut. Hae, selaa ja esikatsele lähteistäsi peräisin olevaa sisältöä yhdessä paikassa. {{link}}",
+      "link": "Lue lisää."
+    }
+  },
+  "CollectionFTUE": {
+    "title": "Digitaalisen maailman tutkiminen",
+    "left": {
+      "descriptionTitle": "Paikat ja merkinnät",
+      "descriptionText": "Tiedostosi lajitellaan älykkäästi objektien, päivämäärän, sijainnin ja muiden perusteella, jotta henkilökohtainen sisältösi voidaan näyttää sinulle sopivissa ryhmissä."
+    },
+    "right": {
+      "descriptionTitle": "Omat kokoelmat",
+      "descriptionText": "Luo tallennusvälinelähteistä peräisin olevista omista tiedostoistasi mukautettuja kokoelmia hallitaksesi omaa digitaalista maailmaasi."
+    }
+  },
+  "SearchFTUE": {
+    "title": "Hakeminen yhdessä paikassa",
+    "left": {
+      "descriptionTitle": "Kaikista lähteistä hakeminen",
+      "descriptionText": "Kun digitaaliset tiedostosi on merkitty ja luokiteltu, voit hakea tietokoneellasi ja tallennusvälineilläsi olevaa sisältöä, vaikka kyseisiä laitteita ei olisi yhdistetty."
+    },
+    "right": {
+      "descriptionTitle": "Edistyneet suodattimet",
+      "descriptionText": "Tarkenna hakuja päivämääräalueen, merkintöjen, lähteen, tiedoston tyypin, paikan ja muiden perusteella. Etsi ja hallitse haluamiasi kohteita."
+    }
+  },
+  "SourcesFTUE": {
+    "title": "Lisää ja hallitse lähteitä",
+    "left": {
+      "descriptionTitle": "Lähteiden yhdistäminen ja luettelointi",
+      "descriptionText": "Yhdistä lähteet tietokoneeseen ja lisää ne sisältöluetteloon. Kun lähteet on lisätty, {{product_name}} skannaa niiden sisällön ja lisää sen luetteloon, jotta voit hakea, selata ja järjestää sitä."
+    },
+    "right": {
+      "descriptionTitle": "Ulkoisten laitteiden hallinta",
+      "descriptionText": "Hallitse tuettuja ulkoisia WD- ja SanDisk-tallennusvälineitä nimeämällä ne, määrittämällä salasanan ja muuta. Pidä tulevia päivityksiä silmällä, sillä lisäämme tuettuja laitteita."
+    }
+  },
+  "HelpPopOver": {
+    "whatPage": "Mikä tämä sivu on?",
+    "website": "Ohjesivusto"
+  },
+  "WarningNotificationsUniqueIdentifier": {
+    "text": "Ainutlaatuisen tunnisteen avulla voit tunnistaa kohteen {{product_name}} ongelmat ottaessasi yhteyttä tukeen. Kun annat tämän ainutlaatuisen tunnisteen tukitiimille, sen jäsenet voivat tarkastella tilisi lokeja, joihin sisältyy laitteidesi toiminta ja suorituskyky. Nämä lokit voivat auttaa tiimiä tunnistamaan ongelmasi tai ratkaisemaan sen."
+  },
+  "WarningNotificationsPhotosLibraryNoInternet": {
+    "text": "Luettelointi keskeytettiin, koska tietokoneesi Internet-yhteys katkesi. Yhdistä uudelleen jatkaaksesi valokuvakirjaston luettelointia."
+  },
+  "TutorialFtue": {
+    "browse": "Selaa tiedostojasi luokan, lähteen tai älypienoisohjelmien perusteella.",
+    "collections": "Järjestä digitaalinen maailmasi kohteen {{product_name}} kokoelmien avulla.",
+    "sources": "Lisää digitaaliseen sisältöluetteloosi uusia tallennusvälinelähteitä.",
+    "turbo": "Eteneekö luettelointiprosessi liian hitaasti? Nopeuta sitä <b>Turbo-tilalla</b>.",
+    "search": "Hae luetteloidusta sisällöstä tiedoston nimen, paikkojen ja avainsanojen perusteella.",
+    "tipsTricks": "Hanki vinkkejä siitä, miten saat kaiken irti kohteesta {{product_name}}.",
+    "next": "Navigoi kohdetta {{product_name}} oppiaksesi lisää sen ominaisuuksista."
+  },
+  "ModalConfirmSignOut": {
+    "title": "Haluatko kirjautua ulos {{product_name}}ista?",
+    "text": "Haluatko varmasti kirjautua ulos?",
+    "textWithCloudServices": "Voit silti käyttää luetteloasi, vaikka olet kirjautuneena ulos.",
+    "confirm": "Kirjaudu ulos",
+    "titleOffline": "Ei Internet-yhteyttä",
+    "textOffline": "Sinun pitää olla yhteydessä Internetiin, jotta voit kirjautua ulos palvelusta {{product_name}}. Varmista, että yhteys on luotu, ja yritä sitten uudelleen."
+  },
+  "ModalSurveyAvailable": {
+    "title": "Kysely {{index}} saatavilla",
+    "text": "Vastaa lyhyeen kyselyyn ja kerro meille, mitä mieltä olet kokemuksestasi kohteeseen <b>{{name}}</b> liittyen.",
+    "confirm": "Vastaa kyselyyn",
+    "cancel": "Myöhemmin"
+  },
+  "UpdateBanner": {
+    "text": "Uusi versio kohteesta {{product_name}} on saatavilla. {{link}} asentaaksesi uudet virheenkorjaukset ja saadaksesi ominaisuudet käyttöön.",
+    "link": "Päivitä nyt",
+    "updateLoaded": "Päivitys ladattu. {{relaunch}}",
+    "relaunch": "Käynnistä uudelleen {{product_name}}"
+  },
+  "Placeholder": {
+    "network": {
+      "title": "Verkkoasematuki",
+      "text": "Tuki My Cloud Homelle, ibille ja My Cloud OS 5:lle on tulossa."
+    }
+  },
+  "SubscriptionTicket": {
+    "EdgeRoverBasic": {
+      "title": "{{product_name}} Basic",
+      "text": "Käytössäsi on sovelluksen {{product_name}} ilmainen versio.",
+      "button": "Tutustu päivitysvaihtoehtoihin"
+    },
+    "EdgeRoverAccess": {
+      "title": "{{product_name}} Access",
+      "text": "9,99 dollaria kuukaudessa, laskutetaan vuosittain",
+      "textExpire": "Seuraavan maksun ajankohta on ",
+      "button": "Hallitse tilausta"
+    }
+  },
+  "ModalShortcutsHelp": {
+    "ModalTitle": "Näppäimistön pikanäppäimet",
+    "GeneralTitle": "Yleistä",
+    "PreviousPage": "Edellinen sivu",
+    "SwitchMainSections": "Vaihda pääosiota",
+    "StartSearch": "Aloita haku",
+    "CreateCollection": "Luo kokoelma",
+    "CloseModalOrRightPanel": "Sulje modaali tai oikea paneeli",
+    "SelectionTitle": "Valinta",
+    "SelectAll": "Valitse kaikki",
+    "SelectRangeOfItems": "Valitse kohdejoukko",
+    "SelectOrDeselect": "Valitse yksittäinen kohde / poista yksittäisen kohteen valinta",
+    "HelpTitle": "Ohje",
+    "HelpCenter": "Tukikeskus",
+    "KeyboardShortcuts": "Näppäimistön pikanäppäimet",
+    "FilePreviewTitle": "Tiedoston esikatselu",
+    "NextFile": "Seuraava tiedosto",
+    "PreviousFile": "Edellinen tiedosto",
+    "CloseFilePreview": "Sulje tiedoston esikatselu",
+    "PlayOrPause": "Toista/keskeytä video- tai äänitiedosto",
+    "OpenFile": "Avaa tiedosto",
+    "MoreInfo": "Lisätietoa",
+    "ShowFileLocation": "Näytä tiedoston sijainti",
+    "ZoomInPhoto": "Lähennä kuvaa",
+    "ZoomOutPhoto": "Loitonna kuvaa",
+    "ZoomToZero": "Lähennä 100 prosenttiin",
+    "EnterFullScreen": "Koko näytön tila",
+    "ExitFullScreen": "Poistu koko näytön tilasta",
+    "BrowseAndGridsTitle": "Selaaminen ja ruudukot",
+    "NavigateFilesAndFolders": "Tiedostojen ja kansioiden navigointi",
+    "RefreshList": "Päivitä kansio- tai tiedostoluettelo",
+    "OpenFocusedFolder": "Avaa kohdennettu kansio",
+    "OpenFocusedFileInApp": "Avaa kohdennettu tiedosto sovelluksessa",
+    "ShowLocation": "Näytä tiedoston/kansion sijainti",
+    "ToggleView": "Vaihda luettelo-/pikkukuvanäkymän välillä",
+    "ChangeSort": "Lajittele",
+    "SourcesTitle": "Lähteet",
+    "NavigateCategories": "Navigoi luokkia",
+    "NavigateSources": "Navigoi lähteitä",
+    "OpenFocusedDriveOrSource": "Avaa kohdennettu asema tai lähde",
+    "SettingsTitle": "Asetukset",
+    "NavigateSettingsSections": "Navigoi asetusosiota",
+    "OpenFocusedSection": "Avaa kohdennettu osio"
+  },
+  "PageSettingsProductTour": {
+    "title": "Tuote-esittely",
+    "text": "Lähteen lisääminen",
+    "button_text": "Aloita lähteen lisääminen"
+  },
+  "ManageSourcesSidePanelsSignIn": {
+    "title": "Kirjaudu sisään",
+    "descriptionSocial": "Kirjaudu sisään tai luo tili kohteeseen {{company_name}}, niin voit luetteloida sosiaalisen median muistot lähteistä, kuten Facebookista, Google Photos -palvelusta, Flickr-palvelusta jne.",
+    "descriptionCloud": "Kirjaudu sisään tai luo tili kohteeseen {{company_name}}, niin voit luetteloida pilvipalvelutilisi, kuten Dropboxin, Google Driven, OneDriven jne."
+  },
+  "ProvidersList": {
+    "infoTitle": "Etkö näe kohteen {{type}} tiliäsi täällä?",
+    "infoText": "{{clickHere}} pyydä tukea lähteellesi {{sourceType}}.",
+    "clickHere": "Napsauta tästä",
+    "socialMedia": "sosiaalinen media",
+    "social": "sosiaalinen",
+    "cloud": "pilvi"
+  },
+  "NotConnectedItem": {
+    "systemFolderWarning": "Et voi indeksoida tätä järjestelmäkansiota"
+  },
+  "ModalReinstall": {
+    "title": "Asenna {{product_name}} uudelleen ",
+    "content1": " Kohteen {{product_name}} luettelointiprosessiin on tehty huomattavia päivityksiä, mutta sinun on <b>poistettava asennus, asennettava {{product_name}} uudelleen ja luetteloitava sisältösi uudelleen</b>, jotta voit hyödyntää niitä mahdollisimman tehokkaasti. {{link1}}.",
+    "link1": "Katso tarkemmat ohjeet täältä",
+    "title1": "Jos asennat uudelleen...",
+    "title2": "Jos et asenna uudelleen...",
+    "li1": "<b>Joustava luettelosijainti</b> – Valitse, minne tallennat luettelosi, jos sinulla on useita vaihtoehtoja.",
+    "li2": "<b>Pienempi luettelon koko</b> – Kohteen {{product_name}} luettelo vie enintään 10 % tietokoneesi käytettävissä olevasta levytilasta.",
+    "li3": "<b>Pienemmät pikkukuvat</b> – 720 p:n pikkukuvat pitävät sovelluksen koon pienenä ja voit silti nauttia kuvistasi korkealaatuisina.",
+    "li4": "<b>Suurempi sovelluksen koko</b> – Pikkukuvat säilyvät 1080 p:n koossa ja luettelo käyttää enemmän tilaa laitteessasi.",
+    "li5": "<b>Pikkukuvien katselun ongelmat</b> – Voit kohdata ongelmia, kun yrität esikatsella tiedostoja yksittäisten kohteiden näkymässä.",
+    "li6": "<b>Vähemmän tuoteominaisuuksia</b> – Tulevat toiminnot ja sovelluksen päivitykset eivät välttämättä toimi kunnolla.",
+    "button1": "Kuinka {{product_name}} voidaan asentaa uudelleen ",
+    "button2": "Kysy myöhemmin uudelleen"
+  },
+  "TurboModeNotifications": {
+    "unavailable": {
+      "text": "Turbo-tila on saatavilla tällä hetkellä vain tietokoneissa, joissa on vähintään 4 ydintä ja 4 Gt RAM-muistia."
+    },
+    "available": {
+      "on": "Turbo-tila poistaa käytöstä rajoitukset, jotka koskevat sitä, kuinka nopeasti {{product_name}} luetteloi sisältöä. Tämä saattaa johtaa muiden tietokoneesi sovellusten hidastumiseen tai jäätymiseen. Turbo-tila poistuu automaattisesti käytöstä, kun suljet sovelluksen {{product_name}}. Näin estetään järjestelmän tarpeeton hidastuminen.",
+      "wasOn": "Turbo-tila sulkeutui, koska sovellus {{product_name}} suljettiin."
+    }
+  },
+  "SlowIndexPopOver": {
+    "title": "Onko luettelointiprosessi liian hidas?",
+    "text1": "Prosessi saattaa kestää kauan, jos luetteloitavia kuvatiedostoja on erittäin suuri määrä. Ole kärsivällinen sillä välin, kun luomme pikkukuvia, joita voit käyttää lähteiden irrottamisen jälkeen.",
+    "text2": "Voit nopeuttaa luettelointiprosessia kokeilemalla seuraavia:",
+    "listItem1": "Pidä sovellus ja järjestelmä käynnissä yön yli",
+    "listItem2": "Jätä luetteloitavat lähteet kiinni järjestelmääsi"
+  },
+  "CollectionFtueManager": {
+    "popover": {
+      "title": "Kokoelmaan lisääminen",
+      "text": "Napsauta ”<b>Lisää</b>”-painiketta valitaksesi kategoria ja etsi haluamasi tiedostot."
+    }
+  },
+  "AcronisBanner": {
+    "title": "Acronis True Image",
+    "subtitle": "Varmuuskopiointi ja levyn kloonaus"
+  },
+  "ErrorBoundary": {
+    "title": "Jokin meni vikaan.",
+    "description": "Yritä ratkaista ongelma päivittämällä sivu.",
+    "refresh": "Päivitä",
+    "issues": "Jatkuuko ongelma edelleen?",
+    "feedback": "Lähetä meille palautetta",
+    "help": "{{feedback}} auttaaksesi meitä tutkimaan ja ratkaisemaan ongelma."
+  },
+  "ModalTermsOfService": {
+    "title": "{{product_name}} käynnistyy!",
+    "paragraph_1": "Kiitos, että käytit kohteen {{product_name}} beetaversiota! Palautteesi on auttanut meitä parantamaan kokemusta kohteen {{product_name}} kanssa. Voimme ylpeinä ilmoittaa, että {{product_name}} ei ole enää beetavaiheessa. Julkaisemme version 1.0.",
+    "paragraph_2": "Lue ja hyväksy palveluehdot ja tietosuojalausunto jatkaaksesi kohteen {{product_name}} käyttöä.",
+    "agree": "Hyväksyn",
+    "close": "Ei, sulje {{product_name}}",
+    "title_accepted": "Kiitos!",
+    "accepted_paragraph_1": "Haluamme kiittää sinua ajastasi ja vaivannäöstäsi kohteen {{product_name}} beetaversion kanssa. Toivomme, että nautit edelleen kohteesta {{product_name}} ja kerrot meille, miten voimme parantaa tuotetta.",
+    "accepted_paragraph_2": " Huomaa, että jos olit kirjautunut kohteen {{product_name}} tiliin beetaversion aikana, sinut kirjataan ulos, kunnes olemme julkaisseet tiliominaisuuden virallisesti. Tili on edelleen voimassa, mutta et voi kirjautua sisään."
+  },
+  "SearchResultsFtueManager": {
+    "popover": {
+      "title": "Suodattimet",
+      "text": "Lähteiden, luetteloiden, tiedostotyyppien, tunnisteiden ja paikkojen suodattimet päivitetään dynaamisesti vastaavien tulosten näyttämiseksi"
+    }
+  },
+  "NotificationsErrReadContent": {
+    "text": "{{product_name}} kohtasi ongelmia kohteen {{label}} luetteloinnin aikana. Jotkin tiedostot eivät välttämättä näy kohteen {{product_name}} tuloksissa.",
+    "text_plural": "{{product_name}} kohtasi ongelmia joidenkin asemien luetteloinnin aikana. Jotkin tiedostot eivät välttämättä näy kohteen {{product_name}} tuloksissa."
+  },
+  "SignOut": {
+    "start": "{{product_name}} poistaa sosiaaliset ja pilviluettelot ennen uloskirjautumista.",
+    "success": "Uloskirjautuminen onnistui.",
+    "error": "Pilvi- ja sosiaalisten lähteiden poiston aikana tapahtui virhe. Emme voineet kirjata sinua ulos. Yritä myöhemmin uudelleen."
+  },
+  "NotificationsErrCloudProviderAuth": {
+    "text": "{{product_name}} on menettänyt oikeuden käyttää kohdetta {{label}}. Paina lähteen valikon vaihtoehtoa ja valitse Yhdistä lähde uudelleen, niin kohde {{product_name}} saa taas oikeuden käyttää näitä lähteitä.",
+    "text_plural": "{{product_name}} on menettänyt oikeuden käyttää kohdetta {{label}}. Paina lähteen valikon vaihtoehtoa ja valitse Yhdistä lähde uudelleen, niin kohde {{product_name}} saa taas oikeuden käyttää näitä lähteitä."
+  },
+  "RemovedCatalogInformer": {
+    "title": "Luettelo {{name}} on poistettu."
+  },
+  "ModalSocialCloudFtue": {
+    "title": "Sosiaalisen median lähteet ja pilvilähteet",
+    "left": {
+      "descriptionTitle": "Yhdistä sosiaaliset lähteet ja pilvilähteet",
+      "descriptionText": "Yhdistä sosiaalisen median lähteet ja pilvilähteet kohteeseen {{product_name}} ja lisää ne luetteloosi. Kun lähteet on lisätty, {{product_name}} skannaa sisällön ja lisää sen luetteloosi, jotta voit hakea, selata ja järjestää sisältöäsi."
+    },
+    "right": {
+      "descriptionTitle": "Synkronoi luettelo",
+      "descriptionText": "Vaikka luettelo tallennetaan paikallisesti, joitain tietoja vaaditaan luettelon synkronoimiseen sosiaalisten ja pilvilähteiden kanssa ja ne tallennetaan kohteen {{product_name}} pilveen."
+    }
+  },
+  "ModalSignOut": {
+    "title": "Kirjaudu ulos",
+    "text": "Ennen kuin kirjaudut ulos, kerro mitä haluat tehdä nykyisillä sosiaalisilla luetteloilla ja pilviluetteloilla.",
+    "keepCatalog": {
+      "title": "Säilytä sosiaaliset luettelot ja pilviluettelot",
+      "point_1": "Sosiaalisen median ja pilvien tallennustiliesi luettelot säilytetään kohteessa {{product_name}} ja tallennetaan tietokoneellesi.",
+      "point_2": "Jokainen, joka käyttää tietokonettasi, voi käyttää näitä luetteloita.",
+      "point_3": "Luettelointi keskeytetään, kunnes kirjaudut uudelleen sisään."
+    },
+    "removeCatalog": {
+      "title": "Poista sosiaaliset luettelot ja pilviluettelot",
+      "point_1": "Sosiaalisen median tiliesi ja pilvitallennustiliesi luettelot poistetaan {{product_name}}.",
+      "point_2": "Et voi hakea tätä sisältöä ja nauttia sovelluksen {{product_name}} ominaisuuksista, ellet kirjaudu takaisin sisään ja luetteloi lähdettä uudelleen.",
+      "point_3": "Sisäisten ja ulkoisten tallennuslaitteiden luetteloja ei poisteta.",
+      "text": "Sosiaalisten luetteloiden ja pilviluetteloiden poistamisessa voi kestää muutamia minuutteja luettelon koosta riippuen."
+    }
+  },
+  "NotificationsErrInsufficientStorage": {
+    "text_big": "Ei riittävästi tallennustilaa uusien sisältöjen lisäämiseksi luetteloon. Voit poistaa epätoivottuja tiedostoja tietokoneeltasi ja vapauttaa tilaa luettelolle. {{learn_more_link}}.",
+    "text_small": "Luettelointi pysäytetty.",
+    "learn_more_link": "Lue lisää"
+  },
+  "NotificationsErrMaxDataSizeReached": {
+    "text_big": "Olet saavuttanut 100 % luettelon enimmäiskoosta, joten luetteloon ei voida lisätä uusia kohteita. {{learn_more_link}} lukeaksesi lisää luettelostasi.",
+    "text_small": "Luettelointi keskeytetty.",
+    "learn_more_link": "Napsauta tästä"
+  },
+  "Auth": {
+    "Before": {
+      "buttons": "”Luo tili” tai ”Kirjaudu sisään”",
+      "title": "Määritetään ilmainen tilisi.",
+      "description": "Tilisi {{company_name}} seuraa tallennustilalaitteita pöytätietokoneessa, mobiililaitteessa, tabletissa ja verkkosovelluksissa."
+    },
+    "After": {
+      "error_connected_to_another_account_title": "Yhdistetty toiseen tiliin.",
+      "error_connected_to_another_account_description": "Sovelluksesi {{product_name}} on yhdistetty toiseen tiliin. Jatka kirjautumalla sisään oikealla tilillä.",
+      "error_common_title": "Hupsis",
+      "error_common_description": "Kohtasimme virheen tiliä luodessa. Voit yrittää uudelleen tai painaa Ohita jatka‏aksesi asennusta.",
+      "title": "Yhdistetään tiliin",
+      "Error": {
+        "error_template": "Tarvitsetko apua? {{online_help_site_link}}",
+        "online_help_site_link": "Käy verkko-ohjesivustollamme"
+      },
+      "NameForm": {
+        "title": "Anna meidän tutustua sinuun.",
+        "description": "Ja mikä on nimesi?"
+      }
+    }
+  }
+}

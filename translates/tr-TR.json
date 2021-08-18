@@ -1,0 +1,22 @@
+{
+  "ModalConfirmSignOut.title": "{{product_name}} ürününden çıkış yapılsın mı?",
+  "SingleItemView.CloudUnavailablePopup.description": "Sosyal veya bulut sağlayıcınız aracılığıyla bir dosya açmak için internete bağlı olduğunuzdan emin olun.",
+  "CollectionHowToAddFileModal.add_to_collection": "Koleksiyona Ekle...",
+  "CollectionHowToAddFileModal.facet_title": "Kategoriler",
+  "CollectionHowToAddFileModal.sources_title": "Tüm Kaynaklar",
+  "OrderContextMenu.album.addedTime": "Değiştirilme tarihi",
+  "IndexingStatus.errInsufficientStorage": "<strong>Kataloglama Duraklatıldı</strong> - Kataloğa yeni içerik eklemek için yeterli alan yok. Katalog için yer açmak için istenmeyen dosyaları bilgisayarınızdan silebilirsiniz.",
+  "ModalConfirmSignOut.textWithCloudServices": "Oturumunuz kapalıyken bile kataloğunuza erişmeye devam edeceksiniz.",
+  "UpdateBanner.text": "{{product_name}} ürününün yeni bir sürümü mevcut. En son hata düzeltmeleri ve yeni özellikler için şimdi güncelleyin.",
+  "UpdateBanner.link": "Güncelleme",
+  "UpdateBanner.updateLoaded": "Güncelleme indirildi.",
+  "Banners.insufficientStorage": "Kataloğa yeni içerik eklemek için yeterli alan yok. Katalog için yer açmak için istenmeyen dosyaları bilgisayarınızdan silebilirsiniz.",
+  "Banners.maxDataSizeReached": "Maksimum katalog boyutunun %100'üne ulaştınız ve buna yeni öğe ekleyemiyoruz. Kataloğunuz hakkında daha fazla bilgi edinin.",
+  "Banners.photosLibraryNoInternet": "Bilgisayarınızın internet bağlantısı kesildiği için kataloglama duraklatıldı. Fotoğraf Kitaplığınızı kataloglamaya devam etmek için yeniden bağlanın.",
+  "Banners.accessDeniedCloudFS": "{{etiket}} eklenemedi. {{action}} ve istendiğinde {{product_name}} tüm erişim izinlerini verdiğinizden emin olun.",
+  "Banners.errCloudProviderAuth": "{{product_name}}, {{label}} erişim iznini kaybetmiş gibi görünüyor. {{product_name}} erişimi sağlamak için Kaynaklar'a gidin, kaynağın “menü seçeneği“ ni tıklayın ve “Kaynağı Yeniden Bağla“ yı seçin.",
+  "Banners.retry": "yeniden dene",
+  "Banners.learn_more_link": "Daha fazla bilgi edin",
+  "Banners.more_label": "{{count}} bildirim daha",
+  "Banners.more_label_plural": "{{count}} bildirim daha"
+}

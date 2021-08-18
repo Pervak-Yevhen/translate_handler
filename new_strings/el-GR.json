@@ -1,0 +1,1918 @@
+{
+  "product_name": "EdgeRover",
+  "company_name": "Western Digital",
+  "_category": {
+    "all": "Όλες οι αντιστοιχίες",
+    "media": "Φωτογραφίες και βίντεο",
+    "image,video": "Φωτογραφίες και βίντεο",
+    "video": "Βίντεο",
+    "image": "Φωτογραφίες",
+    "pdf": "PDF",
+    "writing": "Έγγραφα",
+    "presentation": "Παρουσιάσεις",
+    "book": "Βιβλία",
+    "spreadsheet": "Λογιστικά φύλλα",
+    "audio": "Ήχος"
+  },
+  "_fileTypes": {
+    "folder": "Φάκελος",
+    "generalFile": "Αρχείο",
+    "font": "Γραμματοσειρά",
+    "image": "Εικόνα",
+    "video": "Βίντεο",
+    "audio": "Ήχος",
+    "archive": "Αρχειοθέτηση",
+    "web_picture": "Εικόνα ιστού",
+    "advanced_systems_format_file": "Αρχείο μορφής προηγμένου συστήματος",
+    "flash_video": "Βίντεο Flash",
+    "mkv_video": "Βίντεο Matroska",
+    "opus_audio": "Αρχείο ήχου Opus",
+    "ogv_video": "Βίντεο Ogg",
+    "device_independent_bitmap": "Αρχείο Bitmap ανεξαρτήτου συσκευής",
+    "http_archive_file": "Αρχείο αποθήκευσης HTTP",
+    "hasselblad_3fr_raw_image": "Εικόνα Hasselblad 3FR Raw",
+    "gpp_movie": "Ταινία 3GPP",
+    "sony_digital_camera_image": "Εικόνα ψηφιακής φωτογραφικής μηχανής Sony",
+    "avi_movie": "Ταινία AVI",
+    "casio_raw_image": "Εικόνα Casio RAW",
+    "canon_cr2_raw_image": "Εικόνα Canon CR2 Raw ",
+    "canon_cr3_raw_image": "Εικόνα Canon CR3 Raw ",
+    "canon_raw_ciff_image_file": "Αρχείο εικόνας Canon Raw CIFF",
+    "kodak_raw_image": "Εικόνα Kodak Raw",
+    "adobe_raw_image": "Εικόνα Adobe Raw",
+    "epson_raw_image": "Εικόνα Epson Raw ",
+    "hasselblad_raw_image": "Εικόνα Hasselblad Raw",
+    "heif_image": "Εικόνα HEIF",
+    "phase_one_raw_image": "Εικόνα Phase One Raw",
+    "jpeg_image": "Εικόνα JPEG",
+    "itunes_movie": "Ταινία iTunes",
+    "leaf_raw_image": "Εικόνα Leaf Raw ",
+    "quicktime_movie": "Ταινία QuickTime",
+    "mpeg_4_movie": "Ταινία MPEG-4",
+    "mpeg_4_video": "Βίντεο MPEG-4",
+    "mpeg_movie": "Ταινία MPEG",
+    "mpeg_1_movie": "Ταινία MPEG-1",
+    "mpeg_2_movie": "Ταινία MPEG-2",
+    "webm_video": "Βίντεο WebM",
+    "minolta_raw_image": "Εικόνα Minolta Raw",
+    "nikon_raw_image": "Εικόνα Nikon Raw",
+    "olympus_raw_image": "Εικόνα Olympus Raw",
+    "pentax_raw_image": "Εικόνα Pentax Raw",
+    "fuji_raw_image": "Εικόνα Fuji Raw",
+    "panasonic_raw_image": "Εικόνα Panasonic Raw",
+    "leica_raw_image": "Εικόνα Leica Raw",
+    "sony_raw_image": "Εικόνα Sony Raw",
+    "samsung_raw_image": "Εικόνα Samsung Raw",
+    "windows_media": "Αρχεία Windows Media",
+    "aac_audio": "Αρχείο ήχου AAC",
+    "aiff_c_audio": "Αρχείο ήχου AIFF-C",
+    "au_audio": "Αρχείο ήχου AU",
+    "flac_audio": "Αρχείο ήχου FLAC",
+    "f4v_video": "Βίντεο FV4",
+    "midi_audio": "Αρχείο ήχου MIDI",
+    "mp2_audio": "Αρχείο ήχου MP2",
+    "mp3_audio": "Αρχείο ήχου MP3",
+    "mpeg_4_audio": "Αρχείο ήχου MPEG-4",
+    "ogg_audio": "Αρχείο ήχου Ogg",
+    "waveform_audio": "Αρχείο ήχου Waveform",
+    "windows_media_audio": "Αρχείο ήχου Windows Media Audio",
+    "amazon_kindle_ebook": "Ψηφιακό βιβλίο Amazon Kindle",
+    "broad_band_ebook": "Ψηφιακό βιβλίο Broad Band",
+    "djvu_image": "Εικόνα DjVu",
+    "epub_ebook": "Ψηφιακό βιβλίο EPUB",
+    "apple_books": "Ψηφιακά βιβλία Apple",
+    "microsoft_reader_file": "Αρχείο Microsoft Reader",
+    "sony_portable_reader_file": "Αρχείο Sony Portable Reader",
+    "librie_reader_file": "Αρχείο Librie Reader",
+    "mobipocket_ebook": "Ψηφιακό βιβλίο Mobipocket",
+    "box_note": "Εφαρμογή σημειώσεων Box Note",
+    "word_document": "Έγγραφο Word",
+    "word_document_template": "Πρότυπο εγγράφου Word",
+    "google_document": "Έγγραφο Google",
+    "google_form": "Έντυπο Google",
+    "lotus_word_document": "Έγγραφο Lotus Word",
+    "pages_document": "Έγγραφο Pages",
+    "google_slides": "Εφαρμογή παρουσιάσεων Google Slides",
+    "keynote_presentation": "Εφαρμογή παρουσιάσεων Keynote",
+    "opendocument_document": "Έγγραφο κειμένου OpenDocument",
+    "opendocument_presentation": "Έγγραφο παρουσίασης OpenDocument",
+    "opendocument_presentation_template": "Πρότυπο έγγραφο παρουσίασης OpenDocument",
+    "prezi_presentation": "Έγγραφο παρουσίασης Prezi",
+    "powerpoint_presentation_template": "Πρότυπο εγγράφου παρουσίασης PowerPoint",
+    "powerpoint_presentation": "Έγγραφο παρουσίασης PowerPoint",
+    "csv_file": "Αρχείο CSV",
+    "google_sheets": "Εφαρμογή Google Sheets",
+    "numbers_document": "Έγγραφο Numbers",
+    "opendocument_spreadsheet": "Λογιστικό φύλλο OpenDocument",
+    "lotus_123_spreadsheet": "Λογιστικό φύλλο Lotus 123",
+    "excel_document": "Έγγραφο Excel",
+    "pdf_document": "Έγγραφο PDF",
+    "after_effects_project": "Αρχείο έργου After Effects",
+    "illustrator_file": "Αρχείο Illustrator",
+    "blender_3d_file": "Αρχείο Blender 3D",
+    "cinema_4d_file": "Αρχείο Cinema 4D",
+    "autocad_image": "Εικόνα AutoCAD",
+    "vector_image_file_eps": "Αρχείο εικόνας Vector (EPS)",
+    "figma_drawing": "Γραφικός σχεδιασμός Figma Drawing",
+    "framemaker_file": "Αρχείο FrameMaker",
+    "google_drawings": "Γραφικός σχεδιασμός Google Drawings",
+    "indesign_file": "Αρχείο InDesign",
+    "pagemaker_file": "Αρχείο PageMaker",
+    "photoshop_file": "Αρχείο Photoshop",
+    "publisher_file": "Αρχείο Publisher",
+    "sketch_drawing": "Γραφικός σχεδιασμός Sketch Drawing",
+    "deb": "Αρχείο DEB",
+    "dmg": "Αρχείο DMG",
+    "exe": "Αρχείο EXE",
+    "bin_archive": "Συμπιεσμένο αρχείο BIN",
+    "gzip_archive": "Συμπιεσμένο αρχείο GZip",
+    "amiga_lzx_archive": "Συμπιεσμένο αρχείο Amiga LZX",
+    "rar_archive": "Συμπιεσμένο αρχείο RAR",
+    "tar_archive": "Συμπιεσμένο αρχείο ΤAR",
+    "zip_archive": "Συμπιεσμένο αρχείο ZIP",
+    "cascading_style_sheet": "Επάλληλο φύλλο ύφους",
+    "html_text": "Κείμενο HTML",
+    "javascript": "Κείμενο JavaScript",
+    "php_script": "Κείμενο PHP",
+    "python_source": "Κείμενο Python Source",
+    "ruby_source": "Κείμενο Ruby Source",
+    "xml_document": "Έγγραφο XML",
+    "bitmap": "Δυφιοαπεικόνιση",
+    "gif_image": "Εικόνα GIF",
+    "icon_image": "Εικόνα Icon",
+    "png_image": "Εικόνα PNG",
+    "svg_image": "Εικόνα SVG",
+    "tiff_image": "Εικόνα TIFF",
+    "markdown_file": "Αρχείο Markdown",
+    "rtf_file": "Αρχείο RTF",
+    "plain_text_document": "Έγγραφο απλού κειμένου",
+    "imovie_project": "Αρχείο έργου iMovie",
+    "logic_pro_project": "Αρχείο έργου Logic Pro"
+  },
+  "_mimeTypes": {
+    "image/jpeg": "Εικόνα JPEG",
+    "image/png": "Εικόνα PNG",
+    "image/ico": "Εικόνα ICO",
+    "image/xls": "Αρχείο XLS",
+    "image/tiff": "Εικόνα TIFF",
+    "application/pdf": "Αρχείο PDF"
+  },
+  "_fileCategories": {
+    "book": "Βιβλία",
+    "photos": "Φωτογραφίες",
+    "photosAndVideos": "Φωτογραφίες και βίντεο",
+    "videos": "Βίντεο",
+    "audio": "Ήχος",
+    "movies": "Ταινίες",
+    "writing": "Έγγραφα",
+    "similarImages": "Παρόμοιες φωτογραφίες",
+    "pdf": "PDF",
+    "presentation": "Παρουσιάσεις",
+    "spreadsheet": "Λογιστικά φύλλα",
+    "filesAndFolders": "Αρχεία και φάκελοι",
+    "duplicates": "Διπλότυπα"
+  },
+  "_errors": {
+    "emptySourceList": "Επιλέξτε πρώτα οποιαδήποτε μονάδα.",
+    "noVolumeSelected": "Δεν υπάρχουν μονάδες για σάρωση.",
+    "noDeviceSelected": "Επιλέξτε πρώτα οποιαδήποτε μονάδα.",
+    "connectionError": "Παρουσιάστηκε πρόβλημα. Επιβεβαιώστε ότι η σύνδεσή σας στο διαδίκτυο είναι ενεργή και δοκιμάστε ξανά.",
+    "unexpected": "Ωχ, παρουσιάστηκε πρόβλημα Προσπαθήστε ξανά.",
+    "timeout": "Δεν ήταν δυνατή η ολοκλήρωση της λειτουργίας λόγω λήξης χρονικού ορίου.",
+    "incorrectEmail": "Εισάγετε μια έγκυρη διεύθυνση e-mail.",
+    "incorrectPass": "Εσφαλμένος κωδικός πρόσβασης.",
+    "verifyPass": "Επιβεβαιώστε τον κωδικό πρόσβασής σας",
+    "repeatPass": "Επανεισάγετε τον νέο κωδικό πρόσβασής σας",
+    "incorrectEmailPass": "Λάθος διεύθυνση e-mail ή κωδικός πρόσβασης.",
+    "invalid_user_password": "Λάθος διεύθυνση e-mail ή κωδικός πρόσβασης.",
+    "userExists": "Ο λογαριασμός υπάρχει ήδη. Ενδέχεται να έχετε ήδη δημιουργήσει έναν λογαριασμό, όταν ρυθμίζατε τις παραμέτρους του ibi, του My Cloud OS 5 ή του My Cloud Home σας. {{link}}",
+    "userExistsLink": "Συνδεθείτε για να συνεχίσετε",
+    "passwordMismatch": "Οι κωδικοί πρόσβασης δεν ταιριάζουν",
+    "PasswordHistoryError": "Ο νέος κωδικός πρόσβασής σας δεν μπορεί να είναι ίδιος με κανέναν από τους προηγούμενους κωδικούς σας.",
+    "PasswordDictionaryError": "Δεν επιτρέπεται ο κωδικός πρόσβασης. Ενδέχεται να είναι πολύ κοινός.",
+    "PasswordStrengthError": "Δεν επιτρέπεται ο κωδικός πρόσβασης. Ενδέχεται να είναι πολύ επισφαλής.",
+    "anotherUserAttached": "Κάποιος άλλος χρήστης είναι ήδη συνδεδεμένος στο τρέχον περιβάλλον.",
+    "searchLength": "Πληκτρολογήστε τουλάχιστον τρεις χαρακτήρες για αναζήτηση.",
+    "albumCreationError": "Η δημιουργία απέτυχε.",
+    "openExtensionError": "Απέτυχε το άνοιγμα της επέκτασης.",
+    "sourceIsNotConnected": "Η μονάδα δεν είναι συνδεδεμένη. Για να ανοίξετε αυτό το στοιχείο, συνδέστε το {{name}} στον υπολογιστή σας και προσπαθήστε ξανά.",
+    "indexDeletedError": "Ωχ, αυτό το αρχείο δεν είναι πια προσβάσιμο. Ο κατάλογος της μονάδας ενδέχεται να έχει καταργηθεί πρόσφατα.",
+    "FILE_GROUP_NOT_FOUND_ERROR": "Η συλλογή δεν είναι διαθέσιμη",
+    "FILE_DELETED_ERROR": "Ωχ, αυτό το αρχείο δεν είναι πια προσβάσιμο. Το αρχείο ενδέχεται να καταργήθηκε πρόσφατα ή να βρίσκεται σε μια μονάδα που έχει αποσυνδεθεί.",
+    "DEVICE_MIGRATING_ERROR": "Κάναμε ορισμένες σημαντικές βελτιώσεις στην εμπειρία σας. Για την πραγματοποίηση αυτής της διαδικασίας, η εφαρμογή σας αναδιαρθρώνει και βελτιώνει τον τρόπο αποθήκευσης του περιεχομένου σας. Αυτή η διαδικασία μπορεί να πάρει λίγη ώρα.",
+    "signup_invalid_request": "Λάθος διεύθυνση e-mail ή κωδικός πρόσβασης",
+    "disconnectCloudFS": "Δεν είναι δυνατή η αφαίρεση του {{label}} από τον κατάλογο. Βεβαιωθείτε ότι είστε συνδεδεμένοι στο διαδίκτυο και προσπαθήστε ξανά."
+  },
+  "_errorTitles": {
+    "unexpected": "",
+    "DEVICE_MIGRATING_ERROR": "Η ενημέρωση είναι σε εξέλιξη"
+  },
+  "_common": {
+    "photosLibrary": "Βιβλιοθήκη φωτογραφιών",
+    "volumeLabelWin": "{{label}} ({{mountPoint}})",
+    "untitledVolumeName": "Χωρίς τίτλο",
+    "ok": "OΚ",
+    "selectSomethingForPreview": "Επιλέξτε στοιχείο για να προβάλετε την προεπισκόπηση",
+    "open": "Άνοιγμα",
+    "fileTypeNotSupported": "Δεν υποστηρίζεται η αναπαραγωγή. Ανοίξτε το αρχείο για αναπαραγωγή.",
+    "resendLink": "Να αποσταλεί ξανά ο σύνδεσμος",
+    "done": "Τέλος",
+    "cancel": "Άκυρο",
+    "continue": "Συνέχεια",
+    "skipForNow": "Προσωρινή παράλειψη",
+    "retry": "Επανάληψη",
+    "close": "Κλείσιμο",
+    "back": "Πίσω όψη",
+    "skip": "Skip (Παράβλεψη)",
+    "addSource": "Προσθήκη μονάδων",
+    "remove": "Κατάργηση",
+    "rename": "Μετονομασία",
+    "later": "Αργότερα",
+    "letsDoIt": "Πάμε!",
+    "newCollectionTitle": "Νέα Συλλογή",
+    "emptyPhotos": "Δεν υπάρχουν ακόμα φωτογραφίες και βίντεο",
+    "timeline": "Χρονολόγιο",
+    "more": "Περισσότερα",
+    "show_less": "Προβολή λιγότερων",
+    "show_more": "Εμφάνιση περισσότερων",
+    "edit": "Επεξεργασία",
+    "save": "Αποθήκευση",
+    "next": "Επόμενο",
+    "add_to_collection": "Προσθήκη στη συλλογή",
+    "remove_from_collection": "Κατάργηση από τη συλλογή",
+    "create_collection": "Δημιουργία συλλογής",
+    "set_cover": "Ορισμός εξωφύλλου",
+    "sign_in": "Είσοδος",
+    "create_account": "Δημιουργία λογαριασμού",
+    "settings": "Ρυθμίσεις",
+    "tryAgain": "Προσπαθήστε ξανά",
+    "createdForYou": "Δημιουργήθηκε για εσάς",
+    "or": "ή",
+    "add": "Προσθήκη",
+    "title": "Τίτλος",
+    "items": "{{count}} στοιχείο",
+    "items_plural": "{{count}} στοιχεία",
+    "widgets": "Γραφίδια",
+    "quit": "Έξοδος",
+    "browse": "Περιήγηση",
+    "collections": "Συλλογές",
+    "description": "Περιγραφή",
+    "name": "Όνομα",
+    "viewSources": "Προβολή μονάδων",
+    "viewTitles": "Προβολή τίτλων",
+    "selectMode": "Επιλογή λειτουργίας",
+    "suggested_collections": "Προτεινόμενες συλλογές",
+    "my_collections": "Οι Συλλογές μου",
+    "sorting": "Ταξινόμηση",
+    "viewModes": "Λειτουργίες προβολής",
+    "comingSoon": "Σύντομα κοντά σας",
+    "signIn": "Είσοδος",
+    "createAccount": "Δημιουργία λογαριασμού",
+    "on": "Ενεργοποίηση",
+    "off": "Off (Απενεργοποίηση)",
+    "learnMore": "Μάθετε περισσότερα",
+    "viewAll": "Προβολή όλων",
+    "gotIt": "ΟΚ",
+    "firstName": "Όνομα",
+    "lastName": "Επίθετο",
+    "reset": "Επαναφορά",
+    "resetting": "Επαναφορά σε εξέλιξη…"
+  },
+  "_customGroupNames": {
+    "largeFiles": "Μεγάλα αρχεία",
+    "recentlyOpenFiles": "Πρόσφατες περιηγήσεις",
+    "thisMonth": "Ιστορικό τρέχοντος μηνός",
+    "thisWeek": "Ιστορικό τρέχουσας εβδομάδας",
+    "celebrate": "Γιορτάστε!",
+    "duplicateFiles": "Διπλότυπα"
+  },
+  "Datepicker": {
+    "placeholder": "μμ/ηη/εεεε"
+  },
+  "PasswordValidation": {
+    "upperLower": "1 κεφαλαίο και 1 πεζό γράμμα",
+    "number": "1 αριθμό",
+    "length": "8 ή περισσότερους χαρακτήρες"
+  },
+  "SignInForm": {
+    "email": "Διεύθυνση ηλεκτρονικού ταχυδρομείου",
+    "password": "Προστασία",
+    "forgotPassword": "Ξεχάσατε τον κωδικό πρόσβασης;",
+    "button_text": "«Είσοδος»"
+  },
+  "PasswordInput": {
+    "show_password": "Εμφάνιση κωδικού πρόσβασης",
+    "hide_password": "Απόκρυψη κωδικού πρόσβασης"
+  },
+  "SignUpForm": {
+    "title": "Εγγραφή",
+    "firstName": "Όνομα",
+    "lastName": "Επίθετο",
+    "email": "Διεύθυνση ηλεκτρονικού ταχυδρομείου",
+    "password": "Προστασία",
+    "submit": "Δημιουργία λογαριασμού",
+    "button_text": "«Δημιουργία λογαριασμού»",
+    "enterFirstNameError": "Εισαγωγή ονόματος",
+    "enterLastNameError": "Εισαγωγή επιθέτου",
+    "enterEmailError": "Εισαγωγή διεύθυνσης e-mail",
+    "enterValidEmailError": "Εισάγετε μια έγκυρη διεύθυνση e-mail.",
+    "createAccount": "Δημιουργία λογαριασμού"
+  },
+  "Policy": {
+    "agreement": "Κάνοντας κλικ στο {{button_text}}, συμφωνείτε με την {{product_name}} {{licence_agreement_link}} και {{privacy_link}}. Κατανοείτε και συμφωνείτε ότι η εταιρεία {{company_name}} θα μεταφέρει, θα επεξεργαστεί και θα αποθηκεύσει τα δεδομένα σας σε/εντός άλλων χωρών, συμπεριλαμβανομένων των Ηνωμένων Πολιτειών. Αυτά ενδέχεται να περιλαμβάνουν στοιχεία του λογαριασμού που έχετε παράσχει σε {{company_name}} και περιεχόμενο που συγχρονίζετε στο {{product_name}} cloud.",
+    "licence_agreement": "Όροι χρήσης",
+    "privacy_state": "Δήλωση Απορρήτου"
+  },
+  "ResetPassword": {
+    "title": "Ξεχάσατε τον κωδικό πρόσβασης;",
+    "resetLinkSendTitle": "Ελέγξτε τα εισερχόμενά σας",
+    "resetLinkSendText": "Αν υπάρχει {{product_name}} λογαριασμός για {{email}}, θα σας αποσταλεί ένα <span>e-mail</span> με περαιτέρω οδηγίες.",
+    "resendLink": "Προσπαθήστε ξανά"
+  },
+  "ResetPasswordForm": {
+    "title": "Επαναφορά κωδικού πρόσβασης",
+    "text": "Θέλετε να επαναφέρετε τον κωδικό πρόσβασής σας; Θα σας στείλουμε ένα e-mail με οδηγίες.",
+    "submit": "Αποστολή οδηγιών",
+    "email": "Διεύθυνση ηλεκτρονικού ταχυδρομείου"
+  },
+  "SetNewPassword": {
+    "formTitle": "Ας δημιουργήσουμε έναν νέο κωδικό πρόσβασης",
+    "invalidLinkTitle": "Ο σύνδεσμος επαναφοράς κωδικού πρόσβασης δεν ισχύει πλέον",
+    "invalidLinkText": "Αυτός ο σύνδεσμος επαναφοράς κωδικού πρόσβασης δεν ισχύει πλέον. Επιστρέψτε στη σελίδα επαναφοράς κωδικού και δοκιμάστε ξανά.",
+    "resendLink": "Να αποσταλεί ξανά ο σύνδεσμος",
+    "passwordUpdatedTitle": "Ο κωδικός πρόσβασης άλλαξε",
+    "passwordUpdatedText": "Μπορείτε να συνδεθείτε με τον νέο σας κωδικό πρόσβασης.",
+    "signIn": "Είσοδος",
+    "linkExpiredTitle": "Ο σύνδεσμος επαναφοράς του κωδικού πρόσβασης έχει λήξει",
+    "linkExpiredText": "Ο σύνδεσμος επαναφοράς του κωδικού πρόσβασης έχει λήξει. Επιστρέψτε στη σελίδα επαναφοράς κωδικού και δοκιμάστε ξανά.",
+    "validatingLink": "Επαλήθευση συνδέσμου…"
+  },
+  "SetNewPasswordForm": {
+    "newPassword": "Νέος κωδικός πρόσβασης",
+    "confirmNewPassword": "Επιβεβαίωση νέου κωδικού πρόσβασης",
+    "submit": "Ορισμός νέου κωδικού πρόσβασης"
+  },
+  "Welcome": {
+    "title": "Καλωσορίσατε στο",
+    "text1": "Ορίστε και ρυθμίστε τις παραμέτρους των WD και SanDisk προϊόντων σας, ενεργοποιήστε την εγγύησή σας και εγκαταστήστε πρόσθετο λογισμικό.",
+    "text2": "Διαχειριστείτε περιεχόμενο από τον υπολογιστή σας, συμπεριλαμβανομένου περιεχομένου από εξωτερικές μονάδες αποθήκευσης και πλατφόρμες cloud, όλα σε μια ενιαία προβολή.",
+    "text3": "Προβάλετε τα ψηφιακά αρχεία σας ταξινομημένα και με δυνατότητα αναζήτησης σε ένα σημείο είτε είναι συνδεδεμένα είτε όχι.",
+    "copyright": "© {{current_year}} Western Digital Corporation ή οι θυγατρικές της. Με επιφύλαξη παντός δικαιώματος. Εμπιστευτικό."
+  },
+  "NotFound": {
+    "mainText": "Η Σελίδα δεν Βρέθηκε"
+  },
+  "Root": {
+    "browser": "Περιήγηση",
+    "report": "Αποστολή σχολίων"
+  },
+  "Browse": {
+    "unknown": "[ΑΓΝΩΣΤΟ]"
+  },
+  "SettingsRoot": {
+    "account": "Ρυθμίσεις λογαριασμού",
+    "manageSources": "Μονάδες",
+    "language": "Γλώσσα",
+    "appSettings": "Ρυθμίσεις εφαρμογής",
+    "theme": "Θέμα",
+    "helpAndSupport": "Βοήθεια και υποστήριξη",
+    "legal": "Νομικά",
+    "privacy": "Απόρρητο",
+    "darkMode": "Σκοτεινή προβολή",
+    "checking": "έλεγχος…",
+    "logs": "Λήψη αρχείων καταγραφής",
+    "info": "Ρυθμίσεις καρτέλας τίτλων και στοιχείων",
+    "surveys": "Έρευνες",
+    "uniq_identifier_line": "Μοναδικό αναγνωριστικό",
+    "link_text": "Τι σημαίνει αυτό;",
+    "copy": "Αντιγραφή μοναδικού αναγνωριστικού",
+    "copy_success": "Το μοναδικό αναγνωριστικό αντιγράφηκε επιτυχώς",
+    "copy_failed": "Η αντιγραφή του μοναδικού αναγνωριστικού απέτυχε",
+    "manageCatalog": "Διαχείριση καταλόγου",
+    "turboMode": "Λειτουργία Turbo"
+  },
+  "SettingsManageCatalog": {
+    "title": "Διαχείριση καταλόγου",
+    "size": {
+      "title": "Τρέχον μέγεθος",
+      "text": "{{size}} από {{maxSize}} (κατά προσέγγιση ποσοστό {{percent}}% του μεγέθους καταλόγου)",
+      "description": "Ο κατάλογος περιέχει μεταδεδομένα αρχείων, όπως όνομα, ημερομηνία, μέγεθος, προεπισκόπηση εικόνων κ.λπ. Χρησιμοποιούμε έως 10% του ελεύθερου χώρου (υπολογιζόμενος κατά την εγκατάσταση) της μονάδας σας για την αποθήκευση αυτού του καταλόγου. {{link}}",
+      "link": "Μάθετε περισσότερα για τον κατάλογό σας."
+    },
+    "driveSpace": {
+      "title": "Χώρος δίσκου",
+      "chartTitle": "{{free}} Ελεύθερα από {{total}}",
+      "usedSpaceLabel": "Χώρος που χρησιμοποιείται",
+      "usedSpaceTooltip": "{{size}} Χώρος χρησιμοποιείται",
+      "indexSizeLabel": "Τρέχον κατάλογος",
+      "indexSizeTooltip": "{{size}} Μέγεθος τρέχοντος καταλόγου",
+      "maxSizeLabel": "Ανώτατο όριο καταλόγου",
+      "maxSizeTooltip": "{{size}} Ανώτατο μέγεθος καταλόγου",
+      "freeSizeLabel": "Ελεύθερος χώρος",
+      "freeSizeTooltip": "{{size}} Ελεύθερος χώρος"
+    },
+    "updateCatalogSize": {
+      "title": "Ενημέρωση μεγέθους καταλόγου",
+      "text": "Από προεπιλογή εκχωρούμε 10% του ελεύθερου χώρου σας για τον κατάλογο. Εάν χρειάζεστε περισσότερο χώρο για να ταξινομήσετε το περιεχόμενο των μονάδων σας, μπορείτε να αυξήσετε το μέγιστο μέγεθος καταλόγου χρησιμοποιώντας την παρακάτω κυλιόμενη μπάρα.",
+      "size_note": "Σημείωση – Άλλες εφαρμογές χρειάζονται ορισμένο ελεύθερο χώρο για να λειτουργούν κανονικά οπότε το {{product_name}} δεν σας επιτρέπει να αφιερώσετε όλο τον ελεύθερο χώρο σας στον κατάλογο.",
+      "button": "Ενημέρωση μεγέθους καταλόγου",
+      "successUpdated": "Το ανώτατο μέγεθος καταλόγου ορίστηκε ως {{size}}.",
+      "sizeRestrictionWarning": "Δεν μπορείτε να ορίσετε μέγεθος καταλόγου κατώτερο από το τρέχον."
+    }
+  },
+  "SettingsTheme": {
+    "orange": "Πορτοκαλί"
+  },
+  "SettingsAccount": {
+    "title": "Ρυθμίσεις λογαριασμού",
+    "youAreNotSigned": "Δεν έχετε συνδεθεί.",
+    "youAreSignedIn": "Συνδεθήκατε.",
+    "createAccount": "Δημιουργία λογαριασμού",
+    "createAccountOrSignIn": "{{createAccount}} ή {{signIn}}",
+    "logout": "Έξοδος",
+    "deleteAccount": "Κατάργηση του λογαριασμού μου",
+    "profile": "Προφίλ",
+    "name": "Όνομα",
+    "email": "Διεύθυνση e-mail",
+    "password": "Προστασία",
+    "emails": "Μηνύματα e-mail",
+    "analytics": "Analytics",
+    "keplerPrime": "{{product_name}} Access",
+    "editPhoto": "Επεξεργασία",
+    "addPhoto": "Προσθήκη φωτογραφίας",
+    "imageLoadError": "Σφάλμα κατά τη φόρτωση της φωτογραφίας.",
+    "imageTypeError": "Επιτρέπονται αρχεία εικόνων μόνο με τις επεκτάσεις .png και .jpg.",
+    "imageSizeError": "Η εικόνα σας πρέπει να είναι μικρότερη από 30KB.",
+    "cognitoImageSizeError": "Η εικόνα σας πρέπει να είναι μικρότερη από 1ΜΒ.",
+    "generalImageTooltip": "Επιτρέπονται αρχεία εικόνων μόνο με τις επεκτάσεις .png και .jpg. Πρέπει να είναι μικρότερη από 30KB.",
+    "cognitoGeneralImageTooltip": "Επιτρέπονται αρχεία εικόνων μόνο με τις επεκτάσεις .png και .jpg. Πρέπει να είναι μικρότερη από 1MB.",
+    "resetPasswordModal": {
+      "title": "Ελέγξτε το ηλεκτρονικό ταχυδρομείο σας",
+      "text1": "Παρακαλούμε, ελέγξτε το ηλεκτρονικό σας ταχυδρομείο για να βρείτε τις οδηγίες.",
+      "text2": "ΣΗΜΕΙΩΣΗ: Εάν χρησιμοποιείτε την ίδια διεύθυνση ηλεκτρονικού ταχυδρομείου για τους λογαριασμούς EdgeRover™, ibi™, My Cloud™ OS 5 ή My Cloud™ Home, θα γίνει επαναφορά των κωδικών πρόσβασης και για αυτούς τους λογαριασμούς.",
+      "button": "Εκ νέου αποστολή μηνύματος ηλεκτρονικού ταχυδρομείου"
+    }
+  },
+  "SettingsPrivacy": {
+    "title": "Απόρρητο",
+    "shareAnalyticsTitle": "Κοινοποίηση analytics της εφαρμογής στην {{company_name}}",
+    "shareAnalyticsText": "Βοηθήστε την {{company_name}} ομάδα μας να βελτιώσει τα προϊόντα, τις υπηρεσίες και τις εφαρμογές μας και να εξατομικεύσει την εμπειρία σας, με τη συμπερίληψη ειδοποιήσεων εντός της εφαρμογής και προωθητικών μηνυμάτων, αποστέλλοντας αυτόματα δεδομένα χρήσης.{{link}}",
+    "marketingTitle": "Επιτρέψτε στο {{company_name}} να μου αποστέλλει προωθητικά e-mail",
+    "marketingText": "Παραμείνετε συνδεδεμένοι για τις πιο πρόσφατες ενημερώσεις, προσφορές και δελτία τύπου, συμπεριλαμβανομένων στοχευμένων διαφημίσεων μέσω μηνυμάτων εντός της εφαρμογής, προωθητικών μηνυμάτων και e-mail.{{link}}",
+    "learnMore": "Μάθετε περισσότερα"
+  },
+  "SettingsAccountCreateAccount": {
+    "title": "Δημιουργία λογαριασμού",
+    "subtitle": "Δημιουργήστε έναν λογαριασμό για να καταχωρίσετε τις μονάδες σας και να ενεργοποιήσετε την εγγύησή τους - δεν απαιτείται πιστωτική κάρτα."
+  },
+  "Language": {
+    "title": "Γλώσσα"
+  },
+  "AppSettings": {
+    "info": "Ρυθμίσεις καρτέλας τίτλων και στοιχείων",
+    "resetSettings": "Επαναφορά ρυθμίσεων καρτέλας τίτλων και στοιχείων",
+    "resetBtn": "Επαναφορά",
+    "title": "Ρυθμίσεις εφαρμογής",
+    "appVersion": "Έκδοση Εφαρμογής",
+    "privacy": "Απόρρητο",
+    "version": "Έκδοση {{version}}",
+    "latestVersion": "Έχετε την πιο πρόσφατη έκδοση του {{product_name}}!",
+    "updateAvailable": "Διατίθεται νέα έκδοση. {{update}}",
+    "updateFailed": "Η ενημέρωση ακυρώθηκε. {{retry}}",
+    "retry": "Επανάληψη",
+    "downloadingUpdate": "Λήψη ενημέρωσης…",
+    "updateLoaded": "Η ενημέρωση ελήφθη. {{relaunch}}",
+    "relaunch": "Επανεκκίνηση του {{product_name}}",
+    "updateNow": "Ενημέρωση τώρα",
+    "appLaunch": "Εκκίνηση εφαρμογής",
+    "openAutomatically": "Αυτόματη εκκίνηση του {{product_name}} με τη σύνδεσή σας στον υπολογιστή.",
+    "language": "Γλώσσα",
+    "offline": "Σύνδεση στο διαδίκτυο και έλεγχος για ενημερώσεις."
+  },
+  "HelpFeedback": {
+    "title": "Βοήθεια & σχόλια",
+    "haveQuestion": "Έχω μια ερώτηση ή ένα σχόλιο…",
+    "helpCenter": "Κέντρο υποστήριξης (Help center)",
+    "reportProblem": "Αναφορά προβλήματος",
+    "generalQuestion": "Γενική ερώτηση ή σχόλιο",
+    "haveIdea": "Έχω μια ιδέα…",
+    "requestFeature": "Αίτημα για μια λειτουργία"
+  },
+  "HelpAndSupport": {
+    "title": "Βοήθεια και υποστήριξη",
+    "HowToAddASource": "Πώς να προσθέσετε μια μονάδα",
+    "StartAddingASource": "Ξεκινήστε την προσθήκη μιας μονάδας",
+    "KeyboardShortcuts": "Συντομεύσεις πληκτρολογίου ",
+    "OpenKeyboardShortcuts": "Άνοιγμα συντομεύσεων πληκτρολογίου",
+    "tipsTricks": "Συμβουλές",
+    "helpSite": "Ιστότοπος βοήθειας"
+  },
+  "Legal": {
+    "title": "Νομικά",
+    "terms": "Όροι χρήσης",
+    "policy": "Δήλωση Απορρήτου",
+    "privacyFAQ": "Συχνές ερωτήσεις για το απόρρητο",
+    "acceptableUsePolicy": "Πολιτική νόμιμης χρήσης",
+    "copyrightUsePolicy": "Πολιτική για τα πνευματικά δικαιώματα",
+    "trademarks": "Εμπορικά σήματα",
+    "openSourceNotices": "Άνοιγμα ειδοποιήσεων μονάδων"
+  },
+  "SettingsAccountSidePanelChangeName": {
+    "title": "Αλλαγή ονοματεπώνυμου",
+    "text": "Επεξεργασία και αποθήκευση του ονοματεπώνυμού σας."
+  },
+  "ChangeNameForm": {
+    "enterFirstNameError": "Εισαγωγή ονόματος",
+    "enterLastNameError": "Εισαγωγή επωνύμου"
+  },
+  "SettingsAccountSidePanelChangePassword": {
+    "title": "Αλλαγή κωδικού πρόσβασης",
+    "text": "Εισάγετε τον τρέχοντα κωδικό πρόσβασής σας παρακάτω, και, στη συνέχεια, επιλέξτε έναν νέο κωδικό πρόσβασης."
+  },
+  "ChangePasswordForm": {
+    "currentPassword": "Τρέχων κωδικός πρόσβασης",
+    "newPassword": "Νέος κωδικός πρόσβασης",
+    "repeatNewPassword": "Επιβεβαίωση νέου κωδικού πρόσβασης"
+  },
+  "DeleteAccountModal": {
+    "title": "Να καταργηθεί μόνιμα ο {{product_name}} λογαριασμός σας;",
+    "text": "<p>Λυπούμαστε που φεύγετε.</p><p>Καταργώντας τον {{product_name}} λογαριασμό σας, θα καταργηθεί ο κατάλογος του περιεχομένου σας από όλες τις συνδεδεμένες μονάδες. </p><p>Πριν καταργήσετε τον λογαριασμό σας, ίσως μπορούμε να σας βοηθήσουμε. {{getInTouch}}</p><p>Ή πιέστε συνέχεια για να προχωρήσετε.</p>",
+    "getInTouch": "Επικοινωνήστε μαζί μας"
+  },
+  "DeleteAccountForm": {
+    "text": "Εισάγετε τον κωδικό πρόσβασής σας για να καταργήσετε μόνιμα τον λογαριασμό σας στο {{product_name}}."
+  },
+  "Main": {
+    "manageSource": "Προσθήκη και διαχείριση μονάδων"
+  },
+  "MainActions": {
+    "title": "Περιήγηση στο περιεχόμενό σας",
+    "sources": "Ανά μονάδες"
+  },
+  "Search": {
+    "title": "Εμφάνιση αποτελεσμάτων για «{{query}}»",
+    "emptyTitle": "Αποτελέσματα αναζήτησης",
+    "empty": "Φαίνεται πως δεν βρέθηκαν αποτελέσματα για την αναζήτηση «{{query}}»",
+    "text1": "Δεν βρήκατε αυτό που αναζητούσατε;",
+    "text2": "Δοκιμάστε να ενημερώσετε τα φίλτρα και να επαναλάβετε την αναζήτηση ή να επανεκκινήσετε την {{product_name}} εφαρμογή για να επικαιροποιήσετε τον κατάλογό σας."
+  },
+  "SearchMain": {
+    "title": "Αναζήτηση",
+    "searchHistory": "Ιστορικό αναζητήσεων",
+    "empty": "Φαίνεται πως δεν βρέθηκε ιστορικό αναζητήσεων.",
+    "count": "({{count}})"
+  },
+  "SearchInput": {
+    "placeholder": "Περιήγηση στο περιεχόμενό σας",
+    "search": "Αναζήτηση"
+  },
+  "SearchInputSuggestions": {
+    "submitHelpText": "«{{query}}» Αναζήτηση πιέζοντας enter.",
+    "submitHelpTextTruncated": "«{{query}}…» Αναζήτηση πιέζοντας enter."
+  },
+  "SearchInputSuggestionsList": {
+    "tags": "Για εσάς",
+    "tagsEmpty": "Δεν υπάρχουν στοιχεία που να αντιστοιχούν στη λέξη-κλειδί.",
+    "locations": "Τοποθεσίες",
+    "locationsEmpty": "Δεν υπάρχουν τοποθεσίες που να αντιστοιχούν στη λέξη-κλειδί.",
+    "history": "Ιστορικό αναζητήσεων",
+    "historyEmpty": "Δεν υπάρχει ιστορικό που να αντιστοιχεί στη λέξη-κλειδί.",
+    "titleButton": "Καθαρισμός όλου του ιστορικού"
+  },
+  "SearchHeader": {
+    "selectSource": "Επιλογή μονάδας",
+    "categories": "Κατηγορίες",
+    "kind": "Τύπος αρχείου",
+    "moreFilters": "Περισσότερα φίλτρα",
+    "resetAll": "Επαναφορά όλων",
+    "locationGroupLabel": "{{country}} {{city}}",
+    "fromLabel": "από {{from}}",
+    "toLabel": "έως {{to}}",
+    "rangeLabel": "{{from}} - {{to}}",
+    "allSources": "Όλες οι μονάδες",
+    "allCategories": "Όλες οι κατηγορίες",
+    "allKinds": "Όλοι οι τύποι αρχείων"
+  },
+  "DropdownFilter": {
+    "all": "Όλα"
+  },
+  "SearchContentGroups": {
+    "query": "Αποτελέσματα αναζήτησης για «{{- query}}»"
+  },
+  "SearchContentGroup": {
+    "all": "Όλα: Όλες οι αντιστοιχίες",
+    "media": "Πολυμέσα: Φωτογραφίες και βίντεο",
+    "pdf": "PDF",
+    "writing": "Κείμενα",
+    "presentation": "Παρουσιάσεις",
+    "book": "Βιβλία",
+    "spreadsheet": "Λογιστικά φύλλα",
+    "audio": "Ήχος",
+    "more": "Περισσότερα"
+  },
+  "SearchFiltersSidePanel": {
+    "title": "Περισσότερες επιλογές φίλτρων",
+    "description": "Προσθήκη φίλτρων για να περιορίσετε τα αποτελέσματα της αναζήτησής σας και να βρείτε αυτό που ψάχνετε.",
+    "locationDescription": "Πραγματοποιήστε αναζήτηση των αποτελεσμάτων σας ανά τοποθεσία για να προβάλετε φωτογραφίες και βίντεο που επισημάνθηκαν αυτόματα με την τοποθεσία στην οποία καταχωρίσθηκαν.",
+    "tagsDescription": "Περιορίστε τα αποτελέσματά σας και ανά αυτόματη ετικέτα του {{product_name}} καθώς και ανά ετικέτα που προσθέσατε εσείς χειροκίνητα.",
+    "places": "Τοποθεσίες",
+    "tags": "Ετικέτες",
+    "range": "Εύρος ημερομηνιών",
+    "create": "Ημερομηνία δημιουργίας",
+    "modify": "Ημερομηνία τροποποίησης",
+    "from": "από",
+    "to": "προς",
+    "apply": "Υποβολή"
+  },
+  "SearchFiltersSidePanelGroupInfo": {
+    "selected": "Επιλέχθηκε το {{count}}"
+  },
+  "SearchFiltersSidePanelGroupSelector": {
+    "search": "Αναζήτηση",
+    "selected": "Επιλέχθηκε το {{count}}",
+    "confirm": "Επιβεβαίωση"
+  },
+  "FilesList": {
+    "empty": "Κενή",
+    "empty_folder_title": "Αυτός ο φάκελος είναι κενός!",
+    "empty_folder_text_mac": "Όταν τα αρχεία σας είναι έτοιμα, προσθέστε τα μέσω του Finder.",
+    "empty_folder_text_win": "Όταν τα αρχεία σας είναι έτοιμα, προσθέστε τα μέσω του Explorer.",
+    "empty_drive_title": "Αυτή η μονάδα είναι κενή!",
+    "empty_drive_text_mac": "Όταν τα αρχεία σας είναι έτοιμα, αποθέστε τα σε αυτήν τη μονάδα μέσω του Finder.",
+    "empty_drive_text_win": "Όταν τα αρχεία σας είναι έτοιμα, αποθέστε τα σε αυτήν τη συσκευή μέσω του File Explorer και επανεκκινήστε την {{product_name}} εφαρμογή.",
+    "empty_external_drive_text": "Όταν τα αρχεία σας είναι έτοιμα, αποθέστε τα σε αυτήν τη μονάδα.",
+    "empty_external_folder_text": "Όταν τα αρχεία σας είναι έτοιμα, αποθέστε τα σε αυτόν τον φάκελο.",
+    "empty_cloud_source_folder_text": "Όταν προσθέτετε αρχεία στον λογαριασμό cloud σας, το {{product_name}} θα ενημερώνει αυτόματα αυτόν τον φάκελο.",
+    "empty_social_source_folder_text": "Όταν προσθέτετε αρχεία στον λογαριασμό cloud σας, το {{product_name}} θα ενημερώνει αυτόματα αυτόν τον φάκελο.",
+    "open_folder_mac": "Άνοιγμα στο Finder",
+    "open_folder_win": "Άνοιγμα στο File Explorer",
+    "manage_sources": "Μονάδες",
+    "empty_facet_title": "Δεν έχει προστεθεί τίποτα ακόμη!",
+    "empty_facet_text": "Συνδέστε και ταξινομήστε τις μονάδες σας. Η προσθήκη πολλαπλών μονάδων θα συμπληρώσει το {{product_name}} με το περιεχόμενό σας.",
+    "list_view": "Προβολή λίστας",
+    "media_view": "Προβολή πολυμέσων",
+    "thumbnail_view": "Προβολή μικρογραφιών",
+    "preview": "Παράθυρο προεπισκόπησης"
+  },
+  "ListView": {
+    "name": "Όνομα",
+    "kind": "Τύπος",
+    "mTime": "Ημερομηνία τροποποίησης",
+    "cTime": "Ημερομηνία δημιουργίας",
+    "source": "Μονάδα",
+    "size": "Μέγεθος",
+    "artist": "Καλλιτέχνης",
+    "author": "Συγγραφέας",
+    "totalSize": "Συνολικό μέγεθος",
+    "item": "Στοιχείο",
+    "duplicates": "Σύνολο #"
+  },
+  "ThumbnailsView": {
+    "folders": "Φάκελοι",
+    "folder": "Φάκελος",
+    "files": "Αρχεία",
+    "similar_group": "Παρόμοια ομάδα"
+  },
+  "Media": {
+    "select": "Επιλογή και οργάνωση"
+  },
+  "MediaGroupList": {
+    "empty_photos": "Δεν υπάρχουν φωτογραφίες ακόμα",
+    "empty_videos": "Δεν υπάρχουν βίντεο ακόμα"
+  },
+  "SingleItemView": {
+    "lockedFile": "Ανοίξτε αυτό το αρχείο για να το ξεκλειδώσετε.",
+    "noPreviewAvailable": "Αυτός ο τύπος αρχείου δεν υποστηρίζει προεπισκόπηση.",
+    "noPreviewDocumentCloud": "Η προεπισκόπηση εγγράφων δεν είναι διαθέσιμη αυτή τη στιγμή για ορισμένες πηγές cloud και πηγές μέσων κοινωνικής δικτύωσης.",
+    "showInParentFolder": "Εμφάνιση αρχικού φακέλου",
+    "previewOnly": "– Μόνο προεπισκόπηση",
+    "prev": "Προηγούμενο",
+    "next": "Επόμενο",
+    "location": "Εμφάνιση τοποθεσίας",
+    "info": "Περισσότερα στοιχεία",
+    "descriptionTitle": "Περιγραφή",
+    "descriptionHide": "Απόκρυψη",
+    "more": " …περισσότερα",
+    "more_actions": "Περισσότερα",
+    "more_info": "Οθόνη περισσότερων στοιχείων",
+    "rename": "Μετονομασία",
+    "copy": "Αντιγραφή",
+    "remove": "Διαγραφή",
+    "fullscreen": "Πλήρης οθόνη",
+    "close_fullscreen": "Κλείσιμο πλήρους οθόνης",
+    "no_source": "Το {{- sourceName}} δεν είναι διαθέσιμο.",
+    "defaultSource": "Μονάδα αρχείων",
+    "DASDisconnectedPopup": {
+      "title": "Πώς να αποκτήσετε πρόσβαση σε περιεχόμενο αποσυνδεδεμένων μονάδων",
+      "description": "Το {{product_name}} σας επιτρέπει να προβάλετε τις διαθέσιμες προεπισκοπήσεις αρχείων, ακόμη και αν η μονάδα τους δεν είναι συνδεδεμένη. Για να ανοίξετε το αρχείο στην προσωπική σας συσκευή ή να ανοίξετε τον φάκελο περιεχομένων της, η μονάδα σας πρέπει να είναι συνδεδεμένη."
+    },
+    "CloudUnavailablePopup": {
+      "title": "Πώς να αποκτήσετε πρόσβαση σε πηγές μέσων κοινωνικής δικτύωσης και cloud",
+      "description": "Για να ανοίξετε ένα αρχείο μέσω του παρόχου κοινωνικής δικτύωσης ή του cloud, βεβαιωθείτε ότι είστε συνδεδεμένοι στο διαδίκτυο."
+    },
+    "no_file": "Επιλέξτε ένα στοιχείο για να προβάλετε την προεπισκόπησή του.",
+    "file_info": "Προβάλετε τα Στοιχεία αρχείου",
+    "open_in_finder": "Οι παρακάτω ενέργειες θα ανοίξουν στο Finder.",
+    "open_in_photos_library": "Οι παρακάτω ενέργειες θα ανοίξουν στην εφαρμογή Φωτογραφίες.",
+    "open_in_explorer": "Οι παρακάτω ενέργειες θα ανοίξουν στο Explorer."
+  },
+  "SingleItemViewZoomControls": {
+    "scale": "{{value}}%",
+    "zoom_in": "Μεγέθυνση",
+    "zoom_out": "Σμίκρυνση",
+    "fit": "Προσαρμογή στην οθόνη"
+  },
+  "VolumeListCommon": {
+    "mountPoint": "{{label}} ({{mountPoint}})",
+    "homeDir": "{{main}}/{{home}}"
+  },
+  "ConnectedVolumeList": {
+    "connectedSource": "Συνδεδεμένες μονάδες",
+    "ejected": "(αποσυνδεδεμένες)",
+    "remove": "Κατάργηση μονάδας",
+    "noConnectedSources": "Δεν υπάρχουν συνδεδεμένες μονάδες.",
+    "addText": "Πιέστε το πλήκτρο «Προσθήκη μονάδων» για να συνδέσετε τις μονάδες."
+  },
+  "VolumesWizardWaiting": {
+    "doNotWait": "Δεν θέλω να περιμένω",
+    "paused": "Η ταξινόμηση έχει διακοπεί προσωρινά για εξοικονόμηση μπαταρίας. Συνδέστε τον φορητό υπολογιστή σας στο ρεύμα για να συνεχίσετε.",
+    "itemError": "Ωχ! Παρουσιάστηκε πρόβλημα. Η μονάδα {{label}} δεν πραγματοποιεί σάρωση.",
+    "unpluggedError": "Η μονάδα {{label}} ήταν εκτός ρεύματος κατά τη διάρκεια της σάρωσης.",
+    "allUnpluggedError": "Όλες οι συνδεδεμένες μονάδες ήταν εκτός ρεύματος κατά τη διάρκεια της σάρωσης.",
+    "info": [
+      {
+        "title": "Σάρωση σε εξέλιξη…",
+        "description": "Η διαδικασία αυτή μπορεί να διαρκέσει έως 5 λεπτά. Διατηρήστε τις εξωτερικές συσκευές αποθήκευσης συνδεδεμένες και την εφαρμογή {{product_name}} σε λειτουργία."
+      },
+      {
+        "title": "Σάρωση των μονάδων σας…",
+        "description": "Στιγμιότυπα της αποθήκευσής σας αποθηκεύονται τοπικά ανάλογα με τον διαθέσιμο χώρο, ώστε να βρίσκετε και να πραγματοποιείτε προεπισκόπηση του περιεχομένου σας οποτεδήποτε."
+      },
+      {
+        "title": "Λήψη στιγμιότυπων…",
+        "description": "Στιγμιότυπα της αποθήκευσής σας αποθηκεύονται τοπικά ανάλογα με τον διαθέσιμο χώρο, ώστε να βρίσκετε και να πραγματοποιείτε προεπισκόπηση του περιεχομένου σας οποτεδήποτε."
+      },
+      {
+        "title": "Ταξινόμηση περιεχομένου…",
+        "description": "Το {{product_name}} δημιουργεί φίλτρα για να οργανώνετε αυτόματα τις φωτογραφίες, τα βίντεο και τα αρχεία σας."
+      },
+      {
+        "title": "Τελική τακτοποίηση…",
+        "description": "Μπορείτε πάντα να συνδέσετε περισσότερες μονάδες αποθήκευσης στο {{product_name}} μεταβαίνοντας στις <strong>Πηγές</strong>."
+      }
+    ]
+  },
+  "ManageSources": {
+    "title": "Μονάδες",
+    "addSource": "Προσθήκη μονάδας",
+    "failureErrorAddCloudSourceMessage": "Παρουσιάστηκε πρόβλημα. Αδυναμία σύνδεσης στον λογαριασμό σας. Προσπαθήστε ξανά.",
+    "existsErrorAddCloudSourceMessage": "Ο λογαριασμός είναι ήδη συγχρονισμένος. Δεν μπορείτε να συγχρονίσετε τον ίδιο λογαριασμό πολλές φορές."
+  },
+  "SourceContextMenu": {
+    "removeIndex": "Κατάργηση καταλόγου",
+    "indexDrive": "Μονάδα καταλόγου",
+    "manageIndex": "Διαχείριση καταλόγου",
+    "unlock": "Ξεκλείδωμα",
+    "setPassword": "Ορισμός κλειδώματος",
+    "editPassword": "Επεξεργασία κωδικού πρόσβασης",
+    "driveSettings": "Ρυθμίσεις Συσκευής",
+    "eraseDrive": "Διαγραφή συσκευής",
+    "eject": "Eject (Εξαγωγή)",
+    "raidsettings": "Ρυθμίσεις Raid",
+    "noActions": "Δεν υπάρχουν διαθέσιμες ενέργειες τώρα",
+    "reconnectCloudSource": "Επανασύνδεση πηγής"
+  },
+  "PhotosLibraryAction": {
+    "title": "Σημείωση",
+    "titleDetached": "Αποσύνδεση βιβλιοθήκης φωτογραφιών",
+    "openPhotosApp": "Ανοίξτε την εφαρμογή φωτογραφιών",
+    "text": "Για να πραγματοποιήστε οποιαδήποτε ενέργεια σε αυτό το στοιχείο, ανοίξτε το στην εφαρμογή φωτογραφιών.",
+    "textDetached": "Η αποσύνδεση βιβλιοθήκης φωτογραφιών είναι σε εξέλιξη. Ενδέχεται να μην έχετε πρόσβαση σε ορισμένα στοιχεία μέχρι να ολοκληρωθεί αυτή η διαδικασία."
+  },
+  "ReportBugModal": {
+    "title": "Αποστολή σχολίων",
+    "listTitle": "Τα σχόλιά σας είναι εξαιρετικά σημαντικά για εμάς. Εάν έχετε ιδέες για τη βελτίωση της εφαρμογής ή αντιμετωπίζετε οποιοδήποτε πρόβλημα, επικοινωνήστε μαζί μας.",
+    "copy": "Αντιγραφή μοναδικού αναγνωριστικού",
+    "idea": "Υποβάλετε μια ιδέα:",
+    "portal": "Επισκεφτείτε τη διεύθυνση {{link}} για να προσθέσετε τις δικές σας ιδέες και να δείτε τι έχουν μοιραστεί άλλοι χρήστες.",
+    "issue": "Αναφορά προβλήματος:",
+    "upload": "1. Μεταφορτώστε τα αρχεία καταγραφής σας για να μας δώσετε όσο το δυνατόν περισσότερες πληροφορίες για την κατάσταση.",
+    "email": "2. Στείλτε μας ένα {{email}} περιγράφοντας το πρόβλημά σας.",
+    "emailLink": "Διεύθυνση e-mail",
+    "download": "Λήψη αρχείων καταγραφής",
+    "uploadLogs": "Μεταφόρτωση αρχείων καταγραφής",
+    "uploading": "Αποστολή... ",
+    "connection_error": "Πρέπει να είστε συνδεδεμένοι στο διαδίκτυο για να μεταφορτώσετε τα αρχεία καταγραφής σας. Συνδεθείτε και προσπαθήστε ξανά.",
+    "error": "Σφάλμα κατά τη μεταφόρτωση των αρχείων καταγραφής. Προσπαθήστε ξανά.",
+    "subject": "{{product_name}} σχόλια",
+    "success": "Τα αρχεία καταγραφής μεταφορτώθηκαν επιτυχώς.",
+    "uid": "Μοναδικό αναγνωριστικό",
+    "what": "Τι σημαίνει αυτό;"
+  },
+  "DisconnectModal": {
+    "title": "Είστε βέβαιοι ότι θέλετε να καταργήσετε αυτήν τη μονάδα;",
+    "message": "Ο κατάλογος του περιεχόμενου της μονάδας σας θα καταργηθεί μόνιμα. Δεν θα μπορείτε πλέον να πραγματοποιείτε προεπισκόπηση ή αναζήτηση περιεχομένου σε αυτήν.",
+    "disconnect": "Κατάργηση μονάδας",
+    "close": "Άκυρο"
+  },
+  "Scanner": {
+    "progress": "Σάρωση σε εξέλιξη…"
+  },
+  "ConnectErrorModal": {
+    "title": "Ωχ, παρουσιάστηκε πρόβλημα",
+    "permissionTitle": "Δεν επιτρέπεται η πρόσβαση.",
+    "driveMessage": "Η συσκευή σας {{diskName}} δεν συνδέθηκε εξαιτίας ενός σφάλματος.",
+    "drivesMessage": "Οι συσκευές {{diskNameList}} δεν συνδέθηκαν εξαιτίας ενός σφάλματος.",
+    "permissionMessage": "{{product_name}} δεν επιτρέπεται να έχει πρόσβαση σε αρχεία. Επαναλάβετε τη διαδικασία και επιτρέψτε την πρόσβαση ή αλλάξτε τις προτιμήσεις συστήματος για να παραχωρήσετε πρόσβαση.",
+    "AllDrivesMessage": "Οι συσκευές σας δεν συνδέθηκαν εξαιτίας ενός σφάλματος."
+  },
+  "DisconnectErrorModal": {
+    "title": "Ωχ, παρουσιάστηκε πρόβλημα",
+    "driveMessage": "Η συσκευή σας {{diskName}} δεν αποσυνδέθηκε εξαιτίας ενός σφάλματος.",
+    "drivesMessage": "Οι συσκευές {{diskNameList}} δεν αποσυνδέθηκαν εξαιτίας ενός σφάλματος.",
+    "AllDrivesMessage": "Οι συσκευές σας δεν αποσυνδέθηκαν εξαιτίας ενός σφάλματος."
+  },
+  "ModalUpdateError": {
+    "permissionTitle": "Δεν επιτρέπεται η πρόσβαση.",
+    "title": "Ωχ, παρουσιάστηκε πρόβλημα",
+    "driveMessage": "Η συσκευή σας {{diskName}} δεν ενημερώθηκε εξαιτίας ενός σφάλματος.",
+    "drivesMessage": "Οι συσκευές {{diskNameList}} δεν ενημερώθηκαν εξαιτίας ενός σφάλματος.",
+    "permissionMessage": "{{product_name}} δεν επιτρέπεται να έχει πρόσβαση σε αρχεία. Επαναλάβετε τη διαδικασία και επιτρέψτε την πρόσβαση ή αλλάξτε τις προτιμήσεις συστήματος για να παραχωρήσετε πρόσβαση.",
+    "AllDrivesMessage": "Οι συσκευές σας δεν ενημερώθηκαν εξαιτίας ενός σφάλματος."
+  },
+  "UnplugModal": {
+    "driveTitle": "Η συσκευή σας {{label}} είναι εκτός ρεύματος",
+    "drivesTitle": "Οι συσκευές σας είναι εκτός ρεύματος",
+    "driveText": "Η συσκευή σας {{label}} ήταν εκτός ρεύματος κατά τη διάρκεια της σάρωσης και το περιεχόμενό σας στο {{product_name}} δεν θα είναι ενημερωμένο. Οι σαρώσεις των υπόλοιπων συσκευών σας θα συνεχιστούν.",
+    "drivesText": "Οι συσκευές {{labels}} ήταν εκτός ρεύματος κατά τη διάρκεια της σάρωσης και το περιεχόμενό σας στο {{product_name}} δεν θα είναι ενημερωμένο. Οι σαρώσεις των υπόλοιπων συσκευών σας θα συνεχιστούν."
+  },
+  "ChangePasswordSignOutModal": {
+    "title": "Έχετε αποσυνδεθεί.",
+    "text": "Έχετε αποσυνδεθεί από τη στιγμή που ο κωδικός πρόσβασής σας ενημερώθηκε. Συνδεθείτε ξανά, για να συνεχίσετε."
+  },
+  "PasswordChanged": {
+    "title": "Ελέγξτε το ηλεκτρονικό ταχυδρομείο σας",
+    "text": "Αν υπάρχει {{product_name}} λογαριασμός για {{email}}, θα σας αποσταλεί ένα e-mail με περαιτέρω οδηγίες.",
+    "button": "Να αποσταλεί ξανά ο σύνδεσμος",
+    "success": "Το e-mail απεστάλη επιτυχώς"
+  },
+  "AlbumToasts": {
+    "updateSuccess": "Η συλλογή ενημερώθηκε",
+    "removeSuccess": "Η συλλογή καταργήθηκε",
+    "coverChangeSuccess": "Το εξώφυλλο της συλλογής άλλαξε",
+    "creationCoverChangeSuccess": "Ορίστηκε φωτογραφία εξωφύλλου",
+    "filesAdded": "{{count}} Προστέθηκε αρχείο",
+    "filesAdded_plural": "{{count}} Προστέθηκαν αρχεία",
+    "filesNotAdded": "{{count}} το αρχείο υπάρχει ήδη στη συλλογή.",
+    "filesNotAdded_plural": "{{count}} τα αρχεία υπάρχουν ήδη στη συλλογή.",
+    "filesRemoved": {
+      "items": "Το στοιχείο καταργήθηκε",
+      "items_plural": "{{count}} Τα στοιχεία καταργήθηκαν"
+    }
+  },
+  "AlbumsTooltips": {
+    "addPhotos": "Προσθήκη φωτογραφιών",
+    "description": "Περιγραφή"
+  },
+  "Albums": {
+    "title": "Συλλογές",
+    "search": "Αναζήτηση",
+    "forYou": "Για εσάς",
+    "locations": "Τοποθεσίες",
+    "creationDescription": "Δώστε στη συλλογή σας ένα όνομα και μια προαιρετική περιγραφή, ώστε να την εντοπίσετε αργότερα.",
+    "groupTitle": "Όνομα συλλογής",
+    "button1": "Περιήγηση",
+    "button2": "Αναζήτηση",
+    "description": "Προσθέστε μια προαιρετική περιγραφή.",
+    "name": "Προσθήκη ονόματος",
+    "remove": "Κατάργηση συλλογής",
+    "edit": "Επεξεργασία ονόματος/περιγραφής"
+  },
+  "AddPhotosToAlbum": {
+    "title": "Προσθήκη φωτογραφιών"
+  },
+  "AlbumList": {
+    "noAlbumsYet": "Δεν προστέθηκαν συλλογές ακόμα",
+    "noAlbumsYetSubtitle1": "Δημιουργήστε συλλογές με το περιεχόμενό σας σε όλες τις μονάδες σας.",
+    "counter": "{{count}} στοιχείο",
+    "counter_plural": "{{count}} στοιχεία",
+    "create_collection": "Δημιουργία συλλογής"
+  },
+  "AlbumRenameModal": {
+    "title": "Ονομασία συλλογής",
+    "placeholder": "Όνομα συλλογής",
+    "invalidName": "Το όνομα δεν μπορεί να περιέχει οποιονδήποτε από τους ακόλουθους χαρακτήρες: \\/<|>\"?*:",
+    "enterName": "Εισάγετε πρώτα το όνομα της συλλογής."
+  },
+  "AlbumDescription": {
+    "title": "Περιγραφή",
+    "save": "Αποθήκευση",
+    "readMore": "διαβάστε περισσότερα",
+    "addDescription": "Χωρίς περιγραφή"
+  },
+  "AlbumCommon": {
+    "selectCoverPhoto": "Επιλέξτε φωτογραφία εξωφύλλου",
+    "items": "{{count}} στοιχείο από {{date}}",
+    "items_plural": "{{count}} στοιχεία από {{date}}",
+    "emptyText": "Δεν υπάρχει τίποτα εδώ!",
+    "emptySubtext": "Από ότι φαίνεται δεν έχουν προστεθεί ακόμα φωτογραφίες εδώ…. {{product_name}Το } δεν μπορεί να κάνει πολλά με μια άδεια συλλογή!",
+    "addPhotos": "Προσθήκη φωτογραφιών",
+    "created": "Δημιουργήθηκε στις {{date}}",
+    "coverTitle": "Πώς προσθέτω στοιχεία;",
+    "coverDescription": "Για να προσθέσετε περιεχόμενο σε αυτήν τη συλλογή, περιηγηθείτε ή αναζητήστε το, επιλέξτε ό,τι θέλετε να προσθέσετε ή επιλέξτε «Προσθήκη στη συλλογή».",
+    "emptyCoverDescription": "Για να προσθέσετε περιεχόμενο σε αυτήν τη συλλογή, περιηγηθείτε ή αναζητήστε το, επιλέξτε ό,τι θέλετε να προσθέσετε και επιλέξτε «Προσθήκη στη συλλογή». Χρησιμοποιήστε το παρακάτω κουμπί για να επιλέξετε και να μεταβείτε απευθείας σε μια ενότητα της Περιήγησης."
+  },
+  "RemoveAlbum": {
+    "title": "Κατάργηση",
+    "removeAlbum": "Θέλετε να καταργήσετε τη συλλογή «{{collection}}»;",
+    "delete": "Ναι, να καταργηθεί"
+  },
+  "RemoveAlbumPhotos": {
+    "title": {
+      "items": "Να καταργηθεί το στοιχείο από τη συλλογή;",
+      "items_plural": "Να καταργηθούν τα στοιχεία από τη συλλογή;"
+    },
+    "text": {
+      "items": "Είστε βέβαιοι ότι θέλετε να καταργήσετε το επιλεγμένο στοιχείο από τη συλλογή; Η ενέργεια αυτή θα καταργήσει απλώς το επιλεγμένο στοιχείο από αυτήν τη συλλογή, αλλά δεν θα το διαγράψει.",
+      "items_plural": "Είστε βέβαιοι ότι θέλετε να καταργήσετε {{count}} τα επιλεγμένα στοιχεία από τη συλλογή; Η ενέργεια αυτή θα καταργήσει απλώς τα επιλεγμένα στοιχεία από αυτήν τη συλλογή, αλλά δεν θα τα διαγράψει."
+    }
+  },
+  "AlbumItemContextMenu": {
+    "addPhotos": "Προσθήκη φωτογραφιών",
+    "download": "Λήψη"
+  },
+  "AlbumContextMenu": {
+    "setAsCover": "Ορισμός ως εξώφυλλο"
+  },
+  "Objects": {
+    "title": "Αναζήτηση",
+    "location": "Τοποθεσίες",
+    "tag": "Για εσάς",
+    "emptyLocations": "Από ό,τι φαίνεται δεν έχουν προστεθεί ακόμα τοποθεσίες.",
+    "emptyTagGroups": "Από ό,τι φαίνεται δεν έχουν προστεθεί ακόμα ομάδες με ετικέτα."
+  },
+  "ObjectsGroup": {
+    "empty": "Από ό,τι φαίνεται δεν έχουν προστεθεί ακόμα ομάδες με ετικέτα."
+  },
+  "LocationGroups": {
+    "title": "Τοποθεσίες",
+    "empty": "Από ό,τι φαίνεται δεν έχουν προστεθεί ακόμα τοποθεσίες."
+  },
+  "TagGroups": {
+    "title": "Για εσάς",
+    "empty": "Από ό,τι φαίνεται δεν έχουν προστεθεί ακόμα ομάδες με ετικέτα."
+  },
+  "ObjectGroup": {
+    "albumsCounted": "Συλλογές ({{count}})",
+    "albums": "Συλλογές"
+  },
+  "TagGroup": {
+    "forYou": "Για εσάς",
+    "search": "Αναζήτηση"
+  },
+  "LocationGroup": {
+    "locations": "Τοποθεσίες",
+    "search": "Αναζήτηση"
+  },
+  "ObjectSuggestions": {
+    "tagGroups": "Για εσάς",
+    "locationGroups": "Τοποθεσία",
+    "empty": "Δεν υπάρχουν συλλογές με αντιστοιχία στο <span>«{{query}}»</span>.<br>Για να συνεχίσετε να αναζητάτε αρχεία και φακέλους, πιέστε Enter."
+  },
+  "OfflineAlertModal": {
+    "title": "Είστε εκτός σύνδεσης",
+    "text": "Το KAS δεν είναι διαθέσιμο εξαιτίας ενός σφάλματος στη σύνδεση, αλλά μπορείτε να μεταβείτε στην τοπική συσκευή."
+  },
+  "SidebarDevices": {
+    "mac": "Mac",
+    "pc": "ΓΙΑ ΕΠΙΤΡΑΠΕΖΙΟΥΣ ΥΠΟΛΟΓΙΣΤΕΣ",
+    "cloud": "Πρόσβαση"
+  },
+  "IndexingStatusSidebarContent": {
+    "preparing": "Προετοιμασία…",
+    "paused": "(Σε παύση)",
+    "pausedCommon": "Περιμένετε μέχρι να ενημερώσουμε την κατάσταση ταξινόμησης.",
+    "lowBattery": "Χαμηλή μπαταρία. Η ταξινόμηση βρίσκεται σε παύση μέχρι ο υπολογιστής σας να συνδεθεί με τροφοδοσία ρεύματος.",
+    "ejectedDrive": "Η ταξινόμηση βρίσκεται σε παύση, επειδή η μονάδα αποσυνδέθηκε. Επανασυνδέστε τη μονάδα για να συνεχίσετε.",
+    "indexUpToDate": "Ο κατάλογος ενημερώθηκε",
+    "indexingConnectionError": "Η ταξινόμηση βρίσκεται σε παύση. Συνδεθείτε στο διαδίκτυο για να συνεχίσετε.",
+    "nothingIndexed": "Δεν ταξινομήθηκε τίποτα ακόμα"
+  },
+  "Sidebar": {
+    "search": "Αναζήτηση",
+    "browse": "Περιήγηση",
+    "collections": "Συλλογές",
+    "discover": "Ανακαλύψτε",
+    "manageSources": "Μονάδες",
+    "pinLabel": "Καρφίτσωμα πλευρικής γραμμής εργαλείων",
+    "unpinLabel": "Ξεκαρφίτσωμα πλευρικής γραμμής εργαλείων",
+    "turboMode": "Λειτουργία Turbo",
+    "collapseMenu": "Σύμπτυξη μενού",
+    "expandMenu": "Ανάπτυξη μενού",
+    "survey": "Έρευνα",
+    "catalog": "Κατάσταση ταξινόμησης",
+    "drives": "Σκληροί δίσκοι"
+  },
+  "CustomGroup": {
+    "rootPathName": "Αναζήτηση",
+    "endPathName": "Προσαρμοσμένες ομάδες"
+  },
+  "CustomGroups": {
+    "title": "Γραφίδια",
+    "empty": "Από ό,τι φαίνεται δεν έχουν προστεθεί ακόμα προσαρμοσμένες ομάδες.",
+    "noSourcesYet": "Εργαζόμαστε πάνω σε αυτό",
+    "noSourcesYetSubtitle1": "Μόλις ταξινομήσουμε αρκετό περιεχόμενο από τις μονάδες σας, θα σας βοηθήσουμε να ανακαλύψετε στοιχεία του ψηφιακού σας κόσμου που δεν γνωρίζατε.",
+    "noSourcesYetSubtitle2": "Όσες περισσότερες μονάδες ταξινομείτε, τόσο καλύτερα είναι τα αποτελέσματα του {{product_name}}.",
+    "addSource": "Προσθήκη και διαχείριση μονάδων"
+  },
+  "NoSourceAdded": {
+    "title": "Δεν προστέθηκαν μονάδες ακόμα",
+    "line": "{{product_name}} δεν μπορούμε να κάνουμε πολλά μέχρι να προσθέσετε μια μονάδα.",
+    "button": "Προσθήκη μονάδας"
+  },
+  "OrderContextMenu": {
+    "facets": {
+      "name": "Όνομα",
+      "mTime": "Ημερομηνία τροποποίησης",
+      "cTime": "Ημερομηνία δημιουργίας",
+      "size": "Μέγεθος αρχείου"
+    },
+    "files": {
+      "name": "Όνομα",
+      "mTime": "Ημερομηνία",
+      "size": "Μέγεθος αρχείου"
+    },
+    "albums": {
+      "cTime": "Ημερομηνία δημιουργίας",
+      "mTime": "Τροποποίηση ημερομηνίας"
+    },
+    "album": {
+      "addedTime": "Ημερομηνία τροποποίησης",
+      "cTime": "Ημερομηνία δημιουργίας"
+    }
+  },
+  "WhatsNew": {
+    "header": "Τι νέο υπάρχει",
+    "title": "{{product_name}} Τι νέο υπάρχει",
+    "version": "Έκδοση: {{version}}",
+    "date": "Ημερομηνία",
+    "updatedTo": "Ενημερώθηκε στην έκδ. {{version}}"
+  },
+  "AddSourceContextMenu": {
+    "addDrive": "Add Device (Προσθήκη συσκευής)",
+    "addSocial": "Προσθήκη μέσων κοινωνικής δικτύωσης",
+    "addCloud": "Προσθήκη υπηρεσιών cloud"
+  },
+  "AddSocialProviders": {
+    "title": "Λογαριασμός μέσων κοινωνικής δικτύωσης",
+    "description": "Προσθέστε λογαριασμούς μέσων κοινωνικής δικτύωσης για να συμπεριλάβετε το περιεχόμενό τους στον κατάλογο."
+  },
+  "AddCloudProviders": {
+    "title": "Λογαριασμός αποθήκευσης στο cloud",
+    "description": "Προσθέστε λογαριασμούς αποθήκευσης στο cloud για να συμπεριλάβετε το περιεχόμενό τους στον κατάλογο."
+  },
+  "DeleteIndex": {
+    "title": "Κατάργηση καταλόγου",
+    "descriptionCommon": "Αυτή η βοηθητική εφαρμογή θα καταργήσει τον κατάλογο από το {{product_name}}. Το περιεχόμενό σας θα παραμείνει στη συσκευή σας αλλά \nδεν θα μπορείτε να πραγματοποιήσετε αναζήτηση στην συσκευή και να απολαύσετε τις λειτουργίες του {{product_name}} παρά μόνο αν επαναταξινομήσετε αυτήν την συσκευή. ",
+    "descriptionCloud": "Αυτή η βοηθητική εφαρμογή θα καταργήσει τον κατάλογο από το {{product_name}}. Δεν θα μπορείτε να πραγματοποιήσετε αναζήτηση σε αυτό το περιεχόμενο και να απολαύσετε τις λειτουργίες του {{product_name}}, παρά μόνο αν επαναταξινομήσετε αυτήν την πηγή.",
+    "info": "Είστε βέβαιοι ότι θέλετε να καταργήσετε τον κατάλογο αυτής της συσκευής από το {{product_name}};",
+    "ok": "Κατάργηση καταλόγου"
+  },
+  "AddDrives": {
+    "title": "Add Device (Προσθήκη συσκευής)",
+    "description": "Περιηγηθείτε στο περιεχόμενό σας σε ένα σημείο για όλες τις συσκευές σας με την πανίσχυρη αναζήτηση του {{product_name}} !",
+    "addSelectedDrives": "Προσθήκη επιλεγμένων συσκευών",
+    "addInfo": {
+      "noDriveTitle": "Δεν υπάρχουν μη ταξινομημένες συσκευές",
+      "noDriveInfo": "Συνδέστε τις μη ταξινομημένες συσκευές σας και θα εμφανιστούν αυτόματα παραπάνω.",
+      "externalTitle": "Έχετε εξωτερική μονάδα αποθήκευσης;",
+      "externalInfo": "Συνδέστε τις μη ταξινομημένες συσκευές σας και θα εμφανιστούν αυτόματα παραπάνω."
+    }
+  },
+  "ListViewSourceItem": {
+    "indexed": "Συνδεδεμένες και ταξινομημένες",
+    "indexing": "Ταξινόμηση {{percent}}%"
+  },
+  "SourcesList": {
+    "yourDevices": "Εσωτερικές μονάδες αποθήκευσης",
+    "yourDrives": "Εξωτερική μονάδα αποθήκευσης",
+    "socialMedia": "Μέσα κοινωνικής δικτύωσης",
+    "cloudStorage": "Αποθήκευση σε υπηρεσία Cloud",
+    "addSocial": "Παρακολουθήστε που βρίσκονται αυτές οι πολύτιμες αναμνήσεις, συνδέοντας τους λογαριασμούς σας στα μέσα κοινωνικής δικτύωσης.",
+    "addSocialButton": "Προσθήκη λογαριασμών στα μέσα κοινωνικής δικτύωσης",
+    "addCloud": "Πραγματοποιήστε αναζήτηση σε όλους τους διαφορετικούς λογαριασμούς σας σε υπηρεσίες αποθήκευσης cloud, συνδέοντάς τους εδώ.",
+    "addCloudButton": "Προσθέστε τους λογαριασμούς σας σε υπηρεσίες αποθήκευσης cloud",
+    "addDrive": "Βγάλτε τις εξωτερικές μονάδες αποθήκευσής σας από την ντουλάπα, ξεσκονίστε τις και προσθέστε τις στο {{product_name}}.",
+    "addDriveButton": "Προσθέστε τις εξωτερικές μονάδες αποθήκευσης"
+  },
+  "IndexingStatus": {
+    "indexed": "Ταξινομήθηκε",
+    "indexedCompleted": "Η ταξινόμηση ολοκληρώθηκε",
+    "indexingPercent": "Ταξινόμηση {{percent}}%",
+    "indexing": "Ταξινόμηση",
+    "erasing": "Διαγραφή",
+    "removing": "Αφαίρεση...",
+    "connecting": "Σύνδεση...",
+    "unlockToIndex": "Ξεκλειδώστε για ταξινόμηση",
+    "lastIndexedYesterday": "Ταξινομήθηκε χθες",
+    "lastIndexedDaysAgo": "Ταξινομήθηκε πριν από {{count}} ημέρες",
+    "indexingPaused": "Η ταξινόμηση βρίσκεται σε παύση",
+    "notIndexed": "Δεν ταξινομήθηκε",
+    "preparing": "Προετοιμασία…",
+    "clickHere": "κάντε κλικ εδώ",
+    "cloudConnectionError": "Δεν είναι δυνατή η ταξινόμηση του {{label}}. Υπήρξε αδυναμία σύνδεσης της συσκευής σας με τον πάροχο υπηρεσιών.",
+    "indexErrorExplain": "<strong>Σφάλμα ταξινόμησης</strong> - Παρουσιάστηκε πρόβλημα κατά την ταξινόμηση. Τις περισσότερες φορές, η αποσύνδεση και η επανασύνδεση της συσκευής σας θα επιλύσει το πρόβλημα.",
+    "cloudIndexErrorExplain": "<strong>Σφάλμα ταξινόμησης</strong> - Παρουσιάστηκε πρόβλημα κατά την ταξινόμηση της πηγής cloud. Θα συνεχίσουμε να προσπαθούμε να ολοκληρώσουμε την ταξινόμηση. Εάν το πρόβλημα εξακολουθεί να υφίσταται, κάντε αναφορά του προβλήματος μέσω της επιλογής: <strong>Αποστολή σχολίων</strong>.",
+    "cloudWarningNotificationIndexErrorExplain": "Παρουσιάστηκε πρόβλημα κατά την ταξινόμηση της πηγής cloud. Θα συνεχίσουμε να προσπαθούμε να ολοκληρώσουμε την ταξινόμηση. Εάν το πρόβλημα εξακολουθεί να υφίσταται, κάντε κλικ εδώ {{clickHere}} για να κάνετε αναφορά του προβλήματος.",
+    "pausedDueToConnectionError": "<strong>Δεν υπάρχει σύνδεση στο διαδίκτυο</strong> - Το {{product_type}} δεν μπορεί να συνδεθεί με τον πάροχο υπηρεσιών. Επανασυνδεθείτε στο διαδίκτυο για να συνεχιστεί η ταξινόμηση.",
+    "pausedDueToDisconnected": "<strong>Η ταξινόμηση βρίσκεται σε παύση</strong> - Αυτή η συσκευή δεν είναι πλέον συνδεδεμένη. Συνδέστε τη συσκευή σας για να συνεχίσετε αυτόματα την ταξινόμηση.",
+    "pausedDueToLowBattery": "<strong>Η ταξινόμηση βρίσκεται σε παύση</strong> - Η ταξινόμηση βρίσκεται σε παύση για εξοικονόμηση μπαταρίας. Συνδέστε τον φορητό υπολογιστή σας στο ρεύμα για να συνεχίσετε.",
+    "errReadContent": "<strong>Σφάλμα ευρετηρίασης αρχείων</strong> - Το {{product_name}} αντιμετώπισε προβλήματα κατά την ταξινόμηση κάποιων αρχείων στο «{{label}}». Αυτά τα αρχεία μπορεί να μην εμφανιστούν στο {{product_name}}.",
+    "errCloudProviderAuth": "<strong>Δεν είναι δυνατή η πρόσβαση στον λογαριασμό</strong> - Φαίνεται ότι το {{product_name}} δεν έχει πλέον την άδεια να συνδεθεί με αυτόν τον λογαριασμό cloud ή τον λογαριασμό κοινωνικής δικτύωσης. Για να επιτρέψετε την πρόσβαση στο {{product_name}} κάντε κλικ στο <strong>«Μενού με τις τρεις τελείες»</strong> και επιλέξτε <strong>«Επανασύνδεση με την πηγή»</strong>.",
+    "errMaxDataSizeReached": "<strong>Η ταξινόμηση βρίσκεται σε παύση</strong> - Έχετε φτάσει το 100% του ανώτατου μεγέθους καταλόγου και δεν μπορούμε να προσθέσουμε νέα στοιχεία σε αυτόν.",
+    "errInsufficientStorage": "<strong> Η καταγραφή τέθηκε σε παύση </strong> - Δεν υπάρχει αρκετός χώρος για να προσθέσετε νέο περιεχόμενο στον κατάλογο. Μπορείτε να διαγράψετε ανεπιθύμητα αρχεία από τον υπολογιστή σας για να ελευθερώσετε χώρο για τον κατάλογο."
+  },
+  "ConnectedSourcesList": {
+    "noConnectedSources": "Δεν υπάρχουν συνδεδεμένες μονάδες.",
+    "addText": "Πιέστε το πλήκτρο «Προσθήκη μονάδων» για να συνδέσετε τις μονάδες."
+  },
+  "FileInfo": {
+    "info": "Πληροφορίες",
+    "name": "Όνομα αρχείου",
+    "type": "Τύπος αρχείου",
+    "source": "Μονάδα αρχείων",
+    "size": "Μέγεθος αρχείου",
+    "modified": "Τελευταία τροποποίηση",
+    "created": "Δημιουργήθηκε",
+    "fileLocation": "Θέση αρχείου",
+    "location": "Τοποθεσία",
+    "tagTitle": "Ετικέτες",
+    "tagLengthError": "Εισάγετε περισσότερους από 2 χαρακτήρες για την αποθήκευση",
+    "tags": "Εισάγετε προσαρμοσμένες ετικέτες…",
+    "descriptionTitle": "Περιγραφή",
+    "description": "Προσθήκη περιγραφής…",
+    "title": "Άτομα με πρόσβαση",
+    "text": "Σύντομα κοντά σας…",
+    "tagsLimit": "Το μέγιστο όριο ετικετών είναι 100 ετικέτες.",
+    "aperture": "Αριθμός F",
+    "camera": "Φωτογραφική μηχανή",
+    "exposureTime": "Χρόνος έκθεσης",
+    "focalLength": "Εστιακή απόσταση",
+    "isoSpeed": "Ταχύτητα ISO",
+    "latitude": "Γεωγραφικό πλάτος",
+    "longitude": "Γεωγραφικό μήκος",
+    "flash": "Αναλαμπή"
+  },
+  "ManageDriveIndex": {
+    "title": "Διαχείριση συσκευής",
+    "description": "Περιηγηθείτε στο περιεχόμενό σας σε ένα σημείο για όλες τις συσκευές σας με την πανίσχυρη αναζήτηση του {{product_name}} !",
+    "listTitle": "Επιλέξτε τους φακέλους σε αυτήν τη μονάδα για ταξινόμηση.",
+    "updateIndex": "Ενημέρωση καταλόγου"
+  },
+  "GetPrime": {
+    "title": "Αποκτήστε πρόσβαση",
+    "description": "Συνδυάστε τις εφαρμογές αποθήκευσής σας και τις συσκευές αποθήκευσης και αποκτήστε πρόσβαση σε αυτές σε ένα σημείο, και διαδικτυακά και εκτός σύνδεσης.",
+    "signUp": "Συνδεθείτε για πρόσβαση",
+    "enablePrime": "Ενεργοποιήστε την πρόσβαση",
+    "noThanks": "Όχι, ευχαριστώ"
+  },
+  "IndexDrive": {
+    "title": "Μονάδα καταλόγου",
+    "subTitle": "Προσέξαμε ότι αυτή η μονάδα δεν έχει ταξινομηθεί.",
+    "text": "Όταν οι μονάδες σας ταξινομηθούν, μπορείτε να προβάλετε και να πραγματοποιήσετε αναζήτηση σε πολλές μονάδες, ακόμα και όταν δεν είναι συνδεδεμένες.",
+    "index": "Ταξινόμηση αυτής της μονάδας"
+  },
+  "DriveDisconnected": {
+    "title": "Αποσυνδεδεμένη μονάδα",
+    "subTitle": "Αυτή η μονάδα είναι τώρα αποσυνδεδεμένη. Για να περιηγηθείτε στον τρέχοντα κατάλογο, κάντε κλικ στο «Περιήγηση στη μονάδα». ",
+    "text": "Για να ενημερώσετε τον κατάλογο, συνδέστε τη μονάδα και εμείς θα κάνουμε όλα τα υπόλοιπα.",
+    "browse": "Περιήγηση στη μονάδα"
+  },
+  "LaunchWizard": {
+    "locationSelectTitle": "Τοποθεσία καταλόγου",
+    "permissionsInfoTitle": "Άδεια πρόσβασης",
+    "deviceSelectionWaitingTitle": "Αναζήτηση της συσκευής σας",
+    "deviceSelectionWaitingDescription": "Βεβαιωθείτε ότι η μονάδα σας υποστηρίζεται από την εφαρμογή {{product_name}} και ότι είναι σταθερά συνδεδεμένη στη θύρα USB του υπολογιστή σας.",
+    "deviceSelectionChooseTitle": "Οι παρακάτω μονάδες είναι συνδεδεμένες.",
+    "deviceSelectionChooseDescription": "Επιλέξτε μία για να ξεκινήσετε τη ρύθμιση παραμέτρων. Εμείς θα αναλάβουμε τις υπόλοιπες αργότερα, όταν η ρύθμιση παραμέτρων θα έχει ολοκληρωθεί.",
+    "launchWizardPipTitle": "Βοηθήστε μας να βελτιώσουμε το {{product_name}}.",
+    "launchWizardMarketingTitle": "Προτιμήσεις προωθητικής επικοινωνίας",
+    "deviceSelectionEmptyTitle": "Δεν εντοπίστηκαν μονάδες",
+    "deviceSelectionEmptyDescription": "Βεβαιωθείτε ότι η μονάδα σας υποστηρίζεται από την εφαρμογή {{product_name}} και ότι είναι σταθερά συνδεδεμένη στη θύρα USB του υπολογιστή σας. Στη συνέχεια, προσπαθήστε ξανά.",
+    "deviceSelectionConnectedTitle": "{{deviceName}} Συνδεδεμένη",
+    "deviceSelectionConnectedDescription": "Η μονάδα σας {{deviceName}} είναι τώρα έτοιμη για ρύθμιση παραμέτρων.",
+    "deviceNameTitle": "Δώστε ένα όνομα στη μονάδα σας",
+    "deviceNameDescription": "Δώστε ένα μοναδικό όνομα στη μονάδα σας, ώστε να μπορείτε να την ξεχωρίσετε από τις υπόλοιπες μονάδες σας.",
+    "devicePasswordTitle": "Προστατέψτε τη μονάδα σας με κωδικό πρόσβασης.",
+    "devicePasswordDescription": "Προστατέψτε τη μονάδα σας με κωδικό πρόσβασης για να διατηρήσετε τα αρχεία σας ασφαλή.",
+    "deviceSetupCompleteTitle": "Το {{- deviceName}} σας είναι έτοιμο για χρήση!",
+    "deviceSetupCompleteDescription": "Τώρα που η μονάδα {{deviceName}} σας είναι ρυθμισμένη, ας ρυθμίσουμε τις παραμέτρους της {{product_name}} εμπειρίας σας.",
+    "defaultDeviceName": "My Passport",
+    "addSourcesTitle": "Επιλέξτε τους φακέλους που θα συμπεριληφθούν {{product_name}}",
+    "addSourcesDescription": "Μην ανησυχείτε — Το {{product_name}} δεν θα μετακινήσει ούτε θα καταργήσει ποτέ κανένα από τα αρχεία ή τους φακέλους σας χωρίς την άδειά σας.",
+    "accountSignInTitle": "Είσοδος",
+    "accountSignUpTitle": "Ας ρυθμίσουμε τον δωρεάν λογαριασμό σας.",
+    "accountSignUpDescription": "Δημιουργήστε έναν λογαριασμό για να ταξινομήσετε όλες τις αναμνήσεις σας από τα μέσα κοινωνικής δικτύωσης και τα αρχεία σας σε υπηρεσίες cloud, σε ένα σημείο.",
+    "accountPasswordTitle": "Επαναφορά κωδικού πρόσβασης",
+    "accountPasswordDescription": "Θέλετε να επαναφέρετε τον κωδικό πρόσβασής σας; Θα σας στείλουμε ένα e-mail με οδηγίες. <br/><br/> ΣΗΜΕΙΩΣΗ: Αν χρησιμοποιήσατε αυτήν τη διεύθυνση e-mail για να δημιουργήσετε έναν λογαριασμό για το ibi, το My Cloud OS 5 ή το My Cloud Home σας, θα γίνει επαναφορά και αυτού του κωδικού πρόσβασης.",
+    "accountAuthTitle": "Ας ρυθμίσουμε τον δωρεάν λογαριασμό σας.",
+    "accountAuthDescription": "Δημιουργήστε έναν λογαριασμό για εύκολη εγγραφή και καταγραφή όλων των αναμνήσεων και των αρχείων πολυμέσων σας σε ένα μέρος."
+  },
+  "AgreementMarketing": {
+    "title": "Προτιμήσεις επικοινωνίας",
+    "first": {
+      "title": "Μείνετε σε επαφή μαζί μας",
+      "description": "Μπορείτε να επιλέξετε να λαμβάνετε προωθητικά μηνύματα από εμάς, συμπεριλαμβανομένων στοχευμένων διαφημίσεων, μέσω μηνυμάτων εντός της εφαρμογής, προωθητικών ειδοποιήσεων και e-mail."
+    },
+    "second": {
+      "title": "Λάβετε εξατομικευμένες ενημερώσεις από εμάς",
+      "description": "Όταν εγγραφείτε στο προωθητικό πρόγραμμά μας, μπορεί να χρησιμοποιήσουμε προσωπικά στοιχεία σας από τη χρήση των υπηρεσιών του {{company_name}} από εσάς, για να σας αποστέλλουμε διαφημίσεις που σας αφορούν. Αυτές μπορεί να περιλαμβάνουν πληροφορίες που σχετίζονται με τη χρήση από εσάς της εφαρμογής {{product_name}}, όπως το ονοματεπώνυμό σας, τη διεύθυνση e-mail σας, τη διεύθυνση IP σας, τις προτιμήσεις του λογαριασμού σας (για παράδειγμα, τις προτιμήσεις γλώσσας και ζώνης ώρας) και τα στοιχεία της συνδρομής σας, δεδομένα χρήσης, εφόσον έχετε επιλέξει να συμμετάσχετε στο {{product_name}} {{analytics_link}}, πληροφορίες σχετικά με τη χρήση από εσάς υπηρεσιών τρίτων (για παράδειγμα, υπηρεσίες cloud και μέσων κοινωνικής δικτύωσης, όπως το Facebook, το Instagram, το Dropbox, το Google Drive και το OneDrive), οι οποίες είναι συνδεδεμένες με την εφαρμογή {{product_name}}, πληροφορίες σχετικά με τη χρήση από εσάς των υπηρεσιών του {{company_name}}, όπως την {{store_link}}, η οποία μπορεί να περιλαμβάνει το ιστορικό των αγορών σας, την τοποθεσία σας και τις προτιμήσεις του λογαριασμού σας (για παράδειγμα, τις προτιμήσεις γλώσσας), και πληροφορίες σχετικά με τη χρήση από εσάς των ιστότοπων του {{company_name}} και της χρήσης των cookies, όπως περιγράφονται στην {{cookie_link}} μας. Έχετε τη δυνατότητα να τροποποιήσετε την επιλογή σας ανά πάσα στιγμή μεταβαίνοντας στις Ρυθμίσεις.",
+      "analytics_program": "εφαρμογή analytics",
+      "store": "{{company_name}} Κατάστημα",
+      "cookie": "Δήλωση περί Cookies"
+    },
+    "agreement": "Κάνοντας κλικ στο «{{agree}}», αποδέχεστε την {{company_name}} {{privacy_link}} και συμφωνείτε να λαμβάνετε προωθητικά μηνύματα από την {{company_name}} συμπεριλαμβανομένων δελτίων τύπου, ενημερώσεων και προσφορών που σχετίζονται με τα {{company_name}} προϊόντα και τα προϊόντα τρίτων, συμπεριλαμβανομένων μηνυμάτων εντός της εφαρμογής, προωθητικών ειδοποιήσεων και e-mail. Επίσης, συμφωνείτε με τη χρήση των προσωπικών στοιχείων σας, όπως περιγράφεται παραπάνω για αυτούς τους σκοπούς. Μπορείτε να αποσύρετε την συναίνεσή σας οποτεδήποτε.",
+    "privacy_statement": "Δήλωση Απορρήτου",
+    "agree": "Συμφωνώ",
+    "skip": "Προσωρινή παράλειψη",
+    "notShare": "Δεν συμφωνώ"
+  },
+  "LaunchWizardHeader": {
+    "account": "Δημιουργία λογαριασμού",
+    "deviceName": "Όνομα συσκευής",
+    "devicePassword": "Κωδικός πρόσβασης μονάδας",
+    "deviceSetupComplete": "Η ρύθμιση παραμέτρων της μονάδας ολοκληρώθηκε"
+  },
+  "LaunchWizardPermissionsInfo": {
+    "title": "«{{product_name}}» Άδειες",
+    "text1": "Όταν δείτε το μήνυμα συστήματος «{{product_name}} Ειδοποιήσεις», κάντε κλικ στο «Να επιτρέπεται» και είσαστε έτοιμοι.",
+    "text2": "Αυτό επιτρέπει στο {{product_name}} να σας ενημερώνει για ενημερώσεις εφαρμογών, συνδεσιμότητα συσκευών και άλλες σημαντικές ειδοποιήσεις που βοηθούν να διατηρείται ο ψηφιακός σας κόσμος οργανωμένος. "
+  },
+  "LaunchWizardDeviceSelectionChoose": {
+    "select": "Επιλέξτε",
+    "retry": "Δεν βλέπω τη συσκευή μου",
+    "modalContent": "Βεβαιωθείτε ότι η μονάδα σας υποστηρίζεται από την εφαρμογή και ότι είναι σταθερά συνδεδεμένη στη θύρα USB του υπολογιστή σας. Στη συνέχεια, προσπαθήστε ξανά."
+  },
+  "LaunchWizardDeviceSelectionEmpty": {
+    "retry": "Προσπαθήστε ξανά",
+    "skip": "Δεν ρυθμίζω τις παραμέτρους κάποιας μονάδας",
+    "help": "Χρειάζεστε βοήθεια;",
+    "site": "Επισκεφτείτε τον ιστότοπο ηλεκτρονικής βοήθειας που διαθέτουμε"
+  },
+  "LaunchWizardAccountSignUp": {
+    "signIn": "Είσοδος"
+  },
+  "LaunchWizardAccountSignIn": {
+    "signUp": "Εγγραφή",
+    "forgotPassword": "Ξεχάσατε τον κωδικό πρόσβασης;",
+    "offline": "Δεν υπάρχει σύνδεση στο Διαδίκτυο. Ελέγξτε τη σύνδεση στο διαδίκτυο και προσπαθήστε ξανά."
+  },
+  "LaunchWizardAccountModal": {
+    "title": "Είστε βέβαιοι;",
+    "text": "Η δημιουργία λογαριασμού σας επιτρέπει να καταχωρίσετε και ενεργοποιήσετε την εγγύησή σας άνετα, καθώς και να ταξινομήσετε τις αναμνήσεις σας από τα μέσα κοινωνικής δικτύωσης και τα αρχεία των υπηρεσιών cloud σας σε ένα σημείο.<br/><br/>Είστε βέβαιοι ότι θέλετε να συνεχίσετε χωρίς να δημιουργήσετε έναν λογαριασμό;",
+    "textSkipSocial": "Δημιουργήστε έναν λογαριασμό για να καταχωρείτε και να ταξινομείτε με ευκολία τις αναμνήσεις σας από τα μέσα κοινωνικής δικτύωσης και τα αρχεία σας σε ένα μέρος.<br/><br/>Είσαστε σίγουροι ότι θέλετε να συνεχίσετε χωρίς να δημιουργήσετε λογαριασμό;",
+    "confirm": "Ναι, είμαι βέβαιος/η",
+    "close": "Άκυρο"
+  },
+  "LaunchWizardAccountExistEmail": {
+    "title": "Η διεύθυνση e-mail αντιστοιχίσθηκε ήδη",
+    "text": "Αυτή η διεύθυνση e-mail αντιστοιχεί ήδη σε έναν λογαριασμό. Θέλετε να συνδεθείτε;",
+    "confirm": "Είσοδος",
+    "close": "Κλείσιμο"
+  },
+  "LaunchWizardDeviceName": {
+    "skip": "Θα συνεχίσω αργότερα",
+    "error": "Παρουσιάστηκε πρόβλημα με την ονομασία της μονάδας σας. Προσπαθήστε ξανά."
+  },
+  "AgreementAnalytics": {
+    "title": "Βοηθήστε μας να βελτιωθούμε {{product_name}}",
+    "hint": "Κάνοντας κλικ στο <b>«Συμφωνώ»</b>, συμφωνείτε με την κοινοποίηση των δεδομένων χρήσης σε εμάς για τους σκοπούς που περιγράφονται παραπάνω. Έχετε τη δυνατότητα να τροποποιήσετε την επιλογή σας ανά πάσα στιγμή μεταβαίνοντας στις Ρυθμίσεις.",
+    "AgreementAnalyticsDescription1": "Κοινοποιήστε μας τα δεδομένα χρήσης σας για να μας βοηθήσετε να βελτιώσουμε τα προϊόντα, τις υπηρεσίες και τις εφαρμογές μας και να εξατομικεύσουμε την εμπειρία σας με την εφαρμογή. Νοιαζόμαστε για τους πελάτες μας και θέλουμε να υπάρχει διαφάνεια στις πρακτικές μας για την προστασία των προσωπικών δεδομένων. Επισκεφτείτε τον {{privacy_link}} μας για περισσότερες πληροφορίες.",
+    "AgreementAnalytics2": "Τι δεδομένα συλλέγουμε;",
+    "AgreementAnalyticsDescription2": "Τα δεδομένα χρήσης περιλαμβάνουν πληροφορίες για τη χρήση της εφαρμογής από εσάς. Τα δεδομένα χρήσης μπορεί να περιέχουν πληροφορίες για τις μονάδες που συνδέετε και για το πώς έχουν ρυθμιστεί οι παράμετροι τους, πληροφορίες για την κεντρική μονάδα επεξεργασίας (CPU) και άλλα στατιστικά στοιχεία χρήσης ανά συσκευή, κλήσεις API, πληροφορίες σφαλμάτων της υπηρεσίας, κατάσταση δικτύου, χρήση χώρων αποθήκευσης, όρους αναζήτησης, τοποθεσία, χαρακτηριστικά αρχείων (π.χ. μεταδεδομένα περιεχομένου, όπως το μέγεθος και ο τύπος αρχείων, το αρχείο προέλευσης, οι ημερομηνίες και ώρες δημιουργίας/τροποποίησης/πρόσβασης, το μοντέλο/μάρκα της φωτογραφικής μηχανής, τοποθεσία, ετικέτες/περιγραφές), συσχετισμούς ανάμεσα σε αρχεία και πληροφορίες τρίτων λογαριασμών που συνδέετε με την υπηρεσία.",
+    "AgreementAnalytics3": "Τι τα κάνουμε αυτά τα δεδομένα;",
+    "AgreementAnalyticsDescription3": "Συλλέγουμε αυτόματα δεδομένα χρήσης, εφόσον επιλέξετε να συμμετάσχετε στο πρόγραμμα analytics. Αυτό μας βοηθά να βελτιώνουμε την ποιότητα και την απόδοση των προϊόντων, των υπηρεσιών και των εφαρμογών μας και να εξατομικεύουμε την εμπειρία σας με την εφαρμογή, συμπεριλαμβανομένων των μηνυμάτων εντός της εφαρμογής και των προωθητικών ειδοποιήσεων που σας αποστέλλουμε. Δεν πωλούμε τα προσωπικά σας δεδομένα",
+    "notShare": "Δεν συμφωνώ",
+    "skip": "Προσωρινή παράλειψη",
+    "agree": "Συμφωνώ",
+    "offline": "Δεν υπάρχει σύνδεση στο Διαδίκτυο. Ελέγξτε τη σύνδεση στο διαδίκτυο και προσπαθήστε ξανά.",
+    "privacy_center": "Κέντρο απορρήτου"
+  },
+  "LaunchWizardDevicePassword": {
+    "skip": "Δεν θέλω να ορίσω κωδικό πρόσβασης",
+    "password": "Προστασία",
+    "confirmation": "Επιβεβαίωση Κωδικού Πρόσβασης",
+    "hint": "Υπόδειξη για κωδικό πρόσβασης",
+    "checkboxTitle": "Ενεργοποίηση αυτόματου ξεκλειδώματος για μένα σε αυτόν τον υπολογιστή.",
+    "checkboxDescription": "Κάντε κλικ σε αυτό το πλαίσιο, αν θέλετε αυτός ο υπολογιστής να διατηρήσει τον κωδικό πρόσβασής σας για την υπηρεσία Pat’s My Passport.",
+    "error": "Παρουσιάστηκε πρόβλημα με τον ορισμό του κωδικού πρόσβασής σας. Προσπαθήστε ξανά."
+  },
+  "LaunchWizardResetPassword": {
+    "button": "Αποστολή οδηγιών",
+    "email": "Διεύθυνση ηλεκτρονικού ταχυδρομείου"
+  },
+  "LaunchWizardLocationSelect": {
+    "hint": "Ο κατάλογος είναι μια λίστα στοιχείων που περιλαμβάνουν πληροφορίες που σχετίζονται με τα αρχεία σας, όπως το όνομα αρχείου, ο τύπος, το μέγεθος, η πηγή, η ημερομηνία δημιουργίας και η ημερομηνία τροποποίησης. Ο κατάλογος θα αποθηκεύεται στην εσωτερική μονάδα του υπολογιστή σας από προεπιλογή. Χρησιμοποιούμε έως 10% του ελεύθερου χώρου της συσκευής σας για να αποθηκεύσουμε αυτόν τον κατάλογο.",
+    "info": "Αν έχετε περισσότερες από μία μονάδα στον υπολογιστή σας, επιλέξτε τη μονάδα με τον μεγαλύτερο ελεύθερο χώρο.",
+    "capacity": "<b>{{free}}</b> ελεύθερος χώρος από {{full}}",
+    "drive": "Μονάδα",
+    "popoverTitle": "Μη υποστηριζόμενο σύστημα αρχείων",
+    "popoverContent": "Το {{product_name}} δεν υποστηρίζει τον τύπο συστήματος αρχείων αυτής της μονάδας (FAT). Αποθηκεύστε τον κατάλογό σας σε έναν άλλο δίσκο.",
+    "popoverNotEnoughSpaceTitle": "Δεν υπάρχει διαθέσιμος χώρος",
+    "popoverNotEnoughSpaceText": "Αυτός ο δίσκος δεν έχει καθόλου ελεύθερο χώρο. Παρακαλούμε αποθηκεύστε τον κατάλογό σας σε έναν άλλο δίσκο. {{link}}",
+    "link": "Μάθετε περισσότερα"
+  },
+  "HeaderFtuePopover": {
+    "title": "Ας προσθέσουμε την πρώτη σας μονάδα!",
+    "text": "{{product_name}} χρειάζεται τουλάχιστον μία μονάδα για να δείξει την αληθινή δύναμή του. Αφήστε μας να σας δείξουμε πώς λειτουργεί. {{take_the_tour_link}}",
+    "take_the_tour_link": "Περιηγηθείτε"
+  },
+  "ManageSourcesFtueManager": {
+    "StartAlert": {
+      "title": "Περιηγηθείτε στο {{product_name}}!",
+      "text": "Ο οδηγός ρυθμίσεών μας θα σας καθοδηγήσει στην προσθήκη εξωτερικών μονάδων αποθήκευσης που έχετε στις μονάδες ταξινόμησης, στην προσθήκη της εσωτερική μονάδας αποθήκευσης του υπολογιστή σας και στην εκμάθηση των βασικών λειτουργιών χρήσης της εφαρμογής.",
+      "textSocialCloud": "Ο οδηγός ρυθμίσεων θα σας καθοδηγήσει στην προσθήκη εξωτερικών μονάδων αποθήκευσης στη λίστα των πηγών σας, στην προσθήκη της εσωτερικής μονάδας αποθήκευσης του υπολογιστή σας και στην εκμάθηση των βασικών λειτουργιών χρήσης της εφαρμογής.",
+      "button": "Επόμενο"
+    },
+    "DrivePresent": {
+      "title": "Πρώτα, ας προσθέσουμε τη νέα μονάδα σας.",
+      "text": "Περάστε με το ποντίκι σας πάνω από τη μονάδα και κάντε κλικ στο <b>«…» μενού περισσότερα</b>, και επιλέξτε <b>«Ταξινόμηση μονάδας»</b> για να ξεκινήσετε την ταξινόμηση."
+    },
+    "DriveNotPresent": {
+      "title": "Πρώτα, ας προσθέσουμε τη νέα μονάδα σας.",
+      "text": "Κάντε κλικ στην <b>«Προσθήκη μονάδας»</b> για να επιλέξετε μια μονάδα για ταξινόμηση."
+    },
+    "NotFromTinyInstaller": {
+      "title": "Πρώτα, ας προσθέσουμε μια μονάδα.",
+      "text1": "Κάντε κλικ οπουδήποτε πάνω στην κάρτα της μονάδας σας για να αρχίσετε την ταξινόμηση.",
+      "text2": "Κάντε κλικ οπουδήποτε πάνω σε μια κάρτα για να αρχίσετε την ταξινόμηση της επιλεγμένης μονάδας."
+    },
+    "AddingAComputer": {
+      "title": "Προσθήκη υπολογιστή",
+      "text1": "Όταν προσθέτετε την εσωτερική μονάδα αποθήκευσης ενός υπολογιστή ως μονάδα ταξινόμησης, μπορείτε να επιλέξετε από το πρώτο επίπεδο φακέλων της μονάδας για την ταξινόμηση. Επιλέξαμε ορισμένες προεπιλεγμένες τοποθεσίες, όπου οι χρήστες συνήθως αποθηκεύουν τα σημαντικά αρχεία τους.",
+      "text2": "Επιλέξτε και αποεπιλέξτε ελεύθερα οποιουσδήποτε φακέλους, όπου βρίσκονται σημαντικά αρχεία σας και, στη συνέχεια, κυλήστε το ποντίκι προς τα κάτω και κάντε κλικ στην «Προσθήκη επιλεγμένων συσκευών»."
+    },
+    "PlugInDrive": {
+      "title": "Συνδέστε την εξωτερική σας μονάδα.",
+      "text": "Μόλις συνδέσετε τη μονάδα σας στον υπολογιστή σας, επιλέξτε την από τη λίστα και πατήστε στο <b>«Προσθήκη επιλεγμένων συσκευών»</b>."
+    },
+    "IndexingProgress": {
+      "title": "Πρόοδος ταξινόμησης",
+      "text": "Μπορείτε να περιηγηθείτε και να πραγματοποιήσετε αναζήτηση στο ταξινομημένο περιεχόμενο, ακόμα και όταν οι μονάδες σας δεν είναι συνδεδεμένες. Ελέγξτε την πρόοδο εδώ ή στην κάτω αριστερή γωνία του παραθύρου της εφαρμογής.",
+      "button": "Επόμενο"
+    },
+    "MultipleSources": {
+      "title": "Πολλές μονάδες",
+      "text1": "Τώρα που προσθέσατε άλλη μια μονάδα, το {{product_name}} θα τις ταξινομήσει ανά μία, από τη μονάδα που προστέθηκε τελευταία έως την πιο πρόσφατη.",
+      "text2": "Μπορείτε και πάλι να ελέγξετε την πρόοδο της ταξινόμησης εδώ ή στην κάτω αριστερή γωνία του παραθύρου της εφαρμογής.",
+      "button": "Επόμενο"
+    },
+    "ManagingSources": {
+      "title": "Διαχείριση μονάδων",
+      "text": "Περάστε με το ποντίκι σας πάνω από μια μονάδα και κάντε κλικ στο εικονίδιο των τριών τελειών για να εμφανίσετε μια λίστα διαθέσιμων ενεργειών για αυτήν τη μονάδα.",
+      "button": "Επόμενο"
+    },
+    "AddSourceButton": {
+      "title": "Προσθήκη μονάδας",
+      "text": "Κάντε κλικ <b>στο πλήκτρο «+»</b>, όταν βρίσκεστε στην καρτέλα Μονάδες για να επιλέξετε τον τύπο μονάδας για ταξινόμηση."
+    },
+    "DriveLocked": {
+      "title": "Ξεκλειδώστε τη μονάδα σας",
+      "text": "Η μονάδα σας πρέπει να ξεκλειδωθεί, προτού να ταξινομηθεί."
+    },
+    "FinishAlert": {
+      "title": "Προσθέσατε μια μονάδα επιτυχώς!",
+      "text": "Τώρα, ας περιηγηθούμε σύντομα στην εφαρμογή {{product_name}}, ώστε να αποκτήσετε τον έλεγχο του ψηφιακού κόσμου σας.",
+      "button": "Είμαι έτοιμος/η"
+    },
+    "UnlockingDrive": {
+      "title": "Ασφαλής όσο τίποτα",
+      "text": "Ο κωδικός πρόσβασης της μονάδας σας διασφαλίζει την ασφάλεια των δεδομένων σας όσο τίποτα. Ξεκλειδώστε τη μονάδα σας, ώστε το {{product_name}} να μπορεί να την προσθέσει στον κατάλογό σας."
+    },
+    "UnlockedDriveIndexed": {
+      "title": "Ήδη ταξινομείται",
+      "text": "Η μονάδα σας ήδη ταξινομείται από το {{product_name}}. Επιλέξτε <b>«Κλείσιμο»</b> και θα δούμε πώς εξελίσσεται."
+    },
+    "UnlockedDriveNotIndexed": {
+      "title": "Ξεκλειδώθηκε!",
+      "text": "Στη συνέχεια, επιλέξτε <b>«Περιήγηση στη μονάδα»</b>."
+    },
+    "UnlockedDriveStartIndexing": {
+      "title": "Τώρα, ξεκινήστε την ταξινόμηση",
+      "text": "Επιλέξτε <b>«Ταξινόμηση αυτής της μονάδας»</b> και θα ξεκινήσει η γιορτή. Στη συνέχεια, απλώς συνδέστε τη μονάδα και ξεκλειδώστε την και το {{product_name}} θα αρχίσει αυτόματα να την ταξινομεί."
+    },
+    "TurboMode": {
+      "title": "Μήπως η ταξινόμηση αργεί πολύ;",
+      "text1": "Ενεργοποιήστε τη λειτουργία Turbo και ταξινομήστε με έως και τετραπλή ταχύτητα! Είναι πολύ χρήσιμη λειτουργία, αν θέλετε να ταξινομήσετε γρήγορα μεγάλο όγκο περιεχομένου, όπως μιας πρόσφατα συνδεδεμένης μονάδας.",
+      "text2": "Η ενεργοποίηση της λειτουργίας Turbo καταργεί τους περιορισμούς της ταχύτητας με την οποία το {{product_name}} ταξινομεί το περιεχόμενό σας. Έτσι, θα επιταχύνετε την πρόοδο της ταξινόμησης, αλλά ενδέχεται οι ανεμιστήρες του υπολογιστή σας να κάνουν θόρυβο και οι υπόλοιπες εφαρμογές του συστήματός σας να επιβραδυνθούν ή να σταματήσουν να ανταποκρίνονται.",
+      "text3": "ΣΗΜΕΙΩΣΗ: Η λειτουργία Turbo Mode υποστηρίζεται επί του παρόντος μόνο από υπολογιστές με 4 ή περισσότερους πυρήνες και μνήμη RAM άνω των 4GB. {{link}}",
+      "link": "Μάθετε περισσότερα",
+      "button": "Επόμενο"
+    }
+  },
+  "FtueSuspendModal": {
+    "title": "Παράλειψη οδηγιών",
+    "text": "Μπορείτε πάντα να αποκτήσετε πρόσβαση στις οδηγίες αργότερα από τις Ρυθμίσεις.",
+    "button1": "Skip (Παράβλεψη)",
+    "button2": "Άκυρο"
+  },
+  "SelectModePanel": {
+    "counter": "Έχει επιλεγεί {{count}} στοιχείο",
+    "counter_plural": "Έχουν επιλεγεί {{count}} στοιχεία"
+  },
+  "Notifications": {
+    "volumeIndexing": {
+      "title": "{{label}} ταξινομεί",
+      "message": "Καθίστε άνετα, καθώς ταξινομούμε τη μονάδα σας. Μην αποσυνδέετε μέχρι να ολοκληρωθεί η ταξινόμηση."
+    },
+    "indexingCompleted": {
+      "title": "Η ταξινόμηση ολοκληρώθηκε",
+      "message": "Ελέγξτε το ενημερωμένο περιεχόμενό σας."
+    },
+    "volumeConnected": {
+      "title": "{{label}} Συνδεδεμένη",
+      "message": "Ταξινομήστε αυτή τη μονάδα για να πραγματοποιήσετε αναζήτηση και να περιηγηθείτε στο περιεχόμενό της, όταν δεν είναι συνδεδεμένη."
+    },
+    "deviceLocked": {
+      "title": "Ξεκλείδωμα {{label}}",
+      "message": "Κάντε κλικ εδώ, για να ξεκλειδώσετε τη μονάδα."
+    },
+    "deviceLock": {
+      "title": "{{label}} Συνδεδεμένη",
+      "message": "Ας κλειδώσουμε τη μονάδα σας για επιπλέον ασφάλεια."
+    },
+    "takeSurvey": {
+      "title": "Βοηθήστε μας να βελτιώσουμε το {{product_name}}!",
+      "message": "Απαντήστε σε μια σύντομη έρευνα και πείτε μας τη γνώμη σας για την εφαρμογή."
+    },
+    "Albums": {
+      "viewCollections": "Προβολή συλλογών!"
+    }
+  },
+  "IndexingDrive": {
+    "title": "Ταξινόμηση μονάδας",
+    "text": "Καθώς ταξινομούμε τη μονάδα σας, ελέγξτε τις Συλλογές και θα σας ενημερώσουμε, όταν η ταξινόμηση ολοκληρωθεί.",
+    "viewCollections": "Προβολή συλλογών",
+    "slides": {
+      "slide1": {
+        "title": "Αυτόματη οργάνωση",
+        "description": "Το {{product_name}} οργανώνει και κατηγοριοποιεί όλα τα αρχεία σας, ώστε να μπορεί να αναζητάτε γρήγορα ό,τι θέλετε."
+      }
+    }
+  },
+  "TitlebarUser": {
+    "no_subscription": "Δεν υπάρχει συνδρομή",
+    "yes_subscription": "{{product_name}} Αποκτήστε πρόσβαση στη συνδρομή",
+    "link": "Αναβάθμιση"
+  },
+  "TitlebarUserDesktopOptions": {
+    "devtools": "Εναλλαγή εργαλείων προγραμματισμού",
+    "about": "Πληροφορίες",
+    "quit": "Έξοδος"
+  },
+  "TitlebarPrimeModal": {
+    "button": "Γίνετε συνδρομητής για να αποκτήσετε πρόσβαση"
+  },
+  "Titlebar": {
+    "back": "Επιστροφή",
+    "forward": "Επόμενο",
+    "help": "Βοήθεια",
+    "account": "Λογαριασμός"
+  },
+  "Widgets": {
+    "left": "Κύλιση προς τα αριστερά",
+    "right": "Κύλιση προς τα δεξιά"
+  },
+  "Duplicates": {
+    "title": "Διπλότυπα",
+    "subtitle": "{{count}} η μονάδα ταξινομείται και δεν θα συμπεριληφθεί",
+    "subtitle_plural": "{{count}} οι μονάδες ταξινομούνται και δεν θα συμπεριληφθούν",
+    "indexingInProgressText": "Μία από τις μονάδες σας ταξινομείται. Τα αποτελέσματα δεν θα περιλαμβάνουν τη μονάδα που ταξινομείται - συνιστάται αναμονή έως ότου η ταξινόμηση της μονάδας ολοκληρωθεί!"
+  },
+  "DuplicatesPreviewPanel": {
+    "noDuplicatesTitle": "Δεν βρέθηκαν διπλότυπα!",
+    "noDuplicatesText": "Συγχαρητήρια για το σιγύρισμα!",
+    "selectDuplicate": "Επιλέξτε ένα διπλότυπο για να το προβάλετε",
+    "filesCount": "{{count}} αρχείο",
+    "filesCount_plural": "{{count}} αρχεία"
+  },
+  "DuplicatesPreviewPanelFileItem": {
+    "manage": "Διαχείριση",
+    "managePopOver": "Συνδέστε το “{{device_name}}” για να διαχειριστείτε αυτό το στοιχείο.",
+    "openInPhotos": "Ανοίξτε την εφαρμογή φωτογραφιών",
+    "fileIndex": "{{index}} του {{count}}",
+    "sourceNotConnected": "Η μονάδα δεν είναι συνδεδεμένη",
+    "errAccessDenied": "Το {{product_name}} δεν έχει την άδεια από το λειτουργικό σας σύστημα να διαγράψει τα αρχεία που βρίσκονται σε αυτόν τον φάκελο."
+  },
+  "DuplicatesMissingInfoPanel": {
+    "title": "Δεν βλέπετε όλα τα διπλότυπα αρχεία σας;",
+    "text": "Τα αρχεία από πηγές μέσων κοινωνικής δικτύωσης και cloud δεν θα εμφανίζονται στο κέντρο διπλοτύπων. {{link_text}}",
+    "link_texts": "Διαβάστε τις συχνές ερωτήσεις για να μάθετε περισσότερα."
+  },
+  "DuplicatesDeleteModal": {
+    "title": "Διαγραφή αρχείου",
+    "text": "Είστε βέβαιοι ότι θέλετε να γίνει διαγραφή του «{{name}}»;",
+    "note": "Σημείωση: Αυτό είναι το τελευταίο αντίγραφο του παραπάνω αρχείου. Αν το διαγράψετε το πρωτότυπο αρχείο δεν θα εμφανίζεται πλέον εργαλείο διπλοτύπων. Μπορείτε να βρείτε το πρωτότυπο αρχείο χρησιμοποιώντας την καρτέλα Αναζήτησης ή Πλοήγησης.",
+    "confirmButton": "Ναι, διαγραφή",
+    "deleteSuccess": "«{{name}}» διαγράφηκε επιτυχώς."
+  },
+  "TurboMode": {
+    "title": "Η λειτουργία Turbo είναι {{state}}",
+    "description": "Τι σημαίνει αυτό;",
+    "popOverTitle": "Τι είναι η λειτουργία Turbo;",
+    "popOverText1": "Συνιστάται να χρησιμοποιείτε τη λειτουργία Turbo, όταν θέλετε να ταξινομήσετε γρήγορα μεγάλο όγκο περιεχομένου, όπως μιας πρόσφατα συνδεδεμένης μονάδας.",
+    "popOverText2": "Η ενεργοποίηση της λειτουργίας Turbo καταργεί τους περιορισμούς της ταχύτητας με την οποία το {{product_name}} ταξινομεί το περιεχόμενό σας. Έτσι, θα επιταχύνετε την πρόοδο της ταξινόμησης, αλλά ενδέχεται οι ανεμιστήρες του υπολογιστή σας να κάνουν θόρυβο και οι υπόλοιπες εφαρμογές του συστήματός σας να επιβραδυνθούν ή να σταματήσουν να ανταποκρίνονται. Η λειτουργία Turbo απενεργοποιείται από μόνη της, όποτε κλείνετε την εφαρμογή {{product_name}} για να μην επιβραδύνει το σύστημά σας χωρίς λόγο.",
+    "popOverText3": "ΣΗΜΕΙΩΣΗ: Η λειτουργία Τurbo δεν είναι προς το παρόν διαθέσιμη για υπολογιστές με λιγότερους από τέσσερις πυρήνες επεξεργασίας ή για λιγότερα από 4GB μνήμης. {{link}}",
+    "link": "Μάθετε περισσότερα"
+  },
+  "Facets": {
+    "title": "Ανά κατηγορίες",
+    "empty": "Μόλις προσθέσετε ορισμένα αρχεία στις μονάδες σας θα εμφανιστούν εδώ, οργανωμένα αυτόματα ανά τύπο."
+  },
+  "BrowseSources": {
+    "allSources": "Όλες οι μονάδες",
+    "internalStorage": "Εσωτερικές μονάδες αποθήκευσης",
+    "externalStorage": "Εξωτερική μονάδα αποθήκευσης",
+    "social": "Μέσα κοινωνικής δικτύωσης",
+    "cloud": "Αποθήκευση σε υπηρεσία Cloud",
+    "addExternal": "Προσθέστε τις πηγές σας στο {{product_name}}",
+    "empty_all": "Βγάλτε τις εξωτερικές μονάδες αποθήκευσής σας από την ντουλάπα, ξεσκονίστε τις και προσθέστε τις στο {{product_name}}.",
+    "empty_social": "Δεν υπάρχουν μονάδες μέσων κοινωνικής δικτύωσης. Επιλέξτε άλλο τύπο μονάδας ή {{link}} μονάδα στην ενότητα Διαχείριση των μονάδων σας.",
+    "empty_cloud": "Δεν υπάρχουν μονάδες αποθήκευσης σε υπηρεσίες cloud. Επιλέξτε άλλο τύπο μονάδας ή {{link}} μονάδα στην ενότητα Διαχείριση των μονάδων σας.",
+    "empty_internalStorage": "Δεν υπάρχουν εξωτερικές μονάδες. Επιλέξτε άλλο τύπο μονάδας ή {{link}} μονάδα στην ενότητα Διαχείριση των μονάδων σας.",
+    "empty_externalStorage": "Δεν υπάρχουν εσωτερικές μονάδες. Επιλέξτε άλλο τύπο μονάδας ή {{link}} μονάδα στην ενότητα Διαχείριση των μονάδων σας.",
+    "link_social": "προσθήκη μέσου κοινωνικής δικτύωσης",
+    "link_cloud": "προσθήκη υπηρεσίας αποθήκευσης σε cloud",
+    "link_externalStorage": "προσθήκη εξωτερικής μονάδας αποθήκευσης",
+    "link_internalStorage": "προσθήκη εσωτερικής μονάδας αποθήκευσης"
+  },
+  "CollectionGridItem": {
+    "pages": "{{count}} σελίδες"
+  },
+  "LivePhoto": {
+    "live": "ΣΕ ΠΡΑΓΜΑΤΙΚΟ ΧΡΟΝΟ"
+  },
+  "SidePanelCollections": {
+    "search_placeholder": "Αναζήτηση στις Συλλογές",
+    "empty_title": "Αποτελέσματα αναζήτησης στις Συλλογές",
+    "empty_text": "Από ό,τι φαίνεται δεν βρέθηκαν συλλογές με τη «Λέξη-κλειδί»."
+  },
+  "Surveys": {
+    "title": "Έρευνες",
+    "header": "Λάβετε μέρος σε μια σύντομη έρευνα!",
+    "survey_1": {
+      "title": "Επιβίβαση και πρώτες εντυπώσεις",
+      "short_title": "Επιβίβαση"
+    },
+    "survey_2": {
+      "title": "Προσθήκη και αναζήτηση περιεχομένου",
+      "short_title": "Προσθέστε και αναζητήστε περιεχόμενο"
+    },
+    "survey_3": {
+      "title": "Ψηφιακή οργάνωση περιεχομένου",
+      "short_title": "Οργάνωση περιεχομένου"
+    }
+  },
+  "BrowseFTUE": {
+    "modal": {
+      "title": "Περιήγηση με {{product_name}}",
+      "left": {
+        "descriptionTitle": "Ανά κατηγορίες και γραφίδια",
+        "descriptionText": "Τα αρχεία σας ταξινομούνται έξυπνα ανά κατηγορία, μεταξύ άλλων, για να βρίσκετε εύκολα αυτό που ψάχνετε."
+      },
+      "right": {
+        "descriptionTitle": "Ανά μονάδες",
+        "descriptionText": "Προτιμάτε να πλοηγείστε με τη δομή αρχείων και φακέλων της μονάδας αποθήκευσής σας; Σας έχουμε καλυμμένους. Απλώς, περιηγηθείτε ανά μονάδα για να μεταβείτε σταδιακά σε αυτό που θέλετε."
+      }
+    },
+    "popover": {
+      "title": "Τι υπάρχει σε αυτήν τη σελίδα;",
+      "text": "Αν θελήσετε ποτέ να διαβάσετε πώς να χρησιμοποιήσετε κάθε καρτέλα στο {{product_name}} ξανά, απλώς μεταβείτε στο <b>εικονίδιο του Ερωτηματικού</b> στην άνω δεξιά γωνία, και στη συνέχεια επιλέξτε <b>«Τι υπάρχει σε αυτήν τη σελίδα;»</b>"
+    }
+  },
+  "PrimeFTUE": {
+    "title": "Αναβαθμιστείτε με την Access",
+    "left": {
+      "descriptionTitle": "Πρόσβαση από οπουδήποτε",
+      "descriptionText": "Η συνδρομή στην {{product_name}} Access σας επιτρέπει να πραγματοποιείτε αναζήτηση, να περιηγείστε και να κάνετε προεπισκόπηση του περιεχομένου σας από επιτραπέζιες, κινητές και tablet συσκευές, στις οποίες το {{product_name}} είναι εγκατεστημένο ή μέσω του ιστού."
+    },
+    "right": {
+      "descriptionTitle": "Υπηρεσίες μέσων κοινωνικής δικτύωσης και cloud",
+      "descriptionText": "Με την {{product_name}} Access μπορείτε να συνδέσετε υποστηριζόμενες μονάδες μέσων κοινωνικής δικτύωσης και υπηρεσιών cloud. Πραγματοποιήστε αναζήτηση, περιηγηθείτε και κάντε προεπισκόπηση περιεχομένου από τις μονάδες σας, όλες σε ένα σημείο. {{link}}",
+      "link": "Ανακαλύψτε περισσότερα."
+    }
+  },
+  "CollectionFTUE": {
+    "title": "Εξερεύνηση του ψηφιακού κόσμου σας.",
+    "left": {
+      "descriptionTitle": "Τοποθεσίες και ετικέτες",
+      "descriptionText": "Τα αρχεία σας ταξινομούνται έξυπνα ανά αντικείμενο, ημερομηνία, τοποθεσία και ακόμα περισσότερα, για να σας προσφέρει συναφείς κατηγοριοποιήσεις του προσωπικού σας περιεχομένου."
+    },
+    "right": {
+      "descriptionTitle": "Οι Συλλογές μου",
+      "descriptionText": "Δημιουργήστε προσαρμοσμένες συλλογές των αρχείων σας από τις μονάδες αποθήκευσής σας, για να αποκτήσετε τον πλήρη έλεγχο του ψηφιακού κόσμου σας."
+    }
+  },
+  "SearchFTUE": {
+    "title": "Αναζήτηση σε μία τοποθεσία",
+    "left": {
+      "descriptionTitle": "Αναζήτηση σε όλες τις μονάδες",
+      "descriptionText": "Με τα ψηφιακά σας αρχεία χαρακτηρισμένα με ετικέτα και ταξινομημένα, μπορείτε να πραγματοποιήσετε αναζήτηση στον υπολογιστή σας και στις μονάδες αποθήκευσής σας, ακόμα και όταν είναι αποσυνδεδεμένες."
+    },
+    "right": {
+      "descriptionTitle": "Προηγμένα φίλτρα",
+      "descriptionText": "Περιορίστε τις αναζητήσεις σας ανά εύρος ημερομηνίας, ετικέτα, μονάδα, τύπο αρχείου, τοποθεσία και ακόμα περισσότερα. Αναζητήστε και διαχειριστείτε ακριβώς αυτά που θέλετε."
+    }
+  },
+  "SourcesFTUE": {
+    "title": "Προσθήκη και διαχείριση μονάδων",
+    "left": {
+      "descriptionTitle": "Συνδέστε και ταξινομήστε μονάδες",
+      "descriptionText": "Συνδέστε τις μονάδες σας στον υπολογιστή σας και προσθέστε τις στο ευρετήριό σας. Μόλις τις προσθέσετε, το {{product_name}} θα σαρώσει το περιεχόμενό τους για να το προσθέσει στον κατάλογό σας, ώστε να μπορείτε να το αναζητήσετε, να περιηγηθείτε σε αυτό και να το οργανώσετε."
+    },
+    "right": {
+      "descriptionTitle": "Διαχειριστείτε εξωτερικές μονάδες",
+      "descriptionText": "Διαχειριστείτε τις υποστηριζόμενες εξωτερικές μονάδες αποθήκευσης δίνοντάς τους όνομα, προσθέτοντας έναν κωδικό πρόσβασης και ακόμα περισσότερα. Μείνετε ενήμεροι για μελλοντικές ενημερώσεις, καθώς προσθέτουμε περισσότερες υποστηριζόμενες μονάδες."
+    }
+  },
+  "HelpPopOver": {
+    "whatPage": "Τι υπάρχει σε αυτήν τη σελίδα;",
+    "website": "Ιστότοπος βοήθειας"
+  },
+  "WarningNotificationsUniqueIdentifier": {
+    "text": "Το μοναδικό αναγνωριστικό σας βοηθά να επιλύσετε προβλήματα του {{product_name}}, όταν επικοινωνείτε με την τεχνική υποστήριξη. Δίνοντας αυτό το μοναδικό αναγνωριστικό στην ομάδα τεχνικής υποστήριξής μας, θα μπορεί να προβάλει αρχεία καταγραφής του λογαριασμού σας που περιλαμβάνουν τη δραστηριότητα και την απόδοση των μονάδων σας και μπορεί να βοηθήσει να εντοπίσουν ή να επιλύσουν το πρόβλημα που αντιμετωπίζετε."
+  },
+  "WarningNotificationsPhotosLibraryNoInternet": {
+    "text": "Η ταξινόμηση τέθηκε σε παύση γιατί ο υπολογιστής σας αποσυνδέθηκε από το διαδίκτυο. Επανασυνδεθείτε για να συνεχίσετε την ταξινόμηση της Βιβλιοθήκης φωτογραφιών σας."
+  },
+  "TutorialFtue": {
+    "browse": "Περιηγηθείτε στα αρχεία σας ανά κατηγορία, μονάδα ή μέσω των έξυπνων γραφιδίων μας.",
+    "collections": "Οργανώστε τον ψηφιακό σας κόσμο με τις συλλογές του {{product_name}}.",
+    "sources": "Προσθέστε νέες μονάδες αποθήκευσης στο ψηφιακό σας ευρετήριο.",
+    "turbo": "Μήπως η ταξινόμηση αργεί πολύ; Επιταχύνετέ την με τη <b>λειτουργία Turbo</b>.",
+    "search": "Πραγματοποιήστε αναζήτηση σε όλο το ταξινομημένο περιεχόμενό σας ανά όνομα αρχείου, τοποθεσία και λέξεις-κλειδιά.",
+    "tipsTricks": "Δείτε συμβουλές για να αξιοποιήσετε πλήρως το {{product_name}}.",
+    "next": "Απλώς, πλοηγηθείτε στο {{product_name}} για να μάθετε περισσότερα για τις λειτουργίες του."
+  },
+  "ModalConfirmSignOut": {
+    "title": "Αποσύνδεση από το {{product_name}};",
+    "text": "Είστε βέβαιοι ότι θέλετε να αποσυνδεθείτε;",
+    "textWithCloudServices": "Θα εξακολουθείτε να έχετε πρόσβαση στον κατάλογό σας ακόμη και όταν είστε αποσυνδεδεμένοι.",
+    "confirm": "Έξοδος",
+    "titleOffline": "Δεν υπάρχει σύνδεση στο διαδίκτυο",
+    "textOffline": "Πρέπει να είστε συνδεδεμένοι στο διαδίκτυο, ώστε να αποσυνδεθείτε από το {{product_name}}. Επιβεβαιώστε τη σύνδεσή σας και δοκιμάστε ξανά."
+  },
+  "ModalSurveyAvailable": {
+    "title": "Διατίθεται η έρευνα #{{index}}",
+    "text": "Λάβετε μέρος σε μια σύντομη έρευνα και πείτε μας τη γνώμη σας για την εμπειρία σας με το <b>{{name}}</b>.",
+    "confirm": "Λάβετε μέρος στην έρευνα",
+    "cancel": "Αργότερα"
+  },
+  "UpdateBanner": {
+    "text": "Διατίθεται μια νέα έκδοση του {{product_name}}. Ενημερώστε τώρα για τις πιο πρόσφατες διορθώσεις σφαλμάτων και νέες δυνατότητες.",
+    "link": "Εκσυγχρονίζω",
+    "updateLoaded": "Έγινε λήψη της ενημέρωσης.",
+    "relaunch": "Επανεκκίνηση του {{product_name}}"
+  },
+  "Placeholder": {
+    "network": {
+      "title": "Υποστήριξη μονάδων δικτύου",
+      "text": "Επίκειται η υποστήριξη για τα My Cloud Home, ibi και My Cloud OS 5."
+    }
+  },
+  "SubscriptionTicket": {
+    "EdgeRoverBasic": {
+      "title": "{{product_name}} Basic",
+      "text": "Χρησιμοποιείτε τη δωρεάν έκδοση του {{product_name}}.",
+      "button": "Δείτε τις επιλογές αναβάθμισης"
+    },
+    "EdgeRoverAccess": {
+      "title": "{{product_name}} Access",
+      "text": "$9.99 ανά μήνα, ετήσιος λογαριασμός",
+      "textExpire": "Η επόμενη πληρωμή είναι προγραμματισμένη για τις ",
+      "button": "Διαχείριση συνδρομής"
+    }
+  },
+  "ModalShortcutsHelp": {
+    "ModalTitle": "Συντομεύσεις πληκτρολογίου",
+    "GeneralTitle": "Γενικά",
+    "PreviousPage": "Προηγούμενη σελίδα",
+    "SwitchMainSections": "Εναλλαγή κύριων ενοτήτων",
+    "StartSearch": "Εκκίνηση αναζήτησης",
+    "CreateCollection": "Δημιουργία συλλογής",
+    "CloseModalOrRightPanel": "Κλείσιμο βοηθητικού ή δεξιού πλαισίου",
+    "SelectionTitle": "Επιλογή",
+    "SelectAll": "Επιλογή όλων",
+    "SelectRangeOfItems": "Επιλογή εύρους στοιχείων",
+    "SelectOrDeselect": "Επιλογή/αποεπιλογή μεμονωμένου στοιχείου",
+    "HelpTitle": "Βοήθεια",
+    "HelpCenter": "Κέντρο υποστήριξης (Help center)",
+    "KeyboardShortcuts": "Συντομεύσεις πληκτρολογίου",
+    "FilePreviewTitle": "Προεπισκόπηση αρχείου",
+    "NextFile": "Επόμενο αρχείο",
+    "PreviousFile": "Προηγούμενο αρχείο",
+    "CloseFilePreview": "Κλείσιμο προεπισκόπησης αρχείου",
+    "PlayOrPause": "Αναπαραγωγή/Παύση αρχείου βίντεο ή ήχου",
+    "OpenFile": "Άνοιγμα αρχείου",
+    "MoreInfo": "Περισσότερα στοιχεία",
+    "ShowFileLocation": "Εμφάνιση τοποθεσίας αρχείου",
+    "ZoomInPhoto": "Μεγέθυνση φωτογραφίας",
+    "ZoomOutPhoto": "Σμίκρυνση φωτογραφίας",
+    "ZoomToZero": "Μεγέθυνση κατά 100%",
+    "EnterFullScreen": "Προβολή πλήρους οθόνης",
+    "ExitFullScreen": "Έξοδος από την προβολή πλήρους οθόνης",
+    "BrowseAndGridsTitle": "Περιήγηση και δίκτυα",
+    "NavigateFilesAndFolders": "Πλοήγηση αρχείων και φακέλων",
+    "RefreshList": "Ανανεώστε τον φάκελο ή τη λίστα αρχείων",
+    "OpenFocusedFolder": "Άνοιγμα εστιασμένου φακέλου",
+    "OpenFocusedFileInApp": "Άνοιγμα εστιασμένου αρχείου στην εφαρμογή",
+    "ShowLocation": "Εμφάνιση τοποθεσίας αρχείου/φακέλου",
+    "ToggleView": "Εναλλαγή προβολής Λίστας/Μικρογραφιών",
+    "ChangeSort": "Ταξινόμηση",
+    "SourcesTitle": "Μονάδες",
+    "NavigateCategories": "Πλοήγηση στις κατηγορίες",
+    "NavigateSources": "Πλοήγηση στις μονάδες",
+    "OpenFocusedDriveOrSource": "Άνοιγμα εστιασμένου δίσκου ή μονάδας",
+    "SettingsTitle": "Ρυθμίσεις",
+    "NavigateSettingsSections": "Πλοήγηση στις ενότητες ρυθμίσεων",
+    "OpenFocusedSection": "Άνοιγμα εστιασμένης ενότητας"
+  },
+  "PageSettingsProductTour": {
+    "title": "Περιήγηση στα προϊόντα",
+    "text": "Προσθήκη μονάδας",
+    "button_text": "Ξεκινήστε την προσθήκη μιας μονάδας"
+  },
+  "ManageSourcesSidePanelsSignIn": {
+    "title": "Είσοδος",
+    "descriptionSocial": "Για να καταχωρίσετε τις αναμνήσεις από πηγές, όπως Facebook, Google Photos, Flickr, κ.λπ., συνδεθείτε στον λογαριασμό σας ή δημιουργήστε έναν λογαριασμό {{company_name}}.",
+    "descriptionCloud": "Για να καταχωρίσετε τους λογαριασμούς cloud σας, όπως Dropbox, Google Drive, OneDrive, κ.λπ., συνδεθείτε στον λογαριασμό σας ή δημιουργήστε έναν λογαριασμό {{company_name}}."
+  },
+  "ProvidersList": {
+    "infoTitle": "Δεν μπορείτε να δείτε τον {{type}} λογαριασμό σας εδώ;",
+    "infoText": " Κάντε κλικ εδώ {{clickHere}} για να ζητήσετε υποστήριξη για την {{sourceType}} πηγή σας.",
+    "clickHere": "Κάντε κλικ εδώ",
+    "socialMedia": "μέσα κοινωνικής δικτύωσης",
+    "social": "μέσα κοινωνικής δικτύωσης",
+    "cloud": "σύννεφο"
+  },
+  "NotConnectedItem": {
+    "systemFolderWarning": "Δεν είναι δυνατή η ευρετηρίαση αυτού του φακέλου"
+  },
+  "ModalReinstall": {
+    "title": "Επανεγκατάσταση {{product_name}}",
+    "content1": " Η διαδικασία ταξινόμησης του {{product_name}} έχει υποστεί σημαντικές αναβαθμίσεις, αλλά θα χρειαστεί <b>να το απεγκαταστήσετε και να εγκαταστήσετε το {{product_name}} εκ νέου και έπειτα να ταξινομήσετε ξανά το περιεχόμενό</b> σας για να επωφεληθείτε πλήρως από αυτές. {{link1}}.",
+    "link1": "Δείτε τον οδηγό βήμα προς βήμα εδώ",
+    "title1": "Αν επανεγκαταστήσετε…",
+    "title2": "Αν δεν επανεγκαταστήσετε…",
+    "li1": "<b>Ευέλικτη τοποθεσία αποθήκευσης</b> — Διαλέξτε πού θα σώσετε τον κατάλογό σας σε περίπτωση που έχετε πολλές μονάδες.",
+    "li2": "<b>Μικρότερο μέγεθος καταλόγου</b> — Ο κατάλογος του {{product_name}} θα χρησιμοποιεί το μέγιστο έως 10% του διαθέσιμου χώρου του υπολογιστή σας.",
+    "li3": "<b>Μικρότερες εικόνες προεπισκόπησης</b> — Εικόνες προεπισκόπησης ανάλυσης 720p κρατούν το μέγεθος της εφαρμογής μικρό ενώ παράλληλα σας επιτρέπουν να απολαύσετε τις φωτογραφίες σας σε υψηλή ανάλυση.",
+    "li4": "<b>Μεγαλύτερο μέγεθος εφαρμογής</b> — Οι εικόνες προεπισκόπησής σας θα παραμείνουν στα 1080p και ο κατάλογός σας θα χρησιμοποιεί περισσότερο χώρο στη μονάδα σας.",
+    "li5": "<b>Προβλήματα προβολής επισκόπησης</b> — Υπάρχει περίπτωση να ανακαλύψετε σφάλματα, όταν προσπαθείτε να κάνετε προεπισκόπηση αρχείων με την Προβολή μεμονωμένου στοιχείου.",
+    "li6": "<b>Λιγότερες δυνατότητες προϊόντος</b> — Μελλοντικές λειτουργίες και ενημερώσεις της εφαρμογής μπορεί να μη λειτουργούν κανονικά.",
+    "button1": "Πώς να επανεγκαταστήσετε το {{product_name}}",
+    "button2": "Ρωτήστε με ξανά αργότερα"
+  },
+  "TurboModeNotifications": {
+    "unavailable": {
+      "text": "Η λειτουργία Turbo Mode υποστηρίζεται επί του παρόντος μόνο από υπολογιστές με τέσσερις ή περισσότερους πυρήνες και μνήμη RAM άνω των 4GB."
+    },
+    "available": {
+      "on": "Η ενεργοποίηση της λειτουργίας Turbo καταργεί τους περιορισμούς της ταχύτητας με την οποία το {{product_name}} ταξινομεί το περιεχόμενό σας. Αυτό μπορεί να προκαλέσει επιβράδυνση ή μη απόκριση της λειτουργίας άλλων εφαρμογών στο σύστημά σας. Η λειτουργία Turbo απενεργοποιείται από μόνη της κάθε φορά που κλείνετε την εφαρμογή {{product_name}} για να μην επιβραδύνει το σύστημά σας χωρίς λόγο.",
+      "wasOn": "Η λειτουργία Turbo απενεργοποιήθηκε επειδή κλείσατε την εφαρμογή {{product_name}}."
+    }
+  },
+  "SlowIndexPopOver": {
+    "title": "Μήπως η ταξινόμηση αργεί πολύ;",
+    "text1": "Αν έχετε πολύ μεγάλο όγκο αρχείων εικόνας για ταξινόμηση, η διαδικασία ενδέχεται να διαρκέσει πολύ. Κάντε υπομονή, καθώς δημιουργούμε μικρογραφίες που μπορείτε να χρησιμοποιήσετε, όταν οι μονάδες σας είναι αποσυνδεδεμένες.",
+    "text2": "Μπορείτε να επιταχύνετε τη διαδικασία της ταξινόμησης κάνοντας τα παρακάτω:",
+    "listItem1": "Διατηρήστε την εφαρμογή και το σύστημά σας ενεργοποιημένα όλη τη νύχτα.",
+    "listItem2": "Αφήστε τις ταξινομούμενες μονάδες συνδεδεμένες στο σύστημά σας"
+  },
+  "CollectionFtueManager": {
+    "popover": {
+      "title": "Προσθήκη στη συλλογή σας",
+      "text": "Κάντε κλικ στο κουμπί «<b>Προσθήκη</b>» για να επιλέξετε μια κατηγορία και να αναζητήσετε τα αρχεία που ψάχνετε."
+    }
+  },
+  "AcronisBanner": {
+    "title": "Acronis True Image",
+    "subtitle": "Δημιουργία αντιγράφων ασφαλείας και κλωνοποίηση δίσκου"
+  },
+  "ErrorBoundary": {
+    "title": "Παρουσιάστηκε πρόβλημα.",
+    "description": "Για να επιλύσετε αυτό το πρόβλημα, ανανεώστε τη σελίδα.",
+    "refresh": "Refresh (Ανανέωση)",
+    "issues": "Αντιμετωπίζετε ακόμα προβλήματα;",
+    "feedback": "Στείλτε μας τα σχόλιά σας",
+    "help": "{{feedback}} για να μας βοηθήσετε να εξετάσουμε και να επιλύσουμε το πρόβλημα."
+  },
+  "ModalTermsOfService": {
+    "title": "Γίνεται εκκίνηση του {{product_name}}!",
+    "paragraph_1": "Σας ευχαριστούμε που χρησιμοποιήσατε το λογισμικό {{product_name}} Beta! Τα σχόλιά σας μας βοήθησαν να βελτιώσουμε την εμπειρία χρήσης του {{product_name}}. Με μεγάλο ενθουσιασμό σας ανακοινώνουμε ότι το {{product_name}} ξεπέρασε πλέον τη φάση Beta και θα κυκλοφορήσει η έκδοση 1.0.",
+    "paragraph_2": "Διαβάστε και αποδεχτείτε τους Όρους Χρήσης και τη Δήλωση Απορρήτου μας για να συνεχίσετε να χρησιμοποιείτε το {{product_name}}.",
+    "agree": "Συμφωνώ",
+    "close": "Όχι, κλείστε το {{product_name}}",
+    "title_accepted": "Σας ευχαριστούμε!",
+    "accepted_paragraph_1": "Θα θέλαμε να σας ευχαριστήσουμε που διαθέσατε τον χρόνο και την ενέργειά σας για να λάβετε μέρος στη φάση Beta του {{product_name}}. Ελπίζουμε να συνεχίσετε να απολαμβάνετε το {{product_name}} και να μας ενημερώνετε πώς μπορούμε να βελτιώσουμε το προϊόν.",
+    "accepted_paragraph_2": " Λάβετε υπόψη ότι αν ήσασταν συνδεδεμένοι σε έναν λογαριασμό {{product_name}} κατά τη διάρκεια της φάσης Beta, θα παραμείνετε αποσυνδεδεμένοι από τον λογαριασμό μέχρι να κυκλοφορήσει επισήμως η λειτουργία λογαριασμών. Ο λογαριασμός σας υπάρχει ακόμα, αλλά δεν θα μπορείτε να συνδεθείτε μέχρι τότε."
+  },
+  "SearchResultsFtueManager": {
+    "popover": {
+      "title": "Φίλτρα",
+      "text": "Φίλτρα ανά πηγές, κατηγορίες, τύπο αρχείου, ετικέτες, και τοποθεσία, θα ενημερώνονται δυναμικά για να εμφανίζονται τα αντίστοιχα αποτελέσματα."
+    }
+  },
+  "NotificationsErrReadContent": {
+    "text": "Το {{product_name}} αντιμετώπισε προβλήματα με την ταξινόμηση «{{label}}». Ως αποτέλεσμα, μερικά αρχεία μπορεί να μην εμφανιστούν στο {{product_name}}.",
+    "text_plural": "Το {{product_name}} αντιμετώπισε προβλήματα κατά την ταξινόμηση κάποιων μονάδων. Ως αποτέλεσμα, μερικά αρχεία μπορεί να μην εμφανιστούν στο {{product_name}}."
+  },
+  "SignOut": {
+    "start": "Το {{product_name}} αφαιρεί τους καταλόγους σας από τα μέσα κοινωνικής δικτύωσης και το cloud προτού σας αποσυνδέσει.",
+    "success": "Αποσύνδεση επιτυχής.",
+    "error": "Υπήρξε κάποιο σφάλμα κατά την αποσύνδεση των πηγών cloud και πηγών κοινωνικών δικτύων. Λόγω αυτού δεν μπορέσαμε να σας αποσυνδέσουμε. Προσπαθήστε ξανά αργότερα."
+  },
+  "NotificationsErrCloudProviderAuth": {
+    "text": "Φαίνεται ότι το {{product_name}} δεν έχει πλέον την άδεια να συνδεθεί με {{label}}. Για να παρέχετε πρόσβαση στο {{product_name}} πηγαίνετε στις Πηγές, κάντε κλικ στο «μενού επιλογών» της πηγής και επιλέξτε «Επανασύνδεση πηγής».",
+    "text_plural": "Φαίνεται ότι το {{product_name}} δεν έχει πλέον την άδεια να συνδεθεί με {{label}}. Για να παρέχετε πρόσβαση στο {{product_name}} πηγαίνετε στις Πηγές, κάντε κλικ στο «μενού επιλογών» της πηγής και επιλέξτε «Επανασύνδεση πηγής»."
+  },
+  "RemovedCatalogInformer": {
+    "title": "Κατάργηση {{name}} καταλόγου"
+  },
+  "ModalSocialCloudFtue": {
+    "title": "Πηγές cloud και μέσων κοινωνικής δικτύωσης",
+    "left": {
+      "descriptionTitle": "Συνδεθείτε με τις πηγές cloud και μέσων κοινωνικής δικτύωσης",
+      "descriptionText": "Συνδέστε τις πηγές cloud και μέσων κοινωνικής δικτύωσής σας με το {{product_name}} και προσθέστε τις στο ευρετήριο σας. Μόλις τις προσθέσετε, το {{product_name}} θα σαρώσει το περιεχόμενό τους για να το εντάξει στον κατάλογό σας, ώστε να μπορείτε να το αναζητήσετε, να περιηγηθείτε σε αυτό και να το οργανώσετε."
+    },
+    "right": {
+      "descriptionTitle": "Συγχρονισμός καταλόγου",
+      "descriptionText": "Παρόλο που αποθηκεύουμε τον κατάλογο τοπικά, ορισμένες πληροφορίες απαραίτητες για τον συγχρονισμό με τις πηγές cloud και μέσων κοινωνικής δικτύωσης είναι απoθηκευμένες στο {{product_name}} cloud."
+    }
+  },
+  "ModalSignOut": {
+    "title": "Έξοδος",
+    "text": "Προτού αποσυνδεθείτε, δηλώστε τι θέλετε να κάνετε με τους τρέχοντες καταλόγους cloud και μέσων κοινωνικής δικτύωσης.",
+    "keepCatalog": {
+      "title": "Κρατήστε τους καταλόγους cloud και μέσων κοινωνικής δικτύωσης",
+      "point_1": "Οι κατάλογοι από τα μέσα κοινωνικής δικτύωσης και από λογαριασμούς αποθήκευσης στο cloud αποθηκεύονται στο {{product_name}} και στον υπολογιστή σας.",
+      "point_2": "Οποιοσδήποτε έχει πρόσβαση στον υπολογιστή σας θα έχει πρόσβαση και σε αυτούς τους καταλόγους.",
+      "point_3": "Παύση ταξινόμησης μέχρι να επανασυνδεθείτε."
+    },
+    "removeCatalog": {
+      "title": "Καταργείστε τους καταλόγους cloud και μέσων κοινωνικής δικτύωσης",
+      "point_1": "Οι κατάλογοι των λογαριασμών σας στα μέσα κοινωνικής δικτύωσης και των λογαριασμών αποθήκευσης cloud θα καταργηθούν από το {{product_name}}.",
+      "point_2": "Δεν θα μπορείτε να πραγματοποιήσετε αναζήτηση σε αυτό το περιεχόμενο και να απολαύσετε τις λειτουργίες του {{product_name}}, παρά μόνο αν επανασυνδεθείτε και τους επαναταξινομήσετε.",
+      "point_3": "Οι κατάλογοι των εσωτερικών και εξωτερικών μονάδων αποθήκευσης δεν θα καταργηθούν.",
+      "text": "Η κατάργηση των καταλόγων cloud και μέσων κοινωνικής δικτύωσης μπορεί να διαρκέσει μερικά λεπτά, ανάλογα με το μέγεθος του καταλόγου."
+    }
+  },
+  "NotificationsErrInsufficientStorage": {
+    "text_big": "Δεν υπάρχει αρκετός ελεύθερος χώρος για να προστεθεί νέο περιεχόμενο στον κατάλογο. Μπορείτε να διαγράψετε ανεπιθύμητα αρχεία από τον υπολογιστή σας για να ελευθερώσετε χώρο για τον κατάλογο. {{learn_more_link}}.",
+    "text_small": "Η ταξινόμηση σταμάτησε.",
+    "learn_more_link": "Μάθετε περισσότερα"
+  },
+  "NotificationsErrMaxDataSizeReached": {
+    "text_big": "Έχετε φτάσει στο 100% του ανώτατου μεγέθους καταλόγου και δεν μπορούμε να προσθέσουμε νέα στοιχεία σε αυτόν. {{learn_more_link}} για να μάθετε περισσότερα για τον κατάλογό σας.",
+    "text_small": "Η ταξινόμηση βρίσκεται σε παύση.",
+    "learn_more_link": "Κάντε κλικ εδώ"
+  },
+  "Auth": {
+    "Before": {
+      "buttons": "«Δημιουργία λογαριασμού» ή «Σύνδεση»",
+      "title": "Ας ρυθμίσουμε τον δωρεάν λογαριασμό σας.",
+      "description": "Ο λογαριασμός {{company_name}} σας παρακολουθεί τα προϊόντα αποθήκευσής σας σε επιτραπέζιους υπολογιστές, κινητά, tablet και εφαρμογές ιστού."
+    },
+    "After": {
+      "error_connected_to_another_account_title": "Συνδεδεμένη με άλλο λογαριασμό.",
+      "error_connected_to_another_account_description": "Η εφαρμογή {{product_name}} σας είναι συνδεδεμένη σε άλλο λογαριασμό. Συνδεθείτε με αυτόν τον λογαριασμό για να συνεχίσετε τη ρύθμιση.",
+      "error_common_title": "Ουπς",
+      "error_common_description": "Αντιμετωπίσαμε ένα πρόβλημα με τη δημιουργία λογαριασμού. Μπορείτε να κάνετε κλικ στο κουμπί Δοκιμή ξανά ή στο κουμπί Παράλειψη, ώστε συνεχίσετε την ρύθμιση.",
+      "title": "Σύνδεση στον λογαριασμό…",
+      "Error": {
+        "error_template": "Χρειάζεστε βοήθεια; {{online_help_site_link}}",
+        "online_help_site_link": "Επισκεφτείτε τον ιστότοπο ηλεκτρονικής βοήθειας που διαθέτουμε"
+      },
+      "NameForm": {
+        "title": "Ας γνωριστούμε.",
+        "description": "Πώς σας λένε;"
+      }
+    }
+  },
+  "CollectionHowToAddFileModal": {
+    "add_to_collection": "Προσθήκη στη Συλλογή από ...",
+    "facet_title": "Κατηγορίες",
+    "sources_title": "Όλες οι Πηγές"
+  },
+  "Banners": {
+    "insufficientStorage": "Δεν υπάρχει αρκετός χώρος για να προσθέσετε νέο περιεχόμενο στον κατάλογο. Μπορείτε να διαγράψετε ανεπιθύμητα αρχεία από τον υπολογιστή σας για να ελευθερώσετε χώρο για τον κατάλογο.",
+    "maxDataSizeReached": "Έχετε φτάσει το 100% του μέγιστου μεγέθους καταλόγου και δεν μπορούμε να προσθέσουμε νέα στοιχεία σε αυτόν. Μάθετε περισσότερα για τον κατάλογό σας.",
+    "photosLibraryNoInternet": "Η καταλογογράφηση τέθηκε σε παύση επειδή ο υπολογιστής σας έχασε τη σύνδεση στο διαδίκτυο. Επανασυνδεθείτε για να συνεχίσετε την καταλογογράφηση της Βιβλιοθήκης φωτογραφιών σας.",
+    "accessDeniedCloudFS": "Δεν είναι δυνατή η προσθήκη {{label}}. {{action}} και φροντίστε να δώσετε στο {{product_name}} όλα τα δικαιώματα πρόσβασης όταν σας ζητηθεί.",
+    "errCloudProviderAuth": "Φαίνεται ότι το {{product_name}} έχει χάσει την άδεια πρόσβασης {{label}}. Για να παρέχετε πρόσβαση {{product_name}} μεταβείτε στις Πηγές, κάντε κλικ στην επιλογή “μενού“ της πηγής και επιλέξτε “Επανασύνδεση πηγής“.",
+    "retry": "Προσπαθησε ξανα",
+    "learn_more_link": "Μάθε περισσότερα",
+    "more_label": "{{count}} περισσότερη ειδοποίηση",
+    "more_label_plural": "{{count}} περισσότερες ειδοποιήσεις"
+  }
+}

@@ -1,0 +1,1902 @@
+{
+  "product_name": "EdgeRover",
+  "company_name": "Western Digital",
+  "_category": {
+    "all": "Toutes les correspondances",
+    "media": "Photos et vidéos",
+    "image,video": "Photos et vidéos",
+    "video": "Vidéos",
+    "image": "Photos",
+    "pdf": "Fichiers PDF",
+    "writing": "Documents",
+    "presentation": "Présentations",
+    "book": "Livres",
+    "spreadsheet": "Feuilles de calcul",
+    "audio": "Audio"
+  },
+  "_fileTypes": {
+    "folder": "Dossier",
+    "generalFile": "Fichier",
+    "font": "Police",
+    "image": "Image",
+    "video": "Vidéo",
+    "audio": "Audio",
+    "archive": "Archive",
+    "web_picture": "Image Web",
+    "advanced_systems_format_file": "Fichier Advanced Systems Format",
+    "flash_video": "Vidéo Flash",
+    "mkv_video": "Vidéo Matroska",
+    "opus_audio": "Audio Opus",
+    "ogv_video": "Vidéo Ogg",
+    "device_independent_bitmap": "Fichier Device Independent Bitmap",
+    "http_archive_file": "Fichier HTTP Archive",
+    "hasselblad_3fr_raw_image": "Image brute Hasselblad 3FR",
+    "gpp_movie": "Film 3GPP",
+    "sony_digital_camera_image": "Image Sony Digital Camera",
+    "avi_movie": "Film AVI",
+    "casio_raw_image": "Image Casio RAW",
+    "canon_cr2_raw_image": "Image Canon CR2 Raw ",
+    "canon_cr3_raw_image": "Image Canon CR3 Raw ",
+    "canon_raw_ciff_image_file": "Fichier Canon Raw CIFF Image",
+    "kodak_raw_image": "Image Kodak Raw",
+    "adobe_raw_image": "Image Adobe Raw",
+    "epson_raw_image": "Image Epson Raw ",
+    "hasselblad_raw_image": "Image Hasselblad Raw",
+    "heif_image": "Image HEIF",
+    "phase_one_raw_image": "Image Phase One Raw",
+    "jpeg_image": "Image JPEG",
+    "itunes_movie": "Film iTunes",
+    "leaf_raw_image": "Image Leaf Raw ",
+    "quicktime_movie": "Film QuickTime",
+    "mpeg_4_movie": "Film MPEG-4",
+    "mpeg_4_video": "Vidéo MPEG-4",
+    "mpeg_movie": "Film MPEG",
+    "mpeg_1_movie": "Film MPEG-1",
+    "mpeg_2_movie": "Film MPEG-2",
+    "webm_video": "Vidéo WebM",
+    "minolta_raw_image": "Image Minolta Raw",
+    "nikon_raw_image": "Image Nikon Raw",
+    "olympus_raw_image": "Image Olympus Raw",
+    "pentax_raw_image": "Image Pentax Raw",
+    "fuji_raw_image": "Image Fuji Raw",
+    "panasonic_raw_image": "Image Panasonic Raw",
+    "leica_raw_image": "Image Leica Raw",
+    "sony_raw_image": "Image Sony Raw",
+    "samsung_raw_image": "Image Samsung Raw",
+    "windows_media": "Windows Media",
+    "aac_audio": "Audio AAC",
+    "aiff_c_audio": "Audio AIFF-C",
+    "au_audio": "Audio AU",
+    "flac_audio": "Audio FLAC",
+    "f4v_video": "Vidéo FV4",
+    "midi_audio": "Audi MIDI",
+    "mp2_audio": "Audio MP2",
+    "mp3_audio": "Audio MP3",
+    "mpeg_4_audio": "Audio MPEG-4",
+    "ogg_audio": "Audio Ogg",
+    "waveform_audio": "Audio Waveform",
+    "windows_media_audio": "Son Windows Media",
+    "amazon_kindle_ebook": "Livre numérique Amazon Kindle",
+    "broad_band_ebook": "Livre numérique Broad Band",
+    "djvu_image": "Image DjVu",
+    "epub_ebook": "Livre numérique EPUB",
+    "apple_books": "Livres Apple",
+    "microsoft_reader_file": "Fichier Microsoft Reader",
+    "sony_portable_reader_file": "Fichier Sony Portable Reader",
+    "librie_reader_file": "Fichier Librie Reader",
+    "mobipocket_ebook": "Livre numérique Mobipocket",
+    "box_note": "Note Box",
+    "word_document": "Document Word",
+    "word_document_template": "Modèle de document Word",
+    "google_document": "Google Document",
+    "google_form": "Google Form",
+    "lotus_word_document": "Document Lotus Word",
+    "pages_document": "Document Pages",
+    "google_slides": "Google Slides",
+    "keynote_presentation": "Présentation Keynote",
+    "opendocument_document": "Document texte OpenDocument",
+    "opendocument_presentation": "Présentation OpenDocument",
+    "opendocument_presentation_template": "Modèle de présentation OpenDocument",
+    "prezi_presentation": "Présentation Prezi",
+    "powerpoint_presentation_template": "Modèle de présentation PowerPoint",
+    "powerpoint_presentation": "Présentation PowerPoint",
+    "csv_file": "Fichier CSV",
+    "google_sheets": "Google Sheets",
+    "numbers_document": "Document Numbers",
+    "opendocument_spreadsheet": "Feuille de calcul OpenDocument",
+    "lotus_123_spreadsheet": "Feuille de calcul Lotus 123",
+    "excel_document": "Document Excel",
+    "pdf_document": "Document PDF",
+    "after_effects_project": "Projet After Effects",
+    "illustrator_file": "Fichier Illustrator",
+    "blender_3d_file": "Fichier Blender 3D",
+    "cinema_4d_file": "Fichier Cinema 4D",
+    "autocad_image": "Image AutoCAD",
+    "vector_image_file_eps": "Fichier image vectorielle (EPS)",
+    "figma_drawing": "Dessin Figma",
+    "framemaker_file": "Fichier FrameMaker",
+    "google_drawings": "Google Drawings",
+    "indesign_file": "Fichier InDesign",
+    "pagemaker_file": "Fichier PageMaker",
+    "photoshop_file": "Fichier Photoshop",
+    "publisher_file": "Fichier Publisher",
+    "sketch_drawing": "Dessin Sketch",
+    "deb": "DEB",
+    "dmg": "DMG",
+    "exe": "EXE",
+    "bin_archive": "Archive BIN",
+    "gzip_archive": "Archive GZip",
+    "amiga_lzx_archive": "Archive Amiga LZX",
+    "rar_archive": "Archive RAR",
+    "tar_archive": "Archive TAR",
+    "zip_archive": "Archive ZIP",
+    "cascading_style_sheet": "Feuille de style en cascade",
+    "html_text": "Texte HTML",
+    "javascript": "JavaScript",
+    "php_script": "Script PHP",
+    "python_source": "Source Python",
+    "ruby_source": "Source Ruby",
+    "xml_document": "Document XML",
+    "bitmap": "Bitmap",
+    "gif_image": "Image GIF",
+    "icon_image": "Image Icon",
+    "png_image": "Image PNG",
+    "svg_image": "Image SVG",
+    "tiff_image": "Image TIFF",
+    "markdown_file": "Fichier Markdown",
+    "rtf_file": "Fichier RTF",
+    "plain_text_document": "Document texte",
+    "imovie_project": "Projet iMovie",
+    "logic_pro_project": "Projet Logic Pro"
+  },
+  "_mimeTypes": {
+    "image/jpeg": "JPEG",
+    "image/png": "PNG",
+    "image/ico": "ICO",
+    "image/xls": "XLS",
+    "image/tiff": "TIFF",
+    "application/pdf": "PDF"
+  },
+  "_fileCategories": {
+    "book": "Livres",
+    "photos": "Photos",
+    "photosAndVideos": "Photos et vidéos",
+    "videos": "Vidéos",
+    "audio": "Audio",
+    "movies": "Films",
+    "writing": "Documents",
+    "similarImages": "Photos similaires",
+    "pdf": "Fichiers PDF",
+    "presentation": "Présentations",
+    "spreadsheet": "Feuilles de calcul",
+    "filesAndFolders": "Fichiers et dossiers",
+    "duplicates": "Doublons"
+  },
+  "_errors": {
+    "emptySourceList": "Veuillez d'abord sélectionner une source.",
+    "noVolumeSelected": "Aucun périphérique disponible pour analyse.",
+    "noDeviceSelected": "Veuillez d'abord sélectionner un périphérique.",
+    "connectionError": "Une erreur s'est produite. Vérifiez que vous avez une connexion Internet active et réessayez.",
+    "unexpected": "Oups, une erreur s'est produite. Veuillez réessayer.",
+    "timeout": "L'opération n'a pas pu se terminer car le délai d'attente est dépassé.",
+    "incorrectEmail": "Entrez une adresse e-mail valide.",
+    "incorrectPass": "Mot de passe incorrect.",
+    "verifyPass": "Veuillez vérifier votre mot de passe",
+    "repeatPass": "Veuillez saisir à nouveau le nouveau mot de passe",
+    "incorrectEmailPass": "E-mail ou mot de passe incorrect.",
+    "invalid_user_password": "E-mail ou mot de passe incorrect.",
+    "userExists": "Le compte existe déjà. Vous avez peut-être déjà créé un compte lors de la configuration de votre ibi, de My Cloud OS 5 ou My Cloud Home. {{link}}",
+    "userExistsLink": "Connectez-vous pour continuer",
+    "passwordMismatch": "Les mots de passe ne correspondent pas",
+    "PasswordHistoryError": "Votre nouveau mot de passe ne peut pas être identique à l'un de vos mots de passe précédents.",
+    "PasswordDictionaryError": "Le mot de passe n'est pas autorisé. Il peut être trop courant.",
+    "PasswordStrengthError": "Le mot de passe n'est pas autorisé. Il peut être trop faible.",
+    "anotherUserAttached": "Un autre utilisateur est déjà lié à l'environnement actuel.",
+    "searchLength": "Saisissez au moins trois caractères à rechercher.",
+    "albumCreationError": "Échec de la création.",
+    "openExtensionError": "Échec de l'ouverture de l'extension.",
+    "sourceIsNotConnected": "La source n'est pas connectée. Afin d'ouvrir cet élément, connectez {{name}} à votre ordinateur et essayez à nouveau.",
+    "indexDeletedError": "Oups, ce fichier n'est plus accessible. Le catalogue de la source peut avoir été supprimé récemment.",
+    "FILE_GROUP_NOT_FOUND_ERROR": "Impossible de trouver la collection",
+    "FILE_DELETED_ERROR": "Oups, ce fichier n'est plus accessible. Le fichier peut avoir été récemment supprimé ou se trouve sur une source qui a été déconnectée.",
+    "DEVICE_MIGRATING_ERROR": "Nous avons apporté de grandes améliorations à votre expérience. Dans le cadre de ce processus, votre application reconstruit et améliore la manière dont votre contenu est stocké. Ceci peut prendre un moment.",
+    "signup_invalid_request": "Adresse e-mail ou mot de passe erroné(e)",
+    "disconnectCloudFS": "Impossible de supprimer le catalogue {{label}}. Vérifiez que vous êtes bien connecté à Internet, puis réessayez."
+  },
+  "_errorTitles": {
+    "unexpected": "",
+    "DEVICE_MIGRATING_ERROR": "Mise à jour en cours"
+  },
+  "_common": {
+    "photosLibrary": "Bibliothèque de photos",
+    "volumeLabelWin": "{{label}} ({{mountPoint}})",
+    "untitledVolumeName": "Sans titre",
+    "ok": "OK",
+    "selectSomethingForPreview": "Sélectionnez un élément pour afficher la prévisualisation",
+    "open": "Ouvert",
+    "fileTypeNotSupported": "La lecture n'est pas prise en charge. Ouvrez le fichier pour le lire.",
+    "resendLink": "Envoyer à nouveau un lien",
+    "done": "C'est terminé",
+    "cancel": "Annuler",
+    "continue": "Continuer",
+    "skipForNow": "Ignorer pour le moment",
+    "retry": "Réessayer",
+    "close": "Fermer",
+    "back": "Retour",
+    "skip": "Ignorer",
+    "addSource": "Ajouter des sources",
+    "remove": "Supprimer",
+    "rename": "Renommer",
+    "later": "Plus tard",
+    "letsDoIt": "C'est parti !",
+    "newCollectionTitle": "Nouvelle collection",
+    "emptyPhotos": "Encore aucune photo ou vidéo",
+    "timeline": "Calendrier",
+    "more": "Plus d'informations",
+    "show_less": "Afficher moins",
+    "show_more": "Afficher plus",
+    "edit": "Modifier",
+    "save": "Sauvegarder",
+    "next": "Suivant",
+    "add_to_collection": "Ajouter à une collection",
+    "remove_from_collection": "Supprimer de la collection",
+    "create_collection": "Créer une collection",
+    "set_cover": "Définir une couverture",
+    "sign_in": "Connexion",
+    "create_account": "Créer un compte",
+    "settings": "Paramėtres",
+    "tryAgain": "Veuillez réessayer",
+    "createdForYou": "Créé(e) pour vous",
+    "or": "ou",
+    "add": "Ajouter",
+    "title": "Titre",
+    "items": "{{count}} élément",
+    "items_plural": "{{count}} éléments",
+    "widgets": "Widgets",
+    "quit": "Quitter",
+    "browse": "Parcourir",
+    "collections": "Collections",
+    "description": "Description",
+    "name": "Nom",
+    "viewSources": "Afficher les sources",
+    "viewTitles": "Afficher les titres",
+    "selectMode": "Sélectionner un mode",
+    "suggested_collections": "Collections suggérées",
+    "my_collections": "Mes collections",
+    "sorting": "Tri en cours",
+    "viewModes": "Modes d'affichage",
+    "comingSoon": "Bientôt disponible",
+    "signIn": "Connexion",
+    "createAccount": "Créer un compte",
+    "on": "Activé",
+    "off": "Désactivé",
+    "learnMore": "En savoir plus",
+    "viewAll": "Tout afficher",
+    "gotIt": "Fini",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "reset": "Réinitialiser",
+    "resetting": "Réinitialisation..."
+  },
+  "_customGroupNames": {
+    "largeFiles": "Fichiers volumineux",
+    "recentlyOpenFiles": "Ouvert récemment",
+    "thisMonth": "Ce mois dans l'historique",
+    "thisWeek": "Cette semaine dans l'historique",
+    "celebrate": "C'est la fête !",
+    "duplicateFiles": "Doublons"
+  },
+  "Datepicker": {
+    "placeholder": "jj/mm/aaaa"
+  },
+  "PasswordValidation": {
+    "upperLower": "1 majuscule et 1 minuscule",
+    "number": "1 chiffre",
+    "length": "8 caractères ou plus"
+  },
+  "SignInForm": {
+    "email": "Adresse e-mail",
+    "password": "Mot de passe",
+    "forgotPassword": "Vous avez oublié votre mot de passe ?",
+    "button_text": "« Connexion »"
+  },
+  "PasswordInput": {
+    "show_password": "Afficher le mot de passe",
+    "hide_password": "Masquer le mot de passe"
+  },
+  "SignUpForm": {
+    "title": "S'inscrire",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "email": "Adresse e-mail",
+    "password": "Mot de passe",
+    "submit": "Créer un compte",
+    "button_text": "« Créer un compte »",
+    "enterFirstNameError": "Saisissez votre prénom",
+    "enterLastNameError": "Saisissez votre nom",
+    "enterEmailError": "Saisissez votre adresse e-mail",
+    "enterValidEmailError": "Entrez une adresse e-mail valide.",
+    "createAccount": "Créer un compte"
+  },
+  "Policy": {
+    "agreement": "En cliquant sur {{button_text}}, vous acceptez les {{product_name}} {{licence_agreement_link}} et {{privacy_link}}. Vous comprenez et acceptez que {{company_name}} va transférer, traiter et stocker vos données, vers/dans d'autres pays, y compris les États-Unis. Les données concernées peuvent inclure les informations de compte que vous avez fournies à {{company_name}} et le contenu que vous avez synchronisé avec le cloud {{product_name}}.",
+    "licence_agreement": "Conditions d'utilisation",
+    "privacy_state": "Déclaration de confidentialité"
+  },
+  "ResetPassword": {
+    "title": "Vous avez oublié votre mot de passe ?",
+    "resetLinkSendTitle": "Consultez votre boîte de réception",
+    "resetLinkSendText": "Si un compte {{product_name}} existe pour {{email}}, un <span>e-mail</span> sera envoyé avec des instructions supplémentaires.",
+    "resendLink": "Veuillez réessayer"
+  },
+  "ResetPasswordForm": {
+    "title": "Réinitialiser le mot de passe",
+    "text": "Vous devez réinitialiser votre mot de passe ? Nous vous enverrons un e-mail avec les instructions.",
+    "submit": "Envoyer les instructions",
+    "email": "Adresse e-mail"
+  },
+  "SetNewPassword": {
+    "formTitle": "Créons un nouveau mot de passe",
+    "invalidLinkTitle": "Le lien de réinitialisation du mot de passe n'est plus valide",
+    "invalidLinkText": "Ce lien de réinitialisation du mot de passe n'est plus valide Veuillez revenir à la page de réinitialisation du mot de passe et réessayer.",
+    "resendLink": "Envoyer à nouveau un lien",
+    "passwordUpdatedTitle": "Le mot de passe a été modifié",
+    "passwordUpdatedText": "Vous pouvez maintenant vous connecter avec votre nouveau mot de passe.",
+    "signIn": "Connexion",
+    "linkExpiredTitle": "Le lien de réinitialisation du mot de passe a expiré",
+    "linkExpiredText": "Le lien de réinitialisation du mot de passe a expiré Veuillez revenir à la page de réinitialisation du mot de passe et réessayer.",
+    "validatingLink": "Validation du lien en cours..."
+  },
+  "SetNewPasswordForm": {
+    "newPassword": "Nouveau mot de passe",
+    "confirmNewPassword": "Confirmer le nouveau mot de passe",
+    "submit": "Définir un nouveau mot de passe"
+  },
+  "Welcome": {
+    "title": "Bienvenue à",
+    "text1": "Installez et configurez vos produits WD et SanDisk, activez votre garantie, puis installez le logiciel supplémentaire.",
+    "text2": "Gérez les contenus depuis votre ordinateur, notamment les périphériques externes de stockage, ainsi que les plateformes cloud dans une vue unique.",
+    "text3": "Visualisez vos ressources numériques classées et consultables au même endroit, qu'elles soient connectées ou non.",
+    "copyright": "© {{current_year}} Western Digital Corporation ou ses sociétés affiliées. Tous droits réservés. Confidentiel."
+  },
+  "NotFound": {
+    "mainText": "Page introuvable"
+  },
+  "Root": {
+    "browser": "Parcourir",
+    "report": "Envoyer un avis"
+  },
+  "Browse": {
+    "unknown": "[INCONNU]"
+  },
+  "SettingsRoot": {
+    "account": "Paramètres de compte",
+    "manageSources": "Sources",
+    "language": "Langue",
+    "appSettings": "Paramètres de l'application",
+    "theme": "Thème",
+    "helpAndSupport": "Aide et assistance",
+    "legal": "Juridique",
+    "privacy": "Confidentialité",
+    "darkMode": "Mode sombre",
+    "checking": "vérification...",
+    "logs": "Télécharger les logs",
+    "info": "Paramètres d'en-tête et d'informations d'onglet",
+    "surveys": "Enquêtes",
+    "uniq_identifier_line": "Identifiant unique",
+    "link_text": "Qu'est-ce que c'est ?",
+    "copy": "Copier l'UID",
+    "copy_success": "UID copié avec succès",
+    "copy_failed": "Échec de la copie de l'UID",
+    "manageCatalog": "Gérer le catalogue",
+    "turboMode": "Mode turbo"
+  },
+  "SettingsManageCatalog": {
+    "title": "Gérer le catalogue",
+    "size": {
+      "title": "Taille actuelle",
+      "text": "{{size}} sur {{maxSize}} (environ {{percent}} % de la taille du catalogue)",
+      "description": "Le catalogue contient les métadonnées de fichiers (nom, date, taille, prévisualisation d'image, etc.). Pour être stocké, le catalogue utilise au maximum 10 % de l'espace libre sur votre périphérique (calculé au moment de l'installation). {{link}}",
+      "link": "Plus d'informations sur votre catalogue sont disponibles ici."
+    },
+    "driveSpace": {
+      "title": "Vitesse du disque",
+      "chartTitle": "{{free}} libre sur {{total}}",
+      "usedSpaceLabel": "Espace utilisé",
+      "usedSpaceTooltip": "{{size}} d'espace utilisé",
+      "indexSizeLabel": "Catalogue actuel",
+      "indexSizeTooltip": "Taille actuelle du catalogue {{size}}",
+      "maxSizeLabel": "Catalogue maximum",
+      "maxSizeTooltip": "Taille maximale du catalogue {{size}}",
+      "freeSizeLabel": "Espace libre",
+      "freeSizeTooltip": "{{size}} d'espace libre"
+    },
+    "updateCatalogSize": {
+      "title": "Mettre à jour la taille du catalogue",
+      "text": "Nous allouons par défaut 10 % de votre espace libre au catalogue. Si vous avez besoin de plus d'espace pour cataloguer vos sources, vous pouvez augmenter la taille maximale du catalogue à l'aide du curseur ci-dessous.",
+      "size_note": "Remarque : D'autres applications ont besoin d'espace libre pour fonctionner normalement, {{product_name}} ne vous permet donc pas d'allouer tout votre espace libre au catalogue.",
+      "button": "Mettre à jour la taille du catalogue",
+      "successUpdated": "La taille maximale du catalogue a été mise à jour pour {{size}}.",
+      "sizeRestrictionWarning": "Vous ne pouvez pas descendre en dessous de la taille actuelle du catalogue."
+    }
+  },
+  "SettingsTheme": {
+    "orange": "Orange"
+  },
+  "SettingsAccount": {
+    "title": "Paramètres de compte",
+    "youAreNotSigned": "Vous n'êtes pas connecté.",
+    "youAreSignedIn": "Vous êtes connecté.",
+    "createAccount": "Créer un compte",
+    "createAccountOrSignIn": "{{createAccount}} ou {{signIn}}",
+    "logout": "Déconnexion",
+    "deleteAccount": "Supprimer mon compte",
+    "profile": "Profil",
+    "name": "Nom",
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "emails": "Adresses e-mail",
+    "analytics": "Analyses",
+    "keplerPrime": "{{product_name}} Access",
+    "editPhoto": "Modifier",
+    "addPhoto": "Ajouter une photo",
+    "imageLoadError": "Erreur lors du chargement de la photo.",
+    "imageTypeError": "Prise en charge des fichiers .png et .jpg uniquement.",
+    "imageSizeError": "La taille de votre image ne doit pas dépasser 30 ko.",
+    "cognitoImageSizeError": "La taille de votre image ne doit pas dépasser 1 Mo.",
+    "generalImageTooltip": "Prise en charge des fichiers .png et .jpg uniquement. Ne doit pas dépasser 30 ko.",
+    "cognitoGeneralImageTooltip": "Prise en charge des fichiers .png et .jpg uniquement. Ne doit pas dépasser 1 Mo.",
+    "resetPasswordModal": {
+      "title": "Vérifiez votre e-mail",
+      "text1": "Veuillez vérifier vos e-mails ; vos instructions se trouvent à l'intérieur.",
+      "text2": "REMARQUE : Si vous utilisez la même adresse e-mail pour vos comptes EdgeRover™, ibi™, My Cloud™ OS 5 et My Cloud™ Home, les mots de passe associés à ces comptes seront également réinitialisés.",
+      "button": "Envoyer l'e-mail à nouveau"
+    }
+  },
+  "SettingsPrivacy": {
+    "title": "Confidentialité",
+    "shareAnalyticsTitle": "Partager les analyses de l'application avec {{company_name}}",
+    "shareAnalyticsText": "Aidez l'équipe {{company_name}} à améliorer nos produits, services et applications, et personnalisez votre expérience, notamment avec l'envoi de notifications de l'application et push, en envoyant automatiquement les données d'utilisation.{{link}}",
+    "marketingTitle": "Autoriser {{company_name}} à m'envoyer des e-mails marketing",
+    "marketingText": "Restez connecté pour les dernières mises à jour, promotions et newsletter, notamment les publicités ciblées, grâce aux messages de l'application, aux notifications push et aux e-mails.{{link}}",
+    "learnMore": "En savoir plus"
+  },
+  "SettingsAccountCreateAccount": {
+    "title": "Créer un compte",
+    "subtitle": "Créez un compte pour enregistrer vos périphériques et activez leur garantie (aucune carte de crédit n'est nécessaire)."
+  },
+  "Language": {
+    "title": "Langue"
+  },
+  "AppSettings": {
+    "info": "Paramètres d'en-tête et d'informations d'onglet",
+    "resetSettings": "Réinitialiser les paramètres d'en-tête et d'informations d'onglet",
+    "resetBtn": "Réinitialiser",
+    "title": "Paramètres de l'application",
+    "appVersion": "Version de l'application",
+    "privacy": "Confidentialité",
+    "version": "Version {{version}}",
+    "latestVersion": "Vous possédez la dernière version de {{product_name}} !",
+    "updateAvailable": "Une nouvelle version est disponible. {{update}}",
+    "updateFailed": "Mise à jour annulée. {{retry}}",
+    "retry": "Réessayer",
+    "downloadingUpdate": "Téléchargement de la mise à jour...",
+    "updateLoaded": "Mise à jour téléchargée. {{relaunch}}",
+    "relaunch": "Redémarrer {{product_name}}",
+    "updateNow": "Mettre à jour",
+    "appLaunch": "Lancement de l'application",
+    "openAutomatically": "Ouvrir {{product_name}} automatiquement une fois connecté à l'ordinateur.",
+    "language": "Langue",
+    "offline": "Connectez-vous à Internet pour rechercher des mises à jour."
+  },
+  "HelpFeedback": {
+    "title": "Aide et avis",
+    "haveQuestion": "J'ai une question ou un commentaire...",
+    "helpCenter": "Centre d'aide",
+    "reportProblem": "Signaler un problème",
+    "generalQuestion": "Question d'ordre général ou commentaire",
+    "haveIdea": "J'ai une idée...",
+    "requestFeature": "Demandez une fonction"
+  },
+  "HelpAndSupport": {
+    "title": "Aide et assistance",
+    "HowToAddASource": "Comment ajouter une source",
+    "StartAddingASource": "Commencer à ajouter une source",
+    "KeyboardShortcuts": "Raccourcis clavier ",
+    "OpenKeyboardShortcuts": "Ouvrir les raccourcis clavier",
+    "tipsTricks": "Conseils et astuces",
+    "helpSite": "Site d'aide"
+  },
+  "Legal": {
+    "title": "Juridique",
+    "terms": "Conditions d'utilisation",
+    "policy": "Déclaration de confidentialité",
+    "privacyFAQ": "FAQ concernant la confidentialité",
+    "acceptableUsePolicy": "Politique d'utilisation acceptable",
+    "copyrightUsePolicy": "Politique de Copyright",
+    "trademarks": "Marques commerciales",
+    "openSourceNotices": "Avis Open Source"
+  },
+  "SettingsAccountSidePanelChangeName": {
+    "title": "Modifier le nom",
+    "text": "Modifiez et enregistrez votre nom."
+  },
+  "ChangeNameForm": {
+    "enterFirstNameError": "Saisissez un prénom",
+    "enterLastNameError": "Saisissez un nom"
+  },
+  "SettingsAccountSidePanelChangePassword": {
+    "title": "Modifier le mot de passe",
+    "text": "Saisissez votre mot de passe actuel ci-dessous, puis choisissez un nouveau mot de passe."
+  },
+  "ChangePasswordForm": {
+    "currentPassword": "Mot de passe actuel",
+    "newPassword": "Nouveau mot de passe",
+    "repeatNewPassword": "Confirmer le nouveau mot de passe"
+  },
+  "DeleteAccountModal": {
+    "title": "Supprimer définitivement votre compte {{product_name}} ?",
+    "text": "<p>Nous regrettons votre départ.</p><p>En supprimant votre compte {{product_name}}, le catalogue de votre contenu de toutes les sources connectées sera supprimé. </p><p>Avant de supprimer votre compte, nous pouvons peut-être vous aider. {{getInTouch}}</p><p>Ou cliquez sur Continuer pour poursuivre.</p>",
+    "getInTouch": "Contactez-nous"
+  },
+  "DeleteAccountForm": {
+    "text": "Saisissez votre mot de passe pour supprimer définitivement votre compte {{product_name}}."
+  },
+  "Main": {
+    "manageSource": "Ajouter et gérer des sources"
+  },
+  "MainActions": {
+    "title": "Parcourir votre contenu",
+    "sources": "Par sources"
+  },
+  "Search": {
+    "title": "Affichage des résultats pour « {{query}} »",
+    "emptyTitle": "Résultats de la recherche",
+    "empty": "Il semblerait qu'il n'y ait pas de résultats de recherche pour « {{query}} »",
+    "text1": "Vous n'avez pas trouvé ce que vous cherchiez ?",
+    "text2": "Essayez de mettre à jour les filtres et d'effectuer une nouvelle recherche ou bien de relancer l'application {{product_name}} afin de mettre à jour votre catalogue."
+  },
+  "SearchMain": {
+    "title": "Rechercher",
+    "searchHistory": "Historique de recherches",
+    "empty": "Il semblerait qu'aucun historique de recherches n'ait été trouvé.",
+    "count": "({{count}})"
+  },
+  "SearchInput": {
+    "placeholder": "Rechercher dans votre contenu",
+    "search": "Rechercher"
+  },
+  "SearchInputSuggestions": {
+    "submitHelpText": "Recherchez « {{query}} » en appuyant sur Entrée.",
+    "submitHelpTextTruncated": "Recherchez « {{query}}... » en appuyant sur Entrée."
+  },
+  "SearchInputSuggestionsList": {
+    "tags": "Pour vous",
+    "tagsEmpty": "Aucun objet ne correspond au mot-clé.",
+    "locations": "Lieux",
+    "locationsEmpty": "Aucun lieu ne correspond au mot-clé.",
+    "history": "Historique de recherches",
+    "historyEmpty": "Aucun historique de recherche ne correspond au mot-clé.",
+    "titleButton": "Effacer tout l'historique"
+  },
+  "SearchHeader": {
+    "selectSource": "Sélectionner une Source",
+    "categories": "Catégories",
+    "kind": "Type de fichier",
+    "moreFilters": "Plus de filtres",
+    "resetAll": "Réinitialiser tout",
+    "locationGroupLabel": "{{country}} {{city}}",
+    "fromLabel": "du {{from}}",
+    "toLabel": "au {{to}}",
+    "rangeLabel": "{{from}} - {{to}}",
+    "allSources": "Toutes les sources",
+    "allCategories": "Toutes les catégories",
+    "allKinds": "Tous les types de fichiers"
+  },
+  "DropdownFilter": {
+    "all": "Tout"
+  },
+  "SearchContentGroups": {
+    "query": "Résultats de recherche pour « {{- query}} »"
+  },
+  "SearchContentGroup": {
+    "all": "Tout : Toutes les correspondances",
+    "media": "Multimédia : Photos et vidéos",
+    "pdf": "Fichiers PDF",
+    "writing": "Rédactions",
+    "presentation": "Présentations",
+    "book": "Livres",
+    "spreadsheet": "Feuilles de calcul",
+    "audio": "Audio",
+    "more": "Plus d'informations"
+  },
+  "SearchFiltersSidePanel": {
+    "title": "Plus d'options de filtre",
+    "description": "Ajoutez des filtres pour affiner les résultats de votre recherche et trouver ce que vous recherchez.",
+    "locationDescription": "Filtrez vos résultats par lieu pour voir les photos et vidéos marquées automatiquement avec le lieu où elles ont été capturées.",
+    "tagsDescription": "Affinez vos résultats grâce aux étiquettes générées automatiquement par {{product_name}}, ainsi qu'aux étiquettes que vous avez ajoutées manuellement.",
+    "places": "Lieux",
+    "tags": "Étiquettes",
+    "range": "Plage de dates",
+    "create": "Date de création",
+    "modify": "Date de modification",
+    "from": "de",
+    "to": "jusqu'à",
+    "apply": "Appliquer"
+  },
+  "SearchFiltersSidePanelGroupInfo": {
+    "selected": "{{count}} sélectionné(s)"
+  },
+  "SearchFiltersSidePanelGroupSelector": {
+    "search": "Rechercher",
+    "selected": "{{count}} sélectionné(s)",
+    "confirm": "Confirmer"
+  },
+  "FilesList": {
+    "empty": "Vide",
+    "empty_folder_title": "Ce dossier est vide !",
+    "empty_folder_text_mac": "Lorsque vos fichiers sont prêts, ajoutez-les via Finder.",
+    "empty_folder_text_win": "Lorsque vos fichiers sont prêts, ajoutez-les via l'Explorateur.",
+    "empty_drive_title": "Ce périphérique est vide !",
+    "empty_drive_text_mac": "Lorsque vos fichiers sont prêts, déposez-les dans ce périphérique via Finder.",
+    "empty_drive_text_win": "Lorsque vos fichiers sont prêts, transférez-les sur ce périphérique via l'Explorateur de fichiers puis relancez l'application {{product_name}}.",
+    "empty_external_drive_text": "Lorsque vos fichiers sont prêts, déposez-les dans ce périphérique.",
+    "empty_external_folder_text": "Lorsque vos fichiers sont prêts, déposez-les dans ce dossier.",
+    "empty_cloud_source_folder_text": "Lorsque vos ajoutez des fichiers à votre source cloud, {{product_name}} va automatiquement mettre à jour ce dossier.",
+    "empty_social_source_folder_text": "Lorsque vos ajoutez des fichiers à votre source de réseaux sociaux, {{product_name}} va automatiquement mettre à jour ce dossier.",
+    "open_folder_mac": "Ouvrir dans Finder",
+    "open_folder_win": "Ouvrir dans l'Explorateur de fichiers",
+    "manage_sources": "Sources",
+    "empty_facet_title": "Rien n'a encore été ajouté !",
+    "empty_facet_text": "Branchez et cataloguez vos périphériques. L'ajout de plusieurs sources va ajouter votre contenu à {{product_name}}.",
+    "list_view": "Affichage de la liste",
+    "media_view": "Mode multimédia",
+    "thumbnail_view": "Mode vignettes",
+    "preview": "Panneau de prévisualisation"
+  },
+  "ListView": {
+    "name": "Nom",
+    "kind": "Type",
+    "mTime": "Date de modification",
+    "cTime": "Date de création",
+    "source": "Source",
+    "size": "Taille",
+    "artist": "Artiste",
+    "author": "Auteur",
+    "totalSize": "Taille totale",
+    "item": "Élément",
+    "duplicates": "Total"
+  },
+  "ThumbnailsView": {
+    "folders": "Dossiers",
+    "folder": "Dossier",
+    "files": "Fichiers",
+    "similar_group": "Groupe similaire"
+  },
+  "Media": {
+    "select": "Sélectionner et organiser"
+  },
+  "MediaGroupList": {
+    "empty_photos": "Aucune photo pour le moment",
+    "empty_videos": "Aucune vidéo pour le moment"
+  },
+  "SingleItemView": {
+    "lockedFile": "Ouvrez ce fichier pour le déverrouiller.",
+    "noPreviewAvailable": "Ce type de fichier ne prend pas en charge les prévisualisations.",
+    "noPreviewDocumentCloud": "Il n'est actuellement pas possible de prévisualiser les documents pour certaines sources cloud et de réseaux sociaux.",
+    "showInParentFolder": "Afficher dans le dossier parent",
+    "previewOnly": "– Prévisualisation uniquement",
+    "prev": "Précédent",
+    "next": "Suivant",
+    "location": "Afficher le lieu",
+    "info": "Plus d\\'informations",
+    "descriptionTitle": "Description",
+    "descriptionHide": "Masquer",
+    "more": " ...plus",
+    "more_actions": "Plus d'informations",
+    "more_info": "Panneau Plus d'informations",
+    "rename": "Renommer",
+    "copy": "Copier",
+    "remove": "Supprimer",
+    "fullscreen": "Plein écran",
+    "close_fullscreen": "Quitter le mode Plein écran",
+    "no_source": "{{- sourceName}} n'est pas disponible.",
+    "defaultSource": "Source du fichier",
+    "DASDisconnectedPopup": {
+      "title": "Comment accéder au contenu sur des périphériques déconnectés",
+      "description": "{{product_name}} vous permet d'afficher les prévisualisations disponibles des fichiers, même si leur source n'est pas connectée. Afin d'ouvrir le fichier sur votre périphérique personnel ou d'ouvrir le dossier dans lequel il se trouve, la source doit être connectée."
+    },
+    "CloudUnavailablePopup": {
+      "title": "Comment accéder à des sources cloud ou à des réseaux sociaux",
+      "description": "{{product_name}} vous permet d'afficher les prévisualisations disponibles des fichiers, même si leur source n'est pas connectée. Afin d'ouvrir le fichier à l'aide de votre fournisseur de solutions cloud et de réseaux sociaux, vérifiez que vous êtes bien connecté(e) à {{product_name}} et que votre connexion Internet fonctionne normalement."
+    },
+    "no_file": "Sélectionner un élément pour le prévisualiser.",
+    "file_info": "Afficher les informations sur le fichier",
+    "open_in_finder": "Les actions ci-dessous s'exécuteront dans Finder.",
+    "open_in_photos_library": "Les actions ci-dessous s'exécuteront dans l'application Photos.",
+    "open_in_explorer": "Les actions ci-dessous s'exécuteront dans l'Explorateur."
+  },
+  "SingleItemViewZoomControls": {
+    "scale": "{{value}}%",
+    "zoom_in": "Zoom avant",
+    "zoom_out": "Réduire",
+    "fit": "Adapter à l'écran"
+  },
+  "VolumeListCommon": {
+    "mountPoint": "{{label}} ({{mountPoint}})",
+    "homeDir": "{{main}}/{{home}}"
+  },
+  "ConnectedVolumeList": {
+    "connectedSource": "Sources connectées",
+    "ejected": "(éjecté[e])",
+    "remove": "Supprimer une source",
+    "noConnectedSources": "Aucune source connectée.",
+    "addText": "Cliquez sur le bouton « Ajouter des sources » pour connecter des sources."
+  },
+  "VolumesWizardWaiting": {
+    "doNotWait": "Je ne veux pas attendre",
+    "paused": "Le catalogage est actuellement en pause pour économiser la batterie. Branchez votre ordinateur portable à une source d'alimentation pour reprendre.",
+    "itemError": "Oups. Une erreur s'est produite. Le périphérique {{label}} n'est pas en cours d'analyse.",
+    "unpluggedError": "Le périphérique {{label}} a été débranché pendant l'analyse.",
+    "allUnpluggedError": "Tous les périphériques connectés ont été débranchés pendant l'analyse.",
+    "info": [
+      {
+        "title": "Analyse en cours...",
+        "description": "Cela peut prendre jusqu'à 5 minutes. Veuillez laisser les périphériques de stockage externe branchés, et l'application {{product_name}} en cours d'exécution."
+      },
+      {
+        "title": "Analyse de vos périphériques...",
+        "description": "Si vous disposez de l'espace nécessaire, les instantanés de votre stockage sont stockés en local afin que vous puissiez trouver et prévisualiser votre contenu à tout moment."
+      },
+      {
+        "title": "Capture d'instantanés...",
+        "description": "Si vous disposez de l'espace nécessaire, les instantanés de votre stockage sont stockés en local afin que vous puissiez trouver et prévisualiser votre contenu à tout moment."
+      },
+      {
+        "title": "Catégorisation du contenu...",
+        "description": "{{product_name}} génère des filtres pour vous permettre d'organiser automatiquement vos photos, vidéos et fichiers."
+      },
+      {
+        "title": "Retouche finale…",
+        "description": "Vous pouvez toujours connecter davantage de périphériques de stockage à {{product_name}} en vous rendant dans <strong>Sources</strong>."
+      }
+    ]
+  },
+  "ManageSources": {
+    "title": "Sources",
+    "addSource": "Ajouter une source",
+    "failureErrorAddCloudSourceMessage": "Une erreur s'est produite. Impossible de se connecter à votre compte. Veuillez réessayer.",
+    "existsErrorAddCloudSourceMessage": "Compte déjà synchronisé. Vous ne pouvez pas synchroniser le même compte plusieurs fois."
+  },
+  "SourceContextMenu": {
+    "removeIndex": "Supprimer le catalogue",
+    "indexDrive": "Cataloguer un périphérique",
+    "manageIndex": "Gérer le catalogue",
+    "unlock": "Déverrouiller",
+    "setPassword": "Définir un verrou",
+    "editPassword": "Modifier le mot de passe",
+    "driveSettings": "Paramètres du périphérique",
+    "eraseDrive": "Effacer l'appareil",
+    "eject": "Éjecter",
+    "raidsettings": "Paramètres Raid",
+    "noActions": "Aucune action disponible pour le moment",
+    "reconnectCloudSource": "Reconnecter la source"
+  },
+  "PhotosLibraryAction": {
+    "title": "Remarque",
+    "titleDetached": "Détachement de la bibliothèque de photos",
+    "openPhotosApp": "Ouvrir l'application Photos",
+    "text": "Pour effectuer une action sur cet élément, ouvrez-le dans l'application Photos.",
+    "textDetached": "Détachement de la bibliothèque de photos en cours. Certains éléments seront inaccessibles jusqu'à la fin de ce processus."
+  },
+  "ReportBugModal": {
+    "title": "Envoyer un avis",
+    "listTitle": "Votre avis nous est très précieux. Si vous avez des idées d'amélioration de l'application ou si vous rencontrez des problèmes, contactez-nous.",
+    "copy": "Copier l'UID",
+    "idea": "Soumettre une idée :",
+    "portal": "Rendez-vous sur {{link}} pour ajouter vos idées et voir ce que les autres utilisateurs ont dit.",
+    "issue": "Signaler un problème :",
+    "upload": "1. Chargez vos logs pour nous donner autant d'informations que possible sur la situation.",
+    "email": "2. Envoyez-nous un {{email}} décrivant votre problème.",
+    "emailLink": "e-mail",
+    "download": "Télécharger les logs",
+    "uploadLogs": "Charger les logs",
+    "uploading": "Chargement en cours… ",
+    "connection_error": "Vous devez être connecté à Internet pour charger vos logs. Veuillez vous connecter et essayer à nouveau.",
+    "error": "Erreur lors du chargement des logs. Veuillez réessayer.",
+    "subject": "Avis sur {{product_name}}",
+    "success": "Logs chargés avec succès.",
+    "uid": "Identifiant unique",
+    "what": "Qu'est-ce que c'est ?"
+  },
+  "DisconnectModal": {
+    "title": "Voulez-vous vraiment supprimer cette source ?",
+    "message": "Le catalogue du contenu de la source sera supprimé définitivement. Vous ne pourrez plus prévisualiser ou rechercher son contenu.",
+    "disconnect": "Supprimer une source",
+    "close": "Annuler"
+  },
+  "Scanner": {
+    "progress": "Analyse en cours..."
+  },
+  "ConnectErrorModal": {
+    "title": "Oups, une erreur s'est produite.",
+    "permissionTitle": "Aucun accès autorisé.",
+    "driveMessage": "Votre périphérique {{diskName}} n'a pas été connecté en raison d'une erreur.",
+    "drivesMessage": "Les périphériques {{diskNameList}} n'ont pas été connectés en raison d'une erreur.",
+    "permissionMessage": "{{product_name}} n'est pas autorisé à accéder aux fichiers. Répétez l'opération et autorisez l'accès ou modifiez les préférences du système pour accorder l'accès.",
+    "AllDrivesMessage": "Vos périphériques n'ont pas été connectés en raison d'une erreur."
+  },
+  "DisconnectErrorModal": {
+    "title": "Oups, une erreur s'est produite.",
+    "driveMessage": "Votre périphérique {{diskName}} n'a pas été déconnecté en raison d'une erreur.",
+    "drivesMessage": "Les périphériques {{diskNameList}} n'ont pas été déconnectés en raison d'une erreur.",
+    "AllDrivesMessage": "Vos périphériques n'ont pas été déconnectés en raison d'une erreur."
+  },
+  "ModalUpdateError": {
+    "permissionTitle": "Aucun accès autorisé.",
+    "title": "Oups, une erreur s'est produite.",
+    "driveMessage": "Votre périphérique {{diskName}} n'a pas été mis à jour en raison d'une erreur.",
+    "drivesMessage": "Les périphériques {{diskNameList}} n'ont pas été mis à jour en raison d'une erreur.",
+    "permissionMessage": "{{product_name}} n'est pas autorisé à accéder aux fichiers. Répétez l'opération et autorisez l'accès ou modifiez les préférences du système pour accorder l'accès.",
+    "AllDrivesMessage": "Vos périphériques n'ont pas été mis à jour en raison d'une erreur."
+  },
+  "UnplugModal": {
+    "driveTitle": "Votre périphérique {{label}} est débranché",
+    "drivesTitle": "Vos périphériques sont débranchés",
+    "driveText": "Votre périphérique {{label}} était débranché pendant l'analyse et votre contenu dans {{product_name}} ne sera pas à jour. L'analyse des autres périphériques va se poursuivre.",
+    "drivesText": "Le périphérique {{labels}} était débranché pendant l'analyse et votre contenu dans {{product_name}} ne sera pas à jour. L'analyse des autres périphériques va se poursuivre."
+  },
+  "ChangePasswordSignOutModal": {
+    "title": "Vous avez été déconnecté.",
+    "text": "Vous avez été déconnecté, car votre mot de passe a été mis à jour. Connectez-vous à nouveau pour continuer."
+  },
+  "PasswordChanged": {
+    "title": "Vérifiez votre e-mail",
+    "text": "Si un compte {{product_name}} existe pour {{email}}, un e-mail sera envoyé avec des instructions supplémentaires.",
+    "button": "Envoyer à nouveau un lien",
+    "success": "E-mail envoyé avec succès"
+  },
+  "AlbumToasts": {
+    "updateSuccess": "Collection mise à jour",
+    "removeSuccess": "Collection supprimée",
+    "coverChangeSuccess": "Couverture de la collection modifiée",
+    "creationCoverChangeSuccess": "Photo de couverture définie",
+    "filesAdded": "{{count}} fichier ajouté",
+    "filesAdded_plural": "{{count}} fichiers ajoutés",
+    "filesNotAdded": "{{count}} fichier se trouve déjà dans la collection.",
+    "filesNotAdded_plural": "{{count}} fichiers se trouvent déjà dans la collection.",
+    "filesRemoved": {
+      "items": "Élément supprimé",
+      "items_plural": "{{count}} éléments supprimés"
+    }
+  },
+  "AlbumsTooltips": {
+    "addPhotos": "Ajouter des photos",
+    "description": "Description"
+  },
+  "Albums": {
+    "title": "Collections",
+    "search": "Rechercher",
+    "forYou": "Pour vous",
+    "locations": "Lieux",
+    "creationDescription": "Donnez un nom et une description facultative à votre collection afin de pouvoir l'identifier ultérieurement.",
+    "groupTitle": "Nom de la collection",
+    "button1": "Parcourir",
+    "button2": "Rechercher",
+    "description": "Ajoutez une description facultative.",
+    "name": "Ajouter un nom",
+    "remove": "Supprimer la collection",
+    "edit": "Modifier le nom/la description"
+  },
+  "AddPhotosToAlbum": {
+    "title": "Ajouter des photos"
+  },
+  "AlbumList": {
+    "noAlbumsYet": "Aucune collection ajoutée pour le moment",
+    "noAlbumsYetSubtitle1": "Créez des collections avec le contenu réparti à travers vos sources.",
+    "counter": "{{count}} élément",
+    "counter_plural": "{{count}} éléments",
+    "create_collection": "Créer une collection"
+  },
+  "AlbumRenameModal": {
+    "title": "Nommez votre collection",
+    "placeholder": "Nom de la collection",
+    "invalidName": "Le nom ne peut pas contenir les caractères suivants : \\/<|>\"?*:",
+    "enterName": "Veuillez d'abord saisir le nom de la collection."
+  },
+  "AlbumDescription": {
+    "title": "Description",
+    "save": "Sauvegarder",
+    "readMore": "en savoir plus",
+    "addDescription": "Aucune description"
+  },
+  "AlbumCommon": {
+    "selectCoverPhoto": "Sélectionner une photo de couverture",
+    "items": "{{count}} élément de {{date}}",
+    "items_plural": "{{count}} éléments de {{date}}",
+    "emptyText": "Il n'y a rien ici !",
+    "emptySubtext": "Il semble qu'aucune photo n'ait encore été ajoutée ici.... {{product_name}} ne peut pas faire grand-chose avec une collection vide !",
+    "addPhotos": "Ajouter des photos",
+    "created": "Créé(e) le {{date}}",
+    "coverTitle": "Comment puis-je ajouter des éléments ?",
+    "coverDescription": "Pour ajouter du contenu à cette collection, parcourez ou recherchez-le, sélectionnez tout ce que vous souhaitez ajouter ou choisissez « Ajouter à la collection ».",
+    "emptyCoverDescription": "Pour ajouter du contenu à cette collection, parcourez ou recherchez-le, sélectionnez tout ce que vous souhaitez ajouter et choisissez « Ajouter à la collection ». Utilisez le bouton ci-dessous pour choisir une section et y accéder directement dans Parcourir."
+  },
+  "RemoveAlbum": {
+    "title": "Supprimer",
+    "removeAlbum": "Voulez-vous supprimer la collection « {{collection}} » ?",
+    "delete": "Oui, la supprimer"
+  },
+  "RemoveAlbumPhotos": {
+    "title": {
+      "items": "Supprimer l'élément de la collection ?",
+      "items_plural": "Supprimer les éléments de la collection ?"
+    },
+    "text": {
+      "items": "Voulez-vous vraiment supprimer l'élément sélectionné de la collection ? L'élément sélectionné sera uniquement enlevé de cette collection, mais ne sera pas supprimé.",
+      "items_plural": "Voulez-vous vraiment supprimer les {{count}} éléments sélectionnés de la collection ? Les éléments sélectionnés seront uniquement enlevés de cette collection, mais ne seront pas supprimés."
+    }
+  },
+  "AlbumItemContextMenu": {
+    "addPhotos": "Ajouter des photos",
+    "download": "Télécharger"
+  },
+  "AlbumContextMenu": {
+    "setAsCover": "Définir comme couverture"
+  },
+  "Objects": {
+    "title": "Rechercher",
+    "location": "Lieux",
+    "tag": "Pour vous",
+    "emptyLocations": "Il semble qu'aucun emplacement n'ait encore été ajouté.",
+    "emptyTagGroups": "Il semble qu'aucun groupe d'étiquettes n'ait encore été ajouté."
+  },
+  "ObjectsGroup": {
+    "empty": "Il semble qu'aucun groupe d'étiquettes n'ait encore été ajouté."
+  },
+  "LocationGroups": {
+    "title": "Lieux",
+    "empty": "Il semble qu'aucun emplacement n'ait encore été ajouté."
+  },
+  "TagGroups": {
+    "title": "Pour vous",
+    "empty": "Il semble qu'aucun groupe d'étiquettes n'ait encore été ajouté."
+  },
+  "ObjectGroup": {
+    "albumsCounted": "Collections ({{count}})",
+    "albums": "Collections"
+  },
+  "TagGroup": {
+    "forYou": "Pour vous",
+    "search": "Rechercher"
+  },
+  "LocationGroup": {
+    "locations": "Lieux",
+    "search": "Rechercher"
+  },
+  "ObjectSuggestions": {
+    "tagGroups": "Pour vous",
+    "locationGroups": "Lieu",
+    "empty": "Aucune collection correspondant à <span>« {{query}} »</span>.<br>Pour continuer à rechercher des fichiers et dossiers, appuyez sur Entrée."
+  },
+  "OfflineAlertModal": {
+    "title": "Vous êtes hors connexion.",
+    "text": "KAS est indisponible en raison d'une erreur de connexion, mais vous pouvez basculer sur un périphérique local."
+  },
+  "SidebarDevices": {
+    "mac": "Mac",
+    "pc": "PC",
+    "cloud": "Accéder"
+  },
+  "IndexingStatusSidebarContent": {
+    "preparing": "Préparation...",
+    "paused": "En pause",
+    "pausedCommon": "Veuillez patienter pendant que nous mettons à jour le statut du catalogage.",
+    "lowBattery": "Batterie faible. Le catalogage est mis en pause jusqu'à ce que votre ordinateur soit branché à une source d'alimentation.",
+    "ejectedDrive": "Le catalogage est mis en pause, car la source a été éjectée. Connectez la source à nouveau pour continuer.",
+    "indexUpToDate": "Catalogue à jour",
+    "indexingConnectionError": "Catalogage mis en pause. Veuillez vous connecter pour continuer.",
+    "nothingIndexed": "Rien n'a encore été catalogué"
+  },
+  "Sidebar": {
+    "search": "Rechercher",
+    "browse": "Parcourir",
+    "collections": "Collections",
+    "discover": "Découvrez",
+    "manageSources": "Sources",
+    "pinLabel": "Épingler la barre latérale",
+    "unpinLabel": "Détacher la barre latérale",
+    "turboMode": "Mode turbo",
+    "collapseMenu": "Menu réduit",
+    "expandMenu": "Menu développé",
+    "survey": "Enquête",
+    "catalog": "Statut du catalogage",
+    "drives": "Disques"
+  },
+  "CustomGroup": {
+    "rootPathName": "Rechercher",
+    "endPathName": "Groupes personnalisés"
+  },
+  "CustomGroups": {
+    "title": "Widgets",
+    "empty": "Il semble qu'aucun groupe personnalisé n'ait encore été ajouté.",
+    "noSourcesYet": "Nous y travaillons",
+    "noSourcesYetSubtitle1": "Une fois que nous aurons catalogué du contenu de vos sources, nous vous aiderons à découvrir des choses sur votre monde numérique que vous ne soupçonniez pas.",
+    "noSourcesYetSubtitle2": "Plus vous cataloguez de sources, plus {{product_name}} devient intéressant.",
+    "addSource": "Ajouter et gérer des sources"
+  },
+  "NoSourceAdded": {
+    "title": "Aucune source ajoutée pour le moment",
+    "line": "{{product_name}} ne peut pas faire grand chose tant que vous n'avez pas ajouté une source.",
+    "button": "Ajouter une source"
+  },
+  "OrderContextMenu": {
+    "facets": {
+      "name": "Nom",
+      "mTime": "Date de modification",
+      "cTime": "Date de création",
+      "size": "Taille"
+    },
+    "files": {
+      "name": "Nom",
+      "mTime": "Date",
+      "size": "Taille"
+    },
+    "albums": {
+      "cTime": "Date de création",
+      "mTime": "Date de modification"
+    },
+    "album": {
+      "addedTime": "Date d'ajout",
+      "cTime": "Date de création"
+    }
+  },
+  "WhatsNew": {
+    "header": "Nouveautés",
+    "title": "{{product_name}} Nouveautés",
+    "version": "Version : {{version}}",
+    "date": "Date",
+    "updatedTo": "Mis à jour vers la version {{version}}"
+  },
+  "AddSourceContextMenu": {
+    "addDrive": "Ajouter un périphérique",
+    "addSocial": "Ajouter Social",
+    "addCloud": "Ajouter Cloud"
+  },
+  "AddSocialProviders": {
+    "title": "Compte de réseaux sociaux",
+    "description": "Ajoutez des comptes de réseaux sociaux pour inclure votre contenu au catalogue."
+  },
+  "AddCloudProviders": {
+    "title": "Compte de cloud",
+    "description": "Ajoutez des comptes de cloud pour inclure votre contenu au catalogue."
+  },
+  "DeleteIndex": {
+    "title": "Supprimer le catalogue",
+    "descriptionCommon": "Cet utilitaire va supprimer le catalogue de {{product_name}}. Votre contenu restera sur votre appareil, mais \nvous ne pourrez pas faire de recherche sur le périphérique ni bénéficier des fonctions qu'offre {{product_name}} à moins de cataloguer à nouveau ce périphérique. ",
+    "descriptionCloud": "Cet utilitaire va supprimer le catalogue de {{product_name}}. Vous ne pourrez pas faire de recherche de contenu ou bénéficier des fonctionnalités de {{product_name}} tant que vous n'aurez pas catalogué à nouveau cette source.",
+    "info": "Voulez-vous vraiment supprimer le catalogue de ce périphérique de {{product_name}} ?",
+    "ok": "Supprimer le catalogue"
+  },
+  "AddDrives": {
+    "title": "Ajouter un périphérique",
+    "description": "Parcourez au même endroit votre contenu réparti sur plusieurs périphériques grâce à toute la puissance de la recherche {{product_name}} !",
+    "addSelectedDrives": "Ajouter des périphériques sélectionnés",
+    "addInfo": {
+      "noDriveTitle": "Aucun périphérique non catalogué",
+      "noDriveInfo": "Branchez vos périphériques non catalogués et ils s'afficheront automatiquement ci-dessus.",
+      "externalTitle": "Vous avez un périphérique de stockage externe ?",
+      "externalInfo": "Branchez vos périphériques non catalogués et ils s'afficheront automatiquement ci-dessus."
+    }
+  },
+  "ListViewSourceItem": {
+    "indexed": "Connecté et catalogué",
+    "indexing": "Catalogage {{percent}} %"
+  },
+  "SourcesList": {
+    "yourDevices": "Stockage interne",
+    "yourDrives": "Solution de stockage externe",
+    "socialMedia": "Médias sociaux",
+    "cloudStorage": "Stockage cloud",
+    "addSocial": "Conservez une trace de l'emplacement de ces précieux souvenirs en liant vos comptes de réseaux sociaux.",
+    "addSocialButton": "Ajoutez vos comptes de réseaux sociaux",
+    "addCloud": "Recherchez à travers divers comptes de stockage cloud en les liant ici.",
+    "addCloudButton": "Ajoutez vos comptes de stockage cloud",
+    "addDrive": "Sortez ces périphériques de stockage externe du placard, dépoussiérez-les et ajoutez-les à {{product_name}}.",
+    "addDriveButton": "Ajoutez vos périphériques de stockage externe"
+  },
+  "IndexingStatus": {
+    "indexed": "Catalogué",
+    "indexedCompleted": "Catalogage terminé",
+    "indexingPercent": "Catalogage {{percent}} %",
+    "indexing": "Catalogage",
+    "erasing": "Effacement",
+    "removing": "Suppression...",
+    "connecting": "Connexion en cours...",
+    "unlockToIndex": "Déverrouiller pour cataloguer",
+    "lastIndexedYesterday": "Catalogué hier",
+    "lastIndexedDaysAgo": "Catalogué il y a {{count}} jours",
+    "indexingPaused": "Catalogage mis en pause",
+    "notIndexed": "Non catalogué",
+    "preparing": "Préparation...",
+    "clickHere": "cliquez ici",
+    "cloudConnectionError": "Impossible de catalogue {{label}}. Nous n'avons pas pu nous connecter au fournisseur de la plate-forme.",
+    "indexErrorExplain": "<strong>Erreur de catalogage</strong> - Une erreur s'est produite pendant le catalogage. La plupart du temps, débrancher et rebranche votre périphérique résoudra le problème.",
+    "cloudIndexErrorExplain": "<strong>Erreur pendant le catalogage</strong> - Une erreur s'est produite pendant le catalogage de la source Cloud. Nous allons continuer d'essayer de reprendre le catalogage. Si l'erreur persiste, veuillez la signaler via l'option <strong>Envoyer un avis</strong>.",
+    "cloudWarningNotificationIndexErrorExplain": "Une erreur s'est produite pendant le catalogage de la source Cloud. Nous allons continuer d'essayer afin de reprendre le catalogage. Si l'erreur persiste, {{clickHere}} pour signaler le problème.",
+    "pausedDueToConnectionError": "<strong>Aucune connexion Internet</strong> - {{product_type}} ne parvient pas à joindre le fournisseur de service. Veuillez vous reconnecter à Internet afin de reprendre le catalogage.",
+    "pausedDueToDisconnected": "<strong>Catalogage mis en pause</strong> - Ce périphérique n'est plus connecté. Connectez votre périphérique pour reprendre automatiquement le catalogage.",
+    "pausedDueToLowBattery": "<strong>Catalogage mis en pause</strong> - Catalogage mis en pause pour économiser la batterie. Branchez votre ordinateur portable à une source d'alimentation pour reprendre.",
+    "errReadContent": "<strong>Erreur d'indexation du fichier</strong> - {{product_name}} a rencontré des problèmes lors du catalogage de certains fichiers sur ‘{{label}}’. Ces fichiers peuvent ne pas apparaître dans {{product_name}}.",
+    "errCloudProviderAuth": "<strong>Impossible d'accéder au compte</strong> - Il semblerait que {{product_name}} ait perdu l'autorisation d'accéder à ce compte de réseaux sociaux ou cloud. Pour fournir l'accès à {{product_name}}, cliquez sur le <strong>« menu point de suspension »</strong> et sélectionnez <strong>« Reconnecter la source »</strong>.",
+    "errMaxDataSizeReached": "<strong>Catalogage mis en pause</strong> - Vous avez atteint 100 % de la taille maximum du catalogue ; il est impossible d'y ajouter de nouveaux éléments.",
+    "errInsufficientStorage": "<strong>Catalogage mis en pause</strong> - L'espace est insuffisant pour ajouter du nouveau contenu au catalogue. Vous pouvez supprimer les fichiers dont vous n'avez plus besoin sur votre ordinateur afin de libérer de l'espace pour le catalogue."
+  },
+  "ConnectedSourcesList": {
+    "noConnectedSources": "Aucune source connectée.",
+    "addText": "Cliquez sur le bouton « Ajouter des sources » pour connecter des sources."
+  },
+  "FileInfo": {
+    "info": "Infos",
+    "name": "Nom de fichier",
+    "type": "Type de fichier",
+    "source": "Source du fichier",
+    "size": "Taille",
+    "modified": "Dernière modification",
+    "created": "Créé",
+    "fileLocation": "Emplacement du fichier",
+    "location": "Lieu",
+    "tagTitle": "Étiquettes",
+    "tagLengthError": "Saisissez plus de 2 caractères pour enregistrer",
+    "tags": "Saisissez des étiquettes personnalisées...",
+    "descriptionTitle": "Description",
+    "description": "Ajoutez une description...",
+    "title": "Utilisateurs bénéficiant d'un accès",
+    "text": "Bientôt disponible...",
+    "tagsLimit": "La limite maximale des étiquettes est de 100 étiquettes.",
+    "aperture": "Ouverture",
+    "camera": "Caméra",
+    "exposureTime": "Durée d'exposition",
+    "focalLength": "Distance focale",
+    "isoSpeed": "Sensibilité ISO",
+    "latitude": "Latitude",
+    "longitude": "Longitude",
+    "flash": "Flash"
+  },
+  "ManageDriveIndex": {
+    "title": "Gérer un périphérique",
+    "description": "Parcourez au même endroit votre contenu réparti sur plusieurs périphériques grâce à toute la puissance de la recherche {{product_name}} !",
+    "listTitle": "Sélectionnez les dossiers dans ce périphérique à cataloguer.",
+    "updateIndex": "Mettre à jour le catalogue"
+  },
+  "GetPrime": {
+    "title": "Obtenir Access",
+    "description": "Combinez vos applications de stockage et vos périphériques de stockage, et accédez-y au même endroit, en ligne et hors ligne.",
+    "signUp": "S'inscrire à Access",
+    "enablePrime": "Activer Access",
+    "noThanks": "Non merci"
+  },
+  "IndexDrive": {
+    "title": "Cataloguer un périphérique",
+    "subTitle": "Nous avons remarqué que cet appareil n'est pas catalogué.",
+    "text": "Lorsque vos périphériques sont catalogués, vous pouvez afficher et effectuer des recherches à travers plusieurs périphériques, même lorsqu'ils ne sont pas connectés.",
+    "index": "Cataloguer ce périphérique"
+  },
+  "DriveDisconnected": {
+    "title": "Périphérique déconnecté",
+    "subTitle": "Ce périphérique est actuellement déconnecté. Pour parcourir le catalogue actuel, cliquez sur « Parcourir le périphérique ». ",
+    "text": "Pour mettre à jour le catalogue, connectez le périphérique et nous nous occupons du reste.",
+    "browse": "Parcourir le périphérique"
+  },
+  "LaunchWizard": {
+    "locationSelectTitle": "Emplacement du catalogue",
+    "permissionsInfoTitle": "Autorisation d'accès",
+    "deviceSelectionWaitingTitle": "Recherche de votre périphérique",
+    "deviceSelectionWaitingDescription": "Veuillez vérifier que votre périphérique est pris en charge par l'application {{product_name}} et correctement connecté au port USB de votre ordinateur.",
+    "deviceSelectionChooseTitle": "Les périphériques suivants sont connectés.",
+    "deviceSelectionChooseDescription": "Sélectionnez-en un pour commencer la configuration. Nous traiterons les autres ultérieurement une fois la configuration terminée.",
+    "launchWizardPipTitle": "Aidez-nous à améliorer {{product_name}}.",
+    "launchWizardMarketingTitle": "Préférences de communication marketing",
+    "deviceSelectionEmptyTitle": "Aucun périphérique détecté",
+    "deviceSelectionEmptyDescription": "Veuillez vérifier que votre périphérique est pris en charge par l'application {{product_name}} et correctement connecté au port USB de votre ordinateur, puis essayez à nouveau.",
+    "deviceSelectionConnectedTitle": "{{deviceName}} connecté",
+    "deviceSelectionConnectedDescription": "Votre périphérique {{deviceName}} est désormais prêt à être configuré.",
+    "deviceNameTitle": "Nommez votre périphérique",
+    "deviceNameDescription": "Donnez un nom unique à votre périphérique afin de pouvoir le différencier des autres périphériques.",
+    "devicePasswordTitle": "Le mot de passe protège votre périphérique.",
+    "devicePasswordDescription": "Le mot de passe protège votre périphérique et garantit la sécurité de vos fichiers.",
+    "deviceSetupCompleteTitle": "Votre {{- deviceName}} est prêt à être utilisé !",
+    "deviceSetupCompleteDescription": "Maintenant que votre périphérique {{deviceName}} est configuré, configurons votre expérience {{product_name}}.",
+    "defaultDeviceName": "Disque My Passport",
+    "addSourcesTitle": "Sélectionnez les dossiers à inclure dans {{product_name}}",
+    "addSourcesDescription": "Pas d'inquiétude — {{product_name}} ne déplacera jamais ni ne supprimera vos fichiers ou dossiers sans votre permission.",
+    "accountSignInTitle": "Connexion",
+    "accountSignUpTitle": "Configurons votre compte gratuit.",
+    "accountSignUpDescription": "Créez un compte afin de cataloguer tous les souvenirs que contiennent vos réseaux sociaux, ainsi que vos fichiers cloud au même endroit.",
+    "accountPasswordTitle": "Réinitialiser le mot de passe",
+    "accountPasswordDescription": "Vous devez réinitialiser votre mot de passe ? Nous vous enverrons un e-mail avec les instructions. <br/><br/> REMARQUE : Si vous utilisez cette adresse e-mail pour créer un compte pour votre ibi, My Cloud OS 5 ou My Cloud Home, le mot de passe sera également réinitialisé.",
+    "accountAuthTitle": "Configurons votre compte gratuit.",
+    "accountAuthDescription": "Créez un compte pour enregistrer et cataloguer facilement tous vos souvenirs et fichiers multimédias au même endroit."
+  },
+  "AgreementMarketing": {
+    "title": "Préférences de communication",
+    "first": {
+      "title": "Restons en contact",
+      "description": "Vous pouvez choisir de recevoir des communications marketing, notamment des publicités ciblées, de notre part via des messages de l'application, des notifications push et des e-mails."
+    },
+    "second": {
+      "title": "Recevoir des mises à jour personnalisées de notre part",
+      "description": "Lorsque vous vous abonnez à notre programme marketing, nous pouvons utiliser des renseignements personnels provenant de votre utilisation des services de {{company_name}} pour vous fournir des publicités pertinentes pour vous. Cela peut inclure des informations relatives à votre utilisation de l'application {{product_name}}, telles que vos nom, adresse e-mail, adresse IP, préférences de compte (par exemple, préférences de langue et de fuseau horaire) et informations d'abonnement ; données d'utilisation, si vous avez accepté {{product_name}} {{analytics_link}} ; informations relatives à votre utilisation de services tiers (par exemple, services de cloud et de réseaux sociaux, tels que Facebook, Instagram, Dropbox, Google Drive et OneDrive) connectés à l'application {{product_name}} ; informations relatives à votre utilisation des services de {{company_name}}, tels que {{store_link}}, ce qui peut inclure vos historique d'achats, emplacement et préférences de compte (par exemple, préférences de langue) ; et informations relatives à votre utilisation des sites de {{company_name}} et l'utilisation des cookies comme décrit dans notre {{cookie_link}}. Vous pourrez toujours modifier votre choix plus tard en accédant aux paramètres.",
+      "analytics_program": "programme d'analyses",
+      "store": "{{company_name}} Store",
+      "cookie": "Déclaration relative aux cookies"
+    },
+    "agreement": "En cliquant sur « {{agree}} », vous reconnaissez les {{company_name}} {{privacy_link}} et acceptez de recevoir des communications marketing de la part de {{company_name}} comprenant des newsletters, mises à jour et promotions associées aux produits {{company_name}} et produits tiers, notamment via des messages de l'application, notifications push et e-mails. Vous acceptez également que vos renseignements personnels soient utilisés comme décrit ci-dessus à ces fins. Vous pouvez révoquer votre consentement à tout moment.",
+    "privacy_statement": "Déclaration de confidentialité",
+    "agree": "Accepter",
+    "skip": "Ignorer pour le moment",
+    "notShare": "Ne pas accepter"
+  },
+  "LaunchWizardHeader": {
+    "account": "Créer un compte",
+    "deviceName": "Nom du périphérique",
+    "devicePassword": "Mot de passe du périphérique",
+    "deviceSetupComplete": "Configuration du périphérique terminée"
+  },
+  "LaunchWizardPermissionsInfo": {
+    "title": "Autorisations de « {{product_name}} »",
+    "text1": "Lorsque vous voyez l'invite système « Notifications de {{product_name}} », cliquez sur « Autoriser ». et vous êtes prêt à commencer.",
+    "text2": "Cela permet à {{product_name}} de communiquer les mises à jour de l'application, la connectivité des appareils et d'autres notifications importantes qui aident à garder votre bibliothèque numérique organisée. "
+  },
+  "LaunchWizardDeviceSelectionChoose": {
+    "select": "Sélectionner",
+    "retry": "Mon appareil ne s'affiche pas.",
+    "modalContent": "Veuillez vérifier que votre périphérique est pris en charge et correctement branché au port USB de votre ordinateur et essayez à nouveau."
+  },
+  "LaunchWizardDeviceSelectionEmpty": {
+    "retry": "Veuillez réessayer",
+    "skip": "Je ne suis pas en train de configurer un périphérique",
+    "help": "Besoin d'aide ?",
+    "site": "Consultez notre site d'aide en ligne"
+  },
+  "LaunchWizardAccountSignUp": {
+    "signIn": "Connexion"
+  },
+  "LaunchWizardAccountSignIn": {
+    "signUp": "S'inscrire",
+    "forgotPassword": "Vous avez oublié votre mot de passe ?",
+    "offline": "Pas de connexion Internet. Vérifiez votre connexion Internet et recommencez."
+  },
+  "LaunchWizardAccountModal": {
+    "title": "Êtes-vous sûr ?",
+    "text": "Créer un compte vous permet d'enregistrer et d'activer facilement votre garantie, ainsi que de cataloguer les souvenirs de vos réseaux sociaux et vos fichiers cloud au même endroit.<br/><br/>Voulez-vous vraiment continuer sans créer de compte ?",
+    "textSkipSocial": "Créez un compte pour enregistrer et cataloguer facilement vos souvenirs et fichiers multimédias au même endroit.<br/><br/>Êtes-vous sûr de vouloir continuer sans créer de compte ?",
+    "confirm": "Oui, j'en suis sûr",
+    "close": "Annuler"
+  },
+  "LaunchWizardAccountExistEmail": {
+    "title": "L'adresse e-mail est déjà associée",
+    "text": "Cette adresse e-mail est déjà associée à un compte. Voulez-vous vous connecter à la place ?",
+    "confirm": "Connexion",
+    "close": "Fermer"
+  },
+  "LaunchWizardDeviceName": {
+    "skip": "Je le ferai ultérieurement",
+    "error": "Un problème est survenu pendant l'attribution d'un nom à votre Périphérique. Veuillez réessayer."
+  },
+  "AgreementAnalytics": {
+    "title": "Aidez-nous à nous améliorer {{product_name}}",
+    "hint": "En cliquant sur <b>« Accepter »</b>, vous acceptez de partager vos données d'utilisation avec nous aux fins décrites ci-dessus. Vous pourrez toujours modifier votre choix plus tard en accédant aux paramètres.",
+    "AgreementAnalyticsDescription1": "Partagez avec nous les données d'utilisation pour nous aider à améliorer nos produits, services et applications, et pour personnaliser votre expérience dans l'application. Nous tenons à nos clients et voulons rester transparents avec nos utilisateurs concernant nos pratiques de protection de la vie privée. Pour plus d'informations, consultez notre {{privacy_link}}.",
+    "AgreementAnalytics2": "Quelles données collectons-nous ?",
+    "AgreementAnalyticsDescription2": "Les données d'utilisation incluent les informations sur la manière dont vous utilisez l'application. Ces données peuvent inclure des éléments, tels que des informations sur les périphériques et leur configuration, le périphérique/processeur et d'autres statistiques d'utilisation par application, des appels API, des informations sur les pannes de service, de statut de réseau, d'utilisation du stockage, de termes de recherche, d'emplacement, d'attributs de fichiers (par exemple, des métadonnées de contenu, telles que la taille de fichier, le type, la source, les dates et heures de création/modification/accès, le type/modèle de caméra, l'emplacement, les mots-clés/descriptions), les liens entre les fichiers et les informations sur le compte tiers que vous avez relié au service.",
+    "AgreementAnalytics3": "Comment utilisons-nous ces données ?",
+    "AgreementAnalyticsDescription3": "Nous collecterons automatiquement les données d'utilisation si vous vous abonnez à notre programme d'analyses. Ces informations nous aident à améliorer la qualité et les performances de nos produits, services et applications et à personnaliser votre expérience avec l'application, notamment en vous envoyant des notifications push et dans l'application. Vos informations personnelles ne sont pas vendues.",
+    "notShare": "Ne pas accepter",
+    "skip": "Ignorer pour le moment",
+    "agree": "Accepter",
+    "offline": "Pas de connexion Internet. Vérifiez votre connexion Internet et recommencez.",
+    "privacy_center": "Centre de confidentialité"
+  },
+  "LaunchWizardDevicePassword": {
+    "skip": "Je ne souhaite pas définir de mot de passe",
+    "password": "Mot de passe",
+    "confirmation": "Confirmer le mot de passe",
+    "hint": "Indication de mot de passe",
+    "checkboxTitle": "Activer le déverrouillage automatique pour moi sur cet ordinateur.",
+    "checkboxDescription": "Cochez cette case si vous souhaitez que cet ordinateur se souvienne de votre mot de passe pour le disque My Passport de Pat.",
+    "error": "Un problème est survenu lors de la définition de votre mot de passe. Veuillez réessayer."
+  },
+  "LaunchWizardResetPassword": {
+    "button": "Envoyer les instructions",
+    "email": "Adresse e-mail"
+  },
+  "LaunchWizardLocationSelect": {
+    "hint": "Le catalogue est une liste d'éléments contenant des informations relatives à vos fichiers, par exemple : nom de fichier, type, taille, source, date de création, date de modification. Par défaut, le catalogue est enregistré sur le disque interne de votre ordinateur. Cette opération prend au maximum 10 % de l'espace disponible.",
+    "info": "Si votre ordinateur dispose de plusieurs disques, choisissez celui qui dispose de la plus grande quantité d'espace libre.",
+    "capacity": "<b>{{free}}</b> libre sur {{full}}",
+    "drive": "Disque dur",
+    "popoverTitle": "Système de fichiers non pris en charge",
+    "popoverContent": "{{product_name}} ne prend pas en charge le format de système de fichiers de ce disque (FAT). Veuillez stocker votre catalogue sur un autre disque.",
+    "popoverNotEnoughSpaceTitle": "Aucun espace disponible",
+    "popoverNotEnoughSpaceText": "Ce disque n'a pas d'espace libre. Veuillez stocker votre catalogue sur un autre disque. {{link}}",
+    "link": "En savoir plus"
+  },
+  "HeaderFtuePopover": {
+    "title": "Ajoutons votre première source !",
+    "text": "{{product_name}} doit disposer d'au moins une source pour démontrer toute sa puissance. Laissez-nous vous montrer comment. {{take_the_tour_link}}",
+    "take_the_tour_link": "Faites le tour"
+  },
+  "ManageSourcesFtueManager": {
+    "StartAlert": {
+      "title": "Faites le tour de {{product_name}} !",
+      "text": "Notre configuration guidée vous guidera dans l'ajout à vos sources d'un périphérique de stockage externe dont vous disposez, l'ajout du stockage interne de votre ordinateur et l'apprentissage des bases d'utilisation de l'application.",
+      "textSocialCloud": "Notre configuration guidée vous guidera dans l'ajout de périphériques de stockage externes dans votre liste d'appareils, dans l'ajout du stockage interne de votre ordinateur et dans l'apprentissage des bases d'utilisation de l'application.",
+      "button": "Suivant"
+    },
+    "DrivePresent": {
+      "title": "Tout d'abord, ajoutons votre nouveau périphérique",
+      "text": "Passez au-dessus de votre périphérique, cliquez sur le <b>menu Plus « ... »</b>, et choisissez <b>« Cataloguer un périphérique »</b> pour commencer le catalogage."
+    },
+    "DriveNotPresent": {
+      "title": "Tout d'abord, ajoutons votre nouveau périphérique",
+      "text": "Cliquez sur <b>« Ajouter un périphérique »</b> pour choisir une source et commencer le catalogage."
+    },
+    "NotFromTinyInstaller": {
+      "title": "Tout d'abord, ajoutons un périphérique.",
+      "text1": "Cliquez n'importe où sur la carte de votre périphérique pour commencer le catalogage.",
+      "text2": "Cliquez n'importe où sur une carte pour commencer le catalogage de votre périphérique sélectionné."
+    },
+    "AddingAComputer": {
+      "title": "Ajout d'un ordinateur",
+      "text1": "Lorsque vous ajoutez un stockage interne d'ordinateur comme source, vous pouvez choisir parmi les dossiers de premier niveau sur le périphérique pour le catalogage. Nous avons sélectionné quelques emplacements par défaut où les gens stockent généralement leurs fichiers importants.",
+      "text2": "Vous êtes libre de sélectionner ou désélectionner les dossiers où se trouvent vos fichiers importants, puis défilez vers le bas et cliquez sur « Ajouter des périphériques sélectionnés »."
+    },
+    "PlugInDrive": {
+      "title": "Branchez votre périphérique externe.",
+      "text": "Une fois un périphérique branché à votre ordinateur, sélectionnez-le dans la liste et cliquez sur <b>« Ajouter le périphérique sélectionné »</b>."
+    },
+    "IndexingProgress": {
+      "title": "Progression du catalogage",
+      "text": "Le contenu catalogué peut être parcouru ou recherché, même lorsque vos sources ne sont pas connectées. Vérifiez la progression ici ou dans le coin inférieur gauche de la fenêtre de l'application.",
+      "button": "Suivant"
+    },
+    "MultipleSources": {
+      "title": "Sources multiples",
+      "text1": "Maintenant que vous avez ajouté une autre source, {{product_name}} va les cataloguer un à la fois, de la dernière source ajoutée à la plus récente.",
+      "text2": "Là encore, vous pouvez toujours vérifier la progression du catalogage ici ou dans le coin inférieur gauche de la fenêtre de l'application.",
+      "button": "Suivant"
+    },
+    "ManagingSources": {
+      "title": "Gestion des sources",
+      "text": "Passez au-dessus une source et cliquez sur l'icône des points de suspension pour afficher une liste des actions disponibles pour cette source.",
+      "button": "Suivant"
+    },
+    "AddSourceButton": {
+      "title": "Ajout d'une source",
+      "text": "Cliquez sur <b>le bouton « + »</b> dans l'onglet Sources pour choisir un type de source afin de démarrer le catalogage."
+    },
+    "DriveLocked": {
+      "title": "Déverrouillez votre périphérique",
+      "text": "Nous allons avoir besoin de déverrouiller votre périphérique avant de pouvoir le cataloguer."
+    },
+    "FinishAlert": {
+      "title": "Vous avez ajouté une source avec succès !",
+      "text": "À présent, faisons un rapide tour de l'application {{product_name}} afin de prendre le contrôle de votre monde numérique.",
+      "button": "Je suis prêt(e)"
+    },
+    "UnlockingDrive": {
+      "title": "En toute sécurité",
+      "text": "Le mot de passe de votre périphérique permet de conserver vos données en toute sécurité. Déverrouillez votre périphérique de sorte que {{product_name}} puisse l'ajouter à votre catalogue."
+    },
+    "UnlockedDriveIndexed": {
+      "title": "Catalogage déjà en cours",
+      "text": "Votre périphérique est déjà en cours de catalogage par {{product_name}}. Choisissez <b>« Fermer »</b> et nous verrons comment tout se déroule."
+    },
+    "UnlockedDriveNotIndexed": {
+      "title": "C'est déverrouillé !",
+      "text": "Ensuite, choisissez <b>« Parcourir le périphérique »</b>."
+    },
+    "UnlockedDriveStartIndexing": {
+      "title": "Maintenant, commencez le catalogage",
+      "text": "Choisissez <b>« Cataloguer ce périphérique »</b> et le spectacle commence ! Connectez le périphérique, puis déverrouillez-le et {{product_name}} commencera automatiquement à le cataloguer."
+    },
+    "TurboMode": {
+      "title": "Le catalogage est trop lent ?",
+      "text1": "Activez le mode turbo et cataloguez jusqu'à quatre fois plus vite ! Ce mode est plutôt utile si vous avez besoin de cataloguer rapidement une grande quantité de contenu, tel que provenant d'une source récemment ajoutée.",
+      "text2": "L'activation du mode turbo supprime les restrictions sur la vitesse de catalogage de {{product_name}} pour votre contenu. Ce mode va accélérer la progression de votre catalogage, mais peut provoquer un fonctionnement bruyant des ventilateurs de votre ordinateur et une exécution ralentie ou figée des applications de votre système.",
+      "text3": "REMARQUE : Le mode turbo n'est actuellement pris en charge que pour les ordinateurs dotés de quatre cœurs ou plus et de plus de 4 Go de mémoire RAM. {{link}}",
+      "link": "En savoir plus",
+      "button": "Suivant"
+    }
+  },
+  "FtueSuspendModal": {
+    "title": "Ignorer le tutoriel",
+    "text": "Vous pouvez toujours accéder au tutoriel ultérieurement depuis les paramètres.",
+    "button1": "Ignorer",
+    "button2": "Annuler"
+  },
+  "SelectModePanel": {
+    "counter": "{{count}} élément sélectionné",
+    "counter_plural": "{{count}} éléments sélectionnés"
+  },
+  "Notifications": {
+    "volumeIndexing": {
+      "title": "Catalogage de {{label}}",
+      "message": "Veuillez patienter pendant que nous cataloguons votre périphérique. Ne débranchez pas le périphérique tant que le catalogage n'est pas terminé."
+    },
+    "indexingCompleted": {
+      "title": "Catalogage terminé",
+      "message": "Consultez votre contenu mis à jour."
+    },
+    "volumeConnected": {
+      "title": "{{label}} connecté",
+      "message": "Cataloguez ce périphérique pour rechercher et parcourir son contenu lorsqu'il n'est pas connecté."
+    },
+    "deviceLocked": {
+      "title": "Déverrouiller {{label}}",
+      "message": "Cliquez ici pour déverrouiller le périphérique connecté."
+    },
+    "deviceLock": {
+      "title": "{{label}} connecté",
+      "message": "Verrouillons votre périphérique pour améliorer la sécurité."
+    },
+    "takeSurvey": {
+      "title": "Aidez-nous à améliorer {{product_name}} !",
+      "message": "Répondez à une rapide enquête et dites-nous ce que vous pensez de l'application."
+    },
+    "Albums": {
+      "viewCollections": "Affichez les collections !"
+    }
+  },
+  "IndexingDrive": {
+    "title": "Catalogage d'un périphérique",
+    "text": "Pendant que nous cataloguons votre périphérique, consultez les collections et nous vous avertirons une fois le catalogage terminé.",
+    "viewCollections": "Afficher les collections",
+    "slides": {
+      "slide1": {
+        "title": "Organisation automatique",
+        "description": "{{product_name}} organise et catégorise tous vos fichiers afin que vous puissiez rechercher rapidement ce dont vous avez besoin."
+      }
+    }
+  },
+  "TitlebarUser": {
+    "no_subscription": "Aucun abonnement",
+    "yes_subscription": "Abonnement à {{product_name}} Access",
+    "link": "Mise à niveau"
+  },
+  "TitlebarUserDesktopOptions": {
+    "devtools": "Basculer entre les outils du développeur",
+    "about": "À propos de",
+    "quit": "Quitter"
+  },
+  "TitlebarPrimeModal": {
+    "button": "S'abonner à Access"
+  },
+  "Titlebar": {
+    "back": "Précédent",
+    "forward": "Suivant",
+    "help": "Aide",
+    "account": "Mon compte"
+  },
+  "Widgets": {
+    "left": "Faire défiler vers la gauche",
+    "right": "Faire défiler vers la droite"
+  },
+  "Duplicates": {
+    "title": "Doublons",
+    "subtitle": "{{count}} périphérique est en cours de catalogage et ne sera pas inclus",
+    "subtitle_plural": "{{count}} périphériques sont en cours de catalogage et ne seront pas inclus",
+    "indexingInProgressText": "L'un de vos périphériques est en cours de catalogage. Les résultats n'incluront pas le périphérique en cours de catalogage. Nous vous recommandons d'attendre que le catalogage du périphérique soit terminé !"
+  },
+  "DuplicatesPreviewPanel": {
+    "noDuplicatesTitle": "Aucun doublon trouvé !",
+    "noDuplicatesText": "Nous vous félicitons d'être aussi ordonné !",
+    "selectDuplicate": "Sélectionnez un doublon à afficher",
+    "filesCount": "{{count}} fichier",
+    "filesCount_plural": "{{count}} fichiers"
+  },
+  "DuplicatesPreviewPanelFileItem": {
+    "manage": "Gérez",
+    "managePopOver": "Connectez « {{device_name}} » afin de le gérer.",
+    "openInPhotos": "Ouvrir l'application Photos",
+    "fileIndex": "{{index}} sur {{count}}",
+    "sourceNotConnected": "Source non connectée",
+    "errAccessDenied": "{{product_name}} n'a pas la permission de votre système d'exploitation pour supprimer des fichiers dans ce dossier."
+  },
+  "DuplicatesMissingInfoPanel": {
+    "title": "Certains de vos doublons ne s'affichent pas ?",
+    "text": "Les fichiers provenant de sources cloud ou de réseaux sociaux ne s'affichent pas dans le centre des doublons. {{link_text}}",
+    "link_texts": "Consultez notre FAQ pour en savoir plus."
+  },
+  "DuplicatesDeleteModal": {
+    "title": "Supprimer le fichier",
+    "text": "Êtes-vous sûr de vouloir supprimer « {{name}} » ?",
+    "note": "Remarque : Il s'agit du dernier duplicata du fichier ci-dessus. Si vous le supprimez, le fichier d'origine n'apparaîtra plus dans le widget Doublons. Vous pouvez trouver l'original en utilisant Rechercher ou l'onglet Parcourir.",
+    "confirmButton": "Oui, le supprimer",
+    "deleteSuccess": "Suppression de « {{name}} » réussie"
+  },
+  "TurboMode": {
+    "title": "Le mode turbo est {{state}}",
+    "description": "Qu'est-ce que c'est ?",
+    "popOverTitle": "Qu'est-ce que le mode turbo ?",
+    "popOverText1": "Nous vous recommandons d'utiliser le mode turbo si vous avez besoin de catalogue rapidement une grande quantité de contenu, tel que provenant d'une source récemment ajoutée.",
+    "popOverText2": "L'activation du mode turbo supprime les restrictions sur la vitesse de catalogage de {{product_name}} pour votre contenu. Ce mode va accélérer la progression de votre catalogage, mais peut provoquer un fonctionnement bruyant des ventilateurs de votre ordinateur et une exécution ralentie ou figée des applications de votre système. Le mode turbo se désactive automatiquement chaque fois que vous fermez l'application {{product_name}} pour éviter un ralentissement inutile de votre système.",
+    "popOverText3": "REMARQUE : Le mode turbo n'est actuellement disponible que pour les ordinateurs dotés de plus de quatre cœurs et au moins 4 Go de mémoire RAM. {{link}}",
+    "link": "En savoir plus"
+  },
+  "Facets": {
+    "title": "Par catégories",
+    "empty": "Une fois que vous avez ajouté certains fichiers à vos sources, ils apparaîtront ici, organisés automatiquement par type."
+  },
+  "BrowseSources": {
+    "allSources": "Toutes les sources",
+    "internalStorage": "Stockage interne",
+    "externalStorage": "Solution de stockage externe",
+    "social": "Médias sociaux",
+    "cloud": "Stockage cloud",
+    "addExternal": "Ajoutez vos sources à {{product_name}}",
+    "empty_all": "Sortez ces périphériques de stockage externe du placard, dépoussiérez-les et ajoutez-les à {{product_name}}.",
+    "empty_social": "Aucune source de réseaux sociaux disponible. Choisissez un autre type de source ou une source {{link}} dans la section Gérez vos sources.",
+    "empty_cloud": "Aucune source de stockage cloud disponible. Choisissez un autre type de source ou une source {{link}} dans la section Gérez vos sources.",
+    "empty_internalStorage": "Aucune source externe disponible. Choisissez un autre type de source ou une source {{link}} dans la section Gérez vos sources.",
+    "empty_externalStorage": "Aucune source interne disponible. Choisissez un autre type de source ou une source {{link}} dans la section Gérez vos sources.",
+    "link_social": "ajouter un réseau social",
+    "link_cloud": "ajouter un stockage cloud",
+    "link_externalStorage": "ajouter un périphérique de stockage externe",
+    "link_internalStorage": "ajouter un stockage interne"
+  },
+  "CollectionGridItem": {
+    "pages": "{{count}} pages"
+  },
+  "LivePhoto": {
+    "live": "LIVE"
+  },
+  "SidePanelCollections": {
+    "search_placeholder": "Rechercher des collections",
+    "empty_title": "Résultats de recherche de collections",
+    "empty_text": "Il semblerait qu'aucune collection n'ait été trouvée pour « Mot-clé »."
+  },
+  "Surveys": {
+    "title": "Enquêtes",
+    "header": "Répondez à une rapide enquête !",
+    "survey_1": {
+      "title": "Prise en main et premières impressions",
+      "short_title": "Prise en main"
+    },
+    "survey_2": {
+      "title": "Ajout et recherche de contenu",
+      "short_title": "Ajouter et rechercher du contenu"
+    },
+    "survey_3": {
+      "title": "Organisation virtuelle du contenu",
+      "short_title": "Organisation du contenu"
+    }
+  },
+  "BrowseFTUE": {
+    "modal": {
+      "title": "Parcourir avec {{product_name}}",
+      "left": {
+        "descriptionTitle": "Par catégories et widgets",
+        "descriptionText": "Vos fichiers sont triés intelligemment par catégorie, entre autres, pour les trouver plus facilement lorsque vous les cherchez."
+      },
+      "right": {
+        "descriptionTitle": "Par sources",
+        "descriptionText": "Vous préférez naviguer dans la structure de fichiers et dossiers de votre périphérique de stockage ? On a la solution. Parcourez par source pour trouver ce que vous cherchez."
+      }
+    },
+    "popover": {
+      "title": "Qu'est-ce qu'il y a sur cette page ?",
+      "text": "Si vous souhaitez lire à nouveau comment utiliser chaque onglet dans {{product_name}}, rendez-vous dans l'<b>icône de point d'interrogation</b> dans le coin supérieur droit, puis choisissez <b>« Qu'est-ce qu'il y a sur cette page ? »</b>"
+    }
+  },
+  "PrimeFTUE": {
+    "title": "Gagnez en puissance avec Access",
+    "left": {
+      "descriptionTitle": "Access où vous voulez",
+      "descriptionText": "En vous abonnant à {{product_name}} Access, vous pourrez rechercher, parcourir et prévisualiser votre contenu depuis vos périphériques de bureau, mobiles et tablettes sur lesquels {{product_name}} est installé, ou via le Web."
+    },
+    "right": {
+      "descriptionTitle": "Réseaux sociaux et services cloud",
+      "descriptionText": "Grâce à {{product_name}} Access, vous pouvez connecter les sources de réseaux sociaux et les services cloud pris en charge. Recherchez, parcourez et prévisualisez le contenu de vos sources, au même endroit. {{link}}",
+      "link": "En savoir plus."
+    }
+  },
+  "CollectionFTUE": {
+    "title": "Explorez votre monde numérique",
+    "left": {
+      "descriptionTitle": "Lieux et étiquettes",
+      "descriptionText": "Vos fichiers sont triés intelligemment par objets, date, lieu et bien plus pour vous présenter des regroupements pertinents de votre contenu personnel."
+    },
+    "right": {
+      "descriptionTitle": "Mes collections",
+      "descriptionText": "Créez des collections personnalisées de vos fichiers depuis vos sources de stockage afin d'avoir pleinement contrôle de votre monde numérique."
+    }
+  },
+  "SearchFTUE": {
+    "title": "Toutes vos recherches au même endroit",
+    "left": {
+      "descriptionTitle": "Rechercher toutes les sources",
+      "descriptionText": "Une fois vos fichiers numériques étiquetés et catalogués, vous pouvez rechercher votre contenu sur votre ordinateur et vos périphériques de stockage, même s'ils sont déconnectés."
+    },
+    "right": {
+      "descriptionTitle": "Filtres avancés",
+      "descriptionText": "Affinez vos recherches par plage de dates, étiquettes, source, type de fichier, lieu et bien plus. Trouvez et gérez exactement ce dont vous avez besoin."
+    }
+  },
+  "SourcesFTUE": {
+    "title": "Ajouter et gérer des sources",
+    "left": {
+      "descriptionTitle": "Connecter et cataloguer des sources",
+      "descriptionText": "Connectez vos sources à votre ordinateur et ajoutez-les à votre inventaire. Une fois ajoutées, {{product_name}} va analyser leur contenu pour l'ajouter à votre catalogue afin que vous puissiez le rechercher, le parcourir et l'organiser."
+    },
+    "right": {
+      "descriptionTitle": "Gérer des périphériques externes",
+      "descriptionText": "Gérez vos périphériques de stockage externe WD et SanDisk pris en charge en les nommant, en ajoutant un mot de passe, et bien plus. Restez à l'écoute des futures mises à jour, car nous ajouterons davantage de périphériques pris en charge."
+    }
+  },
+  "HelpPopOver": {
+    "whatPage": "À quoi correspond cette page ?",
+    "website": "Site d'aide"
+  },
+  "WarningNotificationsUniqueIdentifier": {
+    "text": "L'identifiant unique vous aide à corriger les problèmes rencontrés avec {{product_name}} lorsque vous contactez l'assistance. En fournissant cet identifiant unique à notre équipe d'assistance, ils seront en mesure d'afficher les logs de votre compte qui incluent l'activité et les performances de vos périphériques et qui les aideront à identifier ou corriger le problème que vous rencontrez."
+  },
+  "WarningNotificationsPhotosLibraryNoInternet": {
+    "text": "Le catalogage a été mis en pause car votre ordinateur n'est plus connecté à Internet. Rétablissez la connexion pour reprendre le catalogage de votre bibliothèque de photos."
+  },
+  "TutorialFtue": {
+    "browse": "Parcourez vos fichiers par catégorie, source, ou en utilisant nos widgets intelligents.",
+    "collections": "Organisez votre monde numérique grâce aux collections de {{product_name}}.",
+    "sources": "Ajoutez de nouvelles sources de stockage à votre inventaire numérique.",
+    "turbo": "Le catalogage est trop lent ? Accélérez-le grâce au <b>mode turbo</b>.",
+    "search": "Recherchez parmi votre contenu catalogué par nom de fichier, lieux et mots-clés.",
+    "tipsTricks": "Obtenez des conseils et astuces pour tirer le meilleur parti de {{product_name}}.",
+    "next": "Parcourez {{product_name}} pour en savoir plus sur ses fonctions."
+  },
+  "ModalConfirmSignOut": {
+    "title": "Se déconnecter d'{{product_name}}?",
+    "text": "Souhaitez-vous vraiment vous déconnecter ?",
+    "textWithCloudServices": "Vous aurez toujours accès à votre catalogue même en étant déconnecté.",
+    "confirm": "Déconnexion",
+    "titleOffline": "Pas de connexion Internet",
+    "textOffline": "Pour pouvoir vous déconnecter de {{product_name}}, vous devez disposer d'une connexion Internet. Veuillez vérifier votre connexion, puis réessayez."
+  },
+  "ModalSurveyAvailable": {
+    "title": "Enquête n° {{index}} disponible",
+    "text": "Répondez à une rapide enquête et dîtes-nous ce que vous pensez de votre expérience avec <b>{{name}}</b>.",
+    "confirm": "Participer à l'enquête",
+    "cancel": "Plus tard"
+  },
+  "UpdateBanner": {
+    "text": "Une nouvelle version de {{product_name}} est disponible. {{link}} pour les dernières corrections de bogues et les nouvelles fonctionnalités.",
+    "link": "Mettre à jour",
+    "updateLoaded": "Mise à jour téléchargée. {{relaunch}}",
+    "relaunch": "Redémarrer {{product_name}}"
+  },
+  "Placeholder": {
+    "network": {
+      "title": "Assistance de disque réseau",
+      "text": "L'assistance pour My Cloud Home, ibi et My Cloud OS 5 arrive bientôt."
+    }
+  },
+  "SubscriptionTicket": {
+    "EdgeRoverBasic": {
+      "title": "{{product_name}} Basic",
+      "text": "Vous utilisez la version gratuite d'{{product_name}}.",
+      "button": "Consultez les options de mise à niveau"
+    },
+    "EdgeRoverAccess": {
+      "title": "{{product_name}} Access",
+      "text": "9,99 $ par mois, facturés annuellement",
+      "textExpire": "Le prochain paiement est prévu pour le ",
+      "button": "Gérer l'abonnement"
+    }
+  },
+  "ModalShortcutsHelp": {
+    "ModalTitle": "Raccourcis clavier",
+    "GeneralTitle": "Général",
+    "PreviousPage": "Page précédente",
+    "SwitchMainSections": "Basculer entre les sections principales",
+    "StartSearch": "Commencer la recherche",
+    "CreateCollection": "Créer une collection",
+    "CloseModalOrRightPanel": "Fermer le panneau modal ou de droite",
+    "SelectionTitle": "Sélection",
+    "SelectAll": "Tout sélectionner",
+    "SelectRangeOfItems": "Sélectionner une plage d'éléments",
+    "SelectOrDeselect": "Sélectionner/désélectionner un seul élément",
+    "HelpTitle": "Aide",
+    "HelpCenter": "Centre d'aide",
+    "KeyboardShortcuts": "Raccourcis clavier",
+    "FilePreviewTitle": "Prévisualisation de fichier",
+    "NextFile": "Fichier suivant",
+    "PreviousFile": "Fichier précédent",
+    "CloseFilePreview": "Fermer la prévisualisation de fichier",
+    "PlayOrPause": "Lire/mettre en pause un fichier vidéo ou audio",
+    "OpenFile": "Ouvrir un fichier",
+    "MoreInfo": "Plus d\\'informations",
+    "ShowFileLocation": "Afficher l'emplacement du fichier",
+    "ZoomInPhoto": "Faire un zoom avant sur la photo",
+    "ZoomOutPhoto": "Faire un zoom arrière sur la photo",
+    "ZoomToZero": "Zoomer à 100 %",
+    "EnterFullScreen": "Mode Plein écran",
+    "ExitFullScreen": "Quitter le mode Plein écran",
+    "BrowseAndGridsTitle": "Parcourir et grilles",
+    "NavigateFilesAndFolders": "Naviguer dans les fichiers et dossiers",
+    "RefreshList": "Actualiser la liste de dossiers ou de fichiers",
+    "OpenFocusedFolder": "Ouvrir le dossier ciblé",
+    "OpenFocusedFileInApp": "Ouvrir le fichier ciblé dans l'application",
+    "ShowLocation": "Afficher l'emplacement du fichier/dossier",
+    "ToggleView": "Basculer entre les vues Liste/Miniatures",
+    "ChangeSort": "Trier",
+    "SourcesTitle": "Sources",
+    "NavigateCategories": "Naviguer dans les catégories",
+    "NavigateSources": "Naviguer dans les sources",
+    "OpenFocusedDriveOrSource": "Ouvrir le disque ou la source ciblé",
+    "SettingsTitle": "Paramėtres",
+    "NavigateSettingsSections": "Naviguer dans les sections des paramètres",
+    "OpenFocusedSection": "Ouvrir la section ciblée"
+  },
+  "PageSettingsProductTour": {
+    "title": "Tour du produit",
+    "text": "Ajout d'une source",
+    "button_text": "Commencer à ajouter une source"
+  },
+  "ManageSourcesSidePanelsSignIn": {
+    "title": "Connexion",
+    "descriptionSocial": "Afin d'indexer les souvenirs de vos réseaux sociaux depuis des sources telles que Facebook, Google Photos, Flickr, etc., connectez-vous ou créez un compte {{company_name}}.",
+    "descriptionCloud": "Afin de catalogue vos comptes cloud, tels que Dropbox, Google Drive, OneDrive, etc., connectez-vous ou créez un compte {{company_name}}."
+  },
+  "ProvidersList": {
+    "infoTitle": "Vous ne voyez pas votre compte {{type}} ici ?",
+    "infoText": "{{clickHere}} pour demander de l'aide pour votre source {{sourceType}}.",
+    "clickHere": "Cliquez ici",
+    "socialMedia": "médias sociaux",
+    "social": "réseaux sociaux",
+    "cloud": "nuage"
+  },
+  "NotConnectedItem": {
+    "systemFolderWarning": "Vous ne pouvez pas indexer ce dossier système"
+  },
+  "ModalReinstall": {
+    "title": "Réinstaller {{product_name}}",
+    "content1": "Le processus de catalogage de {{product_name}} a subit des mises à jour considérables, mais vous devrez <b>désinstaller et réinstaller {{product_name}}, puis recataloguer votre contenu</b> pour en tirer pleinement profit. {{link1}}.",
+    "link1": "Consultez le guide étape par étape ici",
+    "title1": "Si vous réinstallez...",
+    "title2": "Si vous ne réinstallez pas...",
+    "li1": "<b>Emplacement de catalogue flexible</b> - Choisissez où enregistrer votre catalogue dans l'éventualité où vous avez plusieurs volumes.",
+    "li2": "<b>Taille de catalogue plus petite</b> - Le catalogue de {{product_name}} prendra au maximum 10 % de l'espace disque disponible sur votre ordinateur.",
+    "li3": "<b>Miniatures d'image plus petites</b> - Les miniatures 720p permettent de conserver une petite taille d'application tout en vous permettant de profiter de vos images en haute qualité.",
+    "li4": "<b>Taille d'application plus grande</b> - Vos miniatures resteront à 1080p et votre catalogue utilisera plus d'espace sur votre périphérique.",
+    "li5": "<b>Problèmes d'affichage des miniatures</b> - Vous pouvez rencontrer des bogues lorsque vous essayez de prévisualiser vos fichiers dans l'affichage d'un seul élément.",
+    "li6": "<b>Moins de fonctionnalités de produit</b> - Les futures mises à jour des fonctionnalités et de l'application peuvent ne pas fonctionner correctement.",
+    "button1": "Comment réinstaller {{product_name}}",
+    "button2": "Me redemander ultérieurement"
+  },
+  "TurboModeNotifications": {
+    "unavailable": {
+      "text": "Le mode turbo n'est actuellement disponible que pour les ordinateurs dotés de quatre cœurs ou plus et de plus de 4 Go de mémoire RAM."
+    },
+    "available": {
+      "on": "Le mode turbo supprime les restrictions sur la vitesse de catalogage de {{product_name}} pour votre contenu. Cela peut entraîner le ralentissement ou la non-réaction des applications de votre système. Le mode turbo se désactive automatiquement chaque fois que vous fermez l'application {{product_name}} pour éviter un ralentissement inutile de votre système.",
+      "wasOn": "Le mode turbo s'est désactivé, car l'application {{product_name}} a été fermée."
+    }
+  },
+  "SlowIndexPopOver": {
+    "title": "Le catalogage est trop lent ?",
+    "text1": "Si vous avez un très grand nombre de fichiers images à cataloguer, le processus peut prendre un long moment. Veuillez patienter pendant que nous générons des miniatures auxquelles vous pouvez accéder même lorsque vos sources sont déconnectées.",
+    "text2": "Vous pouvez accélérer le processus de catalogage en essayant les options suivantes :",
+    "listItem1": "Laissez l'application et le système tourner toute la nuit",
+    "listItem2": "Laissez les sources en cours de catalogage connectées à votre système"
+  },
+  "CollectionFtueManager": {
+    "popover": {
+      "title": "Ajout à votre collection",
+      "text": "Cliquez sur le bouton « <b>Ajouter</b> » pour choisir une catégorie et chercher les fichiers qui vous intéressent."
+    }
+  },
+  "AcronisBanner": {
+    "title": "Acronis True Image",
+    "subtitle": "Sauvegarde et clonage de disque"
+  },
+  "ErrorBoundary": {
+    "title": "Une erreur s'est produite.",
+    "description": "Pour résoudre le problème, essayez d'actualiser la page.",
+    "refresh": "Actualiser",
+    "issues": "Les problèmes persistent ?",
+    "feedback": "Envoyez-nous un message",
+    "help": "{{feedback}} pour nous aider à trouver l'origine du problème et le résoudre."
+  },
+  "ModalTermsOfService": {
+    "title": "{{product_name}} se lance !",
+    "paragraph_1": "Merci d'utiliser la version bêta du logiciel {{product_name}} ! Vos retours nous ont aidés à améliorer l'expérience de {{product_name}}. Nous sommes heureux de vous informer que {{product_name}} quitte à présent la phase bêta et que nous allons publier la version 1.0.",
+    "paragraph_2": "Veuillez accepter les conditions générales et la déclaration de confidentialité pour continuer à utiliser {{product_name}}.",
+    "agree": "J'accepte",
+    "close": "Non, fermer {{product_name}}",
+    "title_accepted": "Merci !",
+    "accepted_paragraph_1": "Nous tenons à vous remercier d'avoir pris le temps et fait l'effort de faire partie de la version bêta de {{product_name}}. Nous espérons que vous continuerez à apprécier {{product_name}} et à nous faire savoir comment améliorer le produit.",
+    "accepted_paragraph_2": " Veuillez noter que si vous étiez connecté à un compte {{product_name}} pendant la version bêta, vous serez déconnecté jusqu'à ce que nous lancions officiellement la fonction de compte. Votre compte existe toujours, mais vous ne pourrez pas vous connecter pour le moment."
+  },
+  "SearchResultsFtueManager": {
+    "popover": {
+      "title": "Filtres",
+      "text": "Les filtres par sources, catégories, types de fichier, mots-clés et lieux seront mis à jour de manière dynamique pour afficher les résultats correspondants."
+    }
+  },
+  "NotificationsErrReadContent": {
+    "text": "{{product_name}} a rencontré des problèmes pendant le catalogage de « {{label}} ». Par conséquent, certains fichiers peuvent ne pas apparaître dans {{product_name}}.",
+    "text_plural": "{{product_name}} a rencontré des problèmes pendant le catalogage de certains disques. Par conséquent, certains fichiers peuvent ne pas apparaître dans {{product_name}}."
+  },
+  "SignOut": {
+    "start": "{{product_name}} est en train de supprimer les catalogues de réseaux sociaux et cloud avant de vous déconnecter.",
+    "success": "Déconnexion réussie.",
+    "error": "Une erreur s'est produite lors de la suppression de vos sources de réseaux sociaux et cloud. Par conséquent, nous n'avons pas pu vous déconnecter. Veuillez réessayer plus tard."
+  },
+  "NotificationsErrCloudProviderAuth": {
+    "text": "Il semblerait que {{product_name}} ait perdu l'autorisation d'accéder à {{label}}. Pour fournir l'accès à {{product_name}}, allez dans Sources, cliquez sur le « menu d'options » de Sources et sélectionnez « Reconnecter la source ».",
+    "text_plural": "Il semblerait que {{product_name}} ait perdu l'autorisation d'accéder à {{label}}. Pour fournir l'accès à {{product_name}}, allez dans Sources, cliquez sur le « menu d'options » de Sources et sélectionnez « Reconnecter la source »."
+  },
+  "RemovedCatalogInformer": {
+    "title": "Catalogue {{name}} supprimé"
+  },
+  "ModalSocialCloudFtue": {
+    "title": "Sources de réseaux sociaux et cloud",
+    "left": {
+      "descriptionTitle": "Connecter les sources de réseaux sociaux et cloud",
+      "descriptionText": "Connectez vos sources de réseaux sociaux et cloud à {{product_name}} et ajoutez-les à votre inventaire. Une fois ajoutées, {{product_name}} va analyser votre contenu pour l'ajouter à votre catalogue afin que vous puissiez le rechercher, le parcourir et l'organiser."
+    },
+    "right": {
+      "descriptionTitle": "Synchroniser le catalogue",
+      "descriptionText": "Bien que nous stockions le catalogue localement, certaines informations nécessaires pour synchroniser le catalogue avec les sources de réseaux sociaux et cloud sont stockées dans le cloud {{product_name}}."
+    }
+  },
+  "ModalSignOut": {
+    "title": "Déconnexion",
+    "text": "Avant de vous déconnecter, veuillez indiquer ce que vous souhaitez faire de vos catalogues de réseaux sociaux et cloud actuels.",
+    "keepCatalog": {
+      "title": "Conserver les catalogues de réseaux sociaux et cloud",
+      "point_1": "Les catalogues de vos comptes de réseaux sociaux et de stockage cloud seront conservés dans {{product_name}} et stockés sur votre ordinateur.",
+      "point_2": "Toutes les personnes pouvant accéder à votre ordinateur auront accès à ces catalogues.",
+      "point_3": "Le catalogage sera mis en pause jusqu'à ce que vous vous reconnectiez."
+    },
+    "removeCatalog": {
+      "title": "Supprimer les catalogues de réseaux sociaux et cloud",
+      "point_1": "Les catalogues de vos comptes de stockage cloud et de vos réseaux sociaux seront supprimés de {{product_name}}.",
+      "point_2": "Vous ne pourrez pas faire de recherche de contenu ou bénéficier des fonctionnalités de {{product_name}}, sauf si vous vous reconnectez et que vous lancez un nouveau catalogage.",
+      "point_3": "Les catalogues de vos périphériques de stockage internes et externes ne seront pas supprimés.",
+      "text": "Cela peut prendre quelques minutes pour supprimer les catalogues de réseaux sociaux et cloud en fonction de la taille du catalogue."
+    }
+  },
+  "NotificationsErrInsufficientStorage": {
+    "text_big": "L'espace est insuffisant pour ajouter du nouveau contenu au catalogue. Vous pouvez supprimer les fichiers dont vous n'avez plus besoin sur votre ordinateur afin de libérer de l'espace pour le catalogue. {{learn_more_link}}.",
+    "text_small": "Catalogage interrompu.",
+    "learn_more_link": "En savoir plus"
+  },
+  "NotificationsErrMaxDataSizeReached": {
+    "text_big": "Vous avez atteint 100 % de la taille maximum du catalogue ; il est impossible d'y ajouter de nouveaux éléments. {{learn_more_link}} pour obtenir plus d'informations sur votre catalogue.",
+    "text_small": "Catalogage mis en pause.",
+    "learn_more_link": "Cliquez ici"
+  },
+  "Auth": {
+    "Before": {
+      "buttons": "« Créer un compte » ou « Connexion »",
+      "title": "Configurons votre compte gratuit.",
+      "description": "Votre compte {{company_name}} assure le suivi de vos solutions de stockage sur vos applications de bureau, mobiles, tablettes et Web."
+    },
+    "After": {
+      "error_connected_to_another_account_title": "Connectée à un autre compte.",
+      "error_connected_to_another_account_description": "Votre application {{product_name}} est connectée à un autre compte. Veuillez vous connecter avec ce compte afin de continuer la configuration.",
+      "error_common_title": "Oups",
+      "error_common_description": "Nous avons rencontré un problème lors de la création du compte. Vous pouvez réessayer ou cliquer sur Ignorer pour continuer la configuration.",
+      "title": "Connexion au compte",
+      "Error": {
+        "error_template": "Besoin d'aide ? {{online_help_site_link}}",
+        "online_help_site_link": "Consultez notre site d'aide en ligne"
+      },
+      "NameForm": {
+        "title": "Apprenons à nous connaître.",
+        "description": "Quel est votre prénom ?"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "ModalConfirmSignOut.title": "Uitloggen bij {{product_name}}?",
+  "SingleItemView.CloudUnavailablePopup.description": "Om een ​​bestand te openen via uw sociale of cloudprovider, moet u ervoor zorgen dat u verbonden bent met internet.",
+  "CollectionHowToAddFileModal.add_to_collection": "Toevoegen aan collectie door...",
+  "CollectionHowToAddFileModal.facet_title": "Categorieën",
+  "CollectionHowToAddFileModal.sources_title": "Alle bronnen",
+  "OrderContextMenu.album.addedTime": "Datum gewijzigd",
+  "IndexingStatus.errInsufficientStorage": "<strong>Catalogisering onderbroken</strong> - Er is onvoldoende ruimte om nieuwe inhoud aan de catalogus toe te voegen. U kunt ongewenste bestanden van uw computer verwijderen om ruimte vrij te maken voor de catalogus.",
+  "ModalConfirmSignOut.textWithCloudServices": "Je hebt nog steeds toegang tot je catalogus, zelfs als je bent uitgelogd.",
+  "UpdateBanner.text": "Er is een nieuwe versie van {{product_name}} beschikbaar. Update nu voor de nieuwste bugfixes en nieuwe functies.",
+  "UpdateBanner.link": "Bijwerken",
+  "UpdateBanner.updateLoaded": "Update gedownload.",
+  "Banners.insufficientStorage": "Er is onvoldoende ruimte om nieuwe inhoud aan de catalogus toe te voegen. U kunt ongewenste bestanden van uw computer verwijderen om ruimte vrij te maken voor de catalogus.",
+  "Banners.maxDataSizeReached": "Je hebt 100% van de maximale catalogusgrootte bereikt en we kunnen er geen nieuwe items aan toevoegen. Meer informatie over uw catalogus.",
+  "Banners.photosLibraryNoInternet": "Het catalogiseren is onderbroken omdat uw computer de verbinding met internet heeft verbroken. Maak opnieuw verbinding om door te gaan met het catalogiseren van uw fotobibliotheek.",
+  "Banners.accessDeniedCloudFS": "Kan {{label}} niet toevoegen. {{action}} en zorg ervoor dat u {{product_name}} alle toegangsrechten geeft wanneer daarom wordt gevraagd.",
+  "Banners.errCloudProviderAuth": "Het lijkt erop dat {{product_name}} geen toegang meer heeft tot {{label}}. Om {{product_name}} toegang te verlenen, gaat u naar Bronnen, klikt u op de “menuoptie“ van de bron en selecteert u “Bron opnieuw verbinden“.",
+  "Banners.retry": "Opnieuw proberen",
+  "Banners.learn_more_link": "Leer meer",
+  "Banners.more_label": "{{count}} meer melding",
+  "Banners.more_label_plural": "{{count}} meer meldingen"
+}

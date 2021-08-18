@@ -1,0 +1,22 @@
+{
+  "ModalConfirmSignOut.title": "退出{{product_name}}？",
+  "SingleItemView.CloudUnavailablePopup.description": "为了通过您的社交或云提供商打开文件，请确保您已连接到互联网。",
+  "CollectionHowToAddFileModal.add_to_collection": "添加到收藏...",
+  "CollectionHowToAddFileModal.facet_title": "类别",
+  "CollectionHowToAddFileModal.sources_title": "所有来源",
+  "OrderContextMenu.album.addedTime": "修改日期",
+  "IndexingStatus.errInsufficientStorage": "<strong>编目暂停</strong> - 没有足够的空间向目录添加新内容。您可以从计算机中删除不需要的文件以释放目录空间。",
+  "ModalConfirmSignOut.textWithCloudServices": "即使在注销后，您仍然可以访问您的目录。",
+  "UpdateBanner.text": "{{product_name}} 的新版本可用。立即更新以获取最新的错误修复和新功能。",
+  "UpdateBanner.link": "更新",
+  "UpdateBanner.updateLoaded": "更新下载。",
+  "Banners.insufficientStorage": "没有足够的空间向目录添加新内容。您可以从计算机中删除不需要的文件以释放目录空间。",
+  "Banners.maxDataSizeReached": "您已达到最大目录大小的 100%，我们无法向其中添加任何新项目。详细了解您的目录。",
+  "Banners.photosLibraryNoInternet": "编目已暂停，因为您的计算机与 Internet 的连接中断。重新连接以继续对您的照片库进行编目。",
+  "Banners.accessDeniedCloudFS": "无法添加 {{label}}。 {{action}} 并确保在出现提示时授予 {{product_name}} 所有访问权限。",
+  "Banners.errCloudProviderAuth": "看起来 {{product_name}} 已失去访问 {{label}} 的权限。要提供 {{product_name}} 访问权限，请转到来源，单击来源的“菜单选项”并选择“重新连接来源”。",
+  "Banners.retry": "重试",
+  "Banners.learn_more_link": "了解更多",
+  "Banners.more_label": "{{count}} 多条通知",
+  "Banners.more_label_plural": "{{count}} 条通知"
+}

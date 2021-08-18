@@ -1,0 +1,22 @@
+{
+  "ModalConfirmSignOut.title": "¿Cerrar sesión en {{product_name}}?",
+  "SingleItemView.CloudUnavailablePopup.description": "Para abrir un archivo a través de su proveedor social o en la nube, asegúrese de estar conectado a Internet.",
+  "CollectionHowToAddFileModal.add_to_collection": "Agregar a colección por ...",
+  "CollectionHowToAddFileModal.facet_title": "Categorías",
+  "CollectionHowToAddFileModal.sources_title": "Todas las fuentes",
+  "OrderContextMenu.album.addedTime": "Fecha modificada",
+  "IndexingStatus.errInsufficientStorage": "<strong> Catalogación en pausa </strong>: no hay suficiente espacio para agregar contenido nuevo al catálogo. Puede eliminar archivos no deseados de su computadora para liberar espacio para el catálogo.",
+  "ModalConfirmSignOut.textWithCloudServices": "Aún tendrá acceso a su catálogo incluso cuando no haya iniciado sesión.",
+  "UpdateBanner.text": "Hay disponible una nueva versión de {{product_name}}. Actualice ahora para obtener las últimas correcciones de errores y nuevas funciones.",
+  "UpdateBanner.link": "Actualizar",
+  "UpdateBanner.updateLoaded": "Actualización descargada.",
+  "Banners.insufficientStorage": "No hay suficiente espacio para agregar contenido nuevo al catálogo. Puede eliminar archivos no deseados de su computadora para liberar espacio para el catálogo.",
+  "Banners.maxDataSizeReached": "Ha alcanzado el 100% del tamaño máximo del catálogo y no podemos agregarle ningún artículo nuevo. Obtenga más información sobre su catálogo.",
+  "Banners.photosLibraryNoInternet": "La catalogación se detuvo porque su computadora perdió la conexión a Internet. Vuelve a conectarte para seguir catalogando tu biblioteca de fotos.",
+  "Banners.accessDeniedCloudFS": "No se puede agregar {{label}}. {{action}} y asegúrese de otorgarle a {{product_name}} todos los permisos de acceso cuando se le solicite.",
+  "Banners.errCloudProviderAuth": "Parece que {{product_name}} perdió el permiso para acceder a {{label}}. Para proporcionar acceso a {{product_name}}, vaya a Fuentes, haga clic en la “opción de menú“ de la fuente y seleccione “Volver a conectar fuente“.",
+  "Banners.retry": "Rever",
+  "Banners.learn_more_link": "Aprende más",
+  "Banners.more_label": "{{count}} notificación más",
+  "Banners.more_label_plural": "{{count}} notificaciones más"
+}

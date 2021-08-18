@@ -1,0 +1,1902 @@
+{
+  "product_name": "EdgeRover",
+  "company_name": "Western Digital",
+  "_category": {
+    "all": "Összes egyezés",
+    "media": "Fényképek és videók",
+    "image,video": "Fényképek és videók",
+    "video": "Videók",
+    "image": "Fényképek",
+    "pdf": "PDF-fájlok",
+    "writing": "Dokumentumok",
+    "presentation": "Bemutatók",
+    "book": "Könyvek",
+    "spreadsheet": "Munkafüzetek",
+    "audio": "Hang"
+  },
+  "_fileTypes": {
+    "folder": "Mappa",
+    "generalFile": "Fájl",
+    "font": "Betűtípus",
+    "image": "Kép",
+    "video": "Videó",
+    "audio": "Hang",
+    "archive": "Archívum",
+    "web_picture": "Webes kép",
+    "advanced_systems_format_file": "ASF-fájl",
+    "flash_video": "Flash videó",
+    "mkv_video": "Matroska videó",
+    "opus_audio": "Opus-hang",
+    "ogv_video": "Ogg-videó",
+    "device_independent_bitmap": "Eszközfüggetlen bitkép",
+    "http_archive_file": "HTTP-archívumfájl",
+    "hasselblad_3fr_raw_image": "Hasselblad 3FR RAW-kép",
+    "gpp_movie": "3GPP-film",
+    "sony_digital_camera_image": "Sony digitális fényképezőgéppel készített kép",
+    "avi_movie": "AVI-film",
+    "casio_raw_image": "Casio RAW-kép",
+    "canon_cr2_raw_image": "Canon CR2 RAW-kép ",
+    "canon_cr3_raw_image": "Canon CR3 RAW-kép ",
+    "canon_raw_ciff_image_file": "Canon RAW CIFF-kép",
+    "kodak_raw_image": "Kodak RAW-kép",
+    "adobe_raw_image": "Adobe RAW-kép",
+    "epson_raw_image": "Epson RAW-kép ",
+    "hasselblad_raw_image": "Hasselblad RAW-kép",
+    "heif_image": "HEIF-kép",
+    "phase_one_raw_image": "Phase One RAW-kép",
+    "jpeg_image": "JPEG-kép",
+    "itunes_movie": "iTunes-film",
+    "leaf_raw_image": "Leaf RAW-kép ",
+    "quicktime_movie": "QuickTime-film",
+    "mpeg_4_movie": "MPEG-4-film",
+    "mpeg_4_video": "MPEG-4-videó",
+    "mpeg_movie": "MPEG-film",
+    "mpeg_1_movie": "MPEG-1-film",
+    "mpeg_2_movie": "MPEG-2-film",
+    "webm_video": "WebM-videó",
+    "minolta_raw_image": "Minolta RAW-kép",
+    "nikon_raw_image": "Nikon RAW-kép",
+    "olympus_raw_image": "Olympus RAW-kép",
+    "pentax_raw_image": "Pentax RAW-kép",
+    "fuji_raw_image": "Fuji RAW-kép",
+    "panasonic_raw_image": "Panasonic RAW-kép",
+    "leica_raw_image": "Leica RAW-kép",
+    "sony_raw_image": "Sony RAW-kép",
+    "samsung_raw_image": "Samsung RAW-kép",
+    "windows_media": "Windows Media",
+    "aac_audio": "AAC-hang",
+    "aiff_c_audio": "AIFF-C-hang",
+    "au_audio": "AU-hang",
+    "flac_audio": "FLAC-hang",
+    "f4v_video": "FV4-videó",
+    "midi_audio": "MIDI-hang",
+    "mp2_audio": "MP2-hang",
+    "mp3_audio": "MP3-hang",
+    "mpeg_4_audio": "MPEG-4-hang",
+    "ogg_audio": "Ogg-hang",
+    "waveform_audio": "Waveform-hang",
+    "windows_media_audio": "Windows Media-hang",
+    "amazon_kindle_ebook": "Amazon Kindle e-könyv",
+    "broad_band_ebook": "Broad Band e-könyv",
+    "djvu_image": "DjVu-kép",
+    "epub_ebook": "EPUB e-könyv",
+    "apple_books": "Apple Books",
+    "microsoft_reader_file": "Microsoft Reader-fájl",
+    "sony_portable_reader_file": "Sony Portable Reader-fájl",
+    "librie_reader_file": "Librie Reader-fájl",
+    "mobipocket_ebook": "Mobipocket e-könyv",
+    "box_note": "Box-jegyzet",
+    "word_document": "Word-dokumentum",
+    "word_document_template": "Word-dokumentumsablon",
+    "google_document": "Google-dokumentum",
+    "google_form": "Google-űrlap",
+    "lotus_word_document": "Lotus Word-dokumentum",
+    "pages_document": "Pages-dokumentum",
+    "google_slides": "Google Diák",
+    "keynote_presentation": "Keynote-bemutató",
+    "opendocument_document": "OpenDocument szöveges dokumentum",
+    "opendocument_presentation": "OpenDocument-bemutató",
+    "opendocument_presentation_template": "OpenDocument-bemutatósablon",
+    "prezi_presentation": "Prezi-bemutató",
+    "powerpoint_presentation_template": "PowerPoint-bemutatósablon",
+    "powerpoint_presentation": "PowerPoint-bemutató",
+    "csv_file": "CSV-fájl",
+    "google_sheets": "Google Táblázatok",
+    "numbers_document": "Numbers-dokumentum",
+    "opendocument_spreadsheet": "OpenDocument-munkafüzet",
+    "lotus_123_spreadsheet": "Lotus123-munkafüzet",
+    "excel_document": "Excel-dokumentum",
+    "pdf_document": "PDF-dokumentum",
+    "after_effects_project": "After Effects-projekt",
+    "illustrator_file": "Illustrator-fájl",
+    "blender_3d_file": "Blender 3D-fájl",
+    "cinema_4d_file": "Cinema 4D-fájl",
+    "autocad_image": "AutoCAD-kép",
+    "vector_image_file_eps": "Vektorgrafikus képfájl (EPS)",
+    "figma_drawing": "Figma-rajz",
+    "framemaker_file": "FrameMaker-fájl",
+    "google_drawings": "Google Rajzok",
+    "indesign_file": "InDesign-fájl",
+    "pagemaker_file": "PageMaker-fájl",
+    "photoshop_file": "Photoshop-fájl",
+    "publisher_file": "Publisher-fájl",
+    "sketch_drawing": "Sketch-rajz",
+    "deb": "DEB",
+    "dmg": "DMG",
+    "exe": "EXE",
+    "bin_archive": "BIN-archívum",
+    "gzip_archive": "GZip-archívum",
+    "amiga_lzx_archive": "Amiga LZX-archívum",
+    "rar_archive": "RAR-archívum",
+    "tar_archive": "TAR-archívum",
+    "zip_archive": "ZIP-archívum",
+    "cascading_style_sheet": "Egymásra épülő stíluslapok",
+    "html_text": "HTML-szöveg",
+    "javascript": "JavaScript",
+    "php_script": "PHP-szkript",
+    "python_source": "Python-forrás",
+    "ruby_source": "Ruby-forrás",
+    "xml_document": "XML-dokumentum",
+    "bitmap": "Bitkép",
+    "gif_image": "GIF-kép",
+    "icon_image": "Ikonképfájl",
+    "png_image": "PNG-kép",
+    "svg_image": "SVG-kép",
+    "tiff_image": "TIFF-kép",
+    "markdown_file": "Markdown-fájl",
+    "rtf_file": "RTF-fájl",
+    "plain_text_document": "Egyszerű szöveges dokumentum",
+    "imovie_project": "iMovie-projekt",
+    "logic_pro_project": "Logic Pro-projekt"
+  },
+  "_mimeTypes": {
+    "image/jpeg": "JPEG",
+    "image/png": "PNG",
+    "image/ico": "ICO",
+    "image/xls": "XLS",
+    "image/tiff": "TIFF",
+    "application/pdf": "PDF"
+  },
+  "_fileCategories": {
+    "book": "Könyvek",
+    "photos": "Fényképek",
+    "photosAndVideos": "Fényképek és videók",
+    "videos": "Videók",
+    "audio": "Hang",
+    "movies": "Filmek",
+    "writing": "Dokumentumok",
+    "similarImages": "Hasonló fényképek",
+    "pdf": "PDF-fájlok",
+    "presentation": "Bemutatók",
+    "spreadsheet": "Munkafüzetek",
+    "filesAndFolders": "Fájlok és mappák",
+    "duplicates": "Ismétlődések"
+  },
+  "_errors": {
+    "emptySourceList": "Először válasszon egy forrást.",
+    "noVolumeSelected": "Nem érhető el eszköz vizsgálatra.",
+    "noDeviceSelected": "Először válasszon egy eszközt.",
+    "connectionError": "Hiba történt. Ellenőrizze, hogy rendelkezik-e aktív internetkapcsolattal, majd próbálkozzon újra.",
+    "unexpected": "Hoppá, hiba történt. Próbálkozzon újra.",
+    "timeout": "A művelet időtúllépés miatt nem teljesíthető.",
+    "incorrectEmail": "Adjon meg egy érvényes e-mail-címet.",
+    "incorrectPass": "Helytelen jelszó.",
+    "verifyPass": "Ellenőrizze a jelszavát",
+    "repeatPass": "Adja meg újra az új jelszót",
+    "incorrectEmailPass": "Helytelen e-mail-cím vagy jelszó.",
+    "invalid_user_password": "Helytelen e-mail-cím vagy jelszó.",
+    "userExists": "A fiók már létezik. Előfordulhat, hogy korábban már létrehozott egy fiókot az ibi, a My Cloud OS 5 vagy a My Cloud Home beállításakor. {{link}}",
+    "userExistsLink": "Jelentkezzen be a folytatáshoz",
+    "passwordMismatch": "A jelszavak nem egyeznek",
+    "PasswordHistoryError": "Az új jelszó nem egyezhet meg a korábbi jelszavaival.",
+    "PasswordDictionaryError": "Nem engedélyezett jelszó. Lehet, hogy túl gyakori.",
+    "PasswordStrengthError": "Nem engedélyezett jelszó. Lehet, hogy túl gyenge.",
+    "anotherUserAttached": "Egy másik felhasználó már csatlakozott az aktuális környezethez.",
+    "searchLength": "A kereséshez írjon be legalább három karaktert.",
+    "albumCreationError": "A létrehozás sikertelen.",
+    "openExtensionError": "A kiterjesztés megnyitása sikertelen.",
+    "sourceIsNotConnected": "A forrás nincs csatlakoztatva. Az elem megnyitásához csatlakoztassa a következőt a számítógéphez, majd próbálkozzon újra: {{name}}.",
+    "indexDeletedError": "Hoppá, ez a fájl már nem érhető el. Előfordulhat, hogy a forráskatalógust a közelmúltban eltávolították.",
+    "FILE_GROUP_NOT_FOUND_ERROR": "A gyűjtemény nem található",
+    "FILE_DELETED_ERROR": "Hoppá, ez a fájl már nem érhető el. Lehet, hogy a fájlt nemrég törölték, vagy egy olyan forráson található, amely le lett választva.",
+    "DEVICE_MIGRATING_ERROR": "Jelentősen javult a felhasználói élmény. A folyamat részeként az alkalmazás újraépül, és a tartalomtárolás hatékonyabbá válik. Ez egy kis időt vehet igénybe.",
+    "signup_invalid_request": "Helytelen e-mail-cím vagy jelszó",
+    "disconnectCloudFS": "A(z) {{label}} katalógus nem távolítható el. Győződjön meg arról, hogy csatlakozik az internethez, és próbálkozzon újra."
+  },
+  "_errorTitles": {
+    "unexpected": "",
+    "DEVICE_MIGRATING_ERROR": "Frissítés folyamatban"
+  },
+  "_common": {
+    "photosLibrary": "Fényképtár",
+    "volumeLabelWin": "{{label}} ({{mountPoint}})",
+    "untitledVolumeName": "Cím nélküli",
+    "ok": "OK",
+    "selectSomethingForPreview": "Az előnézet megtekintéséhez válasszon egy elemet",
+    "open": "Megnyitás",
+    "fileTypeNotSupported": "A lejátszás nem támogatott. A lejátszáshoz nyissa meg a fájlt.",
+    "resendLink": "Hivatkozás újraküldése",
+    "done": "Kész",
+    "cancel": "Mégse",
+    "continue": "Folytatás",
+    "skipForNow": "Kihagyás",
+    "retry": "Újra",
+    "close": "Bezárás",
+    "back": "Vissza",
+    "skip": "Kihagyás",
+    "addSource": "Források hozzáadása",
+    "remove": "Eltávolítás",
+    "rename": "Átnevezés",
+    "later": "Később",
+    "letsDoIt": "Kezdjünk hozzá!",
+    "newCollectionTitle": "Új gyűjtemény",
+    "emptyPhotos": "Még nincsenek fényképek vagy videók",
+    "timeline": "Idővonal",
+    "more": "Továbbiak",
+    "show_less": "Kevesebb megjelenítése",
+    "show_more": "Továbbiak megjelenítése",
+    "edit": "Szerkesztés",
+    "save": "Mentés",
+    "next": "Tovább",
+    "add_to_collection": "Hozzáadás a gyűjteményhez",
+    "remove_from_collection": "Eltávolítás a gyűjteményből",
+    "create_collection": "Gyűjtemény létrehozása",
+    "set_cover": "Borító beállítása",
+    "sign_in": "Bejelentkezés",
+    "create_account": "Fiók létrehozása",
+    "settings": "Beállítások",
+    "tryAgain": "Újra",
+    "createdForYou": "Önnek létrehozva",
+    "or": "vagy",
+    "add": "Hozzáadás",
+    "title": "Cím",
+    "items": "{{count}} elem",
+    "items_plural": "{{count}} elem",
+    "widgets": "Vezérlők",
+    "quit": "Kilépés",
+    "browse": "Böngészés",
+    "collections": "Gyűjtemények",
+    "description": "Leírás",
+    "name": "Név",
+    "viewSources": "Források megtekintése",
+    "viewTitles": "Címek megtekintése",
+    "selectMode": "Üzemmód kiválasztása",
+    "suggested_collections": "Ajánlott gyűjtemények",
+    "my_collections": "Saját gyűjtemények",
+    "sorting": "Rendezés",
+    "viewModes": "Megtekintési módok",
+    "comingSoon": "Hamarosan érkezik",
+    "signIn": "Bejelentkezés",
+    "createAccount": "Fiók létrehozása",
+    "on": "Be",
+    "off": "Kikapcsolva",
+    "learnMore": "További információk",
+    "viewAll": "Összes megtekintése",
+    "gotIt": "Értem",
+    "firstName": "Keresztnév",
+    "lastName": "Vezetéknév",
+    "reset": "Alaphelyzetbe állítás",
+    "resetting": "Alaphelyzetbe állítás…"
+  },
+  "_customGroupNames": {
+    "largeFiles": "Nagy méretű fájlok",
+    "recentlyOpenFiles": "Legutóbb megnyitott",
+    "thisMonth": "Ebben a hónapban az előzményekben",
+    "thisWeek": "Ezen a héten az előzményekben",
+    "celebrate": "Ünnepeljünk!",
+    "duplicateFiles": "Ismétlődések"
+  },
+  "Datepicker": {
+    "placeholder": "éééé/hh/nn"
+  },
+  "PasswordValidation": {
+    "upperLower": "Tartalmazzon legalább 1 nagybetűt és 1 kisbetűt",
+    "number": "Tartalmazzon legalább 1 számot",
+    "length": "Legalább 8 karakter"
+  },
+  "SignInForm": {
+    "email": "E-mail-cím",
+    "password": "Jelszó",
+    "forgotPassword": "Elfelejtette a jelszavát?",
+    "button_text": "„Bejelentkezés”"
+  },
+  "PasswordInput": {
+    "show_password": "Jelszó megjelenítése",
+    "hide_password": "Jelszó elrejtése"
+  },
+  "SignUpForm": {
+    "title": "Regisztrálás",
+    "firstName": "Keresztnév",
+    "lastName": "Vezetéknév",
+    "email": "E-mail-cím",
+    "password": "Jelszó",
+    "submit": "Fiók létrehozása",
+    "button_text": "„Fiók létrehozása”",
+    "enterFirstNameError": "Adja meg a keresztnevet",
+    "enterLastNameError": "Adja meg a vezetéknevet",
+    "enterEmailError": "Adja meg az e-mail-címet",
+    "enterValidEmailError": "Adjon meg egy érvényes e-mail-címet.",
+    "createAccount": "Fiók létrehozása"
+  },
+  "Policy": {
+    "agreement": "A(z) {{button_text}} gombra kattintva elfogadja a következőket: {{product_name}}, {{licence_agreement_link}} és {{privacy_link}}. Tudomásul veszi és elfogadja, hogy a(z) {{company_name}} az Ön adatait más országokba, többek között az Egyesült Államokba továbbíthatja, és ott kezelheti és tárolhatja. Ebbe beletartozhatnak a(z) {{company_name}} számára megadott fiókinformációk, és a(z) {{product_name}}-felhőbe szinkronizált tartalmak.",
+    "licence_agreement": "Szolgáltatási feltételek",
+    "privacy_state": "Adatvédelmi nyilatkozat"
+  },
+  "ResetPassword": {
+    "title": "Elfelejtette a jelszavát?",
+    "resetLinkSendTitle": "E-mailt küldtünk Önnek",
+    "resetLinkSendText": "Ha {{email}} rendelkezik {{product_name}}-fiókkal, <span>e-mailt</span> küldünk a további utasításokkal.",
+    "resendLink": "Újra"
+  },
+  "ResetPasswordForm": {
+    "title": "Jelszó alaphelyzetbe állítása",
+    "text": "Alaphelyzetbe szeretné állítani a jelszavát? E-mailt küldünk Önnek a további utasításokkal.",
+    "submit": "Utasítások elküldése",
+    "email": "E-mail-cím"
+  },
+  "SetNewPassword": {
+    "formTitle": "Hozzon létre egy új jelszót",
+    "invalidLinkTitle": "A jelszó alaphelyzetbe állítására szolgáló hivatkozás már nem érvényes",
+    "invalidLinkText": "A jelszó alaphelyzetbe állítására szolgáló hivatkozás már nem érvényes. Lépjen vissza a jelszó alaphelyzetbe állítására szolgáló oldalra, és próbálkozzon újra.",
+    "resendLink": "Hivatkozás újraküldése",
+    "passwordUpdatedTitle": "A jelszó megváltozott",
+    "passwordUpdatedText": "Most már bejelentkezhet az új jelszóval.",
+    "signIn": "Bejelentkezés",
+    "linkExpiredTitle": "A jelszó alaphelyzetbe állítására szolgáló hivatkozás lejárt",
+    "linkExpiredText": "A jelszó alaphelyzetbe állítására szolgáló hivatkozás lejárt. Lépjen vissza a jelszó alaphelyzetbe állítására szolgáló oldalra, és próbálkozzon újra.",
+    "validatingLink": "Hivatkozás ellenőrzése…"
+  },
+  "SetNewPasswordForm": {
+    "newPassword": "Új jelszó",
+    "confirmNewPassword": "Új jelszó megerősítése",
+    "submit": "Új jelszó beállítása"
+  },
+  "Welcome": {
+    "title": "Üdvözli a(z)",
+    "text1": "Beállíthatja és konfigurálhatja WD- és SanDisk-termékeit, aktiválhatja a jótállást, és további programokat telepíthet.",
+    "text2": "Egyetlen nézetben kezelheti a számítógépén található tartalmakat, a külső tárolóeszközöket és a felhőplatformokat is beleértve.",
+    "text3": "Kategóriák szerint rendezve, kereshető módon tekintheti meg valamennyi digitális eszközét, függetlenül attól, csatlakoztatva vannak-e.",
+    "copyright": "© {{current_year}} Western Digital Corporation vagy társvállalatai. Minden jog fenntartva. Bizalmas."
+  },
+  "NotFound": {
+    "mainText": "Az oldal nem található"
+  },
+  "Root": {
+    "browser": "Böngészés",
+    "report": "Visszajelzés küldése"
+  },
+  "Browse": {
+    "unknown": "[UNKNOWN]"
+  },
+  "SettingsRoot": {
+    "account": "Fiókbeállítások",
+    "manageSources": "Források",
+    "language": "Nyelv",
+    "appSettings": "Alkalmazásbeállítások",
+    "theme": "Téma",
+    "helpAndSupport": "Súgó és támogatás",
+    "legal": "Jogi tudnivalók",
+    "privacy": "Adatvédelem",
+    "darkMode": "Sötét mód",
+    "checking": "ellenőrzés…",
+    "logs": "Naplók letöltése",
+    "info": "A lapfejléc és az információk beállításai",
+    "surveys": "Felmérések",
+    "uniq_identifier_line": "Egyedi azonosító",
+    "link_text": "Mi ez?",
+    "copy": "UID másolása",
+    "copy_success": "Az UID másolása sikeres",
+    "copy_failed": "Az UID másolása sikertelen",
+    "manageCatalog": "Katalógus kezelése",
+    "turboMode": "Turbó üzemmód"
+  },
+  "SettingsManageCatalog": {
+    "title": "Katalógus kezelése",
+    "size": {
+      "title": "Jelenlegi méret",
+      "text": "{{maxSize}}/{{size}} (a katalógus méretének körülbelül {{percent}}%-a)",
+      "description": "A katalógus olyan metaadatokat tartalmaz a fájlokról, mint a név, a dátum, a méret, az előnézeti kép stb. A katalógus tárolásához legfeljebb a meghajtón elérhető szabad terület 10%-át használjuk (ezt az alkalmazás a telepítéskor számítja ki). {{link}}",
+      "link": "További információ a katalógusról."
+    },
+    "driveSpace": {
+      "title": "Meghajtó lemezterülete",
+      "chartTitle": "{{free}} szabad ennyiből: {{total}}",
+      "usedSpaceLabel": "Felhasznált terület",
+      "usedSpaceTooltip": "{{size}} felhasznált terület",
+      "indexSizeLabel": "Aktuális katalógus",
+      "indexSizeTooltip": "{{size}} aktuális katalógusméret",
+      "maxSizeLabel": "Maximális katalógus",
+      "maxSizeTooltip": "{{size}} maximális katalógusméret",
+      "freeSizeLabel": "Szabad hely",
+      "freeSizeTooltip": "{{size}} szabad hely"
+    },
+    "updateCatalogSize": {
+      "title": "Katalógusméret frissítése",
+      "text": "Alapértelmezés szerint a szabad terület 10%-át foglaljuk le a katalógus számára. Ha több helyre van szüksége a források katalogizálásához, az alábbi csúszkával növelheti a maximális katalógusméretet.",
+      "size_note": "Megjegyzés – Más alkalmazásoknak a megfelelő működésük érdekében szükségük van szabad területre, ezért a(z) {{product_name}} nem engedélyezi, hogy az összes szabad helyet a katalógus számára jelölje ki.",
+      "button": "Katalógusméret frissítése",
+      "successUpdated": "Maximális katalógusméret új értéke: {{size}}.",
+      "sizeRestrictionWarning": "Nem adhat meg az aktuális katalógusméretnél alacsonyabb értéket."
+    }
+  },
+  "SettingsTheme": {
+    "orange": "Narancssárga"
+  },
+  "SettingsAccount": {
+    "title": "Fiókbeállítások",
+    "youAreNotSigned": "Ön nincs bejelentkezve.",
+    "youAreSignedIn": "Ön be van jelentkezve.",
+    "createAccount": "Fiók létrehozása",
+    "createAccountOrSignIn": "{{createAccount}} vagy {{signIn}}",
+    "logout": "Kijelentkezés",
+    "deleteAccount": "Saját fiók törlése",
+    "profile": "Profil",
+    "name": "Név",
+    "email": "E-mail-cím",
+    "password": "Jelszó",
+    "emails": "E-mail-címek",
+    "analytics": "Elemzés",
+    "keplerPrime": "{{product_name}} Access",
+    "editPhoto": "Szerkesztés",
+    "addPhoto": "Fénykép hozzáadása",
+    "imageLoadError": "Hiba történt a fénykép betöltésekor.",
+    "imageTypeError": "Csak a .png és a .jpg fájlformátum engedélyezett.",
+    "imageSizeError": "A képnek kisebbnek kell lennie 30 kB-nál.",
+    "cognitoImageSizeError": "A képnek kisebbnek kell lennie 1 MB-nál.",
+    "generalImageTooltip": "Csak a .png és a .jpg fájlformátum engedélyezett. Kisebbnek kell lennie 30 kB-nál.",
+    "cognitoGeneralImageTooltip": "Csak a .png és a .jpg fájlformátum engedélyezett. Kisebbnek kell lennie 1 MB-nál.",
+    "resetPasswordModal": {
+      "title": "E-mailt küldtünk Önnek",
+      "text1": "Tekintse meg az utasításokat tartalmazó e-mailt.",
+      "text2": "MEGJEGYZÉS: Ha ugyanazt az e-mail-címet használja az EdgeRover™-, ibi™-, My Cloud™- OS 5- és My Cloud™ Home-fiókokhoz, azoknak a fiókoknak a jelszava is alaphelyzetbe lesz állítva.",
+      "button": "E-mail újraküldése"
+    }
+  },
+  "SettingsPrivacy": {
+    "title": "Adatvédelem",
+    "shareAnalyticsTitle": "Alkalmazáselemzések megosztása a következővel: {{company_name}}",
+    "shareAnalyticsText": "Segítsen a(z) {{company_name}} csapatának a termékeik, szolgáltatásaink és alkalmazásaink fejlesztésében és a felhasználói élmény személyre szabásában, például alkalmazáson belüli és leküldéses értesítésekkel, valamint a használati adatok automatikus elküldésével.{{link}}",
+    "marketingTitle": "Hozzájárulok, hogy a(z) {{company_name}} marketing célú e-maileket küldjön",
+    "marketingText": "Maradjon kapcsolatban velünk, hogy értesüljön a legfrissebb hírekről, a promóciókról, valamint megkapja hírleveleinket, és célzott hirdetéseket jelenítsünk meg Önnek alkalmazáson belüli üzenetekkel, leküldéses értesítésekkel és e-mailben.{{link}}",
+    "learnMore": "További információk"
+  },
+  "SettingsAccountCreateAccount": {
+    "title": "Fiók létrehozása",
+    "subtitle": "Hozzon létre egy fiókot eszközei regisztrálásához és a jótállás aktiválásához – ehhez nincs szükség bankkártyára."
+  },
+  "Language": {
+    "title": "Nyelv"
+  },
+  "AppSettings": {
+    "info": "A lapfejléc és az információk beállításai",
+    "resetSettings": "A lapfejléc és az információk beállításainak alaphelyzetbe állítása",
+    "resetBtn": "Alaphelyzetbe állítás",
+    "title": "Alkalmazásbeállítások",
+    "appVersion": "Alkalmazásverzió",
+    "privacy": "Adatvédelem",
+    "version": "{{version}} verzió",
+    "latestVersion": "Ön a(z) {{product_name}} legújabb verzióját használja!",
+    "updateAvailable": "Új verzió érhető el. {{update}}",
+    "updateFailed": "Frissítés megszakítva. {{retry}}",
+    "retry": "Újra",
+    "downloadingUpdate": "Frissítés letöltése…",
+    "updateLoaded": "Frissítés letöltve. {{relaunch}}",
+    "relaunch": "A(z) {{product_name}} újraindítása",
+    "updateNow": "Frissítés",
+    "appLaunch": "Alkalmazás indítása",
+    "openAutomatically": "A(z) {{product_name}} automatikus megnyitása a számítógépre való bejelentkezéskor.",
+    "language": "Nyelv",
+    "offline": "Csatlakozás az internethez és frissítések keresése."
+  },
+  "HelpFeedback": {
+    "title": "Súgó és visszajelzés",
+    "haveQuestion": "Kérdésem merült fel vagy visszajelzést szeretnék küldeni…",
+    "helpCenter": "Súgóközpont",
+    "reportProblem": "Probléma jelentése",
+    "generalQuestion": "Általános kérdés vagy visszajelzés",
+    "haveIdea": "Ötletem merült fel…",
+    "requestFeature": "Funkció kérése"
+  },
+  "HelpAndSupport": {
+    "title": "Súgó és támogatás",
+    "HowToAddASource": "Forrás hozzáadása",
+    "StartAddingASource": "Forrás hozzáadásának megkezdése",
+    "KeyboardShortcuts": "Gyorsbillentyűk ",
+    "OpenKeyboardShortcuts": "Gyorsbillentyűk megnyitása",
+    "tipsTricks": "Tippek és trükkök",
+    "helpSite": "Súgóoldal"
+  },
+  "Legal": {
+    "title": "Jogi tudnivalók",
+    "terms": "Szolgáltatási feltételek",
+    "policy": "Adatvédelmi nyilatkozat",
+    "privacyFAQ": "Adatvédelem – GYIK",
+    "acceptableUsePolicy": "Méltányos felhasználással kapcsolatos szabályzat",
+    "copyrightUsePolicy": "Szerzői jogi szabályzat",
+    "trademarks": "Védjegyek",
+    "openSourceNotices": "Közlemények a nyílt forráskóddal kapcsolatban"
+  },
+  "SettingsAccountSidePanelChangeName": {
+    "title": "Név módosítása",
+    "text": "Szerkessze és mentse a nevet."
+  },
+  "ChangeNameForm": {
+    "enterFirstNameError": "Adja meg a keresztnevet",
+    "enterLastNameError": "Adja meg a vezetéknevet"
+  },
+  "SettingsAccountSidePanelChangePassword": {
+    "title": "Jelszó módosítása",
+    "text": "Adja meg a jelenlegi jelszót az alábbiakban, majd válasszon egy új jelszót."
+  },
+  "ChangePasswordForm": {
+    "currentPassword": "Jelenlegi jelszó",
+    "newPassword": "Új jelszó",
+    "repeatNewPassword": "Új jelszó megerősítése"
+  },
+  "DeleteAccountModal": {
+    "title": "Véglegesen törli {{product_name}}-fiókját?",
+    "text": "<p>Sajnáljuk, hogy itthagy minket.</p><p>{{product_name}}-fiókja törlésével a csatlakoztatott forrásokból származó összes tartalom törölve lesz. </p><p>Mielőtt törölné a fiókját, lehet, hogy tudunk segíteni. {{getInTouch}}</p><p>Vagy nyomja meg a Folytatás gombot a továbblépéshez.</p>",
+    "getInTouch": "Vegye fel velünk a kapcsolatot"
+  },
+  "DeleteAccountForm": {
+    "text": "{{product_name}}-fiókja végleges törléséhez adja meg a jelszót."
+  },
+  "Main": {
+    "manageSource": "Források hozzáadása és kezelése"
+  },
+  "MainActions": {
+    "title": "Böngészés a tartalmak között",
+    "sources": "Források szerint"
+  },
+  "Search": {
+    "title": "Eredmények megjelenítése ehhez: „{{query}}”",
+    "emptyTitle": "Keresési eredmények",
+    "empty": "Úgy tűnik, nincsenek keresési eredmények ehhez: „{{query}}”",
+    "text1": "Nem találta meg, amit keres?",
+    "text2": "Próbáljon új keresést indítani módosított szűrőkkel, vagy indítsa újra a(z) {{product_name}} alkalmazást a katalógus frissítéséhez."
+  },
+  "SearchMain": {
+    "title": "Keresés",
+    "searchHistory": "Keresési előzmények",
+    "empty": "Úgy tűnik, nincsenek keresési előzmények.",
+    "count": "({{count}})"
+  },
+  "SearchInput": {
+    "placeholder": "Tartalmak keresése",
+    "search": "Keresés"
+  },
+  "SearchInputSuggestions": {
+    "submitHelpText": "„{{query}}” Nyomja meg az Enter billentyűt a kereséshez.",
+    "submitHelpTextTruncated": "„{{query}}…” Nyomja meg az Enter billentyűt a kereséshez."
+  },
+  "SearchInputSuggestionsList": {
+    "tags": "Önnek",
+    "tagsEmpty": "Nincsenek a kulcsszóval egyező objektumok.",
+    "locations": "Helyek",
+    "locationsEmpty": "Nincsenek a kulcsszóval egyező helyek.",
+    "history": "Keresési előzmények",
+    "historyEmpty": "Nincsenek a kulcsszóval egyező előzmények.",
+    "titleButton": "Összes előzmény törlése"
+  },
+  "SearchHeader": {
+    "selectSource": "Forrás kiválasztása",
+    "categories": "Kategóriák",
+    "kind": "Fájltípus",
+    "moreFilters": "További szűrők",
+    "resetAll": "Az összes alaphelyzetbe állítása",
+    "locationGroupLabel": "{{country}} {{city}}",
+    "fromLabel": "ettől: {{from}}",
+    "toLabel": "eddig: {{to}}",
+    "rangeLabel": "{{from}} - {{to}}",
+    "allSources": "Összes forrás",
+    "allCategories": "Összes kategória",
+    "allKinds": "Összes fájltípus"
+  },
+  "DropdownFilter": {
+    "all": "Összes"
+  },
+  "SearchContentGroups": {
+    "query": "Keresési eredmények ehhez: „{{- query}}”"
+  },
+  "SearchContentGroup": {
+    "all": "Összes: Összes egyezés",
+    "media": "Média: Fényképek és videók",
+    "pdf": "PDF-fájlok",
+    "writing": "Írások",
+    "presentation": "Bemutatók",
+    "book": "Könyvek",
+    "spreadsheet": "Munkafüzetek",
+    "audio": "Hang",
+    "more": "Továbbiak"
+  },
+  "SearchFiltersSidePanel": {
+    "title": "További szűrési lehetőségek",
+    "description": "Szűrők hozzáadásával szűkítheti a keresési eredményeket, hogy könnyedén megtalálja, amit keres.",
+    "locationDescription": "Ha hely szerint szűri az eredményeket, megtekintheti azokat a fényképeket és videókat, amelyek automatikusan meg lettek jelölve a készítésük helyével.",
+    "tagsDescription": "Az eredményeket a(z) {{product_name}} automatikusan létrehozott címkéi és az Ön által manuálisan hozzáadott címkék szerint is szűrheti.",
+    "places": "Helyek",
+    "tags": "Címkék",
+    "range": "Időszak",
+    "create": "Létrehozás dátuma",
+    "modify": "Módosítás dátuma",
+    "from": "ettől:",
+    "to": "eddig:",
+    "apply": "Alkalmaz"
+  },
+  "SearchFiltersSidePanelGroupInfo": {
+    "selected": "{{count}} kiválasztva"
+  },
+  "SearchFiltersSidePanelGroupSelector": {
+    "search": "Keresés",
+    "selected": "{{count}} kiválasztva",
+    "confirm": "Megerősítés"
+  },
+  "FilesList": {
+    "empty": "Üres",
+    "empty_folder_title": "Ez a mappa üres.",
+    "empty_folder_text_mac": "Ha készen állnak a fájlok, adja hozzá őket a Finder segítségével.",
+    "empty_folder_text_win": "Ha készen állnak a fájlok, adja hozzá őket a Fájlkezelő segítségével.",
+    "empty_drive_title": "Ez az eszköz üres.",
+    "empty_drive_text_mac": "Ha készen állnak a fájlok, helyezze őket erre az eszközre a Finder segítségével.",
+    "empty_drive_text_win": "Ha készen állnak a fájlok, helyezze őket erre az eszközre a Fájlkezelő segítségével, és indítsa újra a(z) {{product_name}} alkalmazást.",
+    "empty_external_drive_text": "Ha készen állnak a fájlok, helyezze őket erre az eszközre.",
+    "empty_external_folder_text": "Ha készen állnak a fájlok, helyezze őket ebbe a mappába.",
+    "empty_cloud_source_folder_text": "Amikor fájlokat ad a felhőbeli forráshoz, a(z) {{product_name}} automatikusan frissíti ezt a mappát.",
+    "empty_social_source_folder_text": "Amikor fájlokat ad a közösségi forráshoz, a(z) {{product_name}} automatikusan frissíti ezt a mappát.",
+    "open_folder_mac": "Megnyitás a Finderben",
+    "open_folder_win": "Megnyitás a Fájlkezelőben",
+    "manage_sources": "Források",
+    "empty_facet_title": "Még semmit nem adott hozzá!",
+    "empty_facet_text": "Csatlakoztassa és katalogizálja az eszközeit. A(z) {{product_name}} tartalommal való feltöltéséhez adjon hozzá forrásokat.",
+    "list_view": "Lista nézet",
+    "media_view": "Média nézet",
+    "thumbnail_view": "Miniatűrök nézet",
+    "preview": "Előnézet panel"
+  },
+  "ListView": {
+    "name": "Név",
+    "kind": "Típus",
+    "mTime": "Módosítás dátuma",
+    "cTime": "Létrehozás dátuma",
+    "source": "Forrás",
+    "size": "Méret",
+    "artist": "Előadó",
+    "author": "Szerző",
+    "totalSize": "Teljes méret",
+    "item": "Elem",
+    "duplicates": "Összesen"
+  },
+  "ThumbnailsView": {
+    "folders": "Mappák",
+    "folder": "Mappa",
+    "files": "Fájlok",
+    "similar_group": "Hasonló csoport"
+  },
+  "Media": {
+    "select": "Kiválasztás és rendszerezés"
+  },
+  "MediaGroupList": {
+    "empty_photos": "Még nincsenek fényképek",
+    "empty_videos": "Még nincsenek videók"
+  },
+  "SingleItemView": {
+    "lockedFile": "Nyissa meg a fájlt a feloldásához.",
+    "noPreviewAvailable": "Ez a fájltípus nem támogatja az előnézetet.",
+    "noPreviewDocumentCloud": "A dokumentumok előnézete jelenleg nem érhető el néhány felhőbeli és közösségi forráshoz.",
+    "showInParentFolder": "Megjelenítés a szülőmappában",
+    "previewOnly": "– Csak előnézet",
+    "prev": "Vissza",
+    "next": "Tovább",
+    "location": "Hely megtekintése",
+    "info": "További információk",
+    "descriptionTitle": "Leírás",
+    "descriptionHide": "Elrejtés",
+    "more": " …továbbiak",
+    "more_actions": "Továbbiak",
+    "more_info": "További információk panel",
+    "rename": "Átnevezés",
+    "copy": "Másolás",
+    "remove": "Törlés",
+    "fullscreen": "Teljes képernyő",
+    "close_fullscreen": "Teljes képernyő bezárása",
+    "no_source": "{{- sourceName}} nem érhető el.",
+    "defaultSource": "Fájl forrása",
+    "DASDisconnectedPopup": {
+      "title": "A leválasztott eszközökön található tartalmak elérése",
+      "description": "A(z) {{product_name}} lehetővé teszi, hogy megtekintse a fájlok előnézetét, még akkor is, ha a forrásuk nincs csatlakoztatva. A személyes eszközön lévő fájl vagy a fájlt tartalmazó mappa megnyitásához csatlakoztatnia kell a forrást."
+    },
+    "CloudUnavailablePopup": {
+      "title": "Közösségi és felhőbeli források elérése",
+      "description": "A(z) {{product_name}} lehetővé teszi, hogy megtekintse a fájlok előnézetét, még akkor is, ha a forrásuk nincs csatlakoztatva. A fájl közösségi vagy felhőszolgáltatón keresztül történő megnyitásához győződjön meg arról, hogy be van jelentkezve {{product_name}}-fiókjába és csatlakozik az internethez."
+    },
+    "no_file": "Válasszon ki egy elemet, amelynek meg szeretné tekinteni az előnézetét.",
+    "file_info": "Fájlinformációk megtekintése",
+    "open_in_finder": "Az alábbi műveleteket a program a Finderben fogja megnyitni.",
+    "open_in_photos_library": "Az alábbi műveleteket a program a Fotók alkalmazásban fogja megnyitni.",
+    "open_in_explorer": "Az alábbi műveleteket a program a Fájlkezelőben fogja megnyitni."
+  },
+  "SingleItemViewZoomControls": {
+    "scale": "{{value}}%",
+    "zoom_in": "Nagyítás",
+    "zoom_out": "Kicsinyítés",
+    "fit": "Képernyőhöz igazítás"
+  },
+  "VolumeListCommon": {
+    "mountPoint": "{{label}} ({{mountPoint}})",
+    "homeDir": "{{main}}/{{home}}"
+  },
+  "ConnectedVolumeList": {
+    "connectedSource": "Csatlakoztatott források",
+    "ejected": "(leválasztva)",
+    "remove": "Forrás eltávolítása",
+    "noConnectedSources": "Nincs csatlakoztatva forrás.",
+    "addText": "Források csatlakoztatásához kattintson a „Források hozzáadása” gombra."
+  },
+  "VolumesWizardWaiting": {
+    "doNotWait": "Nem szeretnék várni",
+    "paused": "A katalogizálás szünetel az akkumulátor kímélése érdekében A folytatáshoz csatlakoztassa a laptopot a tápellátáshoz.",
+    "itemError": "Hoppá! Hiba történt. A(z) {{label}} eszköz nem végez vizsgálatot.",
+    "unpluggedError": "A(z) {{label}} eszközt leválasztották a vizsgálat során.",
+    "allUnpluggedError": "A vizsgálat során minden csatlakoztatott eszköz le lett választva.",
+    "info": [
+      {
+        "title": "Vizsgálat folyamatban…",
+        "description": "A művelet akár 5 percet is igénybe vehet. Ne válassza le a csatlakoztatott külső tárolóeszközöket, és ne zárja be a(z) {{product_name}} alkalmazást."
+      },
+      {
+        "title": "Az eszközök vizsgálata…",
+        "description": "A tárolóról készült pillanatképeket a rendszer helyileg tárolja, ha van elegendő szabad hely, így bármikor megtekintheti a tartalmai előnézetét."
+      },
+      {
+        "title": "Pillanatfelvételek készítése…",
+        "description": "A tárolóról készült pillanatképeket a rendszer helyileg tárolja, ha van elegendő szabad hely, így bármikor megtekintheti a tartalmai előnézetét."
+      },
+      {
+        "title": "Tartalom kategorizálása…",
+        "description": "A(z) {{product_name}} szűrőket hoz létre, amelyek segítségével automatikusan rendszerezheti a fényképeit, videóit és fájljait."
+      },
+      {
+        "title": "Utolsó simítások…",
+        "description": "Bármikor további tárolókat csatlakoztathat a(z) {{product_name}} alkalmazáshoz a <strong>Források</strong> funkcióval."
+      }
+    ]
+  },
+  "ManageSources": {
+    "title": "Források",
+    "addSource": "Forrás hozzáadása",
+    "failureErrorAddCloudSourceMessage": "Hiba történt. Nem sikerült csatlakozni a fiókjához. Próbálkozzon újra.",
+    "existsErrorAddCloudSourceMessage": "A fiók már szinkronizálva van. A fiókokat nem lehet többször szinkronizálni."
+  },
+  "SourceContextMenu": {
+    "removeIndex": "Katalógus eltávolítása",
+    "indexDrive": "Eszköz katalogizálása",
+    "manageIndex": "Katalógus kezelése",
+    "unlock": "Zárolás feloldása",
+    "setPassword": "Zár beállítása",
+    "editPassword": "Jelszó szerkesztése",
+    "driveSettings": "Eszközbeállítások",
+    "eraseDrive": "Eszköz törlése",
+    "eject": "Leválasztás",
+    "raidsettings": "RAID-beállítások",
+    "noActions": "Jelenleg nem érhetők el műveletek",
+    "reconnectCloudSource": "Forrás újbóli csatlakoztatása"
+  },
+  "PhotosLibraryAction": {
+    "title": "Megjegyzés",
+    "titleDetached": "Fényképtár leválasztása",
+    "openPhotosApp": "A Fotók alkalmazás megnyitása",
+    "text": "Ha bármilyen műveletet szeretne végrehajtani az elemen, nyissa meg a Fotók alkalmazásban.",
+    "textDetached": "A Fényképtár leválasztása folyamatban van. Előfordulhat, a folyamat befejezéséig bizonyos elemekhez nem fog tudni hozzáférni."
+  },
+  "ReportBugModal": {
+    "title": "Visszajelzés küldése",
+    "listTitle": "Visszajelzése rendkívül fontos számunkra. Ha vannak ötletei, hogyan fejleszthetnénk tovább az alkalmazást, vagy ha bármilyen problémát tapasztal, ossza meg velünk.",
+    "copy": "UID másolása",
+    "idea": "Ötlet elküldése:",
+    "portal": "Látogasson el ide: {{link}}, ahol leírhatja ötleteit, és elolvashatja, milyen észrevételeket osztottak meg mások.",
+    "issue": "Probléma bejelentése:",
+    "upload": "1. Töltse fel a naplóit, hogy a lehető legtöbbet tudjuk meg a helyzetről.",
+    "email": "2. Küldjön {{email}} üzenetet a problémáról.",
+    "emailLink": "e-mail",
+    "download": "Naplók letöltése",
+    "uploadLogs": "Naplók feltöltése",
+    "uploading": "Feltöltés... ",
+    "connection_error": "A naplók feltöltéséhez csatlakoznia kell az internethez. Csatlakozzon, majd próbálkozzon újra.",
+    "error": "Hiba történt a naplók feltöltésekor. Próbálkozzon újra.",
+    "subject": "{{product_name}}-visszajelzés",
+    "success": "A naplók feltöltése sikeres.",
+    "uid": "Egyedi azonosító",
+    "what": "Mi ez?"
+  },
+  "DisconnectModal": {
+    "title": "Biztosan eltávolítja ezt a forrást?",
+    "message": "A forráson található tartalmak katalógusa véglegesen törölve lesz. Ezután nem tud majd előnézeteket megtekinteni és keresni az azon található tartalmak között.",
+    "disconnect": "Forrás eltávolítása",
+    "close": "Mégse"
+  },
+  "Scanner": {
+    "progress": "Vizsgálat folyamatban…"
+  },
+  "ConnectErrorModal": {
+    "title": "Hoppá, hiba történt.",
+    "permissionTitle": "A hozzáférés nem engedélyezett.",
+    "driveMessage": "A(z) {{diskName}} eszköz csatlakoztatása egy hiba miatt nem sikerült.",
+    "drivesMessage": "A(z) {{diskNameList}} eszközök csatlakoztatása egy hiba miatt nem sikerült.",
+    "permissionMessage": "A(z) {{product_name}} számára nem engedélyezett a fájlokhoz való hozzáférés. Ismételje meg a műveletet, és engedélyezze a hozzáférést, vagy módosítsa a rendszertulajdonságokat a hozzáférés megadásához.",
+    "AllDrivesMessage": "Az eszközök csatlakoztatása egy hiba miatt nem sikerült."
+  },
+  "DisconnectErrorModal": {
+    "title": "Hoppá, hiba történt.",
+    "driveMessage": "A(z) {{diskName}} eszköz leválasztása egy hiba miatt nem sikerült.",
+    "drivesMessage": "A(z) {{diskNameList}} eszközök leválasztása egy hiba miatt nem sikerült.",
+    "AllDrivesMessage": "Az eszközök leválasztása egy hiba miatt nem sikerült."
+  },
+  "ModalUpdateError": {
+    "permissionTitle": "A hozzáférés nem engedélyezett.",
+    "title": "Hoppá, hiba történt.",
+    "driveMessage": "A(z) {{diskName}} eszköz frissítése egy hiba miatt nem sikerült.",
+    "drivesMessage": "A(z) {{diskNameList}} eszközök frissítése egy hiba miatt nem sikerült.",
+    "permissionMessage": "A(z) {{product_name}} számára nem engedélyezett a fájlokhoz való hozzáférés. Ismételje meg a műveletet, és engedélyezze a hozzáférést, vagy módosítsa a rendszertulajdonságokat a hozzáférés megadásához.",
+    "AllDrivesMessage": "Az eszközök frissítése egy hiba miatt nem sikerült."
+  },
+  "UnplugModal": {
+    "driveTitle": "A(z) {{label}} eszköz le van választva",
+    "drivesTitle": "Az eszközök le vannak választva",
+    "driveText": "A(z) {{label}} eszköz a vizsgálat során le lett választva, és a(z) {{product_name}} tartalma nem lesz naprakész. A többi eszköz vizsgálata folytatódik.",
+    "drivesText": "A(z) {{labels}} eszközök a vizsgálat során le lettek választva, és a(z) {{product_name}} tartalma nem lesz naprakész. A többi eszköz vizsgálata folytatódik."
+  },
+  "ChangePasswordSignOutModal": {
+    "title": "A rendszer kiléptette Önt.",
+    "text": "A rendszer kiléptette Önt, mert frissült a jelszava. A folytatáshoz jelentkezzen be újra."
+  },
+  "PasswordChanged": {
+    "title": "E-mailt küldtünk Önnek",
+    "text": "Ha {{email}} rendelkezik {{product_name}}-fiókkal, e-mailt küldünk a további utasításokkal.",
+    "button": "Hivatkozás újraküldése",
+    "success": "E-mail sikeresen elküldve"
+  },
+  "AlbumToasts": {
+    "updateSuccess": "Gyűjtemény frissítve",
+    "removeSuccess": "Gyűjtemény eltávolítva",
+    "coverChangeSuccess": "Gyűjtemény borítója módosítva",
+    "creationCoverChangeSuccess": "Borítókép beállítva",
+    "filesAdded": "{{count}} fájl hozzáadva",
+    "filesAdded_plural": "{{count}} fájl hozzáadva",
+    "filesNotAdded": "{{count}} fájl már a gyűjteményben van.",
+    "filesNotAdded_plural": "{{count}} fájl már a gyűjteményben van.",
+    "filesRemoved": {
+      "items": "Elem eltávolítva",
+      "items_plural": "{{count}} elem eltávolítva"
+    }
+  },
+  "AlbumsTooltips": {
+    "addPhotos": "Fényképek hozzáadása",
+    "description": "Leírás"
+  },
+  "Albums": {
+    "title": "Gyűjtemények",
+    "search": "Keresés",
+    "forYou": "Önnek",
+    "locations": "Helyek",
+    "creationDescription": "Nevezze el a gyűjteményt, és ha szeretne, adjon meg hozzá leírást, hogy később azonosítani tudja.",
+    "groupTitle": "Gyűjtemény neve",
+    "button1": "Böngészés",
+    "button2": "Keresés",
+    "description": "Adjon meg egy leírást (nem kötelező).",
+    "name": "Név megadása",
+    "remove": "Gyűjtemény eltávolítása",
+    "edit": "Név/leírás szerkesztése"
+  },
+  "AddPhotosToAlbum": {
+    "title": "Fényképek hozzáadása"
+  },
+  "AlbumList": {
+    "noAlbumsYet": "Még nem adott hozzá gyűjteményt",
+    "noAlbumsYetSubtitle1": "Hozzon létre gyűjteményeket a különböző forrásokon található tartalmakból.",
+    "counter": "{{count}} elem",
+    "counter_plural": "{{count}} elem",
+    "create_collection": "Gyűjtemény létrehozása"
+  },
+  "AlbumRenameModal": {
+    "title": "Gyűjtemény elnevezése",
+    "placeholder": "Gyűjtemény neve",
+    "invalidName": "A nevek nem tartalmazhatják a következő karaktereket: \\/<|>\"?*:",
+    "enterName": "Először adja meg a gyűjtemény nevét."
+  },
+  "AlbumDescription": {
+    "title": "Leírás",
+    "save": "Mentés",
+    "readMore": "bővebb információ",
+    "addDescription": "Nincs leírás"
+  },
+  "AlbumCommon": {
+    "selectCoverPhoto": "Borítókép kiválasztása",
+    "items": "{{count}} elem innen: {{date}}",
+    "items_plural": "{{count}} elem innen: {{date}}",
+    "emptyText": "Itt nincs semmi!",
+    "emptySubtext": "Úgy tűnik, még nem adott hozzá fényképeket... {{product_name}A(z) } nem tud műveleteket végrehajtani üres gyűjteményen.",
+    "addPhotos": "Fényképek hozzáadása",
+    "created": "Létrehozás időpontja: {{date}}",
+    "coverTitle": "Hogyan adhatok hozzá elemeket?",
+    "coverDescription": "Tartalom a gyűjteményhez adásához böngésszen vagy keresse meg a kívánt tartalmakat, vagy válassza a „Hozzáadás a gyűjteményhez” lehetőséget.",
+    "emptyCoverDescription": "Tartalom a gyűjteményhez adásához böngésszen vagy keresse meg a kívánt tartalmakat, és válassza a „Hozzáadás a gyűjteményhez” lehetőséget. Az alábbi gomb használatával közvetlenül a kívánt szakaszhoz léphet a Böngészés lapon."
+  },
+  "RemoveAlbum": {
+    "title": "Eltávolítás",
+    "removeAlbum": "Eltávolítja a(z) „{{collection}}” gyűjteményt?",
+    "delete": "Igen, távolítsa el"
+  },
+  "RemoveAlbumPhotos": {
+    "title": {
+      "items": "Eltávolítja az elemet a gyűjteményből?",
+      "items_plural": "Eltávolítja az elemeket a gyűjteményből?"
+    },
+    "text": {
+      "items": "Biztosan eltávolítja a kijelölt elemet a gyűjteményből? A művelet csak a gyűjteményből távolítja el a kijelölt elemet, nem törli.",
+      "items_plural": "Biztosan eltávolítja a(z) {{count}} kijelölt elemet a gyűjteményből? A művelet csak a gyűjteményből távolítja el a kijelölt elemeket, nem törli őket."
+    }
+  },
+  "AlbumItemContextMenu": {
+    "addPhotos": "Fényképek hozzáadása",
+    "download": "Letöltés"
+  },
+  "AlbumContextMenu": {
+    "setAsCover": "Beállítás borítóként"
+  },
+  "Objects": {
+    "title": "Keresés",
+    "location": "Helyek",
+    "tag": "Önnek",
+    "emptyLocations": "Úgy tűnik, még nem adott hozzá helyeket.",
+    "emptyTagGroups": "Úgy tűnik, még nem adott hozzá címkecsoportokat."
+  },
+  "ObjectsGroup": {
+    "empty": "Úgy tűnik, még nem adott hozzá címkecsoportokat."
+  },
+  "LocationGroups": {
+    "title": "Helyek",
+    "empty": "Úgy tűnik, még nem adott hozzá helyeket."
+  },
+  "TagGroups": {
+    "title": "Önnek",
+    "empty": "Úgy tűnik, még nem adott hozzá címkecsoportokat."
+  },
+  "ObjectGroup": {
+    "albumsCounted": "Gyűjtemények ({{count}})",
+    "albums": "Gyűjtemények"
+  },
+  "TagGroup": {
+    "forYou": "Önnek",
+    "search": "Keresés"
+  },
+  "LocationGroup": {
+    "locations": "Helyek",
+    "search": "Keresés"
+  },
+  "ObjectSuggestions": {
+    "tagGroups": "Önnek",
+    "locationGroups": "Hely",
+    "empty": "Nem található a következővel egyező gyűjtemény: <span>„{{query}}”</span>.<br>A fájlok és mappák közötti keresés folytatásához nyomja le az Enter billentyűt."
+  },
+  "OfflineAlertModal": {
+    "title": "Ön offline állapotban van",
+    "text": "A KAS csatlakozási hiba miatt nem érhető el, de átválthat a helyi eszközre."
+  },
+  "SidebarDevices": {
+    "mac": "Mac",
+    "pc": "Számítógép",
+    "cloud": "Hozzáférés"
+  },
+  "IndexingStatusSidebarContent": {
+    "preparing": "Előkészítés...",
+    "paused": "Szüneteltetve",
+    "pausedCommon": "Kis türelmet, amíg frissítjük a katalogizálás állapotát.",
+    "lowBattery": "Alacsony az akkumulátortöltöttség. A katalogizálás szünetel, amíg tápellátáshoz nem csatlakoztatja a számítógépet.",
+    "ejectedDrive": "A katalogizálás szünetel, mert a forrás le lett választva. A folytatáshoz csatlakoztassa újra a forrást.",
+    "indexUpToDate": "A katalógus naprakész",
+    "indexingConnectionError": "A katalogizálás szünetel. A folytatáshoz lépjen online üzemmódba.",
+    "nothingIndexed": "Még semmit sem katalogizált"
+  },
+  "Sidebar": {
+    "search": "Keresés",
+    "browse": "Böngészés",
+    "collections": "Gyűjtemények",
+    "discover": "Felfedezés",
+    "manageSources": "Források",
+    "pinLabel": "Oldalsáv rögzítése",
+    "unpinLabel": "Oldalsáv rögzítésének feloldása",
+    "turboMode": "Turbó üzemmód",
+    "collapseMenu": "Menü összecsukása",
+    "expandMenu": "Menü kibontása",
+    "survey": "Felmérés",
+    "catalog": "Katalógus állapota",
+    "drives": "Meghajtók"
+  },
+  "CustomGroup": {
+    "rootPathName": "Keresés",
+    "endPathName": "Egyéni csoportok"
+  },
+  "CustomGroups": {
+    "title": "Vezérlők",
+    "empty": "Úgy tűnik, még nem adott hozzá egyéni csoportokat.",
+    "noSourcesYet": "Már dolgozunk rajta",
+    "noSourcesYetSubtitle1": "A forrásokon található tartalmak katalogizálása után olyan dolgokat fedezhet fel a digitális világáról, amelyekre nem is gondolt volna.",
+    "noSourcesYetSubtitle2": "Minél több forrást katalogizál, annál hatékonyabbá válik a(z) {{product_name}}.",
+    "addSource": "Források hozzáadása és kezelése"
+  },
+  "NoSourceAdded": {
+    "title": "Még nem adott hozzá forrást",
+    "line": "{{product_name}} nem tud műveleteket végrehajtani, amíg nem ad hozzá forrást.",
+    "button": "Forrás hozzáadása"
+  },
+  "OrderContextMenu": {
+    "facets": {
+      "name": "Név",
+      "mTime": "Módosítás dátuma",
+      "cTime": "Létrehozás dátuma",
+      "size": "Fájlméret"
+    },
+    "files": {
+      "name": "Név",
+      "mTime": "Dátum",
+      "size": "Fájlméret"
+    },
+    "albums": {
+      "cTime": "Létrehozás dátuma",
+      "mTime": "Módosítás dátuma"
+    },
+    "album": {
+      "addedTime": "Hozzáadás dátuma",
+      "cTime": "Létrehozás dátuma"
+    }
+  },
+  "WhatsNew": {
+    "header": "Újdonságok",
+    "title": "{{product_name}} – újdonságok",
+    "version": "Verzió: {{version}}",
+    "date": "Dátum",
+    "updatedTo": "Frissítve a következő verzióra: {{version}}"
+  },
+  "AddSourceContextMenu": {
+    "addDrive": "Eszköz hozzáadása",
+    "addSocial": "Közösségi fiók hozzáadása",
+    "addCloud": "Felhő hozzáadása"
+  },
+  "AddSocialProviders": {
+    "title": "Közösségi fiók",
+    "description": "Közösségi fiókok hozzáadásával a tartalmakat beleteheti a katalógusba."
+  },
+  "AddCloudProviders": {
+    "title": "Felhőfiók",
+    "description": "Felhőfiókok hozzáadásával a tartalmakat beleteheti a katalógusba."
+  },
+  "DeleteIndex": {
+    "title": "Katalógus eltávolítása",
+    "descriptionCommon": "Ez a segédprogram eltávolítja a katalógust innen: {{product_name}}. A tartalom az eszközön marad, de \nnem fog tudni az eszközön keresni, és nem élvezheti tovább a(z) {{product_name}} szolgáltatásait, ha nem katalogizálja újból az eszközt. ",
+    "descriptionCloud": "Ez a segédprogram eltávolítja a katalógust innen: {{product_name}}. Nem fog tudni a tartalmak között keresni, és nem élvezheti tovább a(z) {{product_name}} szolgáltatásait, ha nem katalogizálja újból a forrást.",
+    "info": "Biztosan eltávolítja az eszköz katalógusát innen: {{product_name}}?",
+    "ok": "Katalógus eltávolítása"
+  },
+  "AddDrives": {
+    "title": "Eszköz hozzáadása",
+    "description": "Egyetlen helyen böngészhet a különböző eszközökön tárolt tartalmak között a(z) {{product_name}} hatékony keresési funkciójával.",
+    "addSelectedDrives": "Kiválasztott eszközök hozzáadása",
+    "addInfo": {
+      "noDriveTitle": "Nincsenek nem katalogizált eszközök",
+      "noDriveInfo": "Csatlakoztassa nem katalogizált eszközeit, és automatikusan megjelennek fent.",
+      "externalTitle": "Vannak külső tárolói?",
+      "externalInfo": "Csatlakoztassa nem katalogizált eszközeit, és automatikusan megjelennek fent."
+    }
+  },
+  "ListViewSourceItem": {
+    "indexed": "Csatlakoztatva és katalogizálva",
+    "indexing": "Katalogizálás: {{percent}}%"
+  },
+  "SourcesList": {
+    "yourDevices": "Belső tároló",
+    "yourDrives": "Külső tároló",
+    "socialMedia": "Közösségi fiók",
+    "cloudStorage": "Felhőtárhely",
+    "addSocial": "Közösségi fiókjainak csatlakoztatásával nyomon követheti a kedves emlékeit őrző tárhelyeket.",
+    "addSocialButton": "Közösségi fiókok hozzáadása",
+    "addCloud": "A különböző felhőtárhelyfiókok csatlakoztatásával egyszerre kereshet az összesben.",
+    "addCloudButton": "Felhőtárhelyfiókok hozzáadása",
+    "addDrive": "Előveheti rég nem használt külső tárolóeszközeit, leporolhatja és hozzáadhatja őket a következőhöz: {{product_name}}.",
+    "addDriveButton": "Külső tároló hozzáadása"
+  },
+  "IndexingStatus": {
+    "indexed": "Katalogizálva",
+    "indexedCompleted": "A katalogizálás befejeződött",
+    "indexingPercent": "Katalogizálás: {{percent}}%",
+    "indexing": "Katalogizálás",
+    "erasing": "Törlés",
+    "removing": "Eltávolítás...",
+    "connecting": "Csatlakozás...",
+    "unlockToIndex": "Feloldás katalogizáláshoz",
+    "lastIndexedYesterday": "Tegnap katalogizálva",
+    "lastIndexedDaysAgo": "{{count}} napja katalogizálva",
+    "indexingPaused": "A katalogizálás szünetel",
+    "notIndexed": "Nincs katalogizálva",
+    "preparing": "Előkészítés...",
+    "clickHere": "kattintson ide",
+    "cloudConnectionError": "A(z) {{label}} nem katalogizálható. Nem tudtunk csatlakozni a platformszolgáltatóhoz.",
+    "indexErrorExplain": "<strong>Katalogizálási hiba</strong> – Hiba történt a katalogizálás során. Az eszköz leválasztása és újracsatlakoztatása általában megoldja ezt a problémát.",
+    "cloudIndexErrorExplain": "<strong>Hiba a katalogizálás során</strong> – Hiba történt a felhőforrás katalogizálása során. Folyamatosan újrapróbálkozunk a katalogizálás folytatásával. Ha a probléma nem szűnik meg, jelentse a <strong>Visszajelzés küldése</strong> funkcióval.",
+    "cloudWarningNotificationIndexErrorExplain": "Hiba történt a felhőforrás katalogizálása során. Folyamatosan újrapróbálkozunk a katalogizálás folytatása érdekében. Ha a probléma nem szűnik meg, a(z) {{clickHere}} lehetőséggel jelentse.",
+    "pausedDueToConnectionError": "<strong>Nincs internetkapcsolat</strong> – A(z) {{product_type}} nem tudja elérni a szolgáltatót. A katalogizálás folytatásához csatlakozzon újra az internethez.",
+    "pausedDueToDisconnected": "<strong>A katalogizálás szünetel</strong> – Az eszköz már nincs csatlakoztatva. A katalogizálás automatikus folytatásához csatlakoztassa az eszközt.",
+    "pausedDueToLowBattery": "<strong>A katalogizálás szünetel</strong> – A katalogizálás szünetel az akkumulátor kímélése érdekében. A folytatáshoz csatlakoztassa a laptopot a tápellátáshoz.",
+    "errReadContent": "<strong>Fájlindexelési hiba</strong> – A(z) {{product_name}} hibákat észlelt a(z) „{{label}}” néhány fájljának katalogizálása során. Lehetséges, hogy ezek a fájlok nem jelennek meg a következőben: {{product_name}}.",
+    "errCloudProviderAuth": "<strong>A fiók nem érhető el</strong> – Úgy tűnik, hogy a(z) {{product_name}} már nem rendelkezik hozzáférési engedéllyel a közösségi vagy felhőfiókhoz. Ha hozzáférést szeretne biztosítani a(z) {{product_name}} számára, kattintson a <strong>„3 pontot ábrázoló menüre”</strong>, és válassza a <strong>„Forrás újbóli csatlakoztatása”</strong> lehetőséget.",
+    "errMaxDataSizeReached": "<strong>A katalogizálás szünetel</strong> – Elérte a katalógus maximális méretének 100%-át, ezért nem tudunk új elemeket hozzáadni.",
+    "errInsufficientStorage": "<strong>A katalogizálás szünetel</strong> – Nincs elegendő szabad terület új tartalmak a katalógushoz adásához. Törölheti felesleges fájljait a számítógépről, hogy területet szabadítson fel a katalógus számára."
+  },
+  "ConnectedSourcesList": {
+    "noConnectedSources": "Nincs csatlakoztatva forrás.",
+    "addText": "Források csatlakoztatásához kattintson a „Források hozzáadása” gombra."
+  },
+  "FileInfo": {
+    "info": "Információ",
+    "name": "Fájlnév",
+    "type": "Fájltípus",
+    "source": "Fájl forrása",
+    "size": "Fájlméret",
+    "modified": "Legutóbb módosítva",
+    "created": "Létrehozva",
+    "fileLocation": "Fájl helye",
+    "location": "Hely",
+    "tagTitle": "Címkék",
+    "tagLengthError": "A mentéshez írjon be több mint 2 karaktert",
+    "tags": "Egyéni címkék megadása…",
+    "descriptionTitle": "Leírás",
+    "description": "Leírás megadása…",
+    "title": "Hozzáféréssel rendelkező személyek",
+    "text": "Hamarosan érkezik…",
+    "tagsLimit": "A címkék számának felső korlátja 100.",
+    "aperture": "F-szám",
+    "camera": "Kamera",
+    "exposureTime": "Expozíciós idő",
+    "focalLength": "Fókusztávolság",
+    "isoSpeed": "ISO-sebesség",
+    "latitude": "Földrajzi szélesség",
+    "longitude": "Földrajzi hosszúság",
+    "flash": "Vaku"
+  },
+  "ManageDriveIndex": {
+    "title": "Eszköz kezelése",
+    "description": "Egyetlen helyen böngészhet a különböző eszközökön tárolt tartalmak között a(z) {{product_name}} hatékony keresési funkciójával.",
+    "listTitle": "Válassza ki az eszközön a katalogizálni kívánt mappákat.",
+    "updateIndex": "Katalógus frissítése"
+  },
+  "GetPrime": {
+    "title": "Hozzáférés kérése",
+    "description": "Tárolóalkalmazásait és tárolóeszközeit kombinálhatja, és egyetlen helyről érheti el, online és offline módban is.",
+    "signUp": "Bejelentkezés a hozzáféréshez",
+    "enablePrime": "Hozzáférés engedélyezése",
+    "noThanks": "Köszönöm, nem"
+  },
+  "IndexDrive": {
+    "title": "Eszköz katalogizálása",
+    "subTitle": "Azt észleltük, hogy ez az eszköz nincs katalogizálva.",
+    "text": "Katalogizált eszközei közül egyszerre több eszközön is kereshet és megtekintheti a tartalmukat akkor is, ha nincsenek csatlakoztatva.",
+    "index": "Eszköz katalogizálása"
+  },
+  "DriveDisconnected": {
+    "title": "Eszköz leválasztva",
+    "subTitle": "Az eszköz jelenleg le van választva. A jelenlegi katalógus böngészéséhez kattintson a „Böngészés az eszközön” gombra. ",
+    "text": "A katalógus frissítéséhez csatlakoztassa az eszközt, a többit bízza ránk.",
+    "browse": "Tallózás az eszközön"
+  },
+  "LaunchWizard": {
+    "locationSelectTitle": "Katalógus helye",
+    "permissionsInfoTitle": "Hozzáférési engedély",
+    "deviceSelectionWaitingTitle": "Az eszköz keresése",
+    "deviceSelectionWaitingDescription": "Győződjön meg arról, hogy a(z) {{product_name}} alkalmazás támogatja az eszközt, és az eszköz megfelelően csatlakoztatva van a számítógép USB-portjához.",
+    "deviceSelectionChooseTitle": "A következő eszközök vannak csatlakoztatva.",
+    "deviceSelectionChooseDescription": "Válasszon ki egyet a beállítás megkezdéséhez. A beállítás elvégzése után a többivel is foglalkozunk.",
+    "launchWizardPipTitle": "Segítsen a(z) {{product_name}} fejlesztésében.",
+    "launchWizardMarketingTitle": "Marketingkommunikációs beállítások",
+    "deviceSelectionEmptyTitle": "Nem észlelhető eszköz",
+    "deviceSelectionEmptyDescription": "Győződjön meg arról, hogy a(z) {{product_name}} alkalmazás támogatja az eszközt, és az eszköz megfelelően csatlakoztatva van a számítógép USB-portjához, majd próbálkozzon újra.",
+    "deviceSelectionConnectedTitle": "{{deviceName}} csatlakoztatva",
+    "deviceSelectionConnectedDescription": "A(z) {{deviceName}} eszköz készen áll a konfigurálásra.",
+    "deviceNameTitle": "Eszköz elnevezése",
+    "deviceNameDescription": "Adjon egyedi nevet eszközének, hogy meg tudja különböztetni a többi eszköztől.",
+    "devicePasswordTitle": "Eszköz védelme jelszóval.",
+    "devicePasswordDescription": "Védje jelszóval eszközét, hogy biztonságban tudhassa fájljait.",
+    "deviceSetupCompleteTitle": "{{- deviceName}} eszköze készen áll a használatra.",
+    "deviceSetupCompleteDescription": "{{deviceName}} eszközének beállítása után most konfiguráljuk a(z) {{product_name}} felhasználói élményét.",
+    "defaultDeviceName": "My Passport",
+    "addSourcesTitle": "Válassza ki azokat a mappákat, amelyeket hozzá kíván adni a következőhöz: {{product_name}}",
+    "addSourcesDescription": "Ne aggódjon, az Ön engedélye nélkül a(z) {{product_name}} soha nem távolít el vagy helyez át fájlokat.",
+    "accountSignInTitle": "Bejelentkezés",
+    "accountSignUpTitle": "Beállítjuk ingyenes fiókját.",
+    "accountSignUpDescription": "Egy fiók létrehozásával egyetlen helyen katalogizálhatja a közösségi oldalakon lévő emlékeit és a felhőben tárolt fájljait.",
+    "accountPasswordTitle": "Jelszó alaphelyzetbe állítása",
+    "accountPasswordDescription": "Alaphelyzetbe szeretné állítani a jelszavát? E-mailt küldünk Önnek a további utasításokkal. <br/><br/> MEGJEGYZÉS: Ha ezt az e-mail-címet használta az ibi, a My Cloud OS 5 vagy a My Cloud Home fiókjának létrehozásakor, az a jelszó is alaphelyzetbe lesz állítva.",
+    "accountAuthTitle": "Beállítjuk ingyenes fiókját.",
+    "accountAuthDescription": "Hozzon létre egy fiókot, ahol egy helyen, könnyedén katalogizálhatja az összes médiatartalmát és fájlját."
+  },
+  "AgreementMarketing": {
+    "title": "Kommunikációs beállítások",
+    "first": {
+      "title": "Maradjon kapcsolatban",
+      "description": "Hozzájárulhat, hogy marketingcélú üzeneteket küldjünk Önnek, beleértve a célzott hirdetéseket alkalmazáson belüli üzenetekkel, leküldéses értesítésekkel és e-mailben."
+    },
+    "second": {
+      "title": "Személyre szabott híreket kaphat tőlünk",
+      "description": "Ha regisztrál marketingprogramunkra, a(z) {{company_name}} szolgáltatásainak használatából származó, személyes azonosításra alkalmas adatokat is felhasználhatunk, hogy releváns hirdetéseket jeleníthessünk meg Önnek. Ezek közé tartozhatnak a(z) {{product_name}} alkalmazás használatához kapcsolódó adatok, például az Ön neve, e-mail-címe, IP-címe, fiókbeállításai (például a nyelvre és az időzónára vonatkozó beállítások), előfizetési információi; a használati adatok a(z) {{product_name}} {{analytics_link}} elfogadása esetén; a(z) {{product_name}} alkalmazáshoz kapcsolódó külső szolgáltatások (például a felhő és a közösségi oldalak, mint a Facebook, az Instagram, a Dropbox, a Google Drive és a OneDrive) használatára vonatkozó információ; a(z) {{company_name}} szolgáltatásainak, például a(z) {{store_link}} szolgáltatásnak használatára vonatkozó információk, amelyek magában foglalhatják a vásárlási előzményeket, a tartózkodási helyet és a fiókbeállításokat (például a nyelvi beállítást); és a(z) {{company_name}} webhelyeinek használatáról és a cookie-k használatáról szóló információkat, ahogyan az a következő helyen le van írva: {{cookie_link}}. Választását a beállítások között bármikor módosíthatja.",
+      "analytics_program": "elemzési program",
+      "store": "{{company_name}} áruház",
+      "cookie": "Cookie-kra vonatkozó nyilatkozat"
+    },
+    "agreement": "A(z) „{{agree}}” lehetőségre kattintva Ön tudomásul veszi a következőket: {{company_name}} {{privacy_link}}, és beleegyezik abba, hogy megkapja a(z) {{company_name}} marketingcélú üzeneteit, többek között hírleveleit, híreit és a(z) {{company_name}} termékekre és külső termékekre vonatkozó promóciókat kapjon alkalmazáson belüli üzenetekkel, leküldéses értesítésekkel és e-mailben. Beleegyezik továbbá a személyes azonosításra alkalmas adatok erre a célra való felhasználására a fentiekben ismertetettek szerint. Hozzájárulását bármikor visszavonhatja.",
+    "privacy_statement": "Adatvédelmi nyilatkozat",
+    "agree": "Elfogadom",
+    "skip": "Kihagyás",
+    "notShare": "Nem fogadom el"
+  },
+  "LaunchWizardHeader": {
+    "account": "Fiók létrehozása",
+    "deviceName": "Eszköz neve",
+    "devicePassword": "Eszköz jelszava",
+    "deviceSetupComplete": "Az eszköz beállítása befejeződött"
+  },
+  "LaunchWizardPermissionsInfo": {
+    "title": "A(z) „{{product_name}}” engedélyei",
+    "text1": "A(z) „{{product_name}}-értesítések” rendszerüzenet megjelenését követően kattintson az „Engedélyezés” lehetőségre, és már készen is van.",
+    "text2": "Ez lehetővé teszi, hogy a(z) {{product_name}} tájékoztassa az alkalmazásfrissítésekről, a csatlakoztatott eszközökről és egyéb fontos értesítésekről, így rendszerezetten tarthatja digitális életét. "
+  },
+  "LaunchWizardDeviceSelectionChoose": {
+    "select": "Kiválasztás",
+    "retry": "Nem látom az eszközömet",
+    "modalContent": "Győződjön meg arról, hogy az eszköze támogatott és megfelelően csatlakoztatva van a számítógép USB-portjához, majd próbálkozzon újra."
+  },
+  "LaunchWizardDeviceSelectionEmpty": {
+    "retry": "Újra",
+    "skip": "Nem állítok be eszközt",
+    "help": "Segítségre van szüksége?",
+    "site": "Látogasson el online súgóoldalunkra"
+  },
+  "LaunchWizardAccountSignUp": {
+    "signIn": "Bejelentkezés"
+  },
+  "LaunchWizardAccountSignIn": {
+    "signUp": "Regisztrálás",
+    "forgotPassword": "Elfelejtette a jelszavát?",
+    "offline": "Nincs internetkapcsolat. Ellenőrizze az internetkapcsolatát, és próbálkozzon újra."
+  },
+  "LaunchWizardAccountModal": {
+    "title": "Biztos benne?",
+    "text": "Fiók létrehozásával egyszerűen regisztrálhatja eszközeit és aktiválhatja jótállását, továbbá egyetlen helyen katalogizálhatja a közösségi oldalakon lévő emlékeit és a felhőben tárolt fájljait.<br/><br/>Biztos benne, hogy fiók létrehozása nélkül folytatja?",
+    "textSkipSocial": "Hozzon létre egy fiókot, amellyel egyszerűen regisztrálhatja és egyetlen helyen katalogizálhatja a közösségi oldalakon lévő emlékeit és fájljait.<br/><br/>Biztos benne, hogy fiók létrehozása nélkül folytatja?",
+    "confirm": "Igen, biztos vagyok benne",
+    "close": "Mégse"
+  },
+  "LaunchWizardAccountExistEmail": {
+    "title": "Ez az e-mail-cím már regisztrálva van",
+    "text": "Ez az e-mail-cím már egy másik fiókhoz tartozik. Inkább bejelentkezik?",
+    "confirm": "Bejelentkezés",
+    "close": "Bezárás"
+  },
+  "LaunchWizardDeviceName": {
+    "skip": "Később végzem el",
+    "error": "Probléma történt az eszköz elnevezése során. Próbálkozzon újra."
+  },
+  "AgreementAnalytics": {
+    "title": "Segítse a fejlesztést {{product_name}}",
+    "hint": "Az <b>„Elfogadom”</b> gombra kattintva hozzájárul, hogy a használati adatait a fent leírt célokból megossza velünk. Választását a beállítások között bármikor módosíthatja.",
+    "AgreementAnalyticsDescription1": "Ossza meg velünk használati adatait, hogy fejleszthessük termékeinket, szolgáltatásainkat és alkalmazásainkat, és személyre szabott felhasználói élményt nyújthassunk Önnek az alkalmazásban. Fontosak számunkra az ügyfeleink, ezért szeretnénk átláthatóvá tenni adatvédelmi gyakorlatunkat. További információkért látogasson el ide: {{privacy_link}}.",
+    "AgreementAnalytics2": "Milyen adatokat gyűjtünk?",
+    "AgreementAnalyticsDescription2": "A használati adatok alatt az alkalmazás használatáról szóló információkat értjük. Szerepelhetnek köztük az eszközre és az eszköz beállítására vonatkozó információk, CPU-/eszköz- és egyéb használati statisztikák alkalmazásonként, API-hívások, a szolgáltatás összeomlásával kapcsolatos információk, a hálózat állapota, a tárolóhasználat, a keresőszavak, a tartózkodási hely, fájlattribútumok (például a tartalomra vonatkozó metaadatok, mint a fájl mérete, típusa, forrása, létrehozásának/módosításának/hozzáférésének dátuma és időpontja, a fényképezőgép gyártmánya és típusa, helyszín, címkék/leírások), korreláció a fájlok között és a szolgáltatáshoz csatlakoztatott külső fiók információi.",
+    "AgreementAnalytics3": "Hogyan használjuk fel ezeket az adatokat?",
+    "AgreementAnalyticsDescription3": "Ha részt vesz az elemzési programunkban, automatikusan használati adatokat gyűjtünk. Így fejleszthetjük termékeink, szolgáltatásaink és alkalmazásaink minőségét és teljesítményét, személyre szabhatjuk az alkalmazás felhasználói élményét, beleértve az alkalmazáson belüli és a leküldéses értesítések küldését. Személyes adatait nem értékesítjük.",
+    "notShare": "Nem fogadom el",
+    "skip": "Kihagyás",
+    "agree": "Elfogadom",
+    "offline": "Nincs internetkapcsolat. Ellenőrizze az internetkapcsolatát, és próbálkozzon újra.",
+    "privacy_center": "Adatvédelmi központ"
+  },
+  "LaunchWizardDevicePassword": {
+    "skip": "Nem szeretnék jelszót beállítani",
+    "password": "Jelszó",
+    "confirmation": "Jelszó megerősítése",
+    "hint": "Jelszó-emlékeztető",
+    "checkboxTitle": "Automatikus feloldás engedélyezése számomra ezen a számítógépen.",
+    "checkboxDescription": "Jelölje be a négyzetet, ha azt szeretné, hogy ez a számítógép emlékezzen Pat My Passport-jelszavára.",
+    "error": "Probléma történt a jelszó beállítása során. Próbálkozzon újra."
+  },
+  "LaunchWizardResetPassword": {
+    "button": "Utasítások elküldése",
+    "email": "E-mail-cím"
+  },
+  "LaunchWizardLocationSelect": {
+    "hint": "A katalógus egy olyan elemlista, amely a fájljaival kapcsolatos információkat tartalmazza, például a fájlnevet, a típust, a méretet, a forrást, vagy a létrehozás és a módosítás dátumát. Az alkalmazás a katalógust alapértelmezés szerint a számítógép belső meghajtójára menti. A katalógus tárolásához legfeljebb az eszközön elérhető szabad terület 10%-át használjuk.",
+    "info": "Ha a számítógépén egynél több meghajtó található, válassza a legtöbb szabad tárhellyel rendelkező meghajtót.",
+    "capacity": "<b>{{free}}</b> szabad ennyiből: {{full}}",
+    "drive": "Meghajtó",
+    "popoverTitle": "Nem támogatott fájlrendszer",
+    "popoverContent": "A(z) {{product_name}} nem támogatja a meghajtó fájlrendszerformátumát (FAT). Tárolja másik meghajtón a katalógust.",
+    "popoverNotEnoughSpaceTitle": "Nincs szabad hely",
+    "popoverNotEnoughSpaceText": "Ezen a meghajtón nincs szabad hely. Tárolja másik meghajtón a katalógust. {{link}}",
+    "link": "További információk"
+  },
+  "HeaderFtuePopover": {
+    "title": "Adjuk hozzá az első forrást!",
+    "text": "Legalább egy forrás szükséges ahhoz, hogy kihasználhassa a(z) {{product_name}} előnyeit. Megmutatjuk, mik ennek a lépései. {{take_the_tour_link}}",
+    "take_the_tour_link": "Bemutató megtekintése"
+  },
+  "ManageSourcesFtueManager": {
+    "StartAlert": {
+      "title": "Tekintse meg a(z) {{product_name}} bemutatóját!",
+      "text": "Interaktív beállítási folyamatunkban végigvezetjük azokon a lépéseken, amelyek segítségével külső adattárolóit hozzáadhatja a forrásokhoz, megadhatja a számítógépe belső tárhelyét forrásként, és megismerkedhet az alkalmazás használatának alapjaival is.",
+      "textSocialCloud": "Interaktív beállítási folyamatunkban végigvezetjük azokon a lépéseken, amelyek segítségével külső adattároló eszközeit hozzáadhatja a forrásokhoz, megadhatja a számítógépe belső tárhelyét forrásként, és megismerkedhet az alkalmazás használatának alapjaival is.",
+      "button": "Tovább"
+    },
+    "DrivePresent": {
+      "title": "Először adjuk hozzá az új eszközt.",
+      "text": "Az egérmutatót vigye az eszköz fölé, kattintson a <b> „…” továbbiak menüre</b>, és válassza az <b>„Eszköz katalogizálása”</b> lehetőséget a katalogizálás megkezdéséhez."
+    },
+    "DriveNotPresent": {
+      "title": "Először adjuk hozzá az új eszközt.",
+      "text": "Kattintson az <b>„Eszköz hozzáadása”</b> lehetőségre, hogy kiválassza a katalogizálás forrását."
+    },
+    "NotFromTinyInstaller": {
+      "title": "Először adjunk hozzá egy eszközt.",
+      "text1": "Kattintson bárhová az eszköz kártyájára a katalogizálás megkezdéséhez.",
+      "text2": "Kattintson bárhová a kártyára a kiválasztott eszköz katalogizálásának megkezdéséhez."
+    },
+    "AddingAComputer": {
+      "title": "Számítógép hozzáadása",
+      "text1": "Ha a számítógép belső tárhelyét adja meg forrásként, az eszközön tárolt mappák első szintjéről választhatja ki azokat, amelyeket katalogizálni szeretne. Kiválasztottunk néhány alapértelmezett helyet, ahol általában fontos fájlokat szoktak tárolni.",
+      "text2": "Válassza ki azokat a mappákat, ahol a fontos dokumentumait tárolja, vagy törölje a mappák kiválasztását. Ezután görgessen le és kattintson a „Kiválasztott eszközök hozzáadása” gombra."
+    },
+    "PlugInDrive": {
+      "title": "Csatlakoztassa a külső eszközt.",
+      "text": "Miután csatlakoztatta az eszközt a számítógéphez, válassza ki a listából, és kattintson a <b>„Kiválasztott eszközök hozzáadása”</b> gombra."
+    },
+    "IndexingProgress": {
+      "title": "Katalogizálás előrehaladása",
+      "text": "A katalogizált tartalom úgy is böngészhető és kereshető, ha a forrás nincs csatlakoztatva. A folyamat állapotát követheti itt, vagy az alkalmazásablak bal alsó sarkában.",
+      "button": "Tovább"
+    },
+    "MultipleSources": {
+      "title": "Több forrás",
+      "text1": "Az új forrás hozzáadása után a(z) {{product_name}} egyesével katalogizálni fogja őket, az utolsó hozzáadott forrástól kezdve egészen a legutóbbiig.",
+      "text2": "Ennek a folyamatnak az állapotát is követheti itt, vagy az alkalmazásablak bal alsó sarkában.",
+      "button": "Tovább"
+    },
+    "ManagingSources": {
+      "title": "Források kezelése",
+      "text": "Vigye az egérmutatót a forrás fölé, és kattintson a három pontot ábrázoló ikonra a forráshoz elérhető tevékenységek listájának megjelenítéséhez.",
+      "button": "Tovább"
+    },
+    "AddSourceButton": {
+      "title": "Forrás hozzáadása",
+      "text": "A Források lapon kattintson <b>a „+” gombra</b> a katalogizálni kívánt forrás típusának kiválasztásához."
+    },
+    "DriveLocked": {
+      "title": "Az eszköz feloldása",
+      "text": "Ahhoz, hogy katalogizálni tudjuk az eszközt, fel kell oldani a zárolását."
+    },
+    "FinishAlert": {
+      "title": "Sikeresen hozzáadott egy forrást!",
+      "text": "Tekintse meg a(z) {{product_name}} alkalmazás bemutatóját, hogy kézben tarthassa digitális világát.",
+      "button": "Készen állok"
+    },
+    "UnlockingDrive": {
+      "title": "Az adatok védelme",
+      "text": "Az eszköz jelszava biztosítja adatai védelmét. Oldja fel az eszköz zárolását, hogy a(z) {{product_name}} hozzáadhassa a katalógushoz."
+    },
+    "UnlockedDriveIndexed": {
+      "title": "Már katalogizálva",
+      "text": "A(z) {{product_name}} már katalogizálja ezt az eszközt. Válassza a <b>„Bezárás”</b> lehetőséget és meglátjuk, hogy áll a folyamat."
+    },
+    "UnlockedDriveNotIndexed": {
+      "title": "Feloldva!",
+      "text": "Ezután válassza a <b>„Böngészés az eszközön”</b> lehetőséget."
+    },
+    "UnlockedDriveStartIndexing": {
+      "title": "Most kezdje meg a katalogizálást",
+      "text": "Válassza az <b>„Eszköz katalogizálása”</b> lehetőséget, és már kezdhetjük is. Ez után egyszerűen csatlakoztassa az eszközt, oldja fel és a(z) {{product_name}} automatikusan megkezdi a katalogizálását."
+    },
+    "TurboMode": {
+      "title": "Nem elég gyors a katalogizálás?",
+      "text1": "Ha bekapcsolja a Turbó üzemmódot, négyszer gyorsabban katalogizálhat. Ez a funkció nagyon hasznos, ha nagy mennyiségű tartalmat kell gyorsan katalogizálnia, például egy újonnan hozzáadott forrásból.",
+      "text2": "A Turbó üzemmód bekapcsolása eltávolítja a(z) {{product_name}} tartalomkatalogizálási sebességének korlátozását. Így a katalogizálás folyamata felgyorsul, viszont a számítógép ventilátorainak működése hangosabb lehet, és a rendszeren futó többi alkalmazás lelassulhat vagy lefagyhat.",
+      "text3": "MEGJEGYZÉS: A Turbó üzemmód jelenleg csak olyan számítógépeken támogatott, amelyek legalább négy maggal vagy több mint 4 GB RAM-mal rendelkeznek. {{link}}",
+      "link": "További információk",
+      "button": "Tovább"
+    }
+  },
+  "FtueSuspendModal": {
+    "title": "Oktatóanyag kihagyása",
+    "text": "Az oktatóanyagot később is bármikor elérheti a beállítások között.",
+    "button1": "Kihagyás",
+    "button2": "Mégse"
+  },
+  "SelectModePanel": {
+    "counter": "{{count}} elem kiválasztva",
+    "counter_plural": "{{count}} elem kiválasztva"
+  },
+  "Notifications": {
+    "volumeIndexing": {
+      "title": "{{label}} katalogizálása",
+      "message": "Kis türelmet, amíg katalogizáljuk az eszközét. Ne válassza le, amíg a katalogizálás nem fejeződött be."
+    },
+    "indexingCompleted": {
+      "title": "A katalogizálás befejeződött",
+      "message": "Tekintse meg a frissített tartalmakat."
+    },
+    "volumeConnected": {
+      "title": "{{label}} csatlakoztatva",
+      "message": "Katalogizálja az eszközt, hogy akkor is böngészhessen és kereshessen a tartalmai között, amikor nincs csatlakoztatva."
+    },
+    "deviceLocked": {
+      "title": "{{label}} feloldása",
+      "message": "Kattintson ide a csatlakoztatott eszköz zárolásának feloldásához."
+    },
+    "deviceLock": {
+      "title": "{{label}} csatlakoztatva",
+      "message": "Az erősebb védelem érdekében zárolja az eszközt."
+    },
+    "takeSurvey": {
+      "title": "Segítse a(z) {{product_name}} fejlesztését!",
+      "message": "Töltsön ki egy rövid felmérést, és mondja el véleményét az alkalmazásról."
+    },
+    "Albums": {
+      "viewCollections": "Tekintse meg a gyűjteményeket!"
+    }
+  },
+  "IndexingDrive": {
+    "title": "Eszköz katalogizálása",
+    "text": "Amíg katalogizáljuk az eszközt, tekintse meg a gyűjteményeket, és értesítjük, ha a katalogizálás befejeződött.",
+    "viewCollections": "Gyűjtemények megtekintése",
+    "slides": {
+      "slide1": {
+        "title": "Automatikus rendszerezés",
+        "description": "A(z) {{product_name}} rendszerezi és kategorizálja a fájlokat, így gyorsan megkeresheti azt, amire szüksége van."
+      }
+    }
+  },
+  "TitlebarUser": {
+    "no_subscription": "Nincs előfizetés",
+    "yes_subscription": "{{product_name}} Access előfizetés",
+    "link": "Frissítés"
+  },
+  "TitlebarUserDesktopOptions": {
+    "devtools": "Fejlesztőeszközök be-/kikapcsolása",
+    "about": "Névjegy",
+    "quit": "Kilépés"
+  },
+  "TitlebarPrimeModal": {
+    "button": "Előfizetés az Accessre"
+  },
+  "Titlebar": {
+    "back": "Visszalépés",
+    "forward": "Előrelépés",
+    "help": "Súgó",
+    "account": "Fiók"
+  },
+  "Widgets": {
+    "left": "Görgetés balra",
+    "right": "Görgetés jobbra"
+  },
+  "Duplicates": {
+    "title": "Ismétlődések",
+    "subtitle": "A(z) {{count}} eszköz katalogizálása folyamatban van, és ki fog maradni",
+    "subtitle_plural": "A(z) {{count}} eszközök katalogizálása folyamatban van, és ki fognak maradni",
+    "indexingInProgressText": "Az egyik eszköz katalogizálása folyamatban van. Az eredmények között nem fog szerepelni az az eszköz, amelynek a katalogizálása folyamatban van – javasoljuk, hogy várjon, amíg a katalogizálás befejeződik."
+  },
+  "DuplicatesPreviewPanel": {
+    "noDuplicatesTitle": "Nem található ismétlődés.",
+    "noDuplicatesText": "Gratulálunk, a tartalmai rendszerezettek!",
+    "selectDuplicate": "Válassza ki a megtekinteni kívánt ismétlődést",
+    "filesCount": "{{count}} fájl",
+    "filesCount_plural": "{{count}} fájl"
+  },
+  "DuplicatesPreviewPanelFileItem": {
+    "manage": "Kezelés",
+    "managePopOver": "Az elem kezeléséhez csatlakoztassa a következőt: „{{device_name}}”.",
+    "openInPhotos": "A Fotók alkalmazás megnyitása",
+    "fileIndex": "{{index}} / {{count}}",
+    "sourceNotConnected": "A forrás nincs csatlakoztatva",
+    "errAccessDenied": "A(z) {{product_name}} alkalmazás nem kapott engedélyt az operációs rendszertől a mappában lévő fájlok törlésére."
+  },
+  "DuplicatesMissingInfoPanel": {
+    "title": "Nem találja az ismétlődő fájlokat?",
+    "text": "A közösségi és felhőbeli források fájljai nem jelennek meg az ismétlődésközpontban. {{link_text}}",
+    "link_texts": "További információért tekintse át a GYIK szakaszt."
+  },
+  "DuplicatesDeleteModal": {
+    "title": "Fájl törlése",
+    "text": "Biztosan törli a következőt: „{{name}}”?",
+    "note": "Megjegyzés: Ez a fenti fájl utolsó másolata. Ha törli, az eredeti fájl többé nem jelenik meg a Másolatok vezérlőben. Az eredeti fájlt a Keresés vagy a Böngészés lap használatával keresheti meg.",
+    "confirmButton": "Igen, törlés",
+    "deleteSuccess": "A(z) „{{name}}” törlése sikeres."
+  },
+  "TurboMode": {
+    "title": "A Turbó üzemmód {{state}}",
+    "description": "Mi ez?",
+    "popOverTitle": "Mi az a Turbó üzemmód?",
+    "popOverText1": "A Turbó üzemmód használatát akkor javasoljuk, ha nagy mennyiségű tartalmat kell gyorsan katalogizálnia, például egy újonnan hozzáadott forrásból.",
+    "popOverText2": "A Turbó üzemmód bekapcsolása eltávolítja a(z) {{product_name}} tartalomkatalogizálási sebességének korlátozását. Így a katalogizálás folyamata felgyorsul, viszont a számítógép ventilátorainak működése hangosabb lehet, és a rendszeren futó többi alkalmazás lelassulhat vagy lefagyhat. A Turbó üzemmód automatikusan kikapcsol, ha bezárja a(z) {{product_name}} alkalmazást, hogy megakadályozza a rendszer szükségtelen lassítását.",
+    "popOverText3": "MEGJEGYZÉS: A Turbó üzemmód jelenleg csak olyan számítógépeken érhető el, amelyek több mint négy maggal és legalább 4 GB RAM-mal rendelkeznek. {{link}}",
+    "link": "További információk"
+  },
+  "Facets": {
+    "title": "Kategóriák szerint",
+    "empty": "A forrásokhoz adott fájlok itt jelennek meg típus szerint automatikusan rendezve."
+  },
+  "BrowseSources": {
+    "allSources": "Összes forrás",
+    "internalStorage": "Belső tároló",
+    "externalStorage": "Külső tároló",
+    "social": "Közösségi fiók",
+    "cloud": "Felhőtárhely",
+    "addExternal": "Adja hozzá a forrásait a következőhöz: {{product_name}}",
+    "empty_all": "Előveheti rég nem használt külső tárolóeszközeit, leporolhatja és hozzáadhatja őket a következőhöz: {{product_name}}.",
+    "empty_social": "Nincs elérhető közösségi oldal típusú forrás. A Források kezelése szakaszban válasszon másik forrástípust vagy {{link}} forrást.",
+    "empty_cloud": "Nincs elérhető felhőtárhely típusú forrás. A Források kezelése szakaszban válasszon másik forrástípust vagy {{link}} forrást.",
+    "empty_internalStorage": "Nincs elérhető külső forrás. A Források kezelése szakaszban válasszon másik forrástípust vagy {{link}} forrást.",
+    "empty_externalStorage": "Nincs elérhető belső forrás. A Források kezelése szakaszban válasszon másik forrástípust vagy {{link}} forrást.",
+    "link_social": "közösségi oldal hozzáadása",
+    "link_cloud": "felhőtárhely hozzáadása",
+    "link_externalStorage": "külső tároló hozzáadása",
+    "link_internalStorage": "belső tároló hozzáadása"
+  },
+  "CollectionGridItem": {
+    "pages": "{{count}} oldal"
+  },
+  "LivePhoto": {
+    "live": "ÉLŐ"
+  },
+  "SidePanelCollections": {
+    "search_placeholder": "Keresés a gyűjteményekben",
+    "empty_title": "Gyűjteményekben való keresés eredménye",
+    "empty_text": "Nem található gyűjtemény a „kulcsszóhoz”."
+  },
+  "Surveys": {
+    "title": "Felmérések",
+    "header": "Töltsön ki egy rövid felmérést.",
+    "survey_1": {
+      "title": "Bevezető és első benyomások",
+      "short_title": "Bevezető"
+    },
+    "survey_2": {
+      "title": "Tartalom hozzáadása és keresése",
+      "short_title": "Tartalom hozzáadása és keresése"
+    },
+    "survey_3": {
+      "title": "Tartalom virtuális rendszerezése",
+      "short_title": "Tartalom rendszerezése"
+    }
+  },
+  "BrowseFTUE": {
+    "modal": {
+      "title": "Böngészés ezzel: {{product_name}}",
+      "left": {
+        "descriptionTitle": "Kategóriák és vezérlők szerint",
+        "descriptionText": "A fájlok intelligensen vannak rendszerezve többek között kategóriák szerint, hogy könnyen megtalálhassa azt, amit keres."
+      },
+      "right": {
+        "descriptionTitle": "Források szerint",
+        "descriptionText": "Inkább a tárolóeszköz fájl- és mappastruktúrája szerint kíván navigálni? Ezt is megteheti. Egyszerűen böngésszen forrás szerint, és jelenítse meg a kívánt részleteket."
+      }
+    },
+    "popover": {
+      "title": "Mi van ezen az oldalon?",
+      "text": "Ha bármikor újra el szeretné olvasni, hogyan használhatja a(z) {{product_name}} egyes füleit, lépjen a <b>Kérdőjel ikonra</b> a jobb felső sarokban és válassza a <b>„Mi van ezen az oldalon?” lehetőséget.</b>"
+    }
+  },
+  "PrimeFTUE": {
+    "title": "Nagyobb hatékonyság az Access segítségével",
+    "left": {
+      "descriptionTitle": "Anywhere Access",
+      "descriptionText": "Ha előfizet a(z) {{product_name}} Accessre, kereshet és böngészhet a tartalmak között és megtekintheti a tartalmak előnézetét azokon az asztali gépeken, mobileszközökön vagy táblagépeken, amelyeken a(z) {{product_name}} telepítve van, vagy a weben."
+    },
+    "right": {
+      "descriptionTitle": "Közösségi oldalak és felhőszolgáltatások",
+      "descriptionText": "A(z) {{product_name}} Access segítségével csatlakoztathatja a támogatott közösségi oldal típusú forrásokat és felhőszolgáltatásokat. Egyetlen helyen kereshet, böngészhet, és megtekintheti az összes forrásból származó tartalmakat. {{link}}",
+      "link": "További információk."
+    }
+  },
+  "CollectionFTUE": {
+    "title": "Felfedezheti digitális világát",
+    "left": {
+      "descriptionTitle": "Helyek és címkék",
+      "descriptionText": "Fájljai intelligensen vannak rendszerezve objektumok, dátumok, helyszínek és egyebek szerint, hogy személyes tartalmai hasznos csoportokban legyenek elérhetőek."
+    },
+    "right": {
+      "descriptionTitle": "Saját gyűjtemények",
+      "descriptionText": "Egyéni gyűjteményeket hozhat létre a tárolóforrásain található fájlokból, hogy teljes kontrollban lehessen digitális világa felett."
+    }
+  },
+  "SearchFTUE": {
+    "title": "Keresés egyetlen helyen",
+    "left": {
+      "descriptionTitle": "Keresés minden forrásban",
+      "descriptionText": "A felcímkézett és katalogizált digitális fájlok révén akkor is kereshet a számítógép és a tárolóeszközök tartalmai között, ha azok le vannak választva."
+    },
+    "right": {
+      "descriptionTitle": "Speciális szűrők",
+      "descriptionText": "Finomíthatja a keresést időszak, címke, forrás, fájltípus, hely és még sok más szempont szerint. Pontosan azt keresheti meg és kezelheti, amire szüksége van."
+    }
+  },
+  "SourcesFTUE": {
+    "title": "Források hozzáadása és kezelése",
+    "left": {
+      "descriptionTitle": "Források csatlakoztatása és katalogizálása",
+      "descriptionText": "Csatlakoztathatja forrásait a számítógéphez, és hozzáadhatja őket a készlethez. A(z) {{product_name}} a hozzáadásuk átvizsgálja a tartalmukat, és hozzáadja a katalógushoz, hogy Ön könnyedén rendszerezhesse őket, illetve kereshessen és böngészhessen bennük."
+    },
+    "right": {
+      "descriptionTitle": "Külső eszközök kezelése",
+      "descriptionText": "Támogatott WD és SanDisk külső tárolóeszközeit a könnyebb kezelés érdekében elnevezheti, jelszavakat adhat meg hozzájuk és számos más műveletet is végezhet rajtuk. Kísérje figyelemmel a híreket, mivel a jövőben több támogatott eszköz hozzáadását tervezzük."
+    }
+  },
+  "HelpPopOver": {
+    "whatPage": "Mi ez az oldal?",
+    "website": "Súgóoldal"
+  },
+  "WarningNotificationsUniqueIdentifier": {
+    "text": "Az egyedi azonosító segít a(z) {{product_name}} problémáinak elhárításában, ha kapcsolatba lép az ügyfélszolgálattal. Ha támogatási csapatunknak megadja ezt az egyedi azonosítót, meg tudják vizsgálni az eszközeinek tevékenységeit és teljesítményét tartalmazó fiók naplóit, és azonosíthatják, vagy meg is oldhatják a tapasztalt problémát."
+  },
+  "WarningNotificationsPhotosLibraryNoInternet": {
+    "text": "A katalogizálás szünetel, mert a számítógép internetkapcsolata megszakadt. A Fényképtár katalogizálásának folytatásához csatlakozzon újra az internethez."
+  },
+  "TutorialFtue": {
+    "browse": "Böngésszen fájljai között kategória, forrás vagy intelligens vezérlőink szerint.",
+    "collections": "Rendszerezheti digitális világát a(z) {{product_name}} gyűjteményeivel.",
+    "sources": "Új tárolóforrásokat adhat digitális készletéhez.",
+    "turbo": "Nem elég gyors a katalogizálás? Gyorsítsa fel a <b>Turbó üzemmóddal</b>.",
+    "search": "A katalogizált tartalmak között fájlnév, hely vagy kulcsszó alapján kereshet.",
+    "tipsTricks": "Tippeket és trükköket tudhat meg arról, hogyan hozhatja ki a legtöbbet a(z) {{product_name}} használatából.",
+    "next": "A(z) {{product_name}} körüli navigálással többet tudhat meg a funkcióiról."
+  },
+  "ModalConfirmSignOut": {
+    "title": "Kijelentkezni az {{product_name}}-ből?",
+    "text": "Biztosan kijelentkezik?",
+    "textWithCloudServices": "Még akkor is hozzáférhet a katalógusához, ha kijelentkezik.",
+    "confirm": "Kijelentkezés",
+    "titleOffline": "Nincs internetkapcsolat",
+    "textOffline": "A(z) {{product_name}} alkalmazásból való kijelentkezéshez csatlakoznia kell az internethez. Ellenőrizze a kapcsolatot, majd próbálkozzon újra."
+  },
+  "ModalSurveyAvailable": {
+    "title": "Elérhető a(z) {{index}}. felmérés",
+    "text": "Töltsön ki egy rövid felmérést, és mondja el véleményét a(z) <b>{{name}}</b> nyújtotta felhasználói élményről.",
+    "confirm": "A felmérés kitöltése",
+    "cancel": "Később"
+  },
+  "UpdateBanner": {
+    "text": "Rendelkezésre áll a {{product_name}} egy új verziója. {{link}} a legfrissebb hibajavításokért és új szolgáltatásokért.",
+    "link": "Frissítés",
+    "updateLoaded": "Frissítés letöltve. {{relaunch}}",
+    "relaunch": "A(z) {{product_name}} újraindítása"
+  },
+  "Placeholder": {
+    "network": {
+      "title": "Hálózati meghajtó támogatása",
+      "text": "A My Cloud Home, az ibi és a My Cloud OS 5 támogatása hamarosan érkezik."
+    }
+  },
+  "SubscriptionTicket": {
+    "EdgeRoverBasic": {
+      "title": "{{product_name}} Basic",
+      "text": "Ön a(z) {{product_name}} ingyenes verzióját használja.",
+      "button": "Magasabb szolgáltatási csomagra váltás lehetőségeinek megtekintése"
+    },
+    "EdgeRoverAccess": {
+      "title": "{{product_name}} Access",
+      "text": "9,99 USD havonta, éves számlázással",
+      "textExpire": "A következő fizetés időpontja: ",
+      "button": "Előfizetés kezelése"
+    }
+  },
+  "ModalShortcutsHelp": {
+    "ModalTitle": "Gyorsbillentyűk",
+    "GeneralTitle": "Általános",
+    "PreviousPage": "Előző oldal",
+    "SwitchMainSections": "Váltás a fő szakaszok között",
+    "StartSearch": "Keresés indítása",
+    "CreateCollection": "Gyűjtemény létrehozása",
+    "CloseModalOrRightPanel": "Bezárás gomb vagy jobb oldali panel",
+    "SelectionTitle": "Kiválasztás",
+    "SelectAll": "Összes kijelölése",
+    "SelectRangeOfItems": "Elemek tartományának kiválasztása",
+    "SelectOrDeselect": "Egy elem kiválasztása/kiválasztásának megszüntetése",
+    "HelpTitle": "Súgó",
+    "HelpCenter": "Súgóközpont",
+    "KeyboardShortcuts": "Gyorsbillentyűk",
+    "FilePreviewTitle": "Fájl előnézete",
+    "NextFile": "Következő fájl",
+    "PreviousFile": "Előző fájl",
+    "CloseFilePreview": "Fájl előnézetének bezárása",
+    "PlayOrPause": "Videó vagy hangfájl lejátszása/szüneteltetése",
+    "OpenFile": "Fájl megnyitása",
+    "MoreInfo": "További információk",
+    "ShowFileLocation": "A fájl helyének megtekintése",
+    "ZoomInPhoto": "Fénykép nagyítása",
+    "ZoomOutPhoto": "Fénykép kicsinyítése",
+    "ZoomToZero": "Nagyítás 100%-ra",
+    "EnterFullScreen": "Teljes képernyős üzemmód",
+    "ExitFullScreen": "Kilépés a teljes képernyős üzemmódból",
+    "BrowseAndGridsTitle": "Böngészés és rácsok",
+    "NavigateFilesAndFolders": "Navigálás a fájlok és a mappák között",
+    "RefreshList": "Mappák vagy fájlok listájának frissítése",
+    "OpenFocusedFolder": "Fókuszban lévő fájl megnyitása",
+    "OpenFocusedFileInApp": "Fókuszban lévő fájl megnyitása az alkalmazásban",
+    "ShowLocation": "A fájl/mappa helyének megtekintése",
+    "ToggleView": "Váltás a Lista/miniatűrök nézet között",
+    "ChangeSort": "Rendezés",
+    "SourcesTitle": "Források",
+    "NavigateCategories": "Navigálás a kategóriák között",
+    "NavigateSources": "Navigálás a források között",
+    "OpenFocusedDriveOrSource": "Fókuszban lévő meghajtó vagy forrás megnyitása",
+    "SettingsTitle": "Beállítások",
+    "NavigateSettingsSections": "Navigálás a beállítások szakaszai között",
+    "OpenFocusedSection": "Fókuszban lévő szakasz megnyitása"
+  },
+  "PageSettingsProductTour": {
+    "title": "Termékbemutató",
+    "text": "Forrás hozzáadása",
+    "button_text": "Forrás hozzáadásának megkezdése"
+  },
+  "ManageSourcesSidePanelsSignIn": {
+    "title": "Bejelentkezés",
+    "descriptionSocial": "A közösségi oldalakra (például Facebook, Google Fotók, Flickr stb.) feltöltött emlékezetes tartalmak indexeléséhez jelentkezzen be {{company_name}}-fiókjába, vagy hozzon létre egyet.",
+    "descriptionCloud": "A felhőfiókok, például a Dropbox, a Google Drive, a OneDrive stb. katalogizálásához jelentkezzen be {{company_name}}-fiókjába, vagy hozzon létre egyet."
+  },
+  "ProvidersList": {
+    "infoTitle": "Nem találja {{type}}-fiókját?",
+    "infoText": "{{clickHere}} támogatás igényléséhez {{sourceType}}-forrásához.",
+    "clickHere": "Kattintson ide",
+    "socialMedia": "Közösségi fiók",
+    "social": "közösségi",
+    "cloud": "felhő"
+  },
+  "NotConnectedItem": {
+    "systemFolderWarning": "Ezt a rendszermappát nem lehet indexelni"
+  },
+  "ModalReinstall": {
+    "title": "A(z) {{product_name}} újratelepítése",
+    "content1": "A(z) {{product_name}} katalogizálási folyamata jelentős fejlesztésen esett át, azonban ennek teljes mértékű kihasználásához <b>el kell távolítania, majd újra kell telepítenie a(z) {{product_name}} alkalmazást, majd újra kell katalogizálnia a tartalmakat</b>. {{link1}}.",
+    "link1": "Itt tekintheti meg a részletes útmutatót",
+    "title1": "Ha újratelepíti…",
+    "title2": "Ha nem telepíti újra…",
+    "li1": "<b>Rugalmas katalóguselhelyezés</b> — Több kötet esetén kiválaszthatja, hová szeretné menteni a katalógust.",
+    "li2": "<b>Kisebb katalógusméret</b> — A(z) {{product_name}} katalógusa a számítógép szabad lemezterületének legfeljebb 10%-át foglalja el.",
+    "li3": "<b>Kisebb képminiatűrök</b> — A 720p felbontású miniatűrök révén az alkalmazás mérete kicsi marad, ám a képeket továbbra is kiváló minőségben tekintheti meg.",
+    "li4": "<b>Nagyobb alkalmazásméret</b> — A miniatűrök 1080p felbontásúak maradnak, és a katalógus nagyobb helyet foglal el az eszközén.",
+    "li5": "<b>Problémák a miniatűrök megtekintésekor</b> — Előfordulhat, hogy hibát tapasztal a fájlok egyelemes nézetben való megtekintésekor.",
+    "li6": "<b>Kevesebb termékfunkció</b> — Lehetséges, hogy a későbbi funkciók alkalmazásfrissítések nem fognak megfelelően működni.",
+    "button1": "A(z) {{product_name}} újratelepítése",
+    "button2": "Kérdezzen rá később"
+  },
+  "TurboModeNotifications": {
+    "unavailable": {
+      "text": "A Turbó üzemmód jelenleg csak olyan számítógépeken érhető el, amelyek legalább négy maggal vagy több mint 4 GB RAM-mal rendelkeznek."
+    },
+    "available": {
+      "on": "A Turbó üzemmód eltávolítja a(z) {{product_name}} tartalomkatalogizálási sebességének korlátozását. Emiatt a rendszer többi alkalmazása lelassulhat vagy lefagyhat. A Turbó üzemmód automatikusan kikapcsol, ha bezárja a(z) {{product_name}} alkalmazást, hogy megakadályozza a rendszer szükségtelen lassítását.",
+      "wasOn": "A Turbó üzemmód kikapcsolt, mert a(z) {{product_name}} alkalmazást bezárták."
+    }
+  },
+  "SlowIndexPopOver": {
+    "title": "Nem elég gyors a katalogizálás?",
+    "text1": "Nagy mennyiségű katalogizálandó képfájl esetében a folyamat hosszú időt vehet igénybe. Kérjük, legyen türelmes, amíg létrehozzuk a források leválasztása után is elérhető miniatűröket.",
+    "text2": "A következő lépésekkel megpróbálhatja felgyorsítani a katalogizálás folyamatát:",
+    "listItem1": "Éjszaka is futtassa az alkalmazást és a rendszert",
+    "listItem2": "A katalogizálási források legyenek mindig a rendszerhez csatlakoztatva"
+  },
+  "CollectionFtueManager": {
+    "popover": {
+      "title": "Hozzáadás a gyűjteményhez",
+      "text": "Kattintson a „<b>Hozzáadás</b>” gombra és válasszon egy kategóriát, majd keresse meg a kívánt fájlokat."
+    }
+  },
+  "AcronisBanner": {
+    "title": "Acronis True Image",
+    "subtitle": "Biztonsági mentés és lemezklónozás"
+  },
+  "ErrorBoundary": {
+    "title": "Hiba történt.",
+    "description": "A probléma elhárításához frissítse az oldalt.",
+    "refresh": "Frissítés",
+    "issues": "Még mindig problémákat tapasztal?",
+    "feedback": "Küldje el a visszajelzését",
+    "help": "{{feedback}}, amellyel segíthet a probléma kivizsgálásában és elhárításában."
+  },
+  "ModalTermsOfService": {
+    "title": "A(z) {{product_name}} elindul!",
+    "paragraph_1": "Köszönjük, hogy a(z) {{product_name}} bétaverzióját használta! Visszajelzése segített a(z) {{product_name}} felhasználói élményének továbbfejlesztésében. Örömmel jelentjük be, hogy a(z) {{product_name}} bétaverziója véget ér, és kiadjuk az 1.0-s verziót.",
+    "paragraph_2": "A(z) {{product_name}} használatának folytatáshoz olvassa el és fogadja el a Szolgáltatási feltételeinket és az Adatvédelmi nyilatkozatot.",
+    "agree": "Elfogadom",
+    "close": "Nem, a(z) {{product_name}} bezárása",
+    "title_accepted": "Köszönjük!",
+    "accepted_paragraph_1": "Köszönjük, hogy időt és energiát szánt a(z) {{product_name}} bétaverziójának kipróbálására. Reméljük, hogy továbbra is használni fogja a(z) {{product_name}} alkalmazást és megosztja velünk, hogyan fejleszthetnénk tovább.",
+    "accepted_paragraph_2": " Vegye figyelembe, hogy ha a bétaverzió használata során be volt bejelentkezve egy {{product_name}}-fiókba, kiléptetjük a fiók funkció hivatalos megjelenéséig. Fiókja továbbra is létezik, de addig nem fog tudni bejelentkezni."
+  },
+  "SearchResultsFtueManager": {
+    "popover": {
+      "title": "Szűrők",
+      "text": "A források, kategóriák, fájltípus, címkék és hely szerinti szűrők dinamikusan frissülnek, hogy megjelenítsék a találatokat"
+    }
+  },
+  "NotificationsErrReadContent": {
+    "text": "A(z) {{product_name}} hibába ütközött a(z) „{{label}}” katalogizálása során. Emiatt lehetséges, hogy néhány fájl nem fog megjelenni itt: {{product_name}}.",
+    "text_plural": "A(z) {{product_name}} hibába ütközött néhány meghajtó katalogizálása során. Emiatt lehetséges, hogy néhány fájl nem fog megjelenni itt: {{product_name}}."
+  },
+  "SignOut": {
+    "start": "A(z) {{product_name}} a kiléptetés előtt eltávolítja a közösségi és a felhőbeli katalógusokat.",
+    "success": "Sikeres kijelentkezés.",
+    "error": "Hiba történt a felhőbeli és a közösségi források eltávolítása során, ezért nem tudtuk kiléptetni. Kérjük, próbálkozzon újra később."
+  },
+  "NotificationsErrCloudProviderAuth": {
+    "text": "Úgy tűnik, hogy a(z) {{product_name}} már nem rendelkezik hozzáférési engedéllyel a következőhöz: {{label}}. Ha hozzáférést szeretne biztosítani a(z) {{product_name}} számára, lépjen a Források részre, kattintson a forráshoz tartozó „menüpontra”, és válassza a „Forrás újbóli csatlakoztatása” lehetőséget.",
+    "text_plural": "Úgy tűnik, hogy a(z) {{product_name}} már nem rendelkezik hozzáférési engedéllyel a következőhöz: {{label}}. Ha hozzáférést szeretne biztosítani a(z) {{product_name}} számára, lépjen a Források részre, kattintson a forráshoz tartozó „menüpontra”, és válassza a „Forrás újbóli csatlakoztatása” lehetőséget."
+  },
+  "RemovedCatalogInformer": {
+    "title": "A(z) {{name}} katalógus el lett távolítva."
+  },
+  "ModalSocialCloudFtue": {
+    "title": "Közösségi oldalak és felhőbeli források",
+    "left": {
+      "descriptionTitle": "Közösségi és felhőbeli források csatlakoztatása",
+      "descriptionText": "Csatlakoztathatja közösségi és felhőbeli forrásait ehhez: {{product_name}}, és hozzáadhatja őket a készlethez. A(z) {{product_name}} a hozzáadásuk után átvizsgálja a tartalmakat, és hozzáadja a katalógushoz, hogy Ön könnyedén rendszerezhesse őket, illetve kereshessen és böngészhessen bennük."
+    },
+    "right": {
+      "descriptionTitle": "Katalógus szinkronizálása",
+      "descriptionText": "Bár helyileg tároljuk a katalógust, a katalógus közösségi és felhőbeli forrásainak szinkronizálásához szükséges egyes információk tárolása a(z) {{product_name}}-felhőben történik."
+    }
+  },
+  "ModalSignOut": {
+    "title": "Kijelentkezés",
+    "text": "Kijelentkezés előtt adja meg, mit szeretne tenni az aktuális közösségi és felhőbeli katalógusaival.",
+    "keepCatalog": {
+      "title": "Közösségi és felhőbeli katalógusok megőrzése",
+      "point_1": "A közösségimédia- és felhőtárhelyfiókok katalógusai meg lesznek őrizve a(z) {{product_name}} alkalmazásban és a számítógépen lesznek tárolva.",
+      "point_2": "Bárki, aki hozzáféréssel rendelkezik a számítógéphez, ezekhez a katalógusokhoz is hozzá fog férni.",
+      "point_3": "A katalogizálás szünetel, amíg újra be nem jelentkezik."
+    },
+    "removeCatalog": {
+      "title": "Közösségi és felhőbeli katalógusok eltávolítása",
+      "point_1": "A közösségimédia- és felhőtárhelyfiókok katalógusai el lesznek távolítva a(z) {{product_name}} alkalmazásból.",
+      "point_2": "Nem fog tudni a tartalmak között keresni, és nem élvezheti tovább a(z) {{product_name}} szolgáltatásait, ha nem jelentkezik be és katalogizálja újból a tartalmakat.",
+      "point_3": "A belső és külső tárolóeszközök katalógusai nem lesznek eltávolítva.",
+      "text": "A közösségi és felhőbeli katalógusok eltávolítása a katalógus méretétől függően néhány percet is igénybe vehet."
+    }
+  },
+  "NotificationsErrInsufficientStorage": {
+    "text_big": "Nincs elegendő szabad terület új tartalmak a katalógushoz adásához. Törölheti felesleges fájljait a számítógépről, hogy területet szabadítson fel a katalógus számára. {{learn_more_link}}.",
+    "text_small": "A katalogizálás leállt.",
+    "learn_more_link": "További információk"
+  },
+  "NotificationsErrMaxDataSizeReached": {
+    "text_big": "Elérte a katalógus maximális méretének 100%-át, ezért nem tudunk új elemeket hozzáadni. {{learn_more_link}} a katalógus részletes információinak megismeréséhez.",
+    "text_small": "A katalogizálás szünetel.",
+    "learn_more_link": "Kattintson ide"
+  },
+  "Auth": {
+    "Before": {
+      "buttons": "\"Fiók létrehozása\" vagy \"Bejelentkezés\"",
+      "title": "Beállítjuk ingyenes fiókját.",
+      "description": "{{company_name}}-fiókja nyomon követi tárolási termékeit asztali, mobil- táblagépes és webes alkalmazásaiban."
+    },
+    "After": {
+      "error_connected_to_another_account_title": "Másik fiókhoz csatlakoztatva.",
+      "error_connected_to_another_account_description": "{{product_name}} alkalmazása másik fiókhoz van csatlakoztatva. A beállítás folytatásához jelentkezzen be azzal a fiókkal.",
+      "error_common_title": "Hoppá!",
+      "error_common_description": "Probléma merült fel a fiók létrehozása során. Próbálja meg újra, vagy kattintson a Kihagyás gombra a beállítás folytatásához.",
+      "title": "Csatlakozás a fiókhoz",
+      "Error": {
+        "error_template": "Segítségre van szüksége? {{online_help_site_link}}",
+        "online_help_site_link": "Látogasson el online súgóoldalunkra"
+      },
+      "NameForm": {
+        "title": "Szeretnénk Önt megismerni.",
+        "description": "Mi az Ön neve?"
+      }
+    }
+  }
+}

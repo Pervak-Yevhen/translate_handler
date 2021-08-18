@@ -1,0 +1,22 @@
+{
+  "ModalConfirmSignOut.title": "Von {{product_name}} abmelden?",
+  "SingleItemView.CloudUnavailablePopup.description": "Um eine Datei über Ihren Social- oder Cloud-Anbieter zu öffnen, stellen Sie sicher, dass Sie mit dem Internet verbunden sind.",
+  "CollectionHowToAddFileModal.add_to_collection": "Zur Sammlung hinzufügen von...",
+  "CollectionHowToAddFileModal.facet_title": "Kategorien",
+  "CollectionHowToAddFileModal.sources_title": "Alle Quellen",
+  "OrderContextMenu.album.addedTime": "Datum geändert",
+  "IndexingStatus.errInsufficientStorage": "<strong>Katalogisierung angehalten</strong> – Es ist nicht genügend Speicherplatz vorhanden, um dem Katalog neue Inhalte hinzuzufügen. Sie können unerwünschte Dateien von Ihrem Computer löschen, um Speicherplatz für den Katalog freizugeben.",
+  "ModalConfirmSignOut.textWithCloudServices": "Auch wenn Sie abgemeldet sind, haben Sie weiterhin Zugriff auf Ihren Katalog.",
+  "UpdateBanner.text": "Eine neue Version von {{product_name}} ist verfügbar. Aktualisieren Sie jetzt für die neuesten Fehlerbehebungen und neuen Funktionen.",
+  "UpdateBanner.link": "Aktualisieren",
+  "UpdateBanner.updateLoaded": "Aktualisierung heruntergeladen.",
+  "Banners.insufficientStorage": "Es ist nicht genügend Speicherplatz vorhanden, um dem Katalog neue Inhalte hinzuzufügen. Sie können unerwünschte Dateien von Ihrem Computer löschen, um Speicherplatz für den Katalog freizugeben.",
+  "Banners.maxDataSizeReached": "Sie haben 100 % der maximalen Kataloggröße erreicht und wir können keine neuen Artikel hinzufügen. Erfahren Sie mehr über Ihren Katalog.",
+  "Banners.photosLibraryNoInternet": "Die Katalogisierung wurde angehalten, weil Ihr Computer die Verbindung zum Internet verloren hat. Verbinden Sie sich erneut, um mit der Katalogisierung Ihrer Fotobibliothek fortzufahren.",
+  "Banners.accessDeniedCloudFS": "{{label}} kann nicht hinzugefügt werden. {{action}} und stellen Sie sicher, dass Sie {{product_name}} alle Zugriffsberechtigungen erteilen, wenn Sie dazu aufgefordert werden.",
+  "Banners.errCloudProviderAuth": "Offenbar hat {{product_name}} die Berechtigung zum Zugriff auf {{label}} verloren. Um {{product_name}} Zugriff zu gewähren, gehen Sie zu Quellen, klicken Sie auf die “Menüoption“ der Quelle und wählen Sie “Quelle wiederherstellen“.",
+  "Banners.retry": "Wiederholen",
+  "Banners.learn_more_link": "Lern mehr",
+  "Banners.more_label": "{{count}} weitere Benachrichtigung",
+  "Banners.more_label_plural": "{{count}} weitere Benachrichtigungen"
+}

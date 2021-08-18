@@ -1,0 +1,22 @@
+{
+  "ModalConfirmSignOut.title": "{{product_name}}에서 로그아웃하시겠습니까?",
+  "SingleItemView.CloudUnavailablePopup.description": "소셜 또는 클라우드 제공업체를 통해 파일을 열려면 인터넷에 연결되어 있는지 확인하십시오.",
+  "CollectionHowToAddFileModal.add_to_collection": "컬렉션에 추가하기...",
+  "CollectionHowToAddFileModal.facet_title": "카테고리",
+  "CollectionHowToAddFileModal.sources_title": "모든 소스",
+  "OrderContextMenu.album.addedTime": "수정 날짜",
+  "IndexingStatus.errInsufficientStorage": "<strong>카탈로그 일시중지됨</strong> - 카탈로그에 새 콘텐츠를 추가할 공간이 충분하지 않습니다. 카탈로그를 위한 공간을 확보하기 위해 컴퓨터에서 원치 않는 파일을 삭제할 수 있습니다.",
+  "ModalConfirmSignOut.textWithCloudServices": "로그아웃한 상태에서도 카탈로그에 계속 액세스할 수 있습니다.",
+  "UpdateBanner.text": "{{product_name}}의 새 버전을 사용할 수 있습니다. 최신 버그 수정 및 새로운 기능에 대해 지금 업데이트하십시오.",
+  "UpdateBanner.link": "업데이트",
+  "UpdateBanner.updateLoaded": "업데이트가 다운로드되었습니다.",
+  "Banners.insufficientStorage": "카탈로그에 새 콘텐츠를 추가할 공간이 충분하지 않습니다. 카탈로그를 위한 공간을 확보하기 위해 컴퓨터에서 원하지 않는 파일을 삭제할 수 있습니다.",
+  "Banners.maxDataSizeReached": "최대 카탈로그 크기의 100%에 도달했으며 새 항목을 추가할 수 없습니다. 카탈로그에 대해 자세히 알아보십시오.",
+  "Banners.photosLibraryNoInternet": "컴퓨터의 인터넷 연결이 끊어져 카탈로그 작성이 일시 중지되었습니다. 사진 라이브러리 카탈로그를 계속하려면 다시 연결하세요.",
+  "Banners.accessDeniedCloudFS": "{{label}}을(를) 추가할 수 없습니다. {{action}} 및 메시지가 표시되면 {{product_name}}에 모든 액세스 권한을 부여해야 합니다.",
+  "Banners.errCloudProviderAuth": "{{product_name}}이(가) {{label}}에 액세스할 수 있는 권한을 상실한 것 같습니다. {{product_name}} 액세스 권한을 제공하려면 소스로 이동하여 소스의 “메뉴 옵션“을 클릭하고 “소스 다시 연결“을 선택하십시오.",
+  "Banners.retry": "다시 해 보다",
+  "Banners.learn_more_link": "더 알아보기",
+  "Banners.more_label": "{{count}}개 더 알림",
+  "Banners.more_label_plural": "더 많은 알림 {{count}}개"
+}

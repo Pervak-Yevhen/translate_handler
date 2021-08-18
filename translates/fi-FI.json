@@ -1,0 +1,22 @@
+{
+  "ModalConfirmSignOut.title": "Kirjaudu ulos tuotteesta {{product_name}}?",
+  "SingleItemView.CloudUnavailablePopup.description": "Jos haluat avata tiedoston sosiaalisen median tai pilvipalveluntarjoajan kautta, varmista, että olet yhteydessä Internetiin.",
+  "CollectionHowToAddFileModal.add_to_collection": "Lisää kokoelmaan ...",
+  "CollectionHowToAddFileModal.facet_title": "Luokat",
+  "CollectionHowToAddFileModal.sources_title": "Kaikki lähteet",
+  "OrderContextMenu.album.addedTime": "Muokkauspäivä",
+  "IndexingStatus.errInsufficientStorage": "<strong> Luettelointi keskeytetty </strong> - Tilaa ei ole tarpeeksi uuden sisällön lisäämiseen luetteloon. Voit poistaa tarpeettomia tiedostoja tietokoneeltasi vapauttaaksesi tilaa luettelolle.",
+  "ModalConfirmSignOut.textWithCloudServices": "Voit edelleen käyttää luetteloasi, vaikka olisit kirjautunut ulos.",
+  "UpdateBanner.text": "Uusi versio tuotteesta {{product_name}} on saatavilla. Päivitä nyt uusimmat virheenkorjaukset ja uudet ominaisuudet.",
+  "UpdateBanner.link": "Päivittää",
+  "UpdateBanner.updateLoaded": "Päivitys ladattu.",
+  "Banners.insufficientStorage": "Tila ei riitä uuden sisällön lisäämiseen luetteloon. Voit poistaa tarpeettomia tiedostoja tietokoneeltasi vapauttaaksesi tilaa luettelolle.",
+  "Banners.maxDataSizeReached": "Olet saavuttanut 100% luettelon enimmäiskoosta, emmekä voi lisätä siihen uusia kohteita. Lisätietoja luettelostasi.",
+  "Banners.photosLibraryNoInternet": "Luettelointi keskeytettiin, koska tietokoneesi katkaisi yhteyden Internetiin. Muodosta yhteys uudelleen, jotta voit jatkaa valokuvakirjaston luettelointia.",
+  "Banners.accessDeniedCloudFS": "{{Label}} ei voitu lisätä. {{action}} ja varmista, että annat tuotteelle {{product_name}} kaikki käyttöoikeudet pyydettäessä.",
+  "Banners.errCloudProviderAuth": "Näyttää siltä, ​​että {{product_name}} on menettänyt käyttöoikeuden tuotteeseen {{label}}. Jos haluat antaa {{product_name}} -käyttöoikeuden, siirry Lähteisiin, napsauta lähteen “valikkovaihtoehtoa“ ja valitse “Yhdistä lähde uudelleen“.",
+  "Banners.retry": "Yritä uudelleen",
+  "Banners.learn_more_link": "Lisätietoja",
+  "Banners.more_label": "{{count}} ilmoitus lisää",
+  "Banners.more_label_plural": "{{count}} ilmoitusta lisää"
+}
