@@ -2,6 +2,11 @@
 .DS_Store
 node_modules
 
-translates/**/
-new_strings/**/
-strings/**/
+translates/*
+!translates/.gitkeep
+
+new_strings/*
+!new_strings/.gitkeep
+
+strings/*
+!strings/.gitkeep

@@ -26,13 +26,13 @@ const replaceStr = (obj1, obj2) => Object.entries(obj1).reduce((acc, [key, value
 const mapData = (strings = {}, file) => {
     fs.access(`${TRANSLATES}/${file}`, (e) => {
         if (e) console.error(`[ERROR access]: ${TRANSLATES}/${file} ==> ${e}`);
-        // change file name here, if trunslation file have wrong template name xx-XX.json
+        // change file name here, if translation file have wrong template name xx-XX.json
         fs.readFile( `${TRANSLATES}/${file}`, 'utf8', (err, translates) => {
             if (err) console.error(`[ERROR readFile]: ${TRANSLATES}/${file} ==> ${err}`);
 
             let newJSON = '';
 
-            // try/catch, if JSON in trunslations is invalid
+            // try/catch, if JSON in translations is invalid
             try {
                 const translated = replaceStr(JSON.parse(translates), JSON.parse(strings));
                 newJSON = JSON.stringify(translated, null, 2);
