@@ -1,5 +1,7 @@
 const fs = require('fs');
 const { set } = require('lodash')
+const { prepareTranslate } = require('./utils');
+
 const STRINGS = './strings';
 const TRANSLATES = './translates';
 
@@ -32,9 +34,18 @@ const mapData = (strings = {}, file) => {
 
             let newJSON = '';
 
+            let translatesParsed = JSON.parse(translates);
+            const stringsParsed = JSON.parse(strings);
+
+            if (Reflect.has(process.env, 'CONVERT_TRANSLATES')) {
+                if (Number(process.env.CONVERT_TRANSLATES ) === 1) {
+                    translatesParsed = prepareTranslate(translatesParsed);
+                }
+            }
+
             // try/catch, if JSON in translations is invalid
             try {
-                const translated = replaceStr(JSON.parse(translates), JSON.parse(strings));
+                const translated = replaceStr(translatesParsed, stringsParsed);
                 newJSON = JSON.stringify(translated, null, 2);
             } catch (e) {
                 console.error(`[ERROR JSON operation]: ${TRANSLATES}/${file} ==> ${e}`);
